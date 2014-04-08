@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TROY_DESC</Tag>
 		<English>Trojan Empire</English>
-		<French>Trojan Empire</French>
+    <French>Peuple de Troie</French>
 		<German>Trojan Empire</German>
 		<Italian>Trojan Empire</Italian>
 		<Spanish>Trojan Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TROY_SHORT_DESC</Tag>
 		<English>Troy</English>
-		<French>Troy</French>
+		<French>Troyens</French>
 		<German>Troy</German>
 		<Italian>Troy</Italian>
 		<Spanish>Troy</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TROY_ADJECTIVE</Tag>
 		<English>Trojan</English>
-		<French>Trojan</French>
+    <French>
+	    <Text>troyen:troyenne:troyens:troyennes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Trojan</German>
 		<Italian>Trojan</Italian>
 		<Spanish>Trojan</Spanish>

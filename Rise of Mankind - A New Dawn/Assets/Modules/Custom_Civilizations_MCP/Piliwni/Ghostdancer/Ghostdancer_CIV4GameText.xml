@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_PILIWNI_GHOSTDANCER</Tag>
 		<English>Ghost Dancer</English>
 		<French>
-			<Text>Ghost Dancer</Text>
+			<Text>Danseur fantôme</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -30,7 +30,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PILIWNI_GHOSTDANCER_STRATEGY</Tag>
 		<English>Build [COLOR_UNIT_TEXT]Ghost Dancers[COLOR_REVERT] to explore territory and accompany other units. These healing units replace [COLOR_UNIT_TEXT]Explorers[COLOR_REVERT] and cannot attack other units.</English>
-		<French>Build [COLOR_UNIT_TEXT]Ghost Dancers[COLOR_REVERT] to explore territory and accompany other units. These healing units replace [COLOR_UNIT_TEXT]Explorers[COLOR_REVERT] and cannot attack other units.</French>
+		<French>Recrutez un [COLOR_UNIT_TEXT]danseur fantôme[COLOR_REVERT] pour explorer le territoire et accompagner d'autres unités. Cette unité de soin remplace  l'[COLOR_UNIT_TEXT]explorateur[COLOR_REVERT] et ne peut pas attaquer d'autres unités.</French>
 		<German>Build [COLOR_UNIT_TEXT]Ghost Dancers[COLOR_REVERT] to explore territory and accompany other units. These healing units replace [COLOR_UNIT_TEXT]Explorers[COLOR_REVERT] and cannot attack other units.</German>
 		<Italian>Build [COLOR_UNIT_TEXT]Ghost Dancers[COLOR_REVERT] to explore territory and accompany other units. These healing units replace [COLOR_UNIT_TEXT]Explorers[COLOR_REVERT] and cannot attack other units.</Italian>
 		<Spanish>Build [COLOR_UNIT_TEXT]Ghost Dancers[COLOR_REVERT] to explore territory and accompany other units. These healing units replace [COLOR_UNIT_TEXT]Explorers[COLOR_REVERT] and cannot attack other units.</Spanish>

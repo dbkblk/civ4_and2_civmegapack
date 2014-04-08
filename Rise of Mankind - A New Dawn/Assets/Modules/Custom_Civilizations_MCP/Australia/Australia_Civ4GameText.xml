@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRALIA_DESC</Tag>
 		<English>Australian Empire</English>
-		<French>Australien Empire</French>
+		<French>Australie</French>
 		<German>Australisch Reich</German>
 		<Italian>Australiano Impero</Italian>
 		<Spanish>Australiano Imperio</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRALIA_SHORT_DESC</Tag>
 		<English>Australia</English>
-		<French>Australie</French>
+		<French>Australiens</French>
 		<German>Australien</German>
 		<Italian>Australia</Italian>
 		<Spanish>Australia</Spanish>
@@ -24,7 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRALIA_ADJECTIVE</Tag>
 		<English>Australian</English>
-		<French>Australien</French>
+    <French>
+      <Text>australien:australienne:australiens:australiennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Australisch</German>
 		<Italian>Australiano</Italian>
 		<Spanish>Australiano</Spanish>

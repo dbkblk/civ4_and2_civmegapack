@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KANEMBORNU_DESC</Tag>
 		<English>Kanem-Bornu Empire</English> 
-		<French>Kanem-Bornu Empire</French>
+		<French>Royaume du Kanem-Bornou</French>
 		<German>Kanem-Bornu Empire</German>
 		<Italian>Kanem-Bornu Empire</Italian>
 		<Spanish>Kanem-Bornu Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KANEMBORNU_SHORT_DESC</Tag>
 		<English>Kanem-Bornu</English>
-		<French>Kanem-Bornu</French>
+		<French>Kanembous</French>
 		<German>Kanem-Bornu</German>
 		<Italian>Kanem-Bornu</Italian>
 		<Spanish>Kanem-Bornu</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KANEMBORNU_ADJECTIVE</Tag>
 		<English>Kanem-Bornu</English>
-		<French>Kanem-Bornu</French>
+		<French>
+			<Text>kanembou:kanemboue:kanembous:kanemboues</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Kanem-Bornu</German>
 		<Italian>Kanem-Bornu</Italian>
 		<Spanish>Kanem-Bornu</Spanish>

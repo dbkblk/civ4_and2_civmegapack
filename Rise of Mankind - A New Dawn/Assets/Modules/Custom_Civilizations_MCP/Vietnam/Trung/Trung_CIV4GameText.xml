@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TRUNG_1</Tag>
 		<English>[CT_NAME]... I am [OUR_NAME] of the [OUR_EMPIRE]. Remember, don't trouble until trouble troubles you.</English>
-		<French>[CT_NAME]... I am [OUR_NAME] of the [OUR_EMPIRE]. Remember, don't trouble until trouble troubles you.</French>
+		<French>[CT_NAME]...  Je suis [OUR_NAME] des [OUR_EMPIRE]. Souvenez-vous, ne troublez pas jusqu'à ce que le trouble vous trouble.</French>
 		<German>[CT_NAME]... I am [OUR_NAME] of the [OUR_EMPIRE]. Remember, don't trouble until trouble troubles you.</German>
 		<Italian>[CT_NAME]... I am [OUR_NAME] of the [OUR_EMPIRE]. Remember, don't trouble until trouble troubles you.</Italian>
 		<Spanish>[CT_NAME]... I am [OUR_NAME] of the [OUR_EMPIRE]. Remember, don't trouble until trouble troubles you.</Spanish>

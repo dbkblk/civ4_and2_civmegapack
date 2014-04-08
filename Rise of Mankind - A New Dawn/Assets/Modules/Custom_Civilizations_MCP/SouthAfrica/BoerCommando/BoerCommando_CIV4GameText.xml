@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SOUTHAFRICA_BOERCOMMANDO</Tag>
 		<English>Boer Commando</English>
-		<French>Boer Commando</French>
+		<French>Commando boer</French>
 		<German>Boer Commando</German>
 		<Italian>Boer Commando</Italian>
 		<Spanish>Boer Commando</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SOUTHAFRICA_BOERCOMMANDO_STRATEGY</Tag>
 		<English>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</English>
-		<French>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</French>
+		<French>L'équivalent sud-africain de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT] commence avec une promotion 'commando'.</French>
 		<German>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</German>
 		<Italian>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</Italian>
 		<Spanish>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</Spanish>

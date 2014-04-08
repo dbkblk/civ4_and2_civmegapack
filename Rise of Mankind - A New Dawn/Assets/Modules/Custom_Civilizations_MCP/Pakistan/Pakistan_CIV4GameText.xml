@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PAKISTAN_DESC</Tag>
 		<English>Pakistani Empire</English>
-		<French>Pakistani Empire</French>
+		<French>Pakistan</French>
 		<German>Pakistani Empire</German>
 		<Italian>Pakistani Empire</Italian>
 		<Spanish>Pakistani Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PAKISTAN_SHORT_DESC</Tag>
 		<English>Pakistan</English>
-		<French>Pakistan</French>
+		<French>Pakistanais</French>
 		<German>Pakistan</German>
 		<Italian>Pakistan</Italian>
 		<Spanish>Pakistan</Spanish>
@@ -30,7 +30,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PAKISTAN_ADJECTIVE</Tag>
 		<English>Pakistani</English>
-		<French>Pakistani</French>
+    <French>
+      <Text>pakistanais:pakistanaise:pakistanais:pakistanaises</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Pakistani</German>
 		<Italian>Pakistani</Italian>
 		<Spanish>Pakistani</Spanish>

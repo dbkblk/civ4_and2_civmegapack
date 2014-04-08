@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_STAMBOLOV_1</Tag>
 		<English>Dobro utro [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE]. The first sign of true political wisdom has always been the ability to give up the unachievable.</English>
-		<French>Dobro utro [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE]. The first sign of true political wisdom has always been the ability to give up the unachievable.</French>
+		<French>Dobro utro [CT_NAME]! Je suis [OUR_NAME] de l'empire Bulgare. La marque principale d'une vraie vision politique a toujours été la faculté de faire en sorte d'atteindre l'inaténiable..</French>
 		<German>Dobro utro [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE]. The first sign of true political wisdom has always been the ability to give up the unachievable.</German>
 		<Italian>Dobro utro [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE]. The first sign of true political wisdom has always been the ability to give up the unachievable.</Italian>
 		<Spanish>Dobro utro [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE]. The first sign of true political wisdom has always been the ability to give up the unachievable.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO</Tag>
 		<English>Estadio de Futebol</English>
-		<French>Estadio de Futebol</French>
+		<French>Stade de football</French>
 		<German>Estadio de Futebol</German>
 		<Italian>Estadio de Futebol</Italian>
 		<Spanish>Estadio de Futebol</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO_STRATEGY</Tag>
 		<English>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</English>
-		<French>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</French>
+		<French>L'équivalent brésilien de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]stade de football[COLOR_REVERT], procure une célébrité gratuite mais est plus cher.</French>
 		<German>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</German>
 		<Italian>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</Italian>
 		<Spanish>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</Spanish>

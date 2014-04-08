@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD</Tag>
 		<English>Republican Guard</English>
 		<French>
-			<Text>Republican Guard</Text>
+			<Text>Garde républicain</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -30,7 +30,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD_STRATEGY</Tag>
 		<English>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</English>
-		<French>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</French>
+		<French>Les [COLOR_UNIT_TEXT]gardes républicains[COLOR_REVERT] sont l'équivalent irakien de l'[COLOR_UNIT_TEXT]infanterie moderne[COLOR_REVERT]. Ils reçoivent la promotion 'patrouille I' et sont meilleurs pour attaquer les villes.</French>
 		<German>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</German>
 		<Italian>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</Italian>
 		<Spanish>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</Spanish>

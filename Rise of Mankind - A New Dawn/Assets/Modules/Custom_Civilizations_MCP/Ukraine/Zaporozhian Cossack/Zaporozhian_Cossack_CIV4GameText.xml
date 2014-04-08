@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_ZAPOROZHIAN_COSSACK</Tag>
 		<English>Zaporozhian Cossack</English>
-		<French>Zaporogue Cosaque</French>
+		<French>Cosaque zaporogue</French>
 		<German>Saporoscher Kosak</German>
 		<Italian>Zaporozhian Cosacco</Italian>
 		<Spanish>Zaporozhian Cosaco</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ZAPOROZHIAN_COSSACK_STRATEGY</Tag>
 		<English>This powerful mounted (the Ukrainian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]), can move farther than regular cavalry.</English>
-		<French>Ce puissant monté (le Ukrainien remplaçant pour la[COLOR_UNIT_TEXT] cavalerie[COLOR_REVERT]), peut déplacer la cavalerie plus loin que régulière.</French>
+		<French>Ce puissant unité montée (équivalent ukrainien de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT]), peut se déplacer davantage que la cavalerie classique.</French>
 		<German>Dieses leistungsfähige montiert (das Ukrainisch Ersatz für die [COLOR_UNIT_TEXT] Kavallerie [COLOR_REVERT]),  kann weit als regelmäßige Kavallerie verschieben.</German>
 		<Italian>Questo potente montato (Ucraino sostituzione per la[COLOR_UNIT_TEXT] cavalleria[COLOR_REVERT]), spostare il cavalry più lontano normale.</Italian>
 		<Spanish>Esta potente montado (el Ucraniano sustitución de la[COLOR_UNIT_TEXT] Caballería[COLOR_REVERT]),mover a caballería más lejos que regular.</Spanish>

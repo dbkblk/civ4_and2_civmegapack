@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PHOENICIA_BIREME</Tag>
 		<English>Bireme</English>
-		<French>Bireme</French>
+		<French>Birème</French>
 		<German>Bireme</German>
 		<Italian>Bireme</Italian>
 		<Spanish>Bireme</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PHOENICIA_BIREME_STRATEGY</Tag>
 		<English>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</English>
-		<French>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</French>
+		<French>Construisez cette unité (équivalent phénicien de la [COLOR_UNIT_TEXT]galère[COLOR_REVERT]) pour rapidement explorer vos côtes et transporter 2 unités terrestes. Elle ne peut pas entrer dans l'océan mais reçoit les promotions [COLOR_HIGHLIGHT_TEXT]contournement I[COLOR_REVERT] et [COLOR_HIGHLIGHT_TEXT]sentinelle[COLOR_REVERT].</French>
 		<German>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</German>
 		<Italian>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</Italian>
 		<Spanish>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_SELJUK_GHULAM_WARRIOR</Tag>
 		<English>Ghulam Warrior</English>
-		<French>Ghulam Warrior</French>
+		<French>Guerrier ghulam</French>
 		<German>Ghulam Warrior</German>
 		<Italian>Ghulam Warrior</Italian>
 		<Spanish>Ghulam Warrior</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SELJUK_GHULAM_WARRIOR_STRATEGY</Tag>
 		<English>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</English>
-		<French>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</French>
+		<French>Bien qu'un peu plus cher, cet équivalent seldjouk du [COLOR_UNIT_TEXT]chevalier[COLOR_REVERT] dispose de plus de puissance et est plus habile dans le désert.</French>
 		<German>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</German>
 		<Italian>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</Italian>
 		<Spanish>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</Spanish>

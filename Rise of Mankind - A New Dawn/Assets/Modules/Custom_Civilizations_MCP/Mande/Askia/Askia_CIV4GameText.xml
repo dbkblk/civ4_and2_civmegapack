@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ASKIA_1</Tag>
 		<English>Greetings, [CT_NAME]. I am [OUR_NAME], I conquer, I trade, I educate.</English>
-		<French>Greetings, [CT_NAME]. I am [OUR_NAME], I conquer, I trade, I educate.</French>
+		<French>Salutations, [CT_NAME]. Je suis [OUR_NAME], je conquiers, je marchande, j'éduque.</French>
 		<German>Greetings, [CT_NAME]. I am [OUR_NAME], I conquer, I trade, I educate.</German>
 		<Italian>Greetings, [CT_NAME]. I am [OUR_NAME], I conquer, I trade, I educate.</Italian>
 		<Spanish>Greetings, [CT_NAME]. I am [OUR_NAME], I conquer, I trade, I educate.</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GEORGIA_HORSEMAN</Tag>
 		<English>Georgian Tribesman</English>
-		<French>Georgian Tribesman</French>
+		<French>Cavalier géorgien</French>
 		<German>Georgian Tribesman</German>
 		<Italian>Georgian Tribesman</Italian>
 		<Spanish>Georgian Tribesman</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GEORGIA_HORSEMAN_STRATEGY</Tag>
 		<English>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</English>
-		<French>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</French>
+		<French>Le [COLOR_UNIT_TEXT]cavalier géorgien[COLOR_REVERT] remplace l'[COLOR_UNIT_TEXT]archer monté[COLOR_REVERT]. Habitué aux combats en terrain difficiles de leur terre natale, ils obtiennent des bonus d'attaque sur les collines ou en défense.</French>
 		<German>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</German>
 		<Italian>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</Italian>
 		<Spanish>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CONGO_NKISI_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</English>
-		<French>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</French>
+		<French>Un [COLOR_BUILDING_TEXT]nkisi[COLOR_REVERT] (équivalent congolais de la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT]) est un moyen bon marché de soigner des unités plus rapidement et d'ajouter de la santé à la ville.</French>
 		<German>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</Spanish>

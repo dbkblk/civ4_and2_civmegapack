@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TUPI_MALOCA_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Maloca[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as increase culture in the city.</English>
-		<French>A [COLOR_BUILDING_TEXT]Maloca[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as increase culture in the city.</French>
+		<French>Une [COLOR_BUILDING_TEXT]maloca[COLOR_REVERT] va diminuer le coût d'entretien de la ville et est requise pour construire la [COLOR_BUILDING_TEXT]cité interdite[COLOR_REVERT]. Elle permet d'également de mieux gérer le coût d'entretien des grands empires et d'augmenter la culture dans la ville.</French>
 		<German>A [COLOR_BUILDING_TEXT]Maloca[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as increase culture in the city.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Maloca[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as increase culture in the city.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Maloca[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as increase culture in the city.</Spanish>

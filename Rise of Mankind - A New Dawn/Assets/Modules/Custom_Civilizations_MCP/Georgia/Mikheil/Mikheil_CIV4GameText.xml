@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MIKHEIL_1</Tag>
 		<English>We will work together, [CT_NAME], but I remain forever faithful to the people of [OUR_EMPIRE].</English>
-		<French>We will work together, [CT_NAME], but I remain forever faithful to the people of [OUR_EMPIRE].</French>
+		<French>Nous travaillerons ensemble, [CT_NAME], mais je serais toujours redevable au peuple géorgien.</French>
 		<German>We will work together, [CT_NAME], but I remain forever faithful to the people of [OUR_EMPIRE].</German>
 		<Italian>We will work together, [CT_NAME], but I remain forever faithful to the people of [OUR_EMPIRE].</Italian>
 		<Spanish>We will work together, [CT_NAME], but I remain forever faithful to the people of [OUR_EMPIRE].</Spanish>

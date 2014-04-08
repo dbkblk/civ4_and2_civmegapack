@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BOLIVARIAN_CHUAOFIELD</Tag>
 		<English>Chuao Field</English>
-		<French>Chuao Field</French>
+		<French>Plantation de Chuao</French>
 		<German>Chuao Field</German>
 		<Italian>Chuao Field</Italian>
 		<Spanish>Chuao Field</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BOLIVARIAN_CHUAOFIELD_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Chuao Fields[COLOR_REVERT] increase a city's wealth with an additional commerce bonus. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</English>
-		<French>[COLOR_BUILDING_TEXT]Chuao Fields[COLOR_REVERT] increase a city's wealth with an additional commerce bonus. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</French>
+		<French>La [COLOR_BUILDING_TEXT]plantation de Chuao[COLOR_REVERT] augmente la richesse de la ville et procure du commerce supplémentaire. Ils augmentent également le bonheur de la ville ayant accès aux [COLOR_HIGHLIGHT_TEXT]fourrures[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT].</French>
 		<German>[COLOR_BUILDING_TEXT]Chuao Fields[COLOR_REVERT] increase a city's wealth with an additional commerce bonus. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</German>
 		<Italian>[COLOR_BUILDING_TEXT]Chuao Fields[COLOR_REVERT] increase a city's wealth with an additional commerce bonus. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Chuao Fields[COLOR_REVERT] increase a city's wealth with an additional commerce bonus. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</Spanish>

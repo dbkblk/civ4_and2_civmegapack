@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_DESC</Tag>
 		<English>Mexican Empire</English>
-		<French>Mexican Empire</French>
+		<French>Mexique</French>
 		<German>Mexican Empire</German>
 		<Italian>Mexican Empire</Italian>
 		<Spanish>Mexican Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
 		<English>Mexico</English>
-		<French>Mexico</French>
+		<French>Mexicains</French>
 		<German>Mexico</German>
 		<Italian>Mexico</Italian>
 		<Spanish>Mexico</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_ADJECTIVE</Tag>
 		<English>Mexican</English>
-		<French>Mexican</French>
+    <French>
+      <Text>mexicain:mexicaine:mexicains:mexicaines</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Mexican</German>
 		<Italian>Mexican</Italian>
 		<Spanish>Mexican</Spanish>

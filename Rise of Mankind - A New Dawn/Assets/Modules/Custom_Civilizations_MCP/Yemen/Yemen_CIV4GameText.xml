@@ -7,7 +7,7 @@
         <Tag>TXT_KEY_CIV_YEMEN_DESC</Tag>
 		<English>Yemeni Empire</English>
 		<French>
-			<Text>Empire yemeni</Text>
+			<Text>Yémen</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -31,9 +31,9 @@
 		<Tag>TXT_KEY_CIV_YEMEN_SHORT_DESC</Tag>
 		<English>Yemen</English>
 		<French>
-			<Text>Yemen</Text>
+			<Text>Yémenites</Text>
 			<Gender>Male</Gender>
-			<Plural>0</Plural>
+			<Plural>1</Plural>
 		</French>
 		<German>
 			<Text>Yemen</Text>
@@ -62,11 +62,11 @@
     <TEXT>
 		<Tag>TXT_KEY_CIV_YEMEN_ADJECTIVE</Tag>
 		<English>Yemeni</English>
-		<French>
-			<Text>Yemeni</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
+    <French>
+	    <Text>yéménite:yéménite:yéménites:yéménéites</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>
 			<Text>Yemeni</Text>
 			<Gender>Male</Gender>

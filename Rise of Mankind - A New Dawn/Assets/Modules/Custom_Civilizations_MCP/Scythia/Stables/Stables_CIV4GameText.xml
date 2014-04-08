@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES</Tag>
 		<English>Scythian Stables</English>
-		<French>Scythian Stables</French>
+		<French>Écuries scythes</French>
 		<German>Scythian Stables</German>
 		<Italian>Scythian Stables</Italian>
 		<Spanish>Scythian Stables</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES_STRATEGY</Tag>
 		<English>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</English>
-		<French>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</French>
+		<French>La Scythie remplace les [COLOR_BUILDING_TEXT]écuries[COLOR_REVERT] par les [COLOR_BUILDING_TEXT]écuries scythes[COLOR_REVERT], qui procure la promotion 'marche' aux unités construites dans la ville.</French>
 		<German>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</German>
 		<Italian>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</Italian>
 		<Spanish>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</Spanish>

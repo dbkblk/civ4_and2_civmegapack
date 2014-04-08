@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ABORIGINES_DESC</Tag>
 		<English>Aboriginal Empire</English>
-		<French>Aboriginal Empire</French>
+		<French>Peuple aborigène</French>
 		<German>Aboriginal Empire</German>
 		<Italian>Aboriginal Empire</Italian>
 		<Spanish>Aboriginal Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ABORIGINES_SHORT_DESC</Tag>
 		<English>Aborigines</English>
-		<French>Aborigines</French>
+		<French>Aborigènes</French>
 		<German>Aborigines</German>
 		<Italian>Aborigines</Italian>
 		<Spanish>Aborigines</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ABORIGINES_ADJECTIVE</Tag>
 		<English>Aboriginal</English>
-		<French>Aboriginal</French>
+    <French>
+      <Text>aborigène:aborigène:aborigènes:aborigènes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Aboriginal</German>
 		<Italian>Aboriginal</Italian>
 		<Spanish>Aboriginal</Spanish>

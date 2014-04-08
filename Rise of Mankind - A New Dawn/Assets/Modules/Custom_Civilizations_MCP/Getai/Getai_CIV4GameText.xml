@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_CIV_GETAI_DESC</Tag>
 		<English>Getic Empire</English>
 		<French>
-			<Text>Getic Empire</Text>
+			<Text>Peuple gète</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -31,7 +31,7 @@
 		<Tag>TXT_KEY_CIV_GETAI_SHORT_DESC</Tag>
 		<English>Getai</English>
 		<French>
-			<Text>Getai</Text>
+			<Text>Gètes</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -54,11 +54,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GETAI_ADJECTIVE</Tag>
 		<English>Geton</English>
-		<French>
-			<Text>Geton</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
+    <French>
+	    <Text>gète:gète:gètes:gètes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>
 			<Text>Geton</Text>
 			<Gender>Neuter</Gender>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_WESTINDIES_JDFENGINEER</Tag>
 		<English>JDF Engineer</English>
-		<French>JDF Engineer</French>
+		<French>Ingénieur JDF</French>
 		<German>JDF Engineer</German>
 		<Spanish>JDF Engineer</Spanish>
 		<Italian>JDF Engineer</Italian>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_WESTINDIES_JDFENGINEER_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</English>
-		<French>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</French>
+		<French>La [COLOR_UNIT_TEXT]force de défense jamaïcaine[COLOR_REVERT] remplace la [COLOR_UNIT_TEXT]marine[COLOR_REVERT], et obtient du mouvement supplémentaire et la promotion 'flanc I'.</French>
 		<German>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</German>
 		<Italian>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</Italian>
 		<Spanish>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TOMISLAV_1</Tag>
 		<English>Greetings. I am [OUR_NAME] of the mighty [OUR_EMPIRE]. Let us help one another, [CT_NAME]. If strokes are good to give, they are good to receive.</English>
-		<French>Greetings. I am [OUR_NAME] of the mighty [OUR_EMPIRE]. Let us help one another, [CT_NAME]. If strokes are good to give, they are good to receive.</French>
+		<French>Salutations. Je suis [OUR_NAME] de la terrifiante nation croate. Entraidons nous, [CT_NAME]. Si les coups sont agréables à donner, ils sont agréables à recevoir.</French>
 		<German>Greetings. I am [OUR_NAME] of the mighty [OUR_EMPIRE]. Let us help one another, [CT_NAME]. If strokes are good to give, they are good to receive.</German>
 		<Italian>Greetings. I am [OUR_NAME] of the mighty [OUR_EMPIRE]. Let us help one another, [CT_NAME]. If strokes are good to give, they are good to receive.</Italian>
 		<Spanish>Greetings. I am [OUR_NAME] of the mighty [OUR_EMPIRE]. Let us help one another, [CT_NAME]. If strokes are good to give, they are good to receive.</Spanish>

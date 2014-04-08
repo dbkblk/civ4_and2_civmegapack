@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_LIGHT_HORSE</Tag>
 		<English>Light Horse</English>
-		<French>Cheval l&#233;g&#232;re</French>
+		<French>Cavalerie légère</French>
 		<German>Leichte Pferd</German>
 		<Italian>Cavallo leggera</Italian>
 		<Spanish>Caballo ligera</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_LIGHT_HORSE_STRATEGY</Tag>
 		<English>This powerful mounted unit (the Australian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]), starts with the Mobility promotion.</English>
-		<French>Ce puissant monté unit (le Australien remplaçant pour la[COLOR_UNIT_TEXT] cavalerie[COLOR_REVERT]), commence par la promotion de Mobilit&#233;</French>
+		<French>Cette puissante unité montée (l'équivalent australien de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT]), commence avec la promotion de mobilité</French>
 		<German>Dieses leistungsfähige montiert unit (das Australisch Ersatz für die [COLOR_UNIT_TEXT] Kavallerie [COLOR_REVERT]),  beginnt mit der Mobilit&#228;t Förderung.</German>
 		<Italian>Questo potente montato unit (Australiano sostituzione per la[COLOR_UNIT_TEXT] cavalleria[COLOR_REVERT]), comincia con la promozione di mobilità.</Italian>
 		<Spanish>Esta potente montado unit (el Australiano sustitución de la[COLOR_UNIT_TEXT] Caballería[COLOR_REVERT]), comienza con la promoción de la movilidad.</Spanish>

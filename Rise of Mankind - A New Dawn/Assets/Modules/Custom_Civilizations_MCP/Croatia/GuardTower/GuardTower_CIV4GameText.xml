@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CROATIA_KINGSTOWER</Tag>
 		<English>King's Tower</English>
-		<French>King's Tower</French>
+		<French>Tour du roi</French>
 		<German>King's Tower</German>
 		<Italian>King's Tower</Italian>
 		<Spanish>King's Tower</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CROATIA_KINGSTOWER_STRATEGY</Tag>
 		<English>Croatia replaces [COLOR_BUILDING_TEXT]High Walls[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]King's Tower[COLOR_REVERT]. It gives units built in the city a free Guerrilla promotion.</English>
-		<French>Croatia replaces [COLOR_BUILDING_TEXT]High Walls[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]King's Tower[COLOR_REVERT]. It gives units built in the city a free Guerrilla promotion.</French>
+		<French>La croatie remplace les [COLOR_BUILDING_TEXT]hauts remparts[COLOR_REVERT] par la [COLOR_BUILDING_TEXT]tour du roi[COLOR_REVERT]. Elle procure la promotion 'guérilla' aux unités recrutées dans la ville.</French>
 		<German>Croatia replaces [COLOR_BUILDING_TEXT]High Walls[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]King's Tower[COLOR_REVERT]. It gives units built in the city a free Guerrilla promotion.</German>
 		<Italian>Croatia replaces [COLOR_BUILDING_TEXT]High Walls[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]King's Tower[COLOR_REVERT]. It gives units built in the city a free Guerrilla promotion.</Italian>
 		<Spanish>Croatia replaces [COLOR_BUILDING_TEXT]High Walls[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]King's Tower[COLOR_REVERT]. It gives units built in the city a free Guerrilla promotion.</Spanish>

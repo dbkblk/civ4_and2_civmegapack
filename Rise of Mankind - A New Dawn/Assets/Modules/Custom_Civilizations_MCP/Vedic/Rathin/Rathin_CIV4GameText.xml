@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_VEDIC_RATHIN_STRATEGY</Tag>
 		<English>The large stone chariots of the Vedic civilization - called [COLOR_UNIT_TEXT]Rathins[COLOR_REVERT] - replace the traditional [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT], and gain both a offensive bonus against Melee units.</English>
-		<French>The large stone chariots of the Vedic civilization - called [COLOR_UNIT_TEXT]Rathins[COLOR_REVERT] - replace the traditional [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT], and gain both a offensive bonus against Melee units.</French>
+		<French>Les grands chars de pierre de la civilisation védique - appellés [COLOR_UNIT_TEXT]rathins[COLOR_REVERT] - remplace le [COLOR_UNIT_TEXT]char[COLOR_REVERT] traditionel, et procurent un bonus offensif contre les unités de combat rapproché.</French>
 		<German>The large stone chariots of the Vedic civilization - called [COLOR_UNIT_TEXT]Rathins[COLOR_REVERT] - replace the traditional [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT], and gain both a offensive bonus against Melee units.</German>
 		<Italian>The large stone chariots of the Vedic civilization - called [COLOR_UNIT_TEXT]Rathins[COLOR_REVERT] - replace the traditional [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT], and gain both a offensive bonus against Melee units.</Italian>
 		<Spanish>The large stone chariots of the Vedic civilization - called [COLOR_UNIT_TEXT]Rathins[COLOR_REVERT] - replace the traditional [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT], and gain both a offensive bonus against Melee units.</Spanish>

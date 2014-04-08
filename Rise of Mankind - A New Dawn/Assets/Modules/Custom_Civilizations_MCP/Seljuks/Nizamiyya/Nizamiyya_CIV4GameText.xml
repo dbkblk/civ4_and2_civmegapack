@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SELJUK_NIZAM_STRATEGY</Tag>
 		<English>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</English>
-		<French>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</French>
+		<French>[TAB]Équivalent seldjouk de l'[COLOR_BUILDING_TEXT]université[COLOR_REVERT] procure 2 de santé supplémentaire.</French>
 		<German>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</German>
 		<Italian>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</Italian>
 		<Spanish>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</Spanish>

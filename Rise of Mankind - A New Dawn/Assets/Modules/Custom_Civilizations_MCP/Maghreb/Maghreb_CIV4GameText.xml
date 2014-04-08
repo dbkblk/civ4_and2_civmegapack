@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAGHREB_DESC</Tag>
 		<English>Moroccan Empire</English>
-		<French>Moroccan Empire</French>
+		<French>Royaume du Maroc</French>
 		<German>Moroccan Empire</German>
 		<Italian>Moroccan Empire</Italian>
 		<Spanish>Moroccan Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAGHREB_SHORT_DESC</Tag>
 		<English>Morocco</English>
-		<French>Morocco</French>
+		<French>Marocains</French>
 		<German>Morocco</German>
 		<Italian>Morocco</Italian>
 		<Spanish>Morocco</Spanish>
@@ -30,7 +30,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAGHREB_ADJECTIVE</Tag>
 		<English>Moroccan</English>
-		<French>Moroccan</French>
+		<French>
+	    <Text>marocain:marocaine:marocains:marocaines</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Moroccan</German>
 		<Italian>Moroccan</Italian>
 		<Spanish>Moroccan</Spanish>

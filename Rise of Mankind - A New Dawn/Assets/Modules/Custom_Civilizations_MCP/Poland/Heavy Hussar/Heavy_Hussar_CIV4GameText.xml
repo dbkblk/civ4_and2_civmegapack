@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_HEAVY_HUSSAR</Tag>
 		<English>Winged Hussar</English>
-		<French>Winged Hussar</French>
+		<French>Hussard ailé</French>
 		<German>Winged Hussar</German>
 		<Italian>Winged Hussar</Italian>
 		<Spanish>Húsar Alado</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HEAVY_HUSSAR_STRATEGY</Tag>
 		<English>This powerful mounted unit (the Polish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is excellent against seige weapons and melee infantry, because of its Charge I and Shock I promotions.</English>
-		<French>Cette puissante unité de montage (la Pologne pour le remplacement [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) est excellent contre les armes de siège à cause de son chargé I et Shock I de promotions. </French>
+		<French>Cette puissante unité montée (équivalent polonais du [COLOR_UNIT_TEXT]cuirassier[COLOR_REVERT]) est excellente contre les armes de siège et les infanterie de combat rapproché grâce aux promotions 'charge I' et 'choc I'.</French>
 		<German>Dieses leistungsfähige Einheit montiert (die polnische Ersatz für die [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) ist hervorragend gegen die Belagerung Waffen wegen seiner Charge I und Shock I Förderung. </German>
 		<Italian>Questa potente unità montate (il polacco sostituzione per il[COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]), è eccellente contro assedio armi a causa della sua carica di promozione.</Italian>
 		<Spanish>Esta potente unidad montada (el reemplazo polaco para el [COLOR_UNIT_TEXT]Coracero[COLOR_REVERT]) es excelente contra las armas de asedio y la infanteria de mele debido a las promociones Carga I y Shock I.</Spanish>

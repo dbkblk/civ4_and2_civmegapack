@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BENIN_DESC</Tag>
 		<English>Benin Empire</English> 
-		<French>Benin Empire</French>
+		<French>Bénin</French>
 		<German>Reich von Benin</German>
 		<Italian>Benin Empire</Italian>
 		<Spanish>Benin Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BENIN_SHORT_DESC</Tag>
 		<English>Benin</English>
-		<French>Benin</French>
+		<French>Béninois</French>
 		<German>Benin</German>
 		<Italian>Benin</Italian>
 		<Spanish>Benin</Spanish>
@@ -29,7 +29,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BENIN_ADJECTIVE</Tag>
 		<English>Beni</English>
-		<French>Beni</French>
+    <French>
+      <Text>béninois:béninoise:béninois:béninoises</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Beni</German>
 		<Italian>Beni</Italian>
 		<Spanish>Beni</Spanish>

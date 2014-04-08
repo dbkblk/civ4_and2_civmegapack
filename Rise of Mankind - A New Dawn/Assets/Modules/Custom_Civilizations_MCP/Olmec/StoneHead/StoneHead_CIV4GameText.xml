@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD</Tag>
 		<English>Stone Head</English>
-		<French>Stone Head</French>
+		<French>Tête en pierre</French>
 		<German>Stone Head</German>
 		<Italian>Stone Head</Italian>
 		<Spanish>Stone Head</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</English>
-		<French>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</French>
+		<French>La [COLOR_BUILDING_TEXT]tête en pierre[COLOR_REVERT] (équivalent olmèque du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT]) diminue l'entretien et permet d'étendre les frontières de ville plus tôt.</French>
 		<German>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</German>
 		<Italian>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</Spanish>

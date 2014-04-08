@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ETRURIA_ETRUSCANCHARIOT</Tag>
 		<English>Etruscan Chariot</English>
-		<French>Etruscan Chariot</French>
+		<French>Char étrusque</French>
 		<German>Etruscan Chariot</German>
 		<Italian>Etruscan Chariot</Italian>
 		<Spanish>Etruscan Chariot</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ETRURIA_ETRUSCANCHARIOT_STRATEGY</Tag>
 		<English>Build this most primitive of the mounted combat units when speed is important but stay on the offensive as it gets no defensive bonuses. This unit is slightly cheaper than the regular [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] and does not suffer terrain movement penalties.</English>
-		<French>Build this most primitive of the mounted combat units when speed is important but stay on the offensive as it gets no defensive bonuses. This unit is slightly cheaper than the regular [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] and does not suffer terrain movement penalties.</French>
+		<French>Construisez l'unité montée la plus primitive dans les moments où la vitesse est importante. Restez offensifs avec car elle ne possède pas de bonus de défense. Cette unité est moins chère que [COLOR_UNIT_TEXT]char[COLOR_REVERT] et ne subit pas de pénalité de mouvement.</French>
 		<German>Build this most primitive of the mounted combat units when speed is important but stay on the offensive as it gets no defensive bonuses. This unit is slightly cheaper than the regular [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] and does not suffer terrain movement penalties.</German>
 		<Italian>Build this most primitive of the mounted combat units when speed is important but stay on the offensive as it gets no defensive bonuses. This unit is slightly cheaper than the regular [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] and does not suffer terrain movement penalties.</Italian>
 		<Spanish>Build this most primitive of the mounted combat units when speed is important but stay on the offensive as it gets no defensive bonuses. This unit is slightly cheaper than the regular [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] and does not suffer terrain movement penalties.</Spanish>

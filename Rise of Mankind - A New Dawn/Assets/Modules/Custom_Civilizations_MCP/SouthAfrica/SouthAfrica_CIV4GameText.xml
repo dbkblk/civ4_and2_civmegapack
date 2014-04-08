@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SOUTH_AFRICA_DESC</Tag>
 		<English>South African Empire</English> 
-		<French>South African Empire</French>
+		<French>Afrique du Sud</French>
 		<German>South African Empire</German>
 		<Italian>South African Empire</Italian>
 		<Spanish>South African Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SOUTH_AFRICA_SHORT_DESC</Tag>
 		<English>South Africa</English>
-		<French>South Africa</French>
+		<French>Sud-africains</French>
 		<German>South Africa</German>
 		<Italian>South Africa</Italian>
 		<Spanish>South Africa</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SOUTH_AFRICA_ADJECTIVE</Tag>
 		<English>South African</English>
-		<French>South African</French>
+    <French>
+	    <Text>sud-africain:sud-africaine:sud-africains:sud-africaines</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>South African</German>
 		<Italian>South African</Italian>
 		<Spanish>South African</Spanish>

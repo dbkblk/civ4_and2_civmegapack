@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_HUSZAR_CAVALRY</Tag>
 		<English>Huszar Cavalry</English>
-		<French>Huszar Cavalerie</French>
+		<French>Cavalerie hussard</French>
 		<German>Huszar Kavallerie</German>
 		<Italian>Huszar Cavalleria</Italian>
 		<Spanish>Huszar Caballería</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HUSZAR_CAVALRY_STRATEGY</Tag>
 		<English>This powerful mounted (the Hungarian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]), receive two free promotions, Flanking I and Charge I.</English>
-		<French>Ce puissant monté (le hongrois remplaçant pour la[COLOR_UNIT_TEXT]  cavalerie [COLOR_REVERT]), l'ennemi peut utiliser les routes en raison de son Commando de promotion.</French>
+		<French>Cette puissante unité montée (équivalent hongrois de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT]), reçoit deux promotions gratuites, 'contournement I' et 'charge I'.</French>
 		<German>Dieses leistungsfähige montiert (das ungarische Ersatz für die [COLOR_UNIT_TEXT] Kavallerie [COLOR_REVERT]), können Feind Straßen wegen seiner Commando Förderung.</German>
 		<Italian>Questo potente montato (ungherese sostituzione per la[COLOR_UNIT_TEXT] cavalleria [COLOR_REVERT]), possono utilizzare strade nemico, a causa della sua Commando promozione.</Italian>
 		<Spanish>Esta potente montado (el húngaro sustitución de la[COLOR_UNIT_TEXT] Caballería[COLOR_REVERT]), el enemigo puede utilizar las carreteras a causa de su Comando promoción.</Spanish>

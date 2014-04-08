@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ASHANTI_DRUMMING_STATION</Tag>
 		<English>Drumming Station</English>
-		<French>Drumming Station</French>
+		<French>Salle des tambours</French>
 		<German>Drumming Station</German>
 		<Italian>Drumming Station</Italian>
 		<Spanish>Drumming Station</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ASHANTI_DRUMMING_STATION_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Drumming Station[COLOR_REVERT], the Ashanti replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT],provides an additional bonus to espionage.</English>
-		<French>The [COLOR_BUILDING_TEXT]Drumming Station[COLOR_REVERT], the Ashanti replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT],provides an additional bonus to espionage.</French>
+		<French>La [COLOR_BUILDING_TEXT]salle des tambours[COLOR_REVERT], l'équivalent ashanti du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure un bonus supplémentaire d'espionnage.</French>
 		<German>The [COLOR_BUILDING_TEXT]Drumming Station[COLOR_REVERT], the Ashanti replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT],provides an additional bonus to espionage.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Drumming Station[COLOR_REVERT], the Ashanti replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT],provides an additional bonus to espionage.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Drumming Station[COLOR_REVERT], the Ashanti replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT],provides an additional bonus to espionage.</Spanish>

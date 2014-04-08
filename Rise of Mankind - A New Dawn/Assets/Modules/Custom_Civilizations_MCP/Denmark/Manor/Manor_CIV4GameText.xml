@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_DENMARK_MANOR</Tag>
 		<English>Manor House</English>
-		<French>Manor House</French>
+		<French>Manoir</French>
 		<German>Manor House</German>
 		<Italian>Manor House</Italian>
 		<Spanish>Manor House</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_DENMARK_MANOR_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</English>
-		<French>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</French>
+		<French>Le [COLOR_BUILDING_TEXT]manoir[COLOR_REVERT] (équivalent danois du [COLOR_BUILDING_TEXT]château[COLOR_REVERT]) augmente les défenses de la ville contre les unités avant la poudre à canon, augmente l'espionnage, l'or, et génère un peu de culture. Construisez le dans les villes près des civilisations ennemis.</French>
 		<German>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</German>
 		<Italian>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</Spanish>

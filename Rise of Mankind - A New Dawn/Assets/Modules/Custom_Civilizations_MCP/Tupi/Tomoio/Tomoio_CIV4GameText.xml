@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TUPI_TOMOIO_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</English>
-		<French>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</French>
+		<French>Le [COLOR_UNIT_TEXT]tomoi[COLOR_REVERT] (équivalent tupi de l'[COLOR_UNIT_TEXT]éclaireur[COLOR_REVERT]) est plus rapide et peut ainsi découvrir plus de terres à chaque tour.</French>
 		<German>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</German>
 		<Italian>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</Italian>
 		<Spanish>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</Spanish>

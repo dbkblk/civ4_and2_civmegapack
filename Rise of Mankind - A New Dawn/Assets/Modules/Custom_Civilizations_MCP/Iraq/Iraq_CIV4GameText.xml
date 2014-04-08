@@ -6,11 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IRAQ_DESC</Tag>
 		<English>Iraqi Empire</English>
-		<French>
-			<Text>Iraqi Empire</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
+		<French>Irak</French>
 		<German>
 			<Text>Iraqi Empire</Text>
 			<Gender>Male</Gender>
@@ -30,11 +26,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IRAQ_SHORT_DESC</Tag>
 		<English>Iraq</English>
-		<French>
-			<Text>Iraq</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
+		<French>Irakiens</French>
 		<German>
 			<Text>Iraq</Text>
 			<Gender>Male</Gender>
@@ -62,11 +54,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IRAQ_ADJECTIVE</Tag>
 		<English>Iraqi</English>
-		<French>
-			<Text>Iraqi</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
+    <French>
+	    <Text>irakien:irakienne:irakiens:irakiennes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>
 			<Text>Iraqi</Text>
 			<Gender>Male</Gender>

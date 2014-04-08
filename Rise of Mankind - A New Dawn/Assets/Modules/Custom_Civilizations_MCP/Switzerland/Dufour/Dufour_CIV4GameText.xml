@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -25,7 +25,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DUFOUR_1</Tag>
 		<English>I am [OUR_NAME], builder of bridges, both diplomatic and physical.</English>
-		<French>I am [OUR_NAME], builder of bridges, both diplomatic and physical.</French>
+		<French>Je suis [OUR_NAME], bâtisseur de ponts, diplomatiquement ou physiquement.</French>
 		<German>I am [OUR_NAME], builder of bridges, both diplomatic and physical.</German>
 		<Italian>I am [OUR_NAME], builder of bridges, both diplomatic and physical.</Italian>
 		<Spanish>I am [OUR_NAME], builder of bridges, both diplomatic and physical.</Spanish>

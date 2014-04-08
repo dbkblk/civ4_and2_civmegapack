@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCOTLAND_DESC</Tag>
 		<English>Scottish Empire</English>
-		<French>Écossais Empire</French>
+		<French>Écosse</French>
 		<German>Schotten Reich</German>
 		<Italian>Scozzese Impero</Italian>
 		<Spanish>Escocés Imperio</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCOTLAND_SHORT_DESC</Tag>
 		<English>Scotland</English>
-		<French>Ecosse</French>
+		<French>Écossais</French>
 		<German>Schottland</German>
 		<Italian>Scozia</Italian>
 		<Spanish>Escocia</Spanish>
@@ -24,7 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCOTLAND_ADJECTIVE</Tag>
 		<English>Scottish</English>
-		<French>Écossais</French>
+    <French>
+      <Text>écossais:écossaise:écossais:écossaises</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Schotten</German>
 		<Italian>Scozzese</Italian>
 		<Spanish>Escocés</Spanish>

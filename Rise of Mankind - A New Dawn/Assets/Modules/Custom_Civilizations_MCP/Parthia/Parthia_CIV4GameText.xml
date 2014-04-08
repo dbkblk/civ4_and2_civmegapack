@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -9,7 +9,7 @@
 		<Tag>TXT_KEY_CIV_PARTHIA_DESC</Tag>
 		<English>Parthian Empire</English>
 		<French>
-			<Text>Parthian Empire</Text>
+			<Text>Parthie</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -33,7 +33,7 @@
 		<Tag>TXT_KEY_CIV_PARTHIA_SHORT_DESC</Tag>
 		<English>Parthia</English>
 		<French>
-			<Text>Parthia</Text>
+			<Text>Parthes</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -67,11 +67,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PARTHIA_ADJECTIVE</Tag>
 		<English>Parthian</English>
-		<French>
-			<Text>Parthian</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
+    <French>
+      <Text>parthe:parthe:parthes:parthes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>
 			<Text>Parthian</Text>
 			<Gender>Neuter</Gender>

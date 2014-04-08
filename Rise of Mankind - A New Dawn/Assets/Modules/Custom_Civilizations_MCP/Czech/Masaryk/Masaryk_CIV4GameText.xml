@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MASARYK_1</Tag>
 		<English>Greetings, [CT_NAME]. I am [OUR_NAME], do not fear and do not steal.</English>
-		<French>Greetings, [CT_NAME]. I am [OUR_NAME], do not fear and do not steal.</French>
+		<French>Salutations, [CT_NAME]. Je suis [OUR_NAME], n'ayez pas peur et ne volez pas.</French>
 		<German>Greetings, [CT_NAME]. I am [OUR_NAME], do not fear and do not steal.</German>
 		<Italian>Greetings, [CT_NAME]. I am [OUR_NAME], do not fear and do not steal.</Italian>
 		<Spanish>Greetings, [CT_NAME]. I am [OUR_NAME], do not fear and do not steal.</Spanish>

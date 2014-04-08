@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_KANEMBORNU_IRONHELM</Tag>
 		<English>Iron Helm</English>
 		<French>
-			<Text>Iron Helm</Text>
+			<Text>Casque de fer</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -30,7 +30,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_KANEMBORNU_IRONHELM_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</English>
-		<French>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</French>
+		<French>Le [COLOR_UNIT_TEXT]casque de fer[COLOR_REVERT] kanembou remplace le soldat à mousquet traditionnel et démarre une attaque supplémentaire et la promotion 'exercice I'. Ce sont des unités versatiles capables d'arrêter l'ennemi avant même qu'il ne tire la première balle. Ils sont un peu plus faibles que les autres unités du même type, mais peuvent compenser cette faiblesse avec un recrutement plus rapide.</French>
 		<German>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</German>
 		<Italian>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</Italian>
 		<Spanish>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</Spanish>

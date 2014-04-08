@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -47,7 +47,7 @@ Shin Sawbu lived in Dagon next to the Shwedagon Pagoda until the end of her life
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SHINSAWBU_1</Tag>
 		<English>Greetings, [CT_NAME]. Without proper guidance and meditation, a ruler will lead their empire to ruin and chaos.  Are you such a ruler [CT_NAME]?</English>
-		<French>Greetings, [CT_NAME]. Without proper guidance and meditation, a ruler will lead their empire to ruin and chaos.  Are you such a ruler [CT_NAME]?</French>
+		<French>Salutations, [CT_NAME]. Sans vision pure ni méditation, un dirigeant conduira son empire à la ruine et au chaos. Êtes-vous un dirigeant, [CT_NAME]?</French>
 		<German>Greetings, [CT_NAME]. Without proper guidance and meditation, a ruler will lead their empire to ruin and chaos.  Are you such a ruler [CT_NAME]?</German>
 		<Italian>Greetings, [CT_NAME]. Without proper guidance and meditation, a ruler will lead their empire to ruin and chaos.  Are you such a ruler [CT_NAME]?</Italian>
 		<Spanish>Greetings, [CT_NAME]. Without proper guidance and meditation, a ruler will lead their empire to ruin and chaos.  Are you such a ruler [CT_NAME]?</Spanish>

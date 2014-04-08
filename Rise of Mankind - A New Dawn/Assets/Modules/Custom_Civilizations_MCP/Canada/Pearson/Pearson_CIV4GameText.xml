@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -41,7 +41,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_PEARSON_1</Tag>
 		<English>It has too often been too easy for rulers and governments to incite man to war, [CT_NAME]. Let us direct the [CT_CIV_ADJ] and [OUR_CIV_ADJ]  people toward a life of peace together.</English>
-		<French>It has too often been too easy for rulers and governments to incite man to war, [CT_NAME]. Let us direct the [CT_CIV_ADJ] and [OUR_CIV_ADJ]  people toward a life of peace together.</French>
+		<French>Il a trop souvent été trop simple pour les dirigeants et les gouvernements d'inciter l'homme à faire la guerre, [CT_NAME]. Permettez nous de permettre au peuple [CT_CIV_ADJ] et au peuple [OUR_CIV_ADJ] de vivre ensemble une vie paisible.</French>
 		<German>It has too often been too easy for rulers and governments to incite man to war, [CT_NAME]. Let us direct the [CT_CIV_ADJ] and [OUR_CIV_ADJ]  people toward a life of peace together.</German>
 		<Italian>It has too often been too easy for rulers and governments to incite man to war, [CT_NAME]. Let us direct the [CT_CIV_ADJ] and [OUR_CIV_ADJ]  people toward a life of peace together.</Italian>
 		<Spanish>It has too often been too easy for rulers and governments to incite man to war, [CT_NAME]. Let us direct the [CT_CIV_ADJ] and [OUR_CIV_ADJ]  people toward a life of peace together.</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ARGENTINA_CABALLO</Tag>
 		<English>Granadero a Caballo</English>
-		<French>Granadero a Caballo</French>
+		<French>Grenadier à cheval</French>
 		<German>Granadero a Caballo</German>
 		<Italian>Granadero a Caballo</Italian>
 		<Spanish>Granadero a Caballo</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ARGENTINA_CABALLO_STRATEGY</Tag>
 		<English>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</English>
-		<French>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</French>
+		<French>L'équivalent argentin de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT] est légèrement plus puissante et possède un bonus contre les unités à poudre à canon.</French>
 		<German>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</German>
 		<Italian>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</Italian>
 		<Spanish>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</Spanish>

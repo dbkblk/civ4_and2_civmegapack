@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GEORGIA_SENAKI_STRATEGY</Tag>
 		<English>Build the [COLOR_BUILDING_TEXT]Sakhioba Theatre[COLOR_REVERT] to receive happiness, and turn 4 citizens into artist. It replaces the normal theatre for the Georgian people.</English>
-		<French>Build the [COLOR_BUILDING_TEXT]Sakhioba Theatre[COLOR_REVERT] to receive happiness, and turn 4 citizens into artist. It replaces the normal theatre for the Georgian people.</French>
+		<French>Construire le théâtre [COLOR_BUILDING_TEXT]sakhioba[COLOR_REVERT] pour recevoir du bonheur et transformer 4 citoyens en artiste. Il remplace le théâtre classique pour le peuple géorgien.</French>
 		<German>Build the [COLOR_BUILDING_TEXT]Sakhioba Theatre[COLOR_REVERT] to receive happiness, and turn 4 citizens into artist. It replaces the normal theatre for the Georgian people.</German>
 		<Italian>Build the [COLOR_BUILDING_TEXT]Sakhioba Theatre[COLOR_REVERT] to receive happiness, and turn 4 citizens into artist. It replaces the normal theatre for the Georgian people.</Italian>
 		<Spanish>Build the [COLOR_BUILDING_TEXT]Sakhioba Theatre[COLOR_REVERT] to receive happiness, and turn 4 citizens into artist. It replaces the normal theatre for the Georgian people.</Spanish>

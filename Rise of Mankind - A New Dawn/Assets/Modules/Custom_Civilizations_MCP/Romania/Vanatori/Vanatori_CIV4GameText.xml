@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_VANATORI</Tag>
 		<English>Vanatori de Munte</English>
 		<French>
-			<Text>Vanatori de Munte</Text>
+			<Text>Vanatori alpin</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -41,7 +41,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_VANATORI_STRATEGY</Tag>
 		<English>This powerful infantry unit (the Romanian replacement for the [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]) has the ability to move through rough terrain with ease.</English>
-		<French>This powerful infantry unit (the Romanian replacement for the [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]) has the ability to move through rough terrain with ease.</French>
+		<French>Cette puissante unité d'infanterie (équivalent roumain du [COLOR_UNIT_TEXT]marine[COLOR_REVERT]) a la capcité de se déplacer facilement en terrain difficile.</French>
 		<German>This powerful infantry unit (the Romanian replacement for the [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]) has the ability to move through rough terrain with ease.</German>
 		<Italian>This powerful infantry unit (the Romanian replacement for the [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]) has the ability to move through rough terrain with ease.</Italian>
 		<Spanish>This powerful infantry unit (the Romanian replacement for the [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]) has the ability to move through rough terrain with ease.</Spanish>

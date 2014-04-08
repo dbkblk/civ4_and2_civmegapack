@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BELGIUM_PIRON_STRATEGY</Tag>
 		<English>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</English>
-		<French>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</French>
+        <French>L'équivalent belge de l'[COLOR_UNIT_TEXT]infanterie[COLOR_REVERT] reçoit un bonus supplémentaire contre les unités à poudre à  canon et la promotion 'défense de ville I'</French>
 		<German>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</German>
 		<Italian>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</Italian>
 		<Spanish>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SCYTHIA_SCYTHIAN_RIDER</Tag>
 		<English>Scythian Rider</English>
-		<French>Scythian Rider</French>
+    <French>Chevaucheur scythe</French>
 		<German>Scythian Rider</German>
 		<Italian>Scythian Rider</Italian>
 		<Spanish>Scythian Rider</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SCYTHIA_SCYTHIAN_RIDER_STRATEGY</Tag>
 		<English>The Scythian replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] has the ability to attack quickly and withdraw from combat with few casualties if the going gets tough.</English>
-		<French>The Scythian replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] has the ability to attack quickly and withdraw from combat with few casualties if the going gets tough.</French>
+		<French>L'équivalent scythe de l'[COLOR_UNIT_TEXT]archer monté[COLOR_REVERT] est capable d'attaquer rapidement et de se retirer rapidement sans trop de dommages si la situation tourne mal.</French>
 		<German>The Scythian replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] has the ability to attack quickly and withdraw from combat with few casualties if the going gets tough.</German>
 		<Italian>The Scythian replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] has the ability to attack quickly and withdraw from combat with few casualties if the going gets tough.</Italian>
 		<Spanish>The Scythian replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] has the ability to attack quickly and withdraw from combat with few casualties if the going gets tough.</Spanish>

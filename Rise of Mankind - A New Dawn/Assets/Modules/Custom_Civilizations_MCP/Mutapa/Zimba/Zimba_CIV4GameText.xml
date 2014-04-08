@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MUTAPA_ZIMBA</Tag>
 		<English>Zimba</English>
-		<French>Zimba</French>
+		<French>Simba</French>
 		<German>Zimba</German>
 		<Italian>Zimba</Italian>
 		<Spanish>Zimba</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MUTAPA_ZIMBA_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Zimba[COLOR_REVERT] increases your city's defenses aganst pre-gunpowder units and generates a small amount of culture. They are more expensive than the standard [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] but will reduce city maintenace by 20 percent.</English>
-		<French>A [COLOR_BUILDING_TEXT]Zimba[COLOR_REVERT] increases your city's defenses aganst pre-gunpowder units and generates a small amount of culture. They are more expensive than the standard [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] but will reduce city maintenace by 20 percent.</French>
+		<French>Une [COLOR_BUILDING_TEXT]simba[COLOR_REVERT] augmente la défense des villes contre les unités avant la poudre à canon, et génère un peu de culture. Elles sont plus chères que les [COLOR_BUILDING_TEXT]châteaux[COLOR_REVERT] mais réduise l'entretien de ville de 20%.</French>
 		<German>A [COLOR_BUILDING_TEXT]Zimba[COLOR_REVERT] increases your city's defenses aganst pre-gunpowder units and generates a small amount of culture. They are more expensive than the standard [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] but will reduce city maintenace by 20 percent.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Zimba[COLOR_REVERT] increases your city's defenses aganst pre-gunpowder units and generates a small amount of culture. They are more expensive than the standard [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] but will reduce city maintenace by 20 percent.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Zimba[COLOR_REVERT] increases your city's defenses aganst pre-gunpowder units and generates a small amount of culture. They are more expensive than the standard [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] but will reduce city maintenace by 20 percent.</Spanish>

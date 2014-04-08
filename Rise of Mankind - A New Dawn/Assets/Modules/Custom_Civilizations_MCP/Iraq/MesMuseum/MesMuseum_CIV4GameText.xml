@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM</Tag>
 		<English>Mesopotamian Museum</English>
-		<French>Mesopotamian Museum</French>
+		<French>Musée mésopotamien</French>
 		<German>Mesopotamian Museum</German>
 		<Italian>Mesopotamian Museum</Italian>
 		<Spanish>Mesopotamian Museum</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</English>
-		<French>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</French>
+		<French>Le [COLOR_BUILDING_TEXT]musée mésopotamien[COLOR_REVERT], équivalent irakien du [COLOR_BUILDING_TEXT]musée[COLOR_REVERT], offre un bonus d'or dans la ville où il est construit.</French>
 		<German>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</Spanish>

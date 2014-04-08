@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TIMURID_BARLAS</Tag>
 		<English>Barlas Rider</English>
-		<French>Barlas Rider</French>
+		<French>Chevaucheur barlas</French>
 		<German>Barlas Rider</German>
 		<Italian>Barlas Rider</Italian>
 		<Spanish>Barlas Rider</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TIMURID_BARLAS_STRATEGY</Tag>
 		<English>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</English>
-		<French>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</French>
+		<French>L'équivalent du [COLOR_UNIT_TEXT]chevalier[COLOR_REVERT] obtient un bonus sur les collines.</French>
 		<German>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</German>
 		<Italian>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</Italian>
 		<Spanish>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</Spanish>

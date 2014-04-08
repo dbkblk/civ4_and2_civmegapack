@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_KOA_STRATEGY</Tag>
 		<English>This powerful melee unit (the Polynesian replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) is excellent against melee units and does not require Iron at the minor disadvantage of not gaining city attack bonus.</English>
-		<French>Cette puissante unité de mêlée (le polynésien remplaçant pour la[COLOR_UNIT_TEXT] Swordsman[COLOR_REVERT]) est excellent contre les unités de mêlée.</French>
+		<French>Cette puissante unité de combat rapproché (équivalent polynésien du [COLOR_UNIT_TEXT]spadassin[COLOR_REVERT]) est puissante contre les unités du même type et ne nécessite pas de fer, au détriment d'une absence de bonus d'attaque contre les villes.</French>
 		<German>ieses leistungsfähige Handgemenge (die polynesische Ersatz für die[COLOR_UNIT_TEXT] Swordsman[COLOR_REVERT]) ist hervorragend gegen Handgemenge.</German>
 		<Italian>Questo potente melee unità (la Polinesia sostituzione per il[COLOR_UNIT_TEXT] Swordsman[COLOR_REVERT]), è eccellente contro melee unità.</Italian>
 		<Spanish>Esta potente reyerta (unidad de la Polinesia reemplazo para el[COLOR_UNIT_TEXT] Swordsman [COLOR_REVERT]) es excelente contra la reyerta unidades.</Spanish>

@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_VECHE</Tag>
 		<English>Veche Hall</English>
-		<French>Veche Salle</French>
+		<French>Assemblée vétché</French>
 		<German>Wetsche Saal</German>
 		<Italian>Veche Femminile</Italian>
 		<Spanish>Veche Feminino</Spanish>
@@ -24,7 +24,7 @@
         <TEXT>
 		<Tag>TXT_KEY_BUILDING_VECHE_STRATEGY</Tag>
 		<English>[TAB]The [COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], the Ukrainian replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], offers additional food.</English>
-		<French>[TAB]Le [COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], le remplacement de l'Ukrainien [COLOR_BUILDING_TEXT]Tribunal[COLOR_REVERT], offre en prime le food.</French>
+		<French>[TAB]L'[COLOR_BUILDING_TEXT]assemblée vétché[COLOR_REVERT], équivalent ukrainien du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure davantage de nourriture.</French>
 		<German>[TAB]Die [COLOR_BUILDING_TEXT]Wetsche[COLOR_REVERT], die Ukrainisch Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgeb&#228;ude[COLOR_REVERT], bietet Bonus Food.</German>
 		<Italian>[TAB]L'[COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], la sostituzione Ucraino per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], offre bonus di food.</Italian>
 		<Spanish>[TAB]El [COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], la sustitución de Ucraniano para el [COLOR_BUILDING_TEXT]Delegaci&#243;[COLOR_REVERT], ofrece bonificación de la food. </Spanish>

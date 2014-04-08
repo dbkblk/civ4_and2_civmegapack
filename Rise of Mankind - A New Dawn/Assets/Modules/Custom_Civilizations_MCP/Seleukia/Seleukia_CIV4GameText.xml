@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_CIV_SELEUKIA_DESC</Tag>
 		<English>Seleukid Empire</English>
 		<French>
-			<Text>Seleukid Empire</Text>
+			<Text>Empire Séleucide</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -31,7 +31,7 @@
 		<Tag>TXT_KEY_CIV_SELEUKIA_SHORT_DESC</Tag>
 		<English>Seleukeia</English>
 		<French>
-			<Text>Seleukeia</Text>
+			<Text>Séleucides</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -65,11 +65,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SELEUKIA_ADJECTIVE</Tag>
 		<English>Seleukid</English>
-		<French>
-			<Text>Seleukid</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
+    <French>
+	    <Text>séleucide:séleucide:séleucides:séleucides</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>
 			<Text>Seleukid</Text>
 			<Gender>Neuter</Gender>

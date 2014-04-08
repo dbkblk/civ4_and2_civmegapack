@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GOTHIC_CAVALRY</Tag>
 		<English>Gothic Cavalry</English>
-		<French>Gothic Cavalry</French>
+                <French>Cavalerie gothique</French>
 		<German>Gothic Cavalry</German>
 		<Italian>Gothic Cavalry</Italian>
 		<Spanish>Gothic Cavalry</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GOTHIC_CAVALRY_STRATEGY</Tag>
 		<English>[COLOR_UNIT_TEXT]Gothic Cavalry[COLOR_REVERT] replaces [COLOR_UNIT_TEXT]Light Cavalry[COLOR_REVERT] and is very powerful against melee units and [COLOR_UNIT_TEXT]Catapults[COLOR_REVERT].</English>
-		<French>[COLOR_UNIT_TEXT]Gothic Cavalry[COLOR_REVERT] replaces [COLOR_UNIT_TEXT]Light Cavalry[COLOR_REVERT] and is very powerful against melee units and [COLOR_UNIT_TEXT]Catapults[COLOR_REVERT].</French>
+                <French>La [COLOR_UNIT_TEXT]cavalerie gothique[COLOR_REVERT] remplace la [COLOR_UNIT_TEXT]cavalerie légère[COLOR_REVERT] et elle est très puissante contre les unités de combat rapproché et les [COLOR_UNIT_TEXT]catapultes[COLOR_REVERT].</French>
 		<German>[COLOR_UNIT_TEXT]Gothic Cavalry[COLOR_REVERT] replaces [COLOR_UNIT_TEXT]Light Cavalry[COLOR_REVERT] and is very powerful against melee units and [COLOR_UNIT_TEXT]Catapults[COLOR_REVERT].</German>
 		<Italian>[COLOR_UNIT_TEXT]Gothic Cavalry[COLOR_REVERT] replaces [COLOR_UNIT_TEXT]Light Cavalry[COLOR_REVERT] and is very powerful against melee units and [COLOR_UNIT_TEXT]Catapults[COLOR_REVERT].</Italian>
 		<Spanish>[COLOR_UNIT_TEXT]Gothic Cavalry[COLOR_REVERT] replaces [COLOR_UNIT_TEXT]Light Cavalry[COLOR_REVERT] and is very powerful against melee units and [COLOR_UNIT_TEXT]Catapults[COLOR_REVERT].</Spanish>

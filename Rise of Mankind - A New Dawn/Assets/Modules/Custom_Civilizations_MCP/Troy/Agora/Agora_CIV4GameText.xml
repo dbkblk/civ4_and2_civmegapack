@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TROY_AGORA</Tag>
 		<English>Trojan Agora</English>
-		<French>Trojan Agora</French>
+		<French>Agora troyenne</French>
 		<German>Trojan Agora</German>
 		<Italian>Trojan Agora</Italian>
 		<Spanish>Trojan Agora</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TROY_AGORA_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Trojan Agora[COLOR_REVERT] (the Trojan replacement for a [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]) increases a city's wealth and can convert an extra citizen in merchant. It also increases a city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</English>
-		<French>A [COLOR_BUILDING_TEXT]Trojan Agora[COLOR_REVERT] (the Trojan replacement for a [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]) increases a city's wealth and can convert an extra citizen in merchant. It also increases a city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</French>
+		<French>L'[COLOR_BUILDING_TEXT]agora troyenne[COLOR_REVERT] (équivalent troyen du [COLOR_BUILDING_TEXT]marché[COLOR_REVERT]) augment la richesse de la ville et permet de convertir un citoyen supplémentaire en marchand. Cela augmente aussi le bonheur de la ville ayant accès aux [COLOR_HIGHLIGHT_TEXT]fourrures[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT].</French>
 		<German>A [COLOR_BUILDING_TEXT]Trojan Agora[COLOR_REVERT] (the Trojan replacement for a [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]) increases a city's wealth and can convert an extra citizen in merchant. It also increases a city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Trojan Agora[COLOR_REVERT] (the Trojan replacement for a [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]) increases a city's wealth and can convert an extra citizen in merchant. It also increases a city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Trojan Agora[COLOR_REVERT] (the Trojan replacement for a [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]) increases a city's wealth and can convert an extra citizen in merchant. It also increases a city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</Spanish>

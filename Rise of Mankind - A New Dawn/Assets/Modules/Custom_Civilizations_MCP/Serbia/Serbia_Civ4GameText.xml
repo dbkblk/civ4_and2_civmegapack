@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SERBIA_DESC</Tag>
 		<English>Serbian Empire</English>
-		<French>Serbe Empire</French>
+		<French>Serbie</French>
 		<German>Serbisch Reich</German>
 		<Italian>Serba Impero</Italian>
 		<Spanish>Serbio Imperio</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SERBIA_SHORT_DESC</Tag>
 		<English>Serbia</English>
-		<French>Serbie</French>
+		<French>Serbes</French>
 		<German>Serbien</German>
 		<Italian>Serbia</Italian>
 		<Spanish>Serbia</Spanish>
@@ -24,7 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SERBIA_ADJECTIVE</Tag>
 		<English>Serbian</English>
-		<French>Serbe</French>
+    <French>
+      <Text>serbe:serbe:serbes:serbes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Serbisch</German>
 		<Italian>Serba</Italian>
 		<Spanish>Serbio</Spanish>

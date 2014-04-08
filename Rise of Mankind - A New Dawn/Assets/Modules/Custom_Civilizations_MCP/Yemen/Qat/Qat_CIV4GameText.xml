@@ -6,7 +6,7 @@
     <TEXT>
 		<Tag>TXT_KEY_BUILDING_YEMEN_QATFIELD</Tag>
 		<English>Qat Field</English>
-		<French>Qat Field</French>
+		<French>Champ de qat</French>
 		<German>Qat Field</German>
 		<Italian>Qat Field</Italian>
 		<Spanish>Qat Field</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_YEMEN_QATFIELD_STRATEGY</Tag>
 		<English>Yemen replaces the [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Qat Field[COLOR_REVERT], which provides extra happiness and has a slight maintenance reduction.</English>
-		<French>Yemen replaces the [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Qat Field[COLOR_REVERT], which provides extra happiness and has a slight maintenance reduction.</French>
+		<French>Le Yémen remplace la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT] par le [COLOR_BUILDING_TEXT]champ de qat[COLOR_REVERT], qui procure du bonheur supplémentaire et dispose d'un coût d'entretien réduit.</French>
 		<German>Yemen replaces the [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Qat Field[COLOR_REVERT], which provides extra happiness and has a slight maintenance reduction.</German>
 		<Italian>Yemen replaces the [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Qat Field[COLOR_REVERT], which provides extra happiness and has a slight maintenance reduction.</Italian>
 		<Spanish>Yemen replaces the [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Qat Field[COLOR_REVERT], which provides extra happiness and has a slight maintenance reduction.</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_XIONGNU_ELITE</Tag>
 		<English>Elite Xiongnu</English>
-		<French>Elite Xiongnu</French>
+		<French>Xiongnu d'élite</French>
 		<German>Elite Xiongnu</German>
 		<Italian>Elite Xiongnu</Italian>
 		<Spanish>Elite Xiongnu</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_XIONGNU_ELITE_STRATEGY</Tag>
 		<English>Build lots of these inexpensive mounted combat units (the Xiongnu replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) to have your own personal nomadic horde but stay on the offensive as they get no defensive bonuses.</English>
-		<French>Build lots of these inexpensive mounted combat units (the Xiongnu replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) to have your own personal nomadic horde but stay on the offensive as they get no defensive bonuses.</French>
+		<French>Recrutez de nombreuses unités montées de ce type (équivalent xiongnu du [COLOR_UNIT_TEXT]cavalier[COLOR_REVERT]) pour avoir votre horde nomade personnelle. Utilisez la en attaque car elle ne possède pas de bonus défensif.</French>
 		<German>Build lots of these inexpensive mounted combat units (the Xiongnu replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) to have your own personal nomadic horde but stay on the offensive as they get no defensive bonuses.</German>
 		<Italian>Build lots of these inexpensive mounted combat units (the Xiongnu replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) to have your own personal nomadic horde but stay on the offensive as they get no defensive bonuses.</Italian>
 		<Spanish>Build lots of these inexpensive mounted combat units (the Xiongnu replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) to have your own personal nomadic horde but stay on the offensive as they get no defensive bonuses.</Spanish>

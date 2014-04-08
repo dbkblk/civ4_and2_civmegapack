@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_THEODORIC_1</Tag>
 		<English>I am [OUR_NAME], a toast to your health [CT_NAME].</English>
-		<French>I am [OUR_NAME], a toast to your health [CT_NAME].</French>
+                <French>Je suis [OUR_NAME],et lève mon verre à votre santé, [CT_NAME].</French>
 		<German>I am [OUR_NAME], a toast to your health [CT_NAME].</German>
 		<Italian>I am [OUR_NAME], a toast to your health [CT_NAME].</Italian>
 		<Spanish>I am [OUR_NAME], a toast to your health [CT_NAME].</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIMURID_DESC</Tag>
 		<English>Timurid Empire</English>
-		<French>Timurid Empire</French>
+		<French>Empire timouride</French>
 		<German>Timurid Empire</German>
 		<Italian>Timurid Empire</Italian>
 		<Spanish>Timurid Empire</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIMURID_SHORT_DESC</Tag>
 		<English>Timurids</English>
-		<French>Timurids</French>
+		<French>Timourides</French>
 		<German>Timurids</German>
 		<Italian>Timurids</Italian>
 		<Spanish>Timurids</Spanish>
@@ -24,7 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIMURID_ADJECTIVE</Tag>
 		<English>Timurid</English>
-		<French>Timurid</French>
+    <French>
+	    <Text>timouride:timouride:timourides:timourides</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Timurid</German>
 		<Italian>Timurid</Italian>
 		<Spanish>Timurid</Spanish>

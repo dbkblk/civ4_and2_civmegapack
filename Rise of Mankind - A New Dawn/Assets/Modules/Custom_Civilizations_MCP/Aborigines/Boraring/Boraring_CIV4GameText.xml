@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING</Tag>
 		<English>Bora Ring</English>
-		<French>Bora Ring</French>
+		<French>Cercle bora</French>
 		<German>Bora Ring</German>
 		<Italian>Bora Ring</Italian>
 		<Spanish>Bora Ring</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING_STRATEGY</Tag>
 		<English>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</English>
-		<French>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</French>
+		<French>Le [COLOR_BUILDING_TEXT]monument[COLOR_REVERT] est remplacé par le [COLOR_BUILDING_TEXT]cercle bora[COLOR_REVERT] chez les aborigènes, qui est moins cher à construire.</French>
 		<German>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</German>
 		<Italian>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</Italian>
 		<Spanish>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</Spanish>

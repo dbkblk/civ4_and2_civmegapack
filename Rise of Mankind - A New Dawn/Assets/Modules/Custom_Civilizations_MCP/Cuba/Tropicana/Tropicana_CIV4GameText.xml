@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TROPICANA_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</English>
-		<French>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</French>
+		<French>Le [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] fournit plus d'or et de culture que le casino.</French>
 		<German>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</Spanish>

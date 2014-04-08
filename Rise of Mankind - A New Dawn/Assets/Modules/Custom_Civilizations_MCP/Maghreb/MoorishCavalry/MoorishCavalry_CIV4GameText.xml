@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAGHREB_CAVALRY</Tag>
 		<English>Moorish Cavalry</English>
-		<French>Moorish Cavalry</French>
+		<French>Cavalerie maure</French>
 		<German>Moorish Cavalry</German>
 		<Spanish>Moorish Cavalry</Spanish>
 		<Italian>Moorish Cavalry</Italian>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAGHREB_CAVALRY_STRATEGY</Tag>
 		<English>The Maghrebi replacement for the [COLOR_UNIT_TEXT]Heavy Cavalry[COLOR_REVERT] is particularly adept at attacking cities.</English>
-		<French>The Maghrebi replacement for the [COLOR_UNIT_TEXT]Heavy Cavalry[COLOR_REVERT] is particularly adept at attacking cities.</French>
+		<French>Le remplacement marocain de la [COLOR_UNIT_TEXT]cavalerie lourde[COLOR_REVERT] est particulièrement adepte des attaques de villes.</French>
 		<German>The Maghrebi replacement for the [COLOR_UNIT_TEXT]Heavy Cavalry[COLOR_REVERT] is particularly adept at attacking cities.</German>
 		<Italian>The Maghrebi replacement for the [COLOR_UNIT_TEXT]Heavy Cavalry[COLOR_REVERT] is particularly adept at attacking cities.</Italian>
 		<Spanish>The Maghrebi replacement for the [COLOR_UNIT_TEXT]Heavy Cavalry[COLOR_REVERT] is particularly adept at attacking cities.</Spanish>
@@ -31,7 +31,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_FATIMID_GUARD_1</Tag>
 		<English>Fatimid Guard 1</English>
 		<French>
-			<Text>Fatimid Guard 1</Text>
+			<Text>Garde fatimide 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -55,7 +55,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_FATIMID_GUARD_2</Tag>
 		<English>Fatimid Guard 2</English>
 		<French>
-			<Text>Fatimid Guard 2</Text>
+			<Text>Garde fatimide 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -79,7 +79,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_FATIMIDI_GUARD_3</Tag>
 		<English>Fatimid Guard 3</English>
 		<French>
-			<Text>Fatimid Guard 3</Text>
+			<Text>Garde fatimide 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -103,7 +103,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_NASRID_GUARD_1</Tag>
 		<English>Nasrid Guard 1</English>
 		<French>
-			<Text>Nasrid Guard 1</Text>
+			<Text>Garde nasride 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -127,7 +127,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_NASRID_GUARD_2</Tag>
 		<English>Nasrid Guard 2</English>
 		<French>
-			<Text>Nasrid Guard 2</Text>
+			<Text>Garde nasride 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -151,7 +151,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_NASRID_GUARD_3</Tag>
 		<English>Nasrid Guard 3</English>
 		<French>
-			<Text>Nasrid Guard 3</Text>
+			<Text>Garde nasride 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -175,7 +175,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALMOHAD_GUARD_1</Tag>
 		<English>Almohad Guard 1</English>
 		<French>
-			<Text>Almohad Guard 1</Text>
+			<Text>Garde almohade 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -199,7 +199,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALMOHAD_GUARD_2</Tag>
 		<English>Almohad Guard 2</English>
 		<French>
-			<Text>Almohad Guard 2</Text>
+			<Text>Garde almohade 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -223,7 +223,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALMOHAD_GUARD_3</Tag>
 		<English>Almohad Guard 3</English>
 		<French>
-			<Text>Almohad Guard 3</Text>
+			<Text>Garde almohade 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -247,7 +247,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALMORAVID_GUARD_1</Tag>
 		<English>Almoravid Guard 1</English>
 		<French>
-			<Text>Almoravid Guard 1</Text>
+			<Text>Garde almoravide 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -271,7 +271,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALMORAVID_GUARD_2</Tag>
 		<English>Almoravid Guard 2</English>
 		<French>
-			<Text>Almoravid Guard 2</Text>
+			<Text>Garde almoravide 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -295,7 +295,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALMORAVID_GUARD_3</Tag>
 		<English>Almoravid Guard 3</English>
 		<French>
-			<Text>Almoravid Guard 3</Text>
+			<Text>Garde almoravide 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -319,7 +319,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_IDRISID_GUARD_1</Tag>
 		<English>Idrisid Guard 1</English>
 		<French>
-			<Text>Idrisid Guard 1</Text>
+			<Text>Garde iriside 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -343,7 +343,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_IDRISID_GUARD_2</Tag>
 		<English>Idrisid Guard 2</English>
 		<French>
-			<Text>Idrisid Guard 2</Text>
+			<Text>Garde iriside 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -367,7 +367,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_IDRISID_GUARD_3</Tag>
 		<English>Idrisid Guard 3</English>
 		<French>
-			<Text>Idrisid Guard 3</Text>
+			<Text>Garde iriside 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -391,7 +391,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALAOUITE_GUARD_1</Tag>
 		<English>Alaouite Guard 1</English>
 		<French>
-			<Text>Alaouite Guard 1</Text>
+			<Text>Garde alaouite 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -415,7 +415,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALAOUITE_GUARD_2</Tag>
 		<English>Alaouite Guard 2</English>
 		<French>
-			<Text>Alaouite Guard 2</Text>
+			<Text>Garde alaouite 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -439,7 +439,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_ALAOUITE_GUARD_3</Tag>
 		<English>Alaouite Guard 3</English>
 		<French>
-			<Text>Alaouite Guard 3</Text>
+			<Text>Garde alaouite 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -463,7 +463,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_RUSTAMID_GUARD_1</Tag>
 		<English>Rustamid Guard 1</English>
 		<French>
-			<Text>Rustamid Guard 1</Text>
+			<Text>Garde rustamide 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -487,7 +487,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_RUSTAMID_GUARD_2</Tag>
 		<English>Rustamid Guard 2</English>
 		<French>
-			<Text>Rustamid Guard 2</Text>
+			<Text>Garde rustamide 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -511,7 +511,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_RUSTAMID_GUARD_3</Tag>
 		<English>Rustamid Guard 3</English>
 		<French>
-			<Text>Rustamid Guard 3</Text>
+			<Text>Garde rustamide 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -535,7 +535,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_AMENOKAL_GUARD_1</Tag>
 		<English>Amenokal Guard 1</English>
 		<French>
-			<Text>Amenokal Guard 1</Text>
+			<Text>Garde amenokal 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -559,7 +559,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_AMENOKAL_GUARD_2</Tag>
 		<English>Amenokal Guard 2</English>
 		<French>
-			<Text>Amenokal Guard 2</Text>
+			<Text>Garde amenokal 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -583,7 +583,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_AMENOKAL_GUARD_3</Tag>
 		<English>Amenokal Guard 3</English>
 		<French>
-			<Text>Amenokal Guard 3</Text>
+			<Text>Garde amenokal 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -607,7 +607,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_MERINID_GUARD_1</Tag>
 		<English>Merinid Guard 1</English>
 		<French>
-			<Text>Merinid Guard 1</Text>
+			<Text>Garde merinide 1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -631,7 +631,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_MERINID_GUARD_2</Tag>
 		<English>Merinid Guard 2</English>
 		<French>
-			<Text>Merinid Guard 2</Text>
+			<Text>Garde merinide 2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -655,7 +655,7 @@
 		<Tag>TXT_KEY_UNIQUE_NAME_MERINID_GUARD_3</Tag>
 		<English>Merinid Guard 3</English>
 		<French>
-			<Text>Merinid Guard 3</Text>
+			<Text>Garde merinide 3</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>

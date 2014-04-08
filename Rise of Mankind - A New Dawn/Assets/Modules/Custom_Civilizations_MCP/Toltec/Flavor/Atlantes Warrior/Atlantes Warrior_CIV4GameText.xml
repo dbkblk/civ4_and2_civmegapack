@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
        <TEXT>
 		<Tag>TXT_KEY_UNIT_ATLANTES_WARRIOR</Tag>
 		<English>Atlantes Warrior</English>
-	        	<French>Atlantes Warrior</French>
+	  <French>Guerrier atlante</French>
 		<German>Atlantes Warrior</German>
 		<Italian>Atlantes Warrior</Italian>
 		<Spanish>Atlantes Warrior</Spanish>
@@ -14,7 +14,7 @@
       	<TEXT>
 		<Tag>TXT_KEY_UNIT_ATLANTES_WARRIOR_PEDIA</Tag>
 		<English>The Atlantes Warriors were the elite of the elite of the Toltec armies, generals, soldiers of prestige and honor among the masses. So named after the legendary statues outside the old toltec capital city, these warriors were almost without peer during their day.</English>
-	        <French>The Atlantes Warriors were the elite of the elite of the Toltec armies, generals, soldiers of prestige and honor among the masses. So named after the legendary statues outside the old toltec capital city, these warriors were almost without peer during their day.</French>
+	  <French>The Atlantes Warriors were the elite of the elite of the Toltec armies, generals, soldiers of prestige and honor among the masses. So named after the legendary statues outside the old toltec capital city, these warriors were almost without peer during their day.</French>
 		<German>The Atlantes Warriors were the elite of the elite of the Toltec armies, generals, soldiers of prestige and honor among the masses. So named after the legendary statues outside the old toltec capital city, these warriors were almost without peer during their day.</German>
 		<Italian>The Atlantes Warriors were the elite of the elite of the Toltec armies, generals, soldiers of prestige and honor among the masses. So named after the legendary statues outside the old toltec capital city, these warriors were almost without peer during their day.</Italian>
 		<Spanish>The Atlantes Warriors were the elite of the elite of the Toltec armies, generals, soldiers of prestige and honor among the masses. So named after the legendary statues outside the old toltec capital city, these warriors were almost without peer during their day.</Spanish>
@@ -22,7 +22,7 @@
        <TEXT>
 		<Tag>TXT_KEY_UNIT_ATLANTES_WARRIOR_STRATEGY</Tag>
 		<English>This Toltec replacement for the Maceman unit, is rather stronger than usual, and thus their recruitment cost is higher.</English>
-	        <French>This Toltec replacement for the Maceman unit, is rather stronger than usual, and thus their recruitment cost is higher.</French>
+	  <French>Cet équivalent toltèque du soldat avec masse est un peu plus fort mais son coût est un peu plus élevé.</French>
 		<German>This Toltec replacement for the Maceman unit, is rather stronger than usual, and thus their recruitment cost is higher.</German>
 		<Italian>This Toltec replacement for the Maceman unit, is rather stronger than usual, and thus their recruitment cost is higher.</Italian>
 		<Spanish>This Toltec replacement for the Maceman unit, is rather stronger than usual, and thus their recruitment cost is higher.</Spanish>

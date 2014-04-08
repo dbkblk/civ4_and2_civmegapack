@@ -6,7 +6,7 @@
     <TEXT>
 		<Tag>TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE</Tag>
 		<English>Coffee Estate</English>
-		<French>Coffee Estate</French>
+		<French>Commerce de café</French>
 		<German>Coffee Estate</German>
 		<Italian>Coffee Estate</Italian>
 		<Spanish>Coffee Estate</Spanish>
@@ -31,10 +31,10 @@ With the fall of international prices, that registered the transition from the 1
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE_STRATEGY</Tag>
-		<English>Colomiba replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</English>
-		<French>Colomiba replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</French>
-		<German>Colomiba replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</German>
-		<Italian>Colomiba replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</Italian>
-		<Spanish>Colomiba replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</Spanish>
+		<English>Colombia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</English>
+		<French>La colombie remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] par le [COLOR_BUILDING_TEXT]commerce de café[COLOR_REVERT], qui procure d'importants bonus avec la ressource 'café'.</French>
+		<German>Colombia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</German>
+		<Italian>Colombia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</Italian>
+		<Spanish>Colombia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</Spanish>
 	</TEXT>
 </Civ4GameText>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES</Tag>
 		<English>Red Sleeves Warrior</English>
-		<French>Red Sleeves Warrior</French>
+		<French>Guerrier manches rouges</French>
 		<German>Red Sleeves Warrior</German>
 		<Italian>Red Sleeves Warrior</Italian>
 		<Spanish>Red Sleeves Warrior</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES_STRATEGY</Tag>
 		<English>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</English>
-		<French>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</French>
+		<French>L'équivalent apache de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT] est légèrement plus puissant et possède un bonus contre les unités montés.</French>
 		<German>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</German>
 		<Italian>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</Italian>
 		<Spanish>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</Spanish>

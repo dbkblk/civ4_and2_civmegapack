@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MAPUCHE_MOHEDAN</Tag>
 		<English>Toqui Hut</English>
-		<French>Toqui Hut</French>
+		<French>Hutte du Toqui</French>
 		<German>Toqui Hut</German>
 		<Italian>Toqui Hut</Italian>
 		<Spanish>Toqui Hut</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MAPUCHE_MOHEDAN_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] replacement for the Mapuche civilization is the [COLOR_BUILDING_TEXT]Toqui Hut[COLOR_REVERT] and it gives a free Shock promotion.</English>
-		<French>The [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] replacement for the Mapuche civilization is the [COLOR_BUILDING_TEXT]Toqui Hut[COLOR_REVERT] and it gives a free Shock promotion.</French>
+		<French>L'équivalent de la [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT] pour les mapuches est la [COLOR_BUILDING_TEXT]hutte du Toqui[COLOR_REVERT], qui procure la promotion gratuite 'choc'.</French>
 		<German>The [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] replacement for the Mapuche civilization is the [COLOR_BUILDING_TEXT]Toqui Hut[COLOR_REVERT] and it gives a free Shock promotion.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] replacement for the Mapuche civilization is the [COLOR_BUILDING_TEXT]Toqui Hut[COLOR_REVERT] and it gives a free Shock promotion.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] replacement for the Mapuche civilization is the [COLOR_BUILDING_TEXT]Toqui Hut[COLOR_REVERT] and it gives a free Shock promotion.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_KAZAKH_BATYR_STRATEGY</Tag>
 		<English>The Kazakh replacement for the Knight can move on terrain without penalty.</English>
-		<French>The Kazakh replacement for the Knight can move on terrain without penalty.</French>
+		<French>Le remplacement kazakh du chevalier peut se déplacer sur un terrain sans pénalité.</French>
 		<German>The Kazakh replacement for the Knight can move on terrain without penalty.</German>
 		<Italian>The Kazakh replacement for the Knight can move on terrain without penalty.</Italian>
 		<Spanish>The Kazakh replacement for the Knight can move on terrain without penalty.</Spanish>

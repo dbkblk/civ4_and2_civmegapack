@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HURRIANS_DESC</Tag>
 		<English>Hurrian Empire</English>
-		<French>Hourrite Empire</French>
+		<French>Peuple hourrite</French>
 		<German>Hurriter Reich</German>
 		<Italian>Hurriti Impero</Italian>
 		<Spanish>Hurrita Imperio</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HURRIANS_SHORT_DESC</Tag>
 		<English>Hurri</English>
-		<French>Hourri</French>
+		<French>Hourrites</French>
 		<German>Hurri</German>
 		<Italian>Hurri</Italian>
 		<Spanish>Hurri</Spanish>
@@ -24,7 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HURRIANS_ADJECTIVE</Tag>
 		<English>Hurrian</English>
-		<French>Hourrite</French>
+    <French>
+      <Text>hourrite:hourrite:hourrites:hourrites</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Hurriter</German>
 		<Italian>Hurriti</Italian>
 		<Spanish>Hurrita</Spanish>

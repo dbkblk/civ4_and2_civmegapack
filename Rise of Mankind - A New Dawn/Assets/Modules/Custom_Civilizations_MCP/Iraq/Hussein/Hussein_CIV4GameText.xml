@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_HUSSEIN</Tag>
 		<English>Hussein</English>
-		<French>Hussein</French>
+		<French>Saddam Hussein</French>
 		<German>Hussein</German>
 		<Italian>Hussein</Italian>
 		<Spanish>Hussein</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HUSSEIN_1</Tag>
 		<English>We will remain ever steadfast [CT_NAME].The [OUR_EMPIRE] is not intimidated by the size of the army or the type of hardware the enemy brings.</English>
-		<French>We will remain ever steadfast [CT_NAME].The [OUR_EMPIRE] is not intimidated by the size of the army or the type of hardware the enemy brings.</French>
+		<French>Nous resterons toujours inébranlables, [CT_NAME]. Les irakiens ne sont pas intimidés par la taille de l'armée ou le type de matériel que l'ennemi emporte avec lui.</French>
 		<German>We will remain ever steadfast [CT_NAME].The [OUR_EMPIRE] is not intimidated by the size of the army or the type of hardware the enemy brings.</German>
 		<Italian>We will remain ever steadfast [CT_NAME].The [OUR_EMPIRE] is not intimidated by the size of the army or the type of hardware the enemy brings.</Italian>
 		<Spanish>We will remain ever steadfast [CT_NAME].The [OUR_EMPIRE] is not intimidated by the size of the army or the type of hardware the enemy brings.</Spanish>

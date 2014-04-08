@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_THORAKITAI</Tag>
 		<English>Thorakitai Argyraspidai</English>
 		<French>
-			<Text>Thorakitai Argyraspidai</Text>
+			<Text>Thorakitai argyraspide</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -41,7 +41,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_THORAKITAI_STRATEGY</Tag>
 		<English>This powerful melee unit (the Seleukid replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) gets a strength increase and has a bonus when fighting cavalry. Although they cost more to keep</English>
-		<French>This powerful melee unit (the Seleukid replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) gets a strength increase and has a bonus when fighting cavalry. Although they cost more to keep</French>
+		<French>Cette puissante unité de combat rapproché (équivalent séleucite du [COLOR_UNIT_TEXT]spadassin léger[COLOR_REVERT]) obtient un bonus de puissance et de combat contre la cavalerie. Cependant, ils coûtent plus chers à entretenir.</French>
 		<German>This powerful melee unit (the Seleukid replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) gets a strength increase and has a bonus when fighting cavalry. Although they cost more to keep</German>
 		<Italian>This powerful melee unit (the Seleukid replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) gets a strength increase and has a bonus when fighting cavalry. Although they cost more to keep</Italian>
 		<Spanish>This powerful melee unit (the Seleukid replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) gets a strength increase and has a bonus when fighting cavalry. Although they cost more to keep</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_RING</Tag>
 		<English>Kurash Ring</English>
-		<French>Kurash Ring</French>
+		<French>Club de kourash</French>
 		<German>Kurash Ring</German>
 		<Italian>Kurash Ring</Italian>
 		<Spanish>Kurash Ring</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_RING_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Kurash[COLOR_REVERT] is a cheaper replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT].</English>
-		<French>The [COLOR_BUILDING_TEXT]Kurash[COLOR_REVERT] is a cheaper replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT].</French>
+		<French>Le [COLOR_BUILDING_TEXT]club de kourash[COLOR_REVERT] est un équivalent bon marché de la [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT].</French>
 		<German>The [COLOR_BUILDING_TEXT]Kurash[COLOR_REVERT] is a cheaper replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT].</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Kurash[COLOR_REVERT] is a cheaper replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT].</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Kurash[COLOR_REVERT] is a cheaper replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT].</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PILIWNI_PEYOTE</Tag>
 		<English>Sweat Lodge</English>
-		<French>Sweat Lodge</French>
+		<French>Hutte à sudation</French>
 		<German>Sweat Lodge</German>
 		<Italian>Sweat Lodge</Italian>
 		<Spanish>Sweat Lodge</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PILIWNI_PEYOTE_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Sweat Lodge[COLOR_REVERT] helps units heal damage more quickly and adds health and Happiness to a city. They are required to build the [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] national wonder.</English>
-		<French>A [COLOR_BUILDING_TEXT]Sweat Lodge[COLOR_REVERT] helps units heal damage more quickly and adds health and Happiness to a city. They are required to build the [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] national wonder.</French>
+		<French>Une [COLOR_BUILDING_TEXT]hutte à sudation[COLOR_REVERT] aide les unités à récupérer de leurs blessures et ajoute de la santé et du bonheur à la ville. Elles sont requises pour construire la merveille nationale de la [COLOR_BUILDING_TEXT]Croix Rouge[COLOR_REVERT].</French>
 		<German>A [COLOR_BUILDING_TEXT]Sweat Lodge[COLOR_REVERT] helps units heal damage more quickly and adds health and Happiness to a city. They are required to build the [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] national wonder.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Sweat Lodge[COLOR_REVERT] helps units heal damage more quickly and adds health and Happiness to a city. They are required to build the [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] national wonder.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Sweat Lodge[COLOR_REVERT] helps units heal damage more quickly and adds health and Happiness to a city. They are required to build the [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] national wonder.</Spanish>

@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CROATIA_GUARD</Tag>
 		<English>Mechanized Guard Brigade</English>
-		<French>Mechanized Guard Brigade</French>
+		<French>Brigade de protection mécanisée</French>
 		<German>Mechanized Guard Brigade</German>
 		<Italian>Mechanized Guard Brigade</Italian>
 		<Spanish>Mechanized Guard Brigade</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CROATIA_GUARD_STRATEGY</Tag>
 		<English>The Croatian replacement for the [COLOR_UNIT_TEXT]Mechanized Infantry[COLOR_REVERT] receives an extra promotion when built.</English>
-		<French>The Croatian replacement for the [COLOR_UNIT_TEXT]Mechanized Infantry[COLOR_REVERT] receives an extra promotion when built.</French>
+		<French>L'équivalent croate de l'[COLOR_UNIT_TEXT]infanterie mécanisée[COLOR_REVERT] reçoit une promotion supplémentaire lorsqu'elle est recrutée.</French>
 		<German>The Croatian replacement for the [COLOR_UNIT_TEXT]Mechanized Infantry[COLOR_REVERT] receives an extra promotion when built.</German>
 		<Italian>The Croatian replacement for the [COLOR_UNIT_TEXT]Mechanized Infantry[COLOR_REVERT] receives an extra promotion when built.</Italian>
 		<Spanish>The Croatian replacement for the [COLOR_UNIT_TEXT]Mechanized Infantry[COLOR_REVERT] receives an extra promotion when built.</Spanish>

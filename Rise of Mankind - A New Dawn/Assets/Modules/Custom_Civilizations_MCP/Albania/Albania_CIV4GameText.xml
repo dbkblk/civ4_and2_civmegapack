@@ -5,16 +5,16 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ALBANIA_DESC</Tag>
-		<English>Albanian Empire</English>
-		<French>Albanian Empire</French>
-		<German>Albanian Empire</German>
-		<Italian>Albanian Empire</Italian>
-		<Spanish>Albanian Empire</Spanish>
+		<English>Albania</English>
+		<French>Albanie</French>
+		<German>Albania</German>
+		<Italian>Albania</Italian>
+		<Spanish>Albania</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ALBANIA_SHORT_DESC</Tag>
 		<English>Albania</English>
-		<French>Albania</French>
+		<French>Albanais</French>
 		<German>Albania</German>
 		<Italian>Albania</Italian>
 		<Spanish>Albania</Spanish>
@@ -30,7 +30,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ALBANIA_ADJECTIVE</Tag>
 		<English>Albanian</English>
-		<French>Albanian</French>
+    <French>
+      <Text>albanais:albanaise:albanais:albanaises</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Albanian</German>
 		<Italian>Albanian</Italian>
 		<Spanish>Albanian</Spanish>

@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER</Tag>
 		<English>Indus Sewer</English>
-		<French>Indus Sewer</French>
+		<French>Égoûts de l'Indus</French>
 		<German>Indus Sewer</German>
 		<Italian>Indus Sewer</Italian>
 		<Spanish>Indus Sewer</Spanish>
@@ -24,7 +24,7 @@
         <TEXT>
 		<Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Sewer[COLOR_REVERT], the Harappan replacement for the [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</English>
-		<French>Les [COLOR_BUILDING_TEXT]&#201;gout[COLOR_REVERT], le remplacement de la Harappan [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</French>
+		<French>Les [COLOR_BUILDING_TEXT]égouts de l'Indus[COLOR_REVERT], l'équivalent harappéen du [COLOR_BUILDING_TEXT]système d'égoûts[COLOR_REVERT] sont disponibles plus tôt et possèdes une pénaltie d'espionnage inférieure.</French>
 		<German>Die [COLOR_BUILDING_TEXT]Kanalisation[COLOR_REVERT], die Harappan Ersatz für die [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</German>
 		<Italian>La [COLOR_BUILDING_TEXT]Fognatura[COLOR_REVERT], la sostituzione Harappan per l'[COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</Italian>
 		<Spanish>El [COLOR_BUILDING_TEXT]Alcantarillado[COLOR_REVERT], la sustitución de la Harappan [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</Spanish>

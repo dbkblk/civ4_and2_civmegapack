@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MALAGASY_SALEGYHALL</Tag>
 		<English>Salegy Hall</English>
-		<French>Salegy Hall</French>
+		<French>Halle de salegy</French>
 		<German>Salegy Hall</German>
 		<Italian>Salegy Hall</Italian>
 		<Spanish>Salegy Hall</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MALAGASY_SALEGYHALL_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Salegy Hall[COLOR_REVERT] in the Malagasy civilization. It provides a percentage-based culture boost.</English>
-		<French>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Salegy Hall[COLOR_REVERT] in the Malagasy civilization. It provides a percentage-based culture boost.</French>
+		<French>L'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT] est remplacée par la [COLOR_BUILDING_TEXT]halle de salegy[COLOR_REVERT] chez les malgaches. Elle procure un bonus de culture basé sur le pourcentage.</French>
 		<German>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Salegy Hall[COLOR_REVERT] in the Malagasy civilization. It provides a percentage-based culture boost.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Salegy Hall[COLOR_REVERT] in the Malagasy civilization. It provides a percentage-based culture boost.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Salegy Hall[COLOR_REVERT] in the Malagasy civilization. It provides a percentage-based culture boost.</Spanish>

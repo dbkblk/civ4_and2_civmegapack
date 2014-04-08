@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BANGLADESH_DESC</Tag>
 		<English>Bangladeshi Empire</English>
-		<French>Bangladeshi Empire</French>
+		<French>Bangladesh</French>
 		<German>Bangladeshi Empire</German>
 		<Italian>Bangladeshi Empire</Italian>
 		<Spanish>Bangladeshi Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BANGLADESH_SHORT_DESC</Tag>
 		<English>Bangladesh</English>
-		<French>Bangladesh</French>
+		<French>Bangladais</French>
 		<German>Bangladesh</German>
 		<Italian>Bangladesh</Italian>
 		<Spanish>Bangladesh</Spanish>
@@ -30,7 +30,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BANGLADESH_ADJECTIVE</Tag>
 		<English>Bangladeshi</English>
-		<French>Bangladeshi</French>
+    <French>
+      <Text>bangladais:bangladaise:bangladais:bangladaises</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Bangladeshi</German>
 		<Italian>Bangladeshi</Italian>
 		<Spanish>Bangladeshi</Spanish>

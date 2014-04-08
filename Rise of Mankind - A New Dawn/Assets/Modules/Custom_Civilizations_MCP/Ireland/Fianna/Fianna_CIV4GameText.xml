@@ -24,10 +24,8 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_FIANNA_STRATEGY</Tag>
 		<English>This powerful melee unit (the Irish replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) is excellent defending forests and jungles, being able to quickly strike his enemy, then disappear into the woods so fast as they came.</English>
-		<French>This powerful melee unit (the Irish replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) is excellent defending forests and jungles, being able to quickly strike his enemy, then disappear into the woods so fast as they came.</French>
+		<French>Cette puissante unité de combat rapproché (équivalent irlandais du [COLOR_UNIT_TEXT]spadassin léger[COLOR_REVERT]) est excellente pour la défense des forêts et des jungles, capable de rapidement frapper l'ennemi et de retourner se cacher dans les bois tout aussi vite.</French>
 		<German>This powerful melee unit (the Irish replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) is excellent defending forests and jungles, being able to quickly strike his enemy, then disappear into the woods so fast as they came.</German>
-		<Italian>This powerful melee unit (the Irish replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) is excellent defending forests and jungles, being able to quickly strike his enemy, then disappear into the woods so fast as they came.</Italian>
-		<Spanish>This powerful melee unit (the Irish replacement for the [COLOR_UNIT_TEXT]Light Swordsman[COLOR_REVERT]) is excellent defending forests and jungles, being able to quickly strike his enemy, then disappear into the woods so fast as they came.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIQUE_NAME_A1</Tag>

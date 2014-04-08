@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SOMALIA_MOGADISHU</Tag>
 		<English>Ajuuraan Market</English>
-		<French>Ajuuraan Market</French>
+		<French>Marché ajuuraan</French>
 		<German>Ajuuraan Market</German>
 		<Italian>Ajuuraan Market</Italian>
 		<Spanish>Ajuuraan Market</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SOMALIA_MOGADISHU_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Ajuuraan Markets[COLOR_REVERT] act like regular [COLOR_BUILDING_TEXT]Markets[COLOR_REVERT], except they provide +2 Food.</English>
-		<French>[COLOR_BUILDING_TEXT]Ajuuraan Markets[COLOR_REVERT] act like regular [COLOR_BUILDING_TEXT]Markets[COLOR_REVERT], except they provide +2 Food.</French>
+		<French>Les [COLOR_BUILDING_TEXT]marchés ajuuraan[COLOR_REVERT] fonctionne comme les autres [COLOR_BUILDING_TEXT]marchés[COLOR_REVERT] mais procurent +2 de nourriture.</French>
 		<German>[COLOR_BUILDING_TEXT]Ajuuraan Markets[COLOR_REVERT] act like regular [COLOR_BUILDING_TEXT]Markets[COLOR_REVERT], except they provide +2 Food.</German>
 		<Italian>[COLOR_BUILDING_TEXT]Ajuuraan Markets[COLOR_REVERT] act like regular [COLOR_BUILDING_TEXT]Markets[COLOR_REVERT], except they provide +2 Food.</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Ajuuraan Markets[COLOR_REVERT] act like regular [COLOR_BUILDING_TEXT]Markets[COLOR_REVERT], except they provide +2 Food.</Spanish>

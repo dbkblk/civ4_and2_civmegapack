@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO</Tag>
 		<English>Dance Studio</English>
-		<French>Dance Studio</French>
+		<French>Studio de danse</French>
 		<German>Dance Studio</German>
 		<Italian>Dance Studio</Italian>
 		<Spanish>Dance Studio</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</English>
-		<French>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</French>
+		<French>L'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT] est remplacée par le [COLOR_BUILDING_TEXT]studio de danse[COLOR_REVERT] pour les argentins, qui procure un bonus modéré de culture.</French>
 		<German>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</Spanish>

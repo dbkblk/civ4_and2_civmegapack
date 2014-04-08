@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG</Tag>
 		<English>Viet Cong</English>
-		<French>Viet Cong</French>
+		<French>Vietcong</French>
 		<German>Viet Cong</German>
 		<Italian>Viet Cong</Italian>
 		<Spanish>Viet Cong</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG_STRATEGY</Tag>
 		<English>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT] can withdraw from combat and can better defend in hills, jungles and forests.</English>
-		<French>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT] can withdraw from combat and can better defend in hills, jungles and forests.</French>
+		<French>Cette unité vietnamienne rapide équivaut à l'[COLOR_UNIT_TEXT]infanterie moderne[COLOR_REVERT]. Elle peut battre en retraite et défend particulièrement bien les collines, la jungle et la forêt.</French>
 		<German>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT] can withdraw from combat and can better defend in hills, jungles and forests.</German>
 		<Italian>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT] can withdraw from combat and can better defend in hills, jungles and forests.</Italian>
 		<Spanish>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT] can withdraw from combat and can better defend in hills, jungles and forests.</Spanish>

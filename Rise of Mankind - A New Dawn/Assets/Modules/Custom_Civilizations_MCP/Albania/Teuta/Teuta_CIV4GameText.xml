@@ -28,7 +28,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TEUTA_1</Tag>
 		<English>Hello, [CT_NAME]. I am [OUR_NAME] of the [OUR_EMPIRE]. I welcome you, but please know that we build with sweat, and defend with blood.</English>
-		<French>Hello, [CT_NAME]. I am [OUR_NAME] of the [OUR_EMPIRE]. I welcome you, but please know that we build with sweat, and defend with blood.</French>
+		<French>Bonjour, [CT_NAME]. Je suis [OUR_NAME] des [OUR_EMPIRE]. Je vous souhaite la bienvenue, mais sachez que ce que nous bâtissons avec la sueur, nous le défendons avec notre sang.</French>
 		<German>Hello, [CT_NAME]. I am [OUR_NAME] of the [OUR_EMPIRE]. I welcome you, but please know that we build with sweat, and defend with blood.</German>
 		<Italian>Hello, [CT_NAME]. I am [OUR_NAME] of the [OUR_EMPIRE]. I welcome you, but please know that we build with sweat, and defend with blood.</Italian>
 		<Spanish>Hello, [CT_NAME]. I am [OUR_NAME] of the [OUR_EMPIRE]. I welcome you, but please know that we build with sweat, and defend with blood.</Spanish>

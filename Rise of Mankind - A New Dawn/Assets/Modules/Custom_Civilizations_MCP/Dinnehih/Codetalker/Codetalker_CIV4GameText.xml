@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_DINNEHIH_CODETALKER</Tag>
 		<English>Code Talker</English>
 		<French>
-			<Text>Code Talker</Text>
+			<Text>Instructeur</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -30,7 +30,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_DINNEHIH_CODETALKER_STRATEGY</Tag>
 		<English>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</English>
-		<French>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</French>
+		<French>Recrutez un [COLOR_UNIT_TEXT]instructeur[COLOR_REVERT] pour défier les défenses côtières. Ils sont immunisés aux premières attaques et ont une petite probabilité de retraite.</French>
 		<German>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</German>
 		<Italian>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</Italian>
 		<Spanish>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</Spanish>

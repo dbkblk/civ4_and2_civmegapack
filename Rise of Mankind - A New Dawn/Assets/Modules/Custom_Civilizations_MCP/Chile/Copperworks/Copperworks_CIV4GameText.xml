@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHILE_COPPERWORKS</Tag>
 		<English>Copperworks</English>
-		<French>Copperworks</French>
+		<French>Usine de cuivre</French>
 		<German>Copperworks</German>
 		<Italian>Copperworks</Italian>
 		<Spanish>Copperworks</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHILE_COPPERWORKS_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</English>
-		<French>[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</French>
+		<French>L'[COLOR_BUILDING_TEXT]usine de cuivre[COLOR_REVERT] (équivalent chilien de l'[COLOR_BUILDING_TEXT]usine[COLOR_REVERT]) augmente la production et la richesse de la ville au détriment d'un peu d'insalubrité. Le bonus est amélioré avec le [COLOR_HIGHLIGHT_TEXT]cuivre[COLOR_REVERT].</French>
 		<German>[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</German>
 		<Italian>[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</Spanish>

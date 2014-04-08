@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TROY_GUARD</Tag>
 		<English>Apollonian Guard</English>
-		<French>Apollonian Guard</French>
+		<French>Garde appollinien</French>
 		<German>Apollonian Guard</German>
 		<Italian>Apollonian Guard</Italian>
 		<Spanish>Apollonian Guard</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TROY_GUARD_STRATEGY</Tag>
 		<English>This melee combat unit gets a big bonus when fighting mounted enemy units. The Trojan replacement for the [COLOR_UNIT_TEXT]Pikeman[COLOR_REVERT] is also slightly more powerful than the standard unit and receives a free [COLOR_HIGHLIGHT_TEXT]Shock[COLOR_REVERT] promotion.</English>
-		<French>This melee combat unit gets a big bonus when fighting mounted enemy units. The Trojan replacement for the [COLOR_UNIT_TEXT]Pikeman[COLOR_REVERT] is also slightly more powerful than the standard unit and receives a free [COLOR_HIGHLIGHT_TEXT]Shock[COLOR_REVERT] promotion.</French>
+		<French>Cette unité de combat rapproché obtient un bonus de combat contre les unités montées. L'équivalent troyen du [COLOR_UNIT_TEXT]piquier[COLOR_REVERT] est un peu plus puissant que les unités standard et reçoit la promotion [COLOR_HIGHLIGHT_TEXT]choc[COLOR_REVERT].</French>
 		<German>This melee combat unit gets a big bonus when fighting mounted enemy units. The Trojan replacement for the [COLOR_UNIT_TEXT]Pikeman[COLOR_REVERT] is also slightly more powerful than the standard unit and receives a free [COLOR_HIGHLIGHT_TEXT]Shock[COLOR_REVERT] promotion.</German>
 		<Italian>This melee combat unit gets a big bonus when fighting mounted enemy units. The Trojan replacement for the [COLOR_UNIT_TEXT]Pikeman[COLOR_REVERT] is also slightly more powerful than the standard unit and receives a free [COLOR_HIGHLIGHT_TEXT]Shock[COLOR_REVERT] promotion.</Italian>
 		<Spanish>This melee combat unit gets a big bonus when fighting mounted enemy units. The Trojan replacement for the [COLOR_UNIT_TEXT]Pikeman[COLOR_REVERT] is also slightly more powerful than the standard unit and receives a free [COLOR_HIGHLIGHT_TEXT]Shock[COLOR_REVERT] promotion.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JANYBEK_1</Tag>
 		<English>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</English>
-		<French>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</French>
+		<French>Bonjour, [CT_NAME] ! Vous avez surement entendu des rumeurs à propos de la terreur que répand notre horde, mais ces rumeurs sont surement exagérées.</French>
 		<German>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</German>
 		<Italian>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</Italian>
 		<Spanish>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MOCHE_JEQUE_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]Jequetepeque[COLOR_REVERT] (the Moche replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses to attack and defense when fighting in hills.</English>
-		<French>The [COLOR_UNIT_TEXT]Jequetepeque[COLOR_REVERT] (the Moche replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses to attack and defense when fighting in hills.</French>
+		<French>Le [COLOR_UNIT_TEXT]jequetepeque[COLOR_REVERT] (équivalent moche du [COLOR_UNIT_TEXT]guerrier[COLOR_REVERT]) reçoit un bonus d'attaque et de défense au cours des combats dans des collines.</French>
 		<German>The [COLOR_UNIT_TEXT]Jequetepeque[COLOR_REVERT] (the Moche replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses to attack and defense when fighting in hills.</German>
 		<Italian>The [COLOR_UNIT_TEXT]Jequetepeque[COLOR_REVERT] (the Moche replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses to attack and defense when fighting in hills.</Italian>
 		<Spanish>The [COLOR_UNIT_TEXT]Jequetepeque[COLOR_REVERT] (the Moche replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses to attack and defense when fighting in hills.</Spanish>

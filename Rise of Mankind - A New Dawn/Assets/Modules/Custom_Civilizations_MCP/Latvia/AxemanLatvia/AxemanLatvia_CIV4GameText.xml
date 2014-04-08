@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AXEMAN_LATVIA</Tag>
 		<English>Latgalian Axeman</English>
-		<French>Axeman Latgalian</French>
+		<French>Soldat avec hache latgalien</French>
 		<German>Latgalian Axeman</German>
 		<Italian>Axeman Latgalian</Italian>
 		<Spanish>Axeman Latgalian</Spanish>
@@ -14,10 +14,10 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AXEMAN_LATVIA_STRATEGY</Tag>
 		<English>This unit (the Latvian replacement for the [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) can defend itself well against [COLOR_UNIT_TEXT]Melee[COLOR_REVERT] units and is a good defender of cities. Also gets a bonus versus [COLOR_UNIT_TEXT]Chariots[COLOR_REVERT].</English>
-		<French>This unit (the Latvian replacement for the [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) can defend itself well against [COLOR_UNIT_TEXT]Melee[COLOR_REVERT] units and is a good defender of cities. Also gets a bonus versus [COLOR_UNIT_TEXT]Chariots[COLOR_REVERT].</French>
+		<French>Cette unité (équivalent letton du [COLOR_UNIT_TEXT]soldat avec hache[COLOR_REVERT]) peut se défendre contre les unités de combat rapproché et défend bien les villes. Elle obtient un bonus contre les [COLOR_UNIT_TEXT]chars[COLOR_REVERT].</French>
 		<German>This unit (the Latvian replacement for the [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) can defend itself well against [COLOR_UNIT_TEXT]Melee[COLOR_REVERT] units and is a good defender of cities. Also gets a bonus versus [COLOR_UNIT_TEXT]Chariots[COLOR_REVERT].</German>
-		<Italian>This unit (the Latvian replacement for the [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) can defend itself well against [COLOR_UNIT_TEXT]Melee[COLOR_REVERT] units and is a good defender of cities. Also gets a bonus versus [COLOR_UNIT_TEXT]Chariots[COLOR_REVERT].</Italian>
-		<Spanish>This unit (the Latvian replacement for the [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) can defend itself well against [COLOR_UNIT_TEXT]Melee[COLOR_REVERT] units and is a good defender of cities. Also gets a bonus versus [COLOR_UNIT_TEXT]Chariots[COLOR_REVERT].</Spanish>
+		<Italian>Questa unit&#224; (il rimontaggio lettone per [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) pu&#242; difendersi bene contro le unit&#224; della [COLOR_UNIT_TEXT]mischia ed ottiene un'indennit&#224; contro i [COLOR_UNIT_TEXT]vagoni per il trasporto dei lingotti[COLOR_REVERT].</Italian>
+		<Spanish>Esta unidad (el reemplazo let&#243;n para [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) puede defenderse bien contra unidades del [COLOR_UNIT_TEXT]tumulto[COLOR_REVERT] y consigue una prima contra los [COLOR_UNIT_TEXT]carros[COLOR_REVERT].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AXEMAN_LATVIA_PEDIA</Tag>

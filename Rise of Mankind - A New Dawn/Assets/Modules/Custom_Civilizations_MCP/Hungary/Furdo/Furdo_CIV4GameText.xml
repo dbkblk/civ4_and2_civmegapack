@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_FURDO</Tag>
 		<English>F&#252;rdo</English>
-		<French>F&#252;rdo</French>
+		<French>Thermes</French>
 		<German>F&#252;rdo</German>
 		<Italian>F&#252;rdo</Italian>
 		<Spanish>F&#252;rdo</Spanish>
@@ -24,7 +24,7 @@
         <TEXT>
 		<Tag>TXT_KEY_BUILDING_FURDO_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], the Hungarian replacement for the [COLOR_BUILDING_TEXT]Bath House[COLOR_REVERT], offers bonus health.</English>
-		<French>Le [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], le remplacement de l'Hongrois [COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], offre des bonus de santé.</French>
+		<French>Les [COLOR_BUILDING_TEXT]thermes[COLOR_REVERT], l'équivalent hongrois de la [COLOR_BUILDING_TEXT]maison des bains[COLOR_REVERT], offrent des bonus de santé.</French>
 		<German>Die [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], die Ungarische Ersatz für die [COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], bietet bonus gesundheit</German>
 		<Italian>L'[COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sostituzione unherese per il[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], offre des bonus de santé.</Italian>
 		<Spanish> El [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sustitución de Hungría para el[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], ofrece bono de la salud. </Spanish>

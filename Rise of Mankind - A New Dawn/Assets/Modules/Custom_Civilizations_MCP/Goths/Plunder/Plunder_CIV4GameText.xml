@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GOTHS_PLUNDER</Tag>
 		<English>Plunder</English>
-		<French>Plunder</French>
+                <French>Pillage</French>
 		<German>Plunder</German>
 		<Italian>Plunder</Italian>
 		<Spanish>Plunder</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GOTHS_PLUNDER_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Plunder[COLOR_REVERT] (the Goth replacement for a [COLOR_BUILDING_TEXT]Jail[COLOR_REVERT]) lowers a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increases gold. Build this if you are involved in a long war and your citizens are starting to complain.</English>
-		<French>[COLOR_BUILDING_TEXT]Plunder[COLOR_REVERT] (the Goth replacement for a [COLOR_BUILDING_TEXT]Jail[COLOR_REVERT]) lowers a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increases gold. Build this if you are involved in a long war and your citizens are starting to complain.</French>
+                <French>Le [COLOR_BUILDING_TEXT]pillage[COLOR_REVERT] (équivalent goth de la [COLOR_BUILDING_TEXT]prison[COLOR_REVERT]) diminue la lassitude de guerre et augmente l'or. Construisez ceci si vous êtes impliqué dans une longue guerre et que vos citoyens commencent à se plaindre.</French>
 		<German>[COLOR_BUILDING_TEXT]Plunder[COLOR_REVERT] (the Goth replacement for a [COLOR_BUILDING_TEXT]Jail[COLOR_REVERT]) lowers a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increases gold. Build this if you are involved in a long war and your citizens are starting to complain.</German>
 		<Italian>[COLOR_BUILDING_TEXT]Plunder[COLOR_REVERT] (the Goth replacement for a [COLOR_BUILDING_TEXT]Jail[COLOR_REVERT]) lowers a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increases gold. Build this if you are involved in a long war and your citizens are starting to complain.</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Plunder[COLOR_REVERT] (the Goth replacement for a [COLOR_BUILDING_TEXT]Jail[COLOR_REVERT]) lowers a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increases gold. Build this if you are involved in a long war and your citizens are starting to complain.</Spanish>

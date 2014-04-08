@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MARGRETE_1</Tag>
 		<English>Greetings, [CT_NAME] of the [CT_EMPIRE]. I am [OUR_NAME] of [OUR_CIV_SHORT], although you may call me "Margrete, by the grace of God, Valdemar Daneking's daughter, and Denmark's rightful heir". What is it you wish to speak of?</English>
-		<French>Greetings, [CT_NAME] of the [CT_EMPIRE]. I am [OUR_NAME] of [OUR_CIV_SHORT], although you may call me "Margrete, by the grace of God, Valdemar Daneking's daughter, and Denmark's rightful heir". What is it you wish to speak of?</French>
+		<French>Salutations, [CT_NAME] des [CT_EMPIRE]. Je suis [OUR_NAME] de la nation danoise, bien que vous puissiez m'appeller "Margrete, par la grâce de dieu, fille du roi danois Valdemar, et héritière directe du trône du Danemark". De quoi souhaiteriez-vous parler ?</French>
 		<German>Greetings, [CT_NAME] of the [CT_EMPIRE]. I am [OUR_NAME] of [OUR_CIV_SHORT], although you may call me "Margrete, by the grace of God, Valdemar Daneking's daughter, and Denmark's rightful heir". What is it you wish to speak of?</German>
 		<Italian>Greetings, [CT_NAME] of the [CT_EMPIRE]. I am [OUR_NAME] of [OUR_CIV_SHORT], although you may call me "Margrete, by the grace of God, Valdemar Daneking's daughter, and Denmark's rightful heir". What is it you wish to speak of?</Italian>
 		<Spanish>Greetings, [CT_NAME] of the [CT_EMPIRE]. I am [OUR_NAME] of [OUR_CIV_SHORT], although you may call me "Margrete, by the grace of God, Valdemar Daneking's daughter, and Denmark's rightful heir". What is it you wish to speak of?</Spanish>

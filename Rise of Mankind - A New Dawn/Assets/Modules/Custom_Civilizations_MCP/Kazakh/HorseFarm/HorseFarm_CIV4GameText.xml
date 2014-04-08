@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_KAZAKH_HORSE_FARM</Tag>
 		<English>Horse Farm</English>
-		<French>Horse Farm</French>
+		<French>Ferme de chevaux</French>
 		<German>Horse Farm</German>
 		<Italian>Horse Farm</Italian>
 		<Spanish>Horse Farm</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_KAZAKH_HORSE_FARM_STRATEGY</Tag>
 		<English>The Kazakh Horse Farm replaces the stable and provides abonus to Health and Happiness with horses.</English>
-		<French>The Kazakh Horse Farm replaces the stable and provides abonus to Health and Happiness with horses.</French>
+		<French>La ferme de chevaux kazakh remplace l'écurie et procure un bonus de santé et de bonheur avec la ressource 'cheval'.</French>
 		<German>The Kazakh Horse Farm replaces the stable and provides abonus to Health and Happiness with horses.</German>
 		<Italian>The Kazakh Horse Farm replaces the stable and provides abonus to Health and Happiness with horses.</Italian>
 		<Spanish>The Kazakh Horse Farm replaces the stable and provides abonus to Health and Happiness with horses.</Spanish>

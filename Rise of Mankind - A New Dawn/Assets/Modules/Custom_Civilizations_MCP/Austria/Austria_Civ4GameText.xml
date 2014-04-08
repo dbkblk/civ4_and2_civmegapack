@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_DESC</Tag>
 		<English>Austrian Empire</English>
-		<French>Empire d'Autriche</French>
+		<French>Autriche</French>
 		<German>Kaisertum Osterreich</German>
 		<Italian>Impero Austriaco</Italian>
 		<Spanish>Imperio Austriaco</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_SHORT_DESC</Tag>
 		<English>Austria</English>
-		<French>Autriche</French>
+		<French>Autrichiens</French>
 		<German>Osterre</German>
 		<Italian>Austria</Italian>
 		<Spanish>Austria</Spanish>
@@ -24,7 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
 		<English>Austrian</English>
-		<French>Autrichenne</French>
+    <French>
+      <Text>autrichien:autrichienne:autrichiens:autrichiennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Osterreichische</German>
 		<Italian>Austriaco</Italian>
 		<Spanish>Austriaco</Spanish>

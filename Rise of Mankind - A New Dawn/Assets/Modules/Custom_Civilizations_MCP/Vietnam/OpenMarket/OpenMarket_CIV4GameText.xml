@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
     <TEXT>
 		<Tag>TXT_KEY_BUILDING_VIETNAM_OPENMARKET</Tag>
 		<English>Open Market</English>
-		<French>Open Market</French>
+		<French>Marché libre</French>
 		<German>Open Market</German>
 		<Italian>Open Market</Italian>
 		<Spanish>Open Market</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_VIETNAM_OPENMARKET_STRATEGY</Tag>
 		<English>The Vietnamese replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Open Market[COLOR_REVERT], which gives a minor production boost and is cheaper to build.</English>
-		<French>The Vietnamese replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Open Market[COLOR_REVERT], which gives a minor production boost and is cheaper to build.</French>
+		<French>L'équivalent vietnamien du [COLOR_BUILDING_TEXT]marché[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]marché libre[COLOR_REVERT], qui procure un bonus de production et est moins cher à construire.</French>
 		<German>The Vietnamese replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Open Market[COLOR_REVERT], which gives a minor production boost and is cheaper to build.</German>
 		<Italian>The Vietnamese replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Open Market[COLOR_REVERT], which gives a minor production boost and is cheaper to build.</Italian>
 		<Spanish>The Vietnamese replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Open Market[COLOR_REVERT], which gives a minor production boost and is cheaper to build.</Spanish>

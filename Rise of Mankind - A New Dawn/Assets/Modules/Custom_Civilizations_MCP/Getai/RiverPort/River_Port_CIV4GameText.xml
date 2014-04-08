@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GETAI_PORT</Tag>
 		<English>Getic River Port</English>
-		<French>Getic River Port</French>
+		<French>Port de rivière gète</French>
 		<German>Getic River Port</German>
 		<Italian>Getic River Port</Italian>
 		<Spanish>Getic River Port</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GETAI_PORT_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</English>
-		<French>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</French>
+		<French>Le [COLOR_BUILDING_TEXT]port de rivière gète[COLOR_REVERT] remplace la [COLOR_BUILDING_TEXT]digue[COLOR_REVERT] et procure une route de commerce additionnelle et un bonus de santé dans la ville dans laquelle il est construit.</French>
 		<German>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</Spanish>

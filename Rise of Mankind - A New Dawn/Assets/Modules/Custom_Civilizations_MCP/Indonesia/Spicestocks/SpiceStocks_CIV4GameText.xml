@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS</Tag>
 		<English>Spice Stocks</English>
-		<French>Spice Stocks</French>
+		<French>Marché aux épices</French>
 		<German>Spice Stocks</German>
 		<Italian>Spice Stocks</Italian>
 		<Spanish>Spice Stocks</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS_STRATEGY</Tag>
 		<English>Indonesia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spice Stocks[COLOR_REVERT], which give a gold boost.</English>
-		<French>Indonesia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spice Stocks[COLOR_REVERT], which give a gold boost.</French>
+		<French>L'indonésie remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] par le [COLOR_BUILDING_TEXT]marché aux épices[COLOR_REVERT], qui procure un bonus d'or.</French>
 		<German>Indonesia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spice Stocks[COLOR_REVERT], which give a gold boost.</German>
 		<Italian>Indonesia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spice Stocks[COLOR_REVERT], which give a gold boost.</Italian>
 		<Spanish>Indonesia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spice Stocks[COLOR_REVERT], which give a gold boost.</Spanish>

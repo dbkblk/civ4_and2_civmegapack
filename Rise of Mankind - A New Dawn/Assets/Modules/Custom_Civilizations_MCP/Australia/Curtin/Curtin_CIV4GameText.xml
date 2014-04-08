@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CURTIN_1</Tag>
 		<English>Greetings, [CT_NAME].  The game is not lost - or won - until the last bell goes.</English>
-		<French>Greetings, [CT_NAME]. Le jeu n'est pas perdu - ou gagné - jusqu'à ce que la dernière cloche disparaisse.</French>
+		<French>Salutations, [CT_NAME]. Le jeu n'est pas perdu - ou gagné - jusqu'à ce que la dernière cloche retentisse.</French>
 		<German>Greetings, [CT_NAME]. Das Spiel ist nicht verloren - oder gewonnen - bis die letzte Glocke geht.</German>
 		<Italian>Greetings, [CT_NAME]. Il gioco non è perso - o vinto - fino a che l'ultima flangia non vada.</Italian>
 		<Spanish>Greetings, [CT_NAME]. El juego no se pierde - o ganado - hasta que va la campana pasada.</Spanish>

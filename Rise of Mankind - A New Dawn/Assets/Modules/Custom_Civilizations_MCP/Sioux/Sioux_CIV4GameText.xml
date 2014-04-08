@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
 		<English>Sioux Empire</English>
-		<French>Sioux Empire</French>
+		<French>Indiens Sioux</French>
 		<German>Sioux Empire</German>
 		<Italian>Sioux Empire</Italian>
 		<Spanish>Sioux Empire</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SIOUX_ADJECTIVE</Tag>
 		<English>Sioux</English>
-		<French>Sioux</French>
+    <French>
+	    <Text>sioux:sioux:sioux:sioux</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Sioux</German>
 		<Italian>Sioux</Italian>
 		<Spanish>Sioux</Spanish>

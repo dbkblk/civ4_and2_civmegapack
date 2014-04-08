@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_DENMARK_GUARD</Tag>
 		<English>Guard Hussar</English>
-		<French>Guard Hussar</French>
+		<French>Garde hussard</French>
 		<German>Guard Hussar</German>
 		<Italian>Guard Hussar</Italian>
 		<Spanish>Guard Hussar</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_DENMARK_GUARD_STRATEGY</Tag>
 		<English>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Guard Hussar[COLOR_REVERT] (the Danish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It also receives an extra bonus against [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT].</English>
-		<French>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Guard Hussar[COLOR_REVERT] (the Danish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It also receives an extra bonus against [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT].</French>
+		<French>Cette unité marque la transition des unités de combat rapproché aux unités montées à poudre à canon. Le [COLOR_UNIT_TEXT]garde hussard[COLOR_REVERT] (équivalent danois du  [COLOR_UNIT_TEXT]cuirassé[COLOR_REVERT]) est l'unité terrestre la plus puissante depuis l'arrivée de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT]. Elle reçoit un bonus additionnel contre les [COLOR_UNIT_TEXT]canons[COLOR_REVERT].</French>
 		<German>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Guard Hussar[COLOR_REVERT] (the Danish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It also receives an extra bonus against [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT].</German>
 		<Italian>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Guard Hussar[COLOR_REVERT] (the Danish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It also receives an extra bonus against [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT].</Italian>
 		<Spanish>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Guard Hussar[COLOR_REVERT] (the Danish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It also receives an extra bonus against [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT].</Spanish>

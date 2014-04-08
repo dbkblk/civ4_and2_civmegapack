@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SWISS_ZOLL_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</English>
-		<French>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</French>
+		<French>Un [COLOR_BUILDING_TEXT]zoll[COLOR_REVERT] (équivalent suisse d'une [COLOR_BUILDING_TEXT]banque[COLOR_REVERT]) augmente la richesse de la ville.</French>
 		<German>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</Spanish>

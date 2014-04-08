@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_OLMEC_BLACKAXE</Tag>
 		<English>Black Axe</English>
-		<French>Black Axe</French>
+		<French>Hache noire</French>
 		<German>Black Axe</German>
 		<Italian>Black Axe</Italian>
 		<Spanish>Black Axe</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_OLMEC_BLACKAXE_STRATEGY</Tag>
 		<English>The Olmec [COLOR_UNIT_TEXT]Black Axe[COLOR_REVERT] is faster than other axemen, and receives the Guerilla I promotion, giving it an additional defense bonus on hills.</English>
-		<French>The Olmec [COLOR_UNIT_TEXT]Black Axe[COLOR_REVERT] is faster than other axemen, and receives the Guerilla I promotion, giving it an additional defense bonus on hills.</French>
+		<French>La [COLOR_UNIT_TEXT]hache noire[COLOR_REVERT] olmèque est plus rapide que les autres soldats avec hache, et reçoit la promotion 'guérilla I', lui procure un avantage de défense sur les collines.</French>
 		<German>The Olmec [COLOR_UNIT_TEXT]Black Axe[COLOR_REVERT] is faster than other axemen, and receives the Guerilla I promotion, giving it an additional defense bonus on hills.</German>
 		<Italian>The Olmec [COLOR_UNIT_TEXT]Black Axe[COLOR_REVERT] is faster than other axemen, and receives the Guerilla I promotion, giving it an additional defense bonus on hills.</Italian>
 		<Spanish>The Olmec [COLOR_UNIT_TEXT]Black Axe[COLOR_REVERT] is faster than other axemen, and receives the Guerilla I promotion, giving it an additional defense bonus on hills.</Spanish>

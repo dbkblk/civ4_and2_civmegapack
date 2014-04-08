@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PHILIPPINES_NIPA_HUT</Tag>
 		<English>Nipa Hut</English>
-		<French>Nipa Hut</French>
+		<French>Hutte Nipa</French>
 		<German>Nipa Hut</German>
 		<Italian>Nipa Hut</Italian>
 		<Spanish>Nipa Hut</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PHILIPPINES_NIPA_HUT_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Nipa Hut[COLOR_REVERT] (the Flippino replacement for a [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]) increases the production generated within a city.</English>
-		<French>A [COLOR_BUILDING_TEXT]Nipa Hut[COLOR_REVERT] (the Flippino replacement for a [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]) increases the production generated within a city.</French>
+		<French>Une [COLOR_BUILDING_TEXT]hutte Nipa[COLOR_REVERT] (équivalent philippin du [COLOR_BUILDING_TEXT]grenier[COLOR_REVERT]) augmente la production générée dans une ville.</French>
 		<German>A [COLOR_BUILDING_TEXT]Nipa Hut[COLOR_REVERT] (the Flippino replacement for a [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]) increases the production generated within a city.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Nipa Hut[COLOR_REVERT] (the Flippino replacement for a [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]) increases the production generated within a city.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Nipa Hut[COLOR_REVERT] (the Flippino replacement for a [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]) increases the production generated within a city.</Spanish>

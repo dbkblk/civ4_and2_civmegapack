@@ -2,7 +2,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AKKADIAN_DESC</Tag>
 		<English>Akkadian Empire</English>
-		<French>Akkadian Empire</French>
+		<French>Empire d'Akkad</French>
 		<German>Akkadian Empire</German>
 		<Italian>Akkadian Empire</Italian>
 		<Spanish>Akkadian Empire</Spanish>
@@ -10,7 +10,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AKKADIAN_SHORT_DESC</Tag>
 		<English>Akkad</English>
-		<French>Akkad</French>
+		<French>Akkadiens</French>
 		<German>Akkad</German>
 		<Italian>Akkad</Italian>
 		<Spanish>Akkad</Spanish>
@@ -18,7 +18,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AKKADIAN_ADJECTIVE</Tag>
 		<English>Akkadian</English>
-		<French>Akkadian</French>
+    <French>
+      <Text>akkadien:akkadienne:akkadiens:akkadiennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Akkadian</German>
 		<Italian>Akkadian</Italian>
 		<Spanish>Akkadian</Spanish>
@@ -42,7 +46,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AKKADIAN_COMPOSITE_BOWMAN</Tag>
 		<English>Composite Bowman</English>
-		<French>Composite Bowman</French>
+		<French>Archer composite</French>
 		<German>Composite Bowman</German>
 		<Italian>Composite Bowman</Italian>
 		<Spanish>Composite Bowman</Spanish>
@@ -50,7 +54,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR</Tag>
 		<English>Temple of Ishtar</English>
-		<French>Temple of Ishtar</French>
+		<French>Temple d'Ishtar</French>
 		<German>Temple of Ishtar</German>
 		<Italian>Temple of Ishtar</Italian>
 		<Spanish>Temple of Ishtar</Spanish>
@@ -121,7 +125,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AKKADIAN_COMPOSITE_BOWMAN_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]Composite Bowman[COLOR_REVERT] (the Akkadian replacement for the [COLOR_UNIT_TEXT]Archer[COLOR_REVERT]) start with Shock 1 and get an extra first strike chance.</English>
-		<French>The [COLOR_UNIT_TEXT]Composite Bowman[COLOR_REVERT] (the Akkadian replacement for the [COLOR_UNIT_TEXT]Archer[COLOR_REVERT]) start with Shock 1 and get an extra first strike chance.</French>
+                <French>L'[COLOR_UNIT_TEXT]archer composite[COLOR_REVERT] (équivalent akkadien de l'[COLOR_UNIT_TEXT]archer[COLOR_REVERT]) démarre avec la promotion 'choc I' et obtient une première attaque supplémentaire.</French>
 		<German>The [COLOR_UNIT_TEXT]Composite Bowman[COLOR_REVERT] (the Akkadian replacement for the [COLOR_UNIT_TEXT]Archer[COLOR_REVERT]) start with Shock 1 and get an extra first strike chance.</German>
 		<Italian>The [COLOR_UNIT_TEXT]Composite Bowman[COLOR_REVERT] (the Akkadian replacement for the [COLOR_UNIT_TEXT]Archer[COLOR_REVERT]) start with Shock 1 and get an extra first strike chance.</Italian>
 		<Spanish>The [COLOR_UNIT_TEXT]Composite Bowman[COLOR_REVERT] (the Akkadian replacement for the [COLOR_UNIT_TEXT]Archer[COLOR_REVERT]) start with Shock 1 and get an extra first strike chance.</Spanish>
@@ -137,7 +141,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR_STRATEGY</Tag>
 		<English>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</English>
-		<French>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</French>
+                <French>Un [COLOR_BUILDING_TEXT]temple d'Ishtar[COLOR_REVERT] est un [COLOR_BUILDING_TEXT]bordel[COLOR_REVERT] qui permet deux prêtres.</French>
 		<German>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</German>
 		<Italian>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</Italian>
 		<Spanish>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</Spanish>
@@ -159,7 +163,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SARGON_1</Tag>
 		<English>Greetings! I am [OUR_NAME], the true king of Akkad. No, really, I mean it. Did somebody tell you something else? True king, seriously.</English>
-		<French>Salutations ! Je suis [OUR_NAME], je r&#232;gne sur l'[OUR_EMPIRE]. Je souhaite que nos deux grands peuples puissent vivre en paix.</French>
+                <French>Salutations ! Je suis [OUR_NAME], le vrai roi d'Akkad. Non, vraiment, je le pense. Quelqu'un vous aurait-il dit le contraire ? Le vrai roi, sérieusement.</French>
 		<German>Seid gegr&#252;&#223;t! Ich bin [OUR_NAME], Staatsoberhaupt des [OUR_EMPIRE:3]es. Ich hoffe, unsere gro&#223;artigen V&#246;lker werden in Frieden zusammenleben.</German>
 		<Italian>Saluti! Io sono [OUR_NAME] dell'[OUR_EMPIRE]. Spero che i nostri due grandi popoli possano vivere in pace.</Italian>
 		<Spanish>Saludos. &#161;Soy [OUR_NAME], del [OUR_EMPIRE]! Espero que nuestros dos grandes pueblos puedan vivir en paz.</Spanish>
@@ -167,7 +171,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ENHEDUANNA_1</Tag>
 		<English>Ah, welcome [CT_NAME].  I have just finished the most perfect poem, care to hear it?</English>
-		<French>Salutations ! Je suis [OUR_NAME], je r&#232;gne sur l'[OUR_EMPIRE]. Je souhaite que nos deux grands peuples puissent vivre en paix.</French>
+                <French>Ah ! Bienvenue [OUR_NAME]. Je viens juste de terminer le plus parfait des poèmes, voulez-vous l'écouter ?</French>
 		<German>Seid gegr&#252;&#223;t! Ich bin [OUR_NAME], Staatsoberhaupt des [OUR_EMPIRE:3]es. Ich hoffe, unsere gro&#223;artigen V&#246;lker werden in Frieden zusammenleben.</German>
 		<Italian>Saluti! Io sono [OUR_NAME] dell'[OUR_EMPIRE]. Spero che i nostri due grandi popoli possano vivere in pace.</Italian>
 		<Spanish>Saludos. &#161;Soy [OUR_NAME], del [OUR_EMPIRE]! Espero que nuestros dos grandes pueblos puedan vivir en paz.</Spanish>
@@ -175,7 +179,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_SARGON_1</Tag>
 		<English>You wish to speak? I will listen to you when you are dead, [CT_NAME]!</English>
-		<French>Vos bavardages incessants ne nous amusent pas, [CT_NAME] !</French>
+                <French>Vous souhaitez me parler ? Je vous écouterais une fois que vous serez mort, [CT_NAME] !</French>
 		<German>Euer bedeutungsloses Geschwafel am&#252;siert uns ganz und gar nicht, [CT_NAME]!</German>
 		<Italian>I tuoi balbettii senza senso non sono affatto divertenti, [CT_NAME]!</Italian>
 		<Spanish>&#161;No nos hace gracia vuestra ch&#225;chara absurda, [CT_NAME]!</Spanish>
@@ -183,7 +187,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_NO_PEACE_LEADER_SARGON_1</Tag>
 		<English>Coward! There will be peace only when your hapless empire is overrun by mighty Akkad!</English>
-		<French>La guerre est tr&#232;s d&#233;plaisante, mais parfois n&#233;cessaire. Il appara&#238;t que nous sommes dans cette situation, aussi devons-nous rejeter votre requ&#234;te. Cette entrevue est termin&#233;e.</French>
+                <French>Traître ! Paix il y aura quand votre empire malchanceux aura été écrasé par le terrifiant empire d'Akkad !</French>
 		<German>Kriege sind eine h&#246;chst unangenehme Sache, manchmal aber auch unumg&#228;nglich. Und wie ich h&#246;re, ist das in diesem Fall so, deshalb muss ich Euer Anliegen zur&#252;ckweisen. Diese Unterhaltung ist beendet!</German>
 		<Italian>La guerra non &#232; per niente piacevole, ma a volte &#232; necessaria. Questa &#232; una di quelle volte, perci&#242; dobbiamo respingere le tue suppliche. L'udienza termina qui.</Italian>
 		<Spanish>La guerra es harto desagradable, pero a veces resulta necesaria. Nos informan de que &#233;sta es una de esas veces, as&#237; que debemos rechazar vuestras s&#250;plicas. La audiencia ha terminado.</Spanish>
@@ -191,7 +195,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SARGON_1</Tag>
 		<English>My dear friend, [CT_NAME], to what do I owe this visit? Shall we go to battle together and feast upon the flesh of our enemies? Or we could have a cup of tea, if you'd rather.</English>
-		<French>Je vous souhaite la bienvenue ! Venez, allons d&#233;truire nos ennemis du haut de nos chars et laissons cinquante mille cadavres sur le champ de bataille pour le festin des corbeaux !</French>
+                <French>Cher ami, [CT_NAME], à  quoi dois-je le plaisir de cette visite ? Allons-nous combattrre ensemble et festoyer sur la peau de notre ennemi ? Ou préfereriez-vous une tasse de thé ?</French>
 		<German>Willkommen! Lasst uns unsere Streitwagen anspannen und unsere Feinde vernichten! M&#246;gen die Gefallenen auf dem Schlachtfeld ein Festmahl f&#252;r die Geier sein!</German>
 		<Italian>Salve, ti do il benvenuto! Montiamo sulle bighe e distruggiamo i nemici, lasceremo sul campo di battaglia solamente i cadaveri perch&#233; se ne sfamino i corvi!</Italian>
 		<Spanish>&#161;Os saludamos, camarada! Venga, montemos en los carros, destruyamos a nuestros enemigos y dejemos cincuenta mil cad&#225;veres pudri&#233;ndose en el campo de batalla como pasto para los cuervos.</Spanish>
@@ -199,7 +203,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SARGON_1</Tag>
 		<English>Oh, how wonderf - oh, excuse me, [CT_NAME]. I saw your ugly head and for a moment I thought my soldiers were carrying it in on a pole.</English>
-		<French>Bonjour, [CT_NAME]. A quoi devons-nous cette interruption inattendue ?</French>
+		<French>Oh, comme c'est merv... - Oh, excusez moi, [CT_NAME]. Je viens de voir votre horrible visage et j'ai cru pendant un moment que mes soldats le portaient au bout d'une lance ?</French>
 		<German>Guten Tag, [CT_NAME]. Was beschert mir diese unerwartete St&#246;rung?</German>
 		<Italian>Buongiorno a te, [CT_NAME]. A cosa dobbiamo questa interruzione inaspettata?</Italian>
 		<Spanish>Buenos d&#237;as teng&#225;is, [CT_NAME]. &#191;A qu&#233; debemos esta interrupci&#243;n tan inesperada?</Spanish>
@@ -207,7 +211,7 @@ Regarded by literary and historical scholars as the earliest known author and po
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SARGON_1</Tag>
 		<English>Poor, sweet, innocent [OUR_CIV_SHORT] needs your help, [CT_NAME].</English>
-		<French>Les [CT_CIV_ADJ] sont dans le besoin, [CT_NAME]. J'esp&#232;re que vous ne les d&#233;cevrez pas.</French>
+		<French>Les pauvres, doux, innocents [CT_CIV_ADJ] sont dans le besoin, [CT_NAME].</French>
 		<German>Das [CT_CIV_ADJ:3] Volk befindet sich in einer &#252;blen Notlage, [CT_NAME]! Entt&#228;uscht uns nicht!</German>
 		<Italian>Il popolo [CT_CIV_ADJ:1] vive nell'indigenza, [CT_NAME]. Non deluderci.</Italian>
 		<Spanish>El pueblo [CT_CIV_ADJ:1] tiene una gran necesidad, [CT_NAME]. No nos decepcion&#233;is.</Spanish>

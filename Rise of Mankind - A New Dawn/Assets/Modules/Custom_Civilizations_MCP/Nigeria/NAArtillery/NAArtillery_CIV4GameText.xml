@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NIGERIA_NAARTILLERY</Tag>
 		<English>NA Artillery</English>
-		<French>NA Artillery</French>
+		<French>Artillerie NA</French>
 		<German>NA Artillery</German>
 		<Italian>NA Artillery</Italian>
 		<Spanish>NA Artillery</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NIGERIA_NAARTILLERY_STRATEGY</Tag>
 		<English>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</English>
-		<French>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</French>
+		<French>L'[COLOR_UNIT_TEXT]artillerie NA[COLOR_REVERT] nigériane est moins chère que l'[COLOR_UNIT_TEXT]artillerie[COLOR_REVERT], et commence avec la promotion 'ambuscade', la rendant particulièrement efficace contre les unités blindées.</French>
 		<German>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</German>
 		<Italian>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</Italian>
 		<Spanish>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</Spanish>

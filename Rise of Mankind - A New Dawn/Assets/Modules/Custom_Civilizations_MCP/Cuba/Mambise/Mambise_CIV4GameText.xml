@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAMBISE_STRATEGY</Tag>
 		<English>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</English>
-		<French>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</French>
+		<French>Le [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] cubain est une unité montée qui à tous les avantages de la cavalerie avec un bonus de déplacement.</French>
 		<German>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</German>
 		<Italian>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</Italian>
 		<Spanish>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</Spanish>

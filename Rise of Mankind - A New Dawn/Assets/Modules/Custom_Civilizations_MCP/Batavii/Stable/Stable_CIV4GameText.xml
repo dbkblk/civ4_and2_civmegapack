@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BATAVII_STABLE</Tag>
 		<English>Batavian Stables</English>
-		<French>Batavian Stables</French>
+		<French>Écuries bataves</French>
 		<German>Batavian Stables</German>
 		<Italian>Batavian Stables</Italian>
 		<Spanish>Batavian Stables</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BATAVII_STABLE_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built.</English>
-		<French>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</French>
+		<French>L'[COLOR_BUILDING_TEXT]écurie batave[COLOR_REVERT] remplace l'[COLOR_BUILDING_TEXT]écurie des chevaliers[COLOR_REVERT] et procure +5 EXP supplémentaires à toutes les unités montées dans la ville où elle est construite.</French>
 		<German>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</German>
 		<Italian>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</Italian>
 		<Spanish>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</Spanish>

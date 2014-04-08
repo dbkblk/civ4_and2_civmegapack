@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_BURMA_MON</Tag>
 		<English>Mon Warrior</English>
-		<French>Mon Warrior</French>
+		<French>Guerrier mon</French>
 		<German>Mon Warrior</German>
 		<Italian>Mon Warrior</Italian>
 		<Spanish>Mon Warrior</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BURMA_MON_STRATEGY</Tag>
 		<English>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</English>
-		<French>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</French>
+		<French>Cette unité de combat rapproché (équivalent birman du [COLOR_UNIT_TEXT]guerrier[COLOR_REVERT]) reçoit des bonus contre les animaux et en défense sur les collines.</French>
 		<German>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</German>
 		<Italian>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</Italian>
 		<Spanish>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</Spanish>

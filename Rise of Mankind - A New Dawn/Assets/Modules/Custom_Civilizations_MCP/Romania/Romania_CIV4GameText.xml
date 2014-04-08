@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -7,8 +7,8 @@
 		<Tag>TXT_KEY_CIV_ROMANIA_DESC</Tag>
 		<English>Romanian Empire</English>
 		<French>
-			<Text>Romanian Empire</Text>
-			<Gender>Male</Gender>
+			<Text>Roumanie</Text>
+			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
@@ -31,7 +31,7 @@
 		<Tag>TXT_KEY_CIV_ROMANIA_SHORT_DESC</Tag>
 		<English>Romania</English>
 		<French>
-			<Text>Romania</Text>
+			<Text>Roumains</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -65,11 +65,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMANIA_ADJECTIVE</Tag>
 		<English>Romanian</English>
-		<French>
-			<Text>Romanian</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
+    <French>
+	    <Text>roumain:roumaine:roumains:roumaines</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>
 			<Text>Romanian</Text>
 			<Gender>Neuter</Gender>
@@ -400,24 +400,24 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TARGUMURES</Tag>
-		<English>Târgu-Mures</English>
+		<English>TÃ¢rgu-Mures</English>
 		<French>
-			<Text>Târgu-Mures</Text>
+			<Text>TÃ¢rgu-Mures</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Târgu-Mures</Text>
+			<Text>TÃ¢rgu-Mures</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Târgu-Mures</Text>
+			<Text>TÃ¢rgu-Mures</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Târgu-Mures</Text>
+			<Text>TÃ¢rgu-Mures</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -520,24 +520,24 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_RAMNICUVALCEA</Tag>
-		<English>Râmnicu Vâlcea</English>
+		<English>RÃ¢mnicu VÃ¢lcea</English>
 		<French>
-			<Text>Râmnicu Vâlcea</Text>
+			<Text>RÃ¢mnicu VÃ¢lcea</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Râmnicu Vâlcea</Text>
+			<Text>RÃ¢mnicu VÃ¢lcea</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Râmnicu Vâlcea</Text>
+			<Text>RÃ¢mnicu VÃ¢lcea</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Râmnicu Vâlcea</Text>
+			<Text>RÃ¢mnicu VÃ¢lcea</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -640,24 +640,24 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TARGUJIU</Tag>
-		<English>Târgu-Jiu</English>
+		<English>TÃ¢rgu-Jiu</English>
 		<French>
-			<Text>Târgu-Jiu</Text>
+			<Text>TÃ¢rgu-Jiu</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Târgu-Jiu</Text>
+			<Text>TÃ¢rgu-Jiu</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Târgu-Jiu</Text>
+			<Text>TÃ¢rgu-Jiu</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Târgu-Jiu</Text>
+			<Text>TÃ¢rgu-Jiu</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>

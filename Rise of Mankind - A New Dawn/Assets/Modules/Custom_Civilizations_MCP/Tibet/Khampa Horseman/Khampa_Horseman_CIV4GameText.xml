@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_KHAMPA_HORSEMAN</Tag>
 		<English>Khampa Horseman</English>
-		<French>Khampa Horseman</French>
+		<French>Cavalier khampa</French>
 		<German>Khampa Horseman</German>
 		<Italian>Khampa Horseman</Italian>
 		<Spanish>Khampa Jinete</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_KHAMPA_HORSEMAN_STRATEGY</Tag>
 		<English>This powerful mounted unit (the Tibetan replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]) is excellent when attacking cities. And if the city is heavily defended, can get much benefit looting around.</English>
-		<French>Cette puissante unité à cheval (le remplaçant pour la tibétain [COLOR_UNIT_TEXT]rcher mont&#233;[COLOR_REVERT]), est excellent quand attaquer les villes. Et si la ville est fortement défendue, peut obtenir beaucoup d'avantages pillage autour.</French>
+		<French>Cette puissante unité à cheval (équivalent tibétain de l'[COLOR_UNIT_TEXT]archer monté[COLOR_REVERT]), est excellent pour attaquer les villes. Si elle est lourdement défendue, elle peut rôder et piller autour de la ville.</French>
 		<German>Dieses leistungsstarke Gerät montiert (die tibetische Ersatz für die [COLOR_UNIT_TEXT]Berittener Bogensch&#252;tze[COLOR_REVERT]), ist exzellent, wenn Angriffe auf Städte. Und wenn die Stadt stark verteidigt, viel Nutzen bringen kann Plünderungen herum.</German>
 		<Italian>Questo potente unità montate (il tibetano per la sostituzione [COLOR_UNIT_TEXT]Arciere a cavallo[COLOR_REVERT]), è eccellente quando si attaccano città. E se la città è fortemente difeso, può ottenere molto beneficio saccheggi in giro.</Italian>
 		<Spanish>Esta poderosa unidad montada (el sustituto tibetano del [COLOR_UNIT_TEXT]Arquero a caballo[COLOR_REVERT]), es excelente al atacar ciudades. Y si la ciudad esta muy defendida, puede sacar mucho beneficio saqueando sus alrededores.</Spanish>

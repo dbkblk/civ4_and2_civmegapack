@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -197,7 +197,7 @@ The pioneer of Arabic socialism and the leader of their struggle in one of the m
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_NASSER_1</Tag>
 		<English>I am [OUR_NAME].  I suspect that you another imperialist seeking to exploit the [OUR_EMPIRE], am I wrong?</English>
-		<French>I am [OUR_NAME].  I suspect that you another imperialist seeking to exploit the [OUR_EMPIRE], am I wrong?</French>
+		<French>Je suis [OUR_NAME].  Je vous suspecte de n'être qu'un autre impérialiste tentant de nous exploiter. Me donneriez-vous tord ?</French>
 		<German>I am [OUR_NAME].  I suspect that you another imperialist seeking to exploit the [OUR_EMPIRE], am I wrong?</German>
 		<Italian>I am [OUR_NAME].  I suspect that you another imperialist seeking to exploit the [OUR_EMPIRE], am I wrong?</Italian>
 		<Spanish>I am [OUR_NAME].  I suspect that you another imperialist seeking to exploit the [OUR_EMPIRE], am I wrong?</Spanish>	

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PICTS_DESC</Tag>
 		<English>Pictish Empire</English>
-		<French>Pictish Empire</French>
+		<French>Tribu picte</French>
 		<German>Pictish Empire</German>
 		<Italian>Pictish Empire</Italian>
 		<Spanish>Pictish Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PICTS_SHORT_DESC</Tag>
 		<English>Pictland</English>
-		<French>Pictland</French>
+		<French>Pictes</French>
 		<German>Pictland</German>
 		<Italian>Pictland</Italian>
 		<Spanish>Pictland</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PICTS_ADJECTIVE</Tag>
 		<English>Pictish</English>
-		<French>Pictish</French>
+    <French>
+	    <Text>picte:picte:pictes:pictes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Pictish</German>
 		<Italian>Pictish</Italian>
 		<Spanish>Pictish</Spanish>

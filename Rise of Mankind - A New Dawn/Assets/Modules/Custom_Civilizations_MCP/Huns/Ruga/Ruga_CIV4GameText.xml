@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_RUGA_1</Tag>
 		<English>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</English>
-		<French>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</French>
+		<French>Je suis Ruga des Huns.  Manquez-nous de respect et vous le payerez de votre or et de votre sang.</French>
 		<German>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</German>
 		<Italian>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</Italian>
 		<Spanish>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</Spanish>

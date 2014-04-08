@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SHISHUNAGA_1</Tag>
 		<English>Humble yourself, [CT_NAME].  A sacred land demands piety.</English>
-		<French>Humble yourself, [CT_NAME].  A sacred land demands piety.</French>
+		<French>Soyez humble, [CT_NAME].  Une terre sacrée requiert de la piété.</French>
 		<German>Humble yourself, [CT_NAME].  A sacred land demands piety.</German>
 		<Italian>Humble yourself, [CT_NAME].  A sacred land demands piety.</Italian>
 		<Spanish>Humble yourself, [CT_NAME].  A sacred land demands piety.</Spanish>

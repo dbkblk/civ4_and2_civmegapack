@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VENEZUELA_DESC</Tag>
 		<English>Venezuelan Empire</English> 
-		<French>Venezuelan Empire</French>
+		<French>VÃ©nÃ©zuÃ©la</French>
 		<German>Venezuelan Empire</German>
 		<Italian>Venezuelan Empire</Italian>
 		<Spanish>Venezuelan Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VENEZUELA_SHORT_DESC</Tag>
 		<English>Venezuela</English>
-		<French>Venezuela</French>
+		<French>VÃ©nÃ©zuÃ©liens</French>
 		<German>Venezuela</German>
 		<Italian>Venezuela</Italian>
 		<Spanish>Venezuela</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VENEZUELA_ADJECTIVE</Tag>
 		<English>Venezuelan</English>
-		<French>Venezuelan</French>
+    <French>
+      <Text>vÃ©nÃ©zuÃ©lien:vÃ©nÃ©zuÃ©lienne:vÃ©nÃ©zuÃ©liens:vÃ©nÃ©zuÃ©liennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Venezuelan</German>
 		<Italian>Venezuelan</Italian>
 		<Spanish>Venezuelan</Spanish>
@@ -39,15 +43,15 @@
 	
 	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
 
-Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuela—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolution—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now CumanÃ¡. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, VenezuelaÂ—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French RevolutionÂ—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
 
-Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+Sovereignty was only attained after Simon Bolivar, aided by JosÃ© Antonio PÃ¡ez and Antonio JosÃ© de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave BolÃ­var control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for BolÃ­var, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by PÃ¡ez allowed the proclamation of a new Republic of Venezuela; PÃ¡ez became its first president.
 
-Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente GÃ³mez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
 
 	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
 
-	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavez’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from ChavezÂ’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
 
 	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
 
@@ -63,15 +67,15 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	
 	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
 
-Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuela—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolution—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now CumanÃ¡. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, VenezuelaÂ—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French RevolutionÂ—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
 
-Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+Sovereignty was only attained after Simon Bolivar, aided by JosÃ© Antonio PÃ¡ez and Antonio JosÃ© de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave BolÃ­var control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for BolÃ­var, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by PÃ¡ez allowed the proclamation of a new Republic of Venezuela; PÃ¡ez became its first president.
 
-Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente GÃ³mez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
 
 	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
 
-	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavez’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from ChavezÂ’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
 
 	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
 
@@ -87,15 +91,15 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	
 	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
 
-Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuela—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolution—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now CumanÃ¡. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, VenezuelaÂ—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French RevolutionÂ—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
 
-Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+Sovereignty was only attained after Simon Bolivar, aided by JosÃ© Antonio PÃ¡ez and Antonio JosÃ© de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave BolÃ­var control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for BolÃ­var, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by PÃ¡ez allowed the proclamation of a new Republic of Venezuela; PÃ¡ez became its first president.
 
-Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente GÃ³mez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
 
 	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
 
-	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavez’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from ChavezÂ’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
 
 	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
 
@@ -111,15 +115,15 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	
 	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
 
-Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuela—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolution—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now CumanÃ¡. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, VenezuelaÂ—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French RevolutionÂ—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
 
-Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+Sovereignty was only attained after Simon Bolivar, aided by JosÃ© Antonio PÃ¡ez and Antonio JosÃ© de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave BolÃ­var control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for BolÃ­var, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by PÃ¡ez allowed the proclamation of a new Republic of Venezuela; PÃ¡ez became its first president.
 
-Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente GÃ³mez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
 
 	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
 
-	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavez’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from ChavezÂ’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
 
 	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
 
@@ -135,15 +139,15 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	
 	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
 
-Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuela—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolution—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now CumanÃ¡. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, VenezuelaÂ—under the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French RevolutionÂ—declared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
 
-Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+Sovereignty was only attained after Simon Bolivar, aided by JosÃ© Antonio PÃ¡ez and Antonio JosÃ© de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave BolÃ­var control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for BolÃ­var, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by PÃ¡ez allowed the proclamation of a new Republic of Venezuela; PÃ¡ez became its first president.
 
-Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente GÃ³mez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
 
 	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
 
-	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavez’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from ChavezÂ’s previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
 
 	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
 
@@ -320,24 +324,24 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MATURIN</Tag>
-		<English>Maturín</English>
+		<English>MaturÃ­n</English>
 		<French>
-			<Text>Maturín</Text>
+			<Text>MaturÃ­n</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Maturín</Text>
+			<Text>MaturÃ­n</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Maturín</Text>
+			<Text>MaturÃ­n</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Maturín</Text>
+			<Text>MaturÃ­n</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -368,24 +372,24 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CIUDAD_BOLIVAR</Tag>
-		<English>Ciudad Bolívar</English>
+		<English>Ciudad BolÃ­var</English>
 		<French>
-			<Text>Ciudad Bolívar</Text>
+			<Text>Ciudad BolÃ­var</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Ciudad Bolívar</Text>
+			<Text>Ciudad BolÃ­var</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Ciudad Bolívar</Text>
+			<Text>Ciudad BolÃ­var</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Ciudad Bolívar</Text>
+			<Text>Ciudad BolÃ­var</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -440,48 +444,48 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CUMANA</Tag>
-		<English>Cumaná</English>
+		<English>CumanÃ¡</English>
 		<French>
-			<Text>Cumaná</Text>
+			<Text>CumanÃ¡</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Cumaná</Text>
+			<Text>CumanÃ¡</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Cumaná</Text>
+			<Text>CumanÃ¡</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Cumaná</Text>
+			<Text>CumanÃ¡</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_CRISTOBAL</Tag>
-		<English>San Cristóbal</English>
+		<English>San CristÃ³bal</English>
 		<French>
-			<Text>San Cristóbal</Text>
+			<Text>San CristÃ³bal</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>San Cristóbal</Text>
+			<Text>San CristÃ³bal</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>San Cristóbal</Text>
+			<Text>San CristÃ³bal</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>San Cristóbal</Text>
+			<Text>San CristÃ³bal</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -512,24 +516,24 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MERIDA</Tag>
-		<English>Mérida</English>
+		<English>MÃ©rida</English>
 		<French>
-			<Text>Mérida</Text>
+			<Text>MÃ©rida</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Mérida</Text>
+			<Text>MÃ©rida</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Mérida</Text>
+			<Text>MÃ©rida</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Mérida</Text>
+			<Text>MÃ©rida</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -608,24 +612,24 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CUA</Tag>
-		<English>Cúa</English>
+		<English>CÃºa</English>
 		<French>
-			<Text>Cúa</Text>
+			<Text>CÃºa</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Cúa</Text>
+			<Text>CÃºa</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Cúa</Text>
+			<Text>CÃºa</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Cúa</Text>
+			<Text>CÃºa</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -752,24 +756,24 @@ Much of Venezuela's nineteenth century history was characterized by political tu
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_EL_LIMON</Tag>
-		<English>El Limón</English>
+		<English>El LimÃ³n</English>
 		<French>
-			<Text>El Limón</Text>
+			<Text>El LimÃ³n</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>El Limón</Text>
+			<Text>El LimÃ³n</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>El Limón</Text>
+			<Text>El LimÃ³n</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>El Limón</Text>
+			<Text>El LimÃ³n</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>

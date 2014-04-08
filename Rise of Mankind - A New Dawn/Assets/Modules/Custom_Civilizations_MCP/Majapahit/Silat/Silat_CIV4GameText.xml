@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAJAPAHIT_SILAT</Tag>
 		<English>Silat Adept</English>
-		<French>Silat Adept</French>
+		<French>Adepte silat</French>
 		<German>Silat Adept</German>
 		<Italian>Silat Adept</Italian>
 		<Spanish>Silat Adept</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAJAPAHIT_SILAT_STRATEGY</Tag>
 		<English>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</English>
-		<French>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</French>
+		<French>Recrutez cette puissante unité de combat rapproché (équivalent majapahit du [COLOR_UNIT_TEXT]spadassin[COLOR_REVERT]) quand vous voulez attaquer des villes. Elle est légèrement plus puissante que l'unité standard et reçoit une première attaque.</French>
 		<German>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</German>
 		<Italian>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</Italian>
 		<Spanish>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</Spanish>

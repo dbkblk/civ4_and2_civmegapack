@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -41,7 +41,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SELEUCUS_1</Tag>
 		<English>Welcome [CT_NAME] I the god like [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</English>
-		<French>Welcome [CT_NAME] I the god like [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</French>
+		<French>Bienvenue, [CT_NAME]. Moi, [OUR_NAME], le demi-dieu, vous salue.  Devons-nous vivre en paix ou est-ce que le peuple guerrier séleucate doit piller les [CT_EMPIRE] ?</French>
 		<German>Welcome [CT_NAME] I the god like [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</German>
 		<Italian>Welcome [CT_NAME] I the god like [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</Italian>
 		<Spanish>Welcome [CT_NAME] I the god like [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</Spanish>

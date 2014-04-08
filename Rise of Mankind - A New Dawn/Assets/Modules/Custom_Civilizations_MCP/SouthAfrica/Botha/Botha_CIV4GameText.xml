@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_BOTHA_1</Tag>
 		<English>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. The idea of an Afrikaner people as a cultural entity and religious group with a special language will be retained in South Africa as long as civilisation stands.</English>
-		<French>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. The idea of an Afrikaner people as a cultural entity and religious group with a special language will be retained in South Africa as long as civilisation stands.</French>
+		<French>Bienvenue, [CT_NAME]. Je suis [OUR_NAME] de la nation sud-africaine. L'idée d'avoir un peuple afrikaaner en tant qu'entité culturelle et des groupes religieux avec des dialectes indépendants sera maintenue en Afrique du sud, aussi longtemps que notre civilisation vivra.</French>
 		<German>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. The idea of an Afrikaner people as a cultural entity and religious group with a special language will be retained in South Africa as long as civilisation stands.</German>
 		<Italian>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. The idea of an Afrikaner people as a cultural entity and religious group with a special language will be retained in South Africa as long as civilisation stands.</Italian>
 		<Spanish>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. The idea of an Afrikaner people as a cultural entity and religious group with a special language will be retained in South Africa as long as civilisation stands.</Spanish>

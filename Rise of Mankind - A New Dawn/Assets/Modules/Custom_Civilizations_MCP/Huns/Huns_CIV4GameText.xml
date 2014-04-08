@@ -200,7 +200,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HUNS_DESC</Tag>
 		<English>Hunnic Empire</English>
-		<French>Hunnic Empire</French>
+		<French>Peuple des Huns</French>
 		<German>Hunnisches Reich</German>
 		<Italian>Hunnic Empire</Italian>
 		<Spanish>Hunnic Empire</Spanish>
@@ -209,7 +209,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HUNS_SHORT_DESC</Tag>
 		<English>Hunnia</English>
-		<French>Hunnia</French>
+		<French>Huns</French>
 		<German>Hunnien</German>
 		<Italian>Hunnia</Italian>
 		<Spanish>Hunnia</Spanish>
@@ -218,7 +218,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HUNS_ADJECTIVE</Tag>
 		<English>Hunnic</English>
-		<French>Hunnic</French>
+		<French>
+			<Text>hun:hune:huns:hunes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Hunnic</German>
 		<Italian>Hunnic</Italian>
 		<Spanish>Hunnic</Spanish>

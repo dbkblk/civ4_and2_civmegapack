@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
 <!-- -->
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWITZERLAND_DESC</Tag>
 		<English>Swiss Empire</English>
-		<French>Swiss Empire</French>
+		<French>Confédération suisse</French>
 		<German>Swiss Empire</German>
 		<Italian>Swiss Empire</Italian>
 		<Spanish>Swiss Empire</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWITZERLAND_SHORT_DESC</Tag>
 		<English>Switzerland</English>
-		<French>Switzerland</French>
+		<French>Suisses</French>
 		<German>Switzerland</German>
 		<Italian>Switzerland</Italian>
 		<Spanish>Switzerland</Spanish>
@@ -32,7 +32,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWITZERLAND_ADJECTIVE</Tag>
 		<English>Swiss</English>
-		<French>Swiss</French>
+    <French>
+	    <Text>suisse:suisse:suisses:suisses</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Swiss</German>
 		<Italian>Swiss</Italian>
 		<Spanish>Swiss</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_WILLIAMS_1</Tag>
 		<English>Beware: Rash councils now, with each malignant plan, each faction, in that evil hour began, at your approach are in confusion fled, nor while you rule, shall raise their dastard head! With pleasure, I offer my services, [CT_NAME].</English>
-		<French>Beware: Rash councils now, with each malignant plan, each faction, in that evil hour began, at your approach are in confusion fled, nor while you rule, shall raise their dastard head! With pleasure, I offer my services, [CT_NAME].</French>
+		<French>Attention : chaque faction se réunit en comité d'irréflechis, avec des plans malintentionnés, quand bien même alors vous dirigez, et fuit dans la confusion dès lors que vous approchez, en redressant leur tête de lâche ! C'est avec plaisir que je vous offre mes services, [CT_NAME].</French>
 		<German>Beware: Rash councils now, with each malignant plan, each faction, in that evil hour began, at your approach are in confusion fled, nor while you rule, shall raise their dastard head! With pleasure, I offer my services, [CT_NAME].</German>
 		<Italian>Beware: Rash councils now, with each malignant plan, each faction, in that evil hour began, at your approach are in confusion fled, nor while you rule, shall raise their dastard head! With pleasure, I offer my services, [CT_NAME].</Italian>
 		<Spanish>Beware: Rash councils now, with each malignant plan, each faction, in that evil hour began, at your approach are in confusion fled, nor while you rule, shall raise their dastard head! With pleasure, I offer my services, [CT_NAME].</Spanish>

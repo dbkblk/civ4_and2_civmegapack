@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND</Tag>
 		<English>Cricket Ground</English>
-		<French>Cricket Ground</French>
+		<French>Terrain de criquet</French>
 		<German>Cricket Ground</German>
 		<Italian>Cricket Ground</Italian>
 		<Spanish>Cricket Ground</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</English>
-		<French>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</French>
+		<French>Un [COLOR_BUILDING_TEXT]terrain de criquet[COLOR_REVERT] (équivalent caribéen de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT]) obtient un spécialiste marchand au lieu d'un artiste, un petit bonus d'or et un bonus de bonheur supplémentaire.</French>
 		<German>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</German>
 		<Italian>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</Spanish>

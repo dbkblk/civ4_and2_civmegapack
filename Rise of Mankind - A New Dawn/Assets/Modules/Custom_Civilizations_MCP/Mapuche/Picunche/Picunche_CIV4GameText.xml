@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAPUCHE_PICUNCHE</Tag>
 		<English>Picunche Warrior</English>
-		<French>Picunche Warrior</French>
+		<French>Guerrier picunche</French>
 		<German>Picunche Warrior</German>
 		<Italian>Picunche Warrior</Italian>
 		<Spanish>Picunche Warrior</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAPUCHE_PICUNCHE_STRATEGY</Tag>
 		<English>The Mapuche [COLOR_UNIT_TEXT]Picunche Warrior[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], and is devastating against gunpowder units.</English>
-		<French>The Mapuche [COLOR_UNIT_TEXT]Picunche Warrior[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], and is devastating against gunpowder units.</French>
+		<French>Le [COLOR_UNIT_TEXT]guerrier picunche[COLOR_REVERT] mapuche, qui remplace le [COLOR_UNIT_TEXT]soldat avec masse[COLOR_REVERT], est très dévastateur contre les unités à poudre à canon.</French>
 		<German>The Mapuche [COLOR_UNIT_TEXT]Picunche Warrior[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], and is devastating against gunpowder units.</German>
 		<Italian>The Mapuche [COLOR_UNIT_TEXT]Picunche Warrior[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], and is devastating against gunpowder units.</Italian>
 		<Spanish>The Mapuche [COLOR_UNIT_TEXT]Picunche Warrior[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], and is devastating against gunpowder units.</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ALAKSANDU_1</Tag>
 		<English>I am [OUR_NAME] of [OUR_CIV_SHORT]. You may want to protect your feet if you seek war,[CT_NAME].</English>
-		<French>I am [OUR_NAME] of [OUR_CIV_SHORT]. You may want to protect your feet if you seek war,[CT_NAME].</French>
+		<French>Je suis [OUR_NAME] de Troie. Vous feriez bien de protéger vos pieds si vous recherchez la guerre, [CT_NAME].</French>
 		<German>I am [OUR_NAME] of [OUR_CIV_SHORT]. You may want to protect your feet if you seek war,[CT_NAME].</German>
 		<Italian>I am [OUR_NAME] of [OUR_CIV_SHORT]. You may want to protect your feet if you seek war,[CT_NAME].</Italian>
 		<Spanish>I am [OUR_NAME] of [OUR_CIV_SHORT]. You may want to protect your feet if you seek war,[CT_NAME].</Spanish>

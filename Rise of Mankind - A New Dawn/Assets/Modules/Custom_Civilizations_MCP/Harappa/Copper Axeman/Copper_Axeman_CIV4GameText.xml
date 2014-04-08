@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_COPPER_AXEMAN</Tag>
 		<English>Copper Axeman</English>
-		<French>Cuivre Soldat avec hache</French>
+		<French>Soldat avec hache en cuivre</French>
 		<German>Kupfer Axtk&#228;mpfer</German>
 		<Italian>Rame Guerriero con ascia</Italian>
 		<Spanish>Cobre Soldado con hacha</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_COPPER_AXEMAN_STRATEGY</Tag>
 		<English>This powerful melee unit (the Harappan replacement for the [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) is an excellent defender of cities.</English>
-		<French>Produisez cette unit&#233; de combat rapproch&#233; pour contrer d'autres unit&#233;s du m&#234;me type, car elle b&#233;n&#233;ficie alors d'un avantage par rapport &#224; son adversaire.</French>
+		<French>Produisez cette unité de combat rapproché pour contrer d'autres unités du même type, car elle b&#233;n&#233;ficie alors d'un avantage par rapport &#224; son adversaire.</French>
 		<German>Diese Nahkampfeinheit ist vor allem im Kampf gegen andere Nahkampfeinheiten &#252;beraus effektiv.</German>
 		<Italian>Realizza questa unit&#224; da combattimento corpo a corpo per contrastare le altre unit&#224; da mischia, poich&#233; ottiene un aumento di forza contro di esse.</Italian>
 		<Spanish>Esta unidad de cuerpo a cuerpo sirve para contrarrestar a otras unidades de ese mismo tipo, pues obtiene una mejora contra ellas.</Spanish>

@@ -6,7 +6,7 @@
     <TEXT>
 		<Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT</Tag>
 		<English>Fritkot</English>
-		<French>Fritkot</French>
+		<French>Friterie</French>
 		<German>Fritkot</German>
 		<Italian>Fritkot</Italian>
 		<Spanish>Fritkot</Spanish>
@@ -22,7 +22,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT_STRATEGY</Tag>
 		<English>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</English>
-		<French>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</French>
+		<French>La Belgique remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] avec la [COLOR_BUILDING_TEXT]friterie[COLOR_REVERT], qui est moins chère et procure du bonheur supplémentaire, mais dispose d'une réduction de la santé.</French>
 		<German>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</German>
 		<Italian>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</Italian>
 		<Spanish>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</Spanish>

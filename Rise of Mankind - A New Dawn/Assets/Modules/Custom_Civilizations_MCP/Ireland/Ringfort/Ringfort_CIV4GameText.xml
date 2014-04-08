@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_RINGFORT</Tag>
 		<English>Ringfort</English>
-		<French>Ringfort</French>
+		<French>Fort circulaire</French>
 		<German>Ringfort</German>
 		<Italian>Ringfort</Italian>
 		<Spanish>Ringfort</Spanish>
@@ -24,7 +24,7 @@
         <TEXT>
 		<Tag>TXT_KEY_BUILDING_RINGFORT_STRATEGY</Tag>
 		<English>The [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], the Irish replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], offers bonus defense.</English>
-		<French>Le [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], le remplacement de l'irlandais [COLOR_BUILDING_TEXT]Chateaux[COLOR_REVERT], les offres de bonus defense.</French>
+		<French>Le [COLOR_BUILDING_TEXT]fort circulaire[COLOR_REVERT], équivalent irlandais du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], apporte un bonus de défense.</French>
 		<German>Die [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], die Irische Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], bietet bonus verteidigung.</German>
 		<Italian>L'[COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], la sostituzione irlandas per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di difesa.</Italian>
 		<Spanish> El [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], la sustitución de irlandas para el [COLOR_BUILDING_TEXT]Castillo[COLOR_REVERT], ofrece bono de la defensa. </Spanish>

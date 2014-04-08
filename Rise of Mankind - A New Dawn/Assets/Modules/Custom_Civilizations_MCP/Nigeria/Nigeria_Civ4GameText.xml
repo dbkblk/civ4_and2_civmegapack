@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NIGERIA_DESC</Tag>
 		<English>Nigerian Empire</English> 
-		<French>Nigerian Empire</French>
+		<French>Nigeria</French>
 		<German>Nigerian Empire</German>
 		<Italian>Nigerian Empire</Italian>
 		<Spanish>Nigerian Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NIGERIA_ADJECTIVE</Tag>
 		<English>Nigeria</English>
-		<French>Nigeria</French>
+		<French>Nigerians</French>
 		<German>Nigeria</German>
 		<Italian>Nigeria</Italian>
 		<Spanish>Nigeria</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NIGERIA_SHORT_DESC</Tag>
 		<English>Nigerian</English>
-		<French>Nigerian</French>
+    <French>
+	    <Text>nigérian:nigérianne:nigérians:nigériannes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Nigerian</German>
 		<Italian>Nigerian</Italian>
 		<Spanish>Nigerian</Spanish>

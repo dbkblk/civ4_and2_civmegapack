@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCYTHIA_DESC</Tag>
 		<English>Scythian Empire</English>
-		<French>Scythian Empire</French>
+		<French>Scythie</French>
 		<German>Scythian Empire</German>
 		<Italian>Scythian Empire</Italian>
 		<Spanish>Scythian Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCYTHIA_SHORT_DESC</Tag>
 		<English>Scythia</English>
-		<French>Scythia</French>
+		<French>Scythes</French>
 		<German>Scythia</German>
 		<Italian>Scythia</Italian>
 		<Spanish>Scythia</Spanish>
@@ -30,7 +30,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCYTHIA_ADJECTIVE</Tag>
 		<English>Scythian</English>
-		<French>Scythian</French>
+    <French>
+	    <Text>scythe:scythe:scythes:scythes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Scythian</German>
 		<Italian>Scythian</Italian>
 		<Spanish>Scythian</Spanish>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_DESC</Tag>
 		<English>Phoenician Empire</English>
-		<French>Phoenician Empire</French>
+		<French>Phénicie</French>
 		<German>Phoenician Empire</German>
 		<Italian>Phoenician Empire</Italian>
 		<Spanish>Phoenician Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_SHORT_DESC</Tag>
 		<English>Phoenicia</English>
-		<French>Phoenicia</French>
+		<French>Phéniciens</French>
 		<German>Phoenicia</German>
 		<Italian>Phoenicia</Italian>
 		<Spanish>Phoenicia</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_ADJECTIVE</Tag>
 		<English>Phoenician</English>
-		<French>Phoenician</French>
+    <French>
+      <Text>phénicien:phénicienne:phéniciens:phéniciennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Phoenician</German>
 		<Italian>Phoenician</Italian>
 		<Spanish>Phoenician</Spanish>

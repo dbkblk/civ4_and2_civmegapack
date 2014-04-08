@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -34,9 +34,9 @@ Today, feelings are mixed about Glyndwr and the strategies he used. He was said 
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_OWAIN_GLYNDWR_1</Tag>
 		<English>Good day, I am [OUR_NAME].  You shall neither take my, nor my country's land.</English>
-		<French>Bonne journée, j'ai un nom, [OUR_NAME]. You shall neither take my, nor my country's land.</French>
+		<French>Bonjour, je suis [OUR_NAME]. Vous ne devrez pas tenter de prendre ma terre.</French>
 		<German>Guter Tag, habe ich einen Namen, [OUR_NAME]. You shall neither take my, nor my country's land.</German>
 		<Italian>Buon giorno, ho un nome, [OUR_NAME]. You shall neither take my, nor my country's land.</Italian>
-		<Spanish>Buen día, tengo un nombre, [OUR_NAME]. You shall neither take my, nor my country's land.</Spanish>
+		<Spanish>Buen dÃ­a, tengo un nombre, [OUR_NAME]. You shall neither take my, nor my country's land.</Spanish>
 	</TEXT>							
 </Civ4GameText>

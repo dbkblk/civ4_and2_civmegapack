@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SPEAR_ELEPHANT</Tag>
 		<English>Spear Elephant</English>
-		<French>El&#233;phant avec lance</French>
+		<French>Éléphant avec lance</French>
 		<German>Speerelefant</German>
 		<Italian>Elefante con germoglio</Italian>
 		<Spanish>Elefante con lanza</Spanish>
@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SPEAR_ELEPHANT_STRATEGY</Tag>
 		<English>This powerful melee unit (the Cham replacement for the [COLOR_UNIT_TEXT]War Elephant[COLOR_REVERT]) has an edge against units because of its Combat I and Combat II promotion, especially War Elephants against which it has a 50% bonus.</English>
-		<French>Cette unité puissante de mêlée (le remplacement de Cham pour l'éléphant de guerre [COLOR_UNIT_TEXT] [COLOR_REVERT]) a un bord contre des unités en raison de son promotion du combat I and combat II, particulièrement les éléphants de guerre contre laquelle il a une bonification de 50%.</French>
+		<French>Cette unité puissante de mêlée (l'équivalent cham de l'[COLOR_UNIT_TEXT]éléphant de guerre[COLOR_REVERT]) a un avantage sur la plupart des unités grâce aux promotions 'combat I' et 'combat II', particulièrement contre les éléphants contre lesquels elle dispose d'un bonus de 50%.</French>
 		<German>Diese leistungsfähige Handgemengemaßeinheit (der Chamwiedereinbau für den Elefanten des Krieg-[COLOR_UNIT_TEXT] [COLOR_REVERT]) hat einen Rand gegen Maßeinheiten wegen seiner Förderung des Kampfes I and Kampfes II, besonders gegen die Krieg-Elefanten es eine 50% Prämie hat.</German>
 		<Italian>Questa unità potente del melee (il rimontaggio del Cham per l'elefante di guerra [COLOR_UNIT_TEXT] [COLOR_REVERT]) ha un bordo contro le unità a causa della relativa promozione di combattimento I and combattimento II, particolarmente gli elefanti di guerra contro cui esso ha un'indennità di 50%.</Italian>
 		<Spanish>Esta unidad de gran alcance del melee (el reemplazo del Cham para el elefante de la guerra [COLOR_UNIT_TEXT] [COLOR_REVERT]) tiene un borde contra unidades debido a su promoción del combate I and combate II, especialmente los elefantes de la guerra contra la cual él tienen una prima del 50%.</Spanish>

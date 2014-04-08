@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_LEADER_KANEMI</Tag>
 		<English>al-Kanemi</English>
 		<French>
-			<Text>al-Kanemi</Text>
+			<Text>Al-Kanemi</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -38,7 +38,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KANEMI_1</Tag>
 		<English>You can discuss the almighty and the prophet with me or you can simply convert now.  What do you say [CT_NAME]?</English>
-		<French>You can discuss the almighty and the prophet with me or you can simply convert now.  What do you say [CT_NAME]?</French>
+		<French>Vous pouvez discuter terreur et prophétie avec moi ou simplement vous convertir maintenant. Qu'en pensez vous, [CT_NAME]?</French>
 		<German>You can discuss the almighty and the prophet with me or you can simply convert now.  What do you say [CT_NAME]?</German>
 		<Italian>You can discuss the almighty and the prophet with me or you can simply convert now.  What do you say [CT_NAME]?</Italian>
 		<Spanish>You can discuss the almighty and the prophet with me or you can simply convert now.  What do you say [CT_NAME]?</Spanish>

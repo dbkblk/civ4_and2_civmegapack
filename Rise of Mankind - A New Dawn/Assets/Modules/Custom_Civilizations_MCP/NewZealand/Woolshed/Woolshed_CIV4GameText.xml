@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_NEWZEALAND_WOOLSHED</Tag>
 		<English>Woolshed</English>
-		<French>Woolshed</French>
+		<French>Hangar à laine</French>
 		<German>Woolshed</German>
 		<Italian>Woolshed</Italian>
 		<Spanish>Woolshed</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_NEWZEALAND_WOOLSHED_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Woolsheds[COLOR_REVERT] increase a city's wealth. They also increase the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT]. Additional culture is provided if the city has access to [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</English>
-		<French>[COLOR_BUILDING_TEXT]Woolsheds[COLOR_REVERT] increase a city's wealth. They also increase the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT]. Additional culture is provided if the city has access to [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</French>
+		<French>Les [COLOR_BUILDING_TEXT]hangars à laine[COLOR_REVERT] améliore la santé de la ville. Ce bonus est encore plus important en disposant d'[COLOR_HIGHLIGHT_TEXT]épices[COLOR_REVERT], de [COLOR_HIGHLIGHT_TEXT]sucre[COLOR_REVERT], de [COLOR_HIGHLIGHT_TEXT]vin[COLOR_REVERT], ou de [COLOR_HIGHLIGHT_TEXT]bananes[COLOR_REVERT]. Un surplus de culture est acquis en possession de [COLOR_HIGHLIGHT_TEXT]moutons[COLOR_REVERT].</French>
 		<German>[COLOR_BUILDING_TEXT]Woolsheds[COLOR_REVERT] increase a city's wealth. They also increase the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT]. Additional culture is provided if the city has access to [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</German>
 		<Italian>[COLOR_BUILDING_TEXT]Woolsheds[COLOR_REVERT] increase a city's wealth. They also increase the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT]. Additional culture is provided if the city has access to [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</Italian>
 		<Spanish>[COLOR_BUILDING_TEXT]Woolsheds[COLOR_REVERT] increase a city's wealth. They also increase the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT]. Additional culture is provided if the city has access to [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</Spanish>

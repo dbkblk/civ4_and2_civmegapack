@@ -4,7 +4,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_LATVIA_DESC</Tag>
 		<English>Latvian Empire</English>
-		<French>Latvian Empire</French>
+		<French>Lettonie</French>
 		<German>Latvian Empire</German>
 		<Italian>Latvian Empire</Italian>
 		<Spanish>Latvian Empire</Spanish>
@@ -12,7 +12,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_LATVIA_SHORT_DESC</Tag>
 		<English>Latvia</English>
-		<French>Latvia</French>
+		<French>Lettons</French>
 		<German>Latvia</German>
 		<Italian>Latvia</Italian>
 		<Spanish>Latvia</Spanish>
@@ -20,14 +20,18 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_LATVIA_ADJECTIVE</Tag>
 		<English>Latvian</English>
-		<French>Latvian</French>
+		<French>
+			<Text>letton:lettone:lettons:lettones</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Latvian</German>
 		<Italian>Latvian</Italian>
 		<Spanish>Latvian</Spanish>
 	</TEXT>	
 	<TEXT>
 		<Tag>TXT_KEY_CIV_LATVIA_PEDIA</Tag>
-		<English>Latvia; Latvian: Latvija, officially the Republic of Latvia (Latvian: Latvijas Republika) is a country in Northern Europe in the Baltic region. It is bordered to the north by Estonia (343 km), to the south by Lithuania (588 km), and to the east both by Belarus (141 km) and the Russian Federation (276 km).  Across the Baltic Sea to the west lies Sweden. The territory of Latvia covers 64,589 km² and is influenced by a temperate seasonal climate.
+		<English>Latvia; Latvian: Latvija, officially the Republic of Latvia (Latvian: Latvijas Republika) is a country in Northern Europe in the Baltic region. It is bordered to the north by Estonia (343 km), to the south by Lithuania (588 km), and to the east both by Belarus (141 km) and the Russian Federation (276 km).  Across the Baltic Sea to the west lies Sweden. The territory of Latvia covers 64,589 kmï¿½ and is influenced by a temperate seasonal climate.
 
 The Latvians are a Baltic people closely related to the Lithuanians, with the Latvian language sharing many similarities to Lithuanian. Today the Latvians and Lithuanians are the only surviving members of the Baltic peoples and Baltic languages of the Indo-European family. The modern name of Latvia is thought to originate from the ancient Latvian name Latvji, which may have originated from the river named Latva or Latuva, which may be today's Lates upe.
 

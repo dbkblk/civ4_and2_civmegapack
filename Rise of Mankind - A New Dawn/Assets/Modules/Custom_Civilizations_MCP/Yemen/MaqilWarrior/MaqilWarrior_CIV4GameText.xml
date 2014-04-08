@@ -7,7 +7,7 @@
 		<Tag>TXT_KEY_UNIT_YEMEN_MAQILWARRIOR</Tag>
 		<English>Maqil Warrior</English>
 		<French>
-			<Text>Maqil Warrior</Text>
+			<Text>Guerrier maqil</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -38,7 +38,7 @@
     <TEXT>
 		<Tag>TXT_KEY_UNIT_YEMEN_MAQILWARRIOR_STRATEGY</Tag>
 		<English>The Yemeni replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] can move through all terrains with no penalty.</English>
-		<French>The Yemeni replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] can move through all terrains with no penalty.</French>
+		<French>L'équivalent yéménite du [COLOR_UNIT_TEXT]chevalier[COLOR_REVERT] peut se déplacer sur tous les terrains sans pénalité.</French>
 		<German>The Yemeni replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] can move through all terrains with no penalty.</German>
 		<Italian>The Yemeni replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] can move through all terrains with no penalty.</Italian>
 		<Spanish>The Yemeni replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] can move through all terrains with no penalty.</Spanish>

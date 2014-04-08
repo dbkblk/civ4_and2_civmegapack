@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARMENIA_DESC</Tag>
 		<English>Armenian Empire</English>
-		<French>Armenian Empire</French>
+		<French>Armenie</French>
 		<German>Armenian Empire</German>
 		<Italian>Imperio Armeni</Italian>
 		<Spanish>Armenian Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARMENIA_SHORT_DESC</Tag>
 		<English>Armenia</English>
-		<French>Armenia</French>
+		<French>Armeniens</French>
 		<German>Armenia</German>
 		<Italian>Armenia</Italian>
 		<Spanish>Armenia</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARMENIA_ADJECTIVE</Tag>
 		<English>Armenian</English>
-		<French>Armenian</French>
+    <French>
+      <Text>armenien:armenienne:armeniens:armeniennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Armenian</German>
 		<Italian>Armenian</Italian>
 		<Spanish>Armenian</Spanish>

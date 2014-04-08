@@ -6,7 +6,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ANISHNAABEK_DESC</Tag>
 		<English>Algonquin Empire</English> 
-		<French>Algonquin Empire</French>
+		<French>Peuple algonquin</French>
 		<German>Algonquin Empire</German>
 		<Italian>Algonquin Empire</Italian>
 		<Spanish>Algonquin Empire</Spanish>
@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ANISHNAABEK_SHORT_DESC</Tag>
 		<English>Algonquin</English>
-		<French>Algonquin</French>
+		<French>Algonquins</French>
 		<German>Algonquin</German>
 		<Italian>Algonquin</Italian>
 		<Spanish>Algonquin</Spanish>
@@ -22,7 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ANISHNAABEK_ADJECTIVE</Tag>
 		<English>Algonquian</English>
-		<French>Algonquian</French>
+    <French>
+      <Text>algonquin:algonquine:algonquins:algonquines</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
 		<German>Algonquian</German>
 		<Italian>Algonquian</Italian>
 		<Spanish>Algonquian</Spanish>

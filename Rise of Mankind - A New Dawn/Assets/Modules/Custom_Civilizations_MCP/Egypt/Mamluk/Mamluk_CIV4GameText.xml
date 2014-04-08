@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -8,7 +8,7 @@
         <TEXT>
 		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK</Tag>
 		<English>Mamluk</English>
-		<French>Mamluk</French>
+		<French>Mamelouk</French>
 		<German>Mamluk</German>
 		<Italian>Mamluk</Italian>
 		<Spanish>Mamluk</Spanish>
@@ -24,7 +24,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK_STRATEGY</Tag>
 		<English>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</English>
-		<French>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</French>
+		<French>L'équivalent egyptien du [COLOR_UNIT_TEXT]chevalier à cotte de maille[COLOR_REVERT] démarre avec la promotion 'combat désertique I'.</French>
 		<German>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</German>
 		<Italian>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</Italian>
 		<Spanish>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</Spanish>
