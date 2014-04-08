@@ -7,8 +7,8 @@
 		<Tag>TXT_KEY_CIV_BATAVII_DESC</Tag>
 		<English>Batavian Empire</English>
 		<French>
-			<Text>Batavian Empire</Text>
-			<Gender>Male</Gender>
+			<Text>Batavie</Text>
+			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
@@ -31,7 +31,7 @@
 		<Tag>TXT_KEY_CIV_BATAVII_SHORT_DESC</Tag>
 		<English>Batavii</English>
 		<French>
-			<Text>Batavii</Text>
+			<Text>Bataves</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -55,9 +55,9 @@
 		<Tag>TXT_KEY_CIV_BATAVII_ADJECTIVE</Tag>
 		<English>Batavian</English>
 		<French>
-			<Text>Batavian</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
+			<Text>batave:batave:bataves:bataves</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
 			<Text>Batavian</Text>
