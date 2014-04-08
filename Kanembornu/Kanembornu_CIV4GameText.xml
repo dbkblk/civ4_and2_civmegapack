@@ -23,10 +23,10 @@
 		<Tag>TXT_KEY_CIV_KANEMBORNU_ADJECTIVE</Tag>
 		<English>Kanem-Bornu</English>
 		<French>
-	    <Text>kanembou:kanemboue:kanembous:kanemboues</Text>
-	    <Gender>Male:Female:Male:Female</Gender>
-	    <Plural>0:0:1:1</Plural>
-    </French>
+			<Text>kanembou:kanemboue:kanembous:kanemboues</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Kanem-Bornu</German>
 		<Italian>Kanem-Bornu</Italian>
 		<Spanish>Kanem-Bornu</Spanish>
