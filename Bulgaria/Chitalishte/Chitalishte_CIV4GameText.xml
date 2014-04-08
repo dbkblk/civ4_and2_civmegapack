@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHITALISHTE</Tag>
+		<English>Chitalishte</English>
+		<French>Chitalishte</French>
+		<German>Tschitalischte</German>
+		<Italian>Citali&#353;te</Italian>
+		<Spanish>Chitalishte</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_CHITALISHTE_PEDIA</Tag>
+		<English>[TAB]A chitalishte is a Bulgarian organization and edifice which accomplishes numerous functions at once, including a community center, library, and theater.  It is also used as an educational institution, where people of various ages can take a foreign language, dance, music, and other courses.  The chitalishta of the 19th and 20th centuries played a vital role in protecting and developing Bulgarian culture.  The first chitalishta appeared in the 1850s, and later evolved into a building that would serve many purposes.</English>
+		<French>[TAB]Un chitalishte est une organisation et un édifice qui accomplit de nombreuses fonctions immédiatement, y compris un centre social, bibliothèque, et un théâtre bulgares.  Il est également employé en tant qu'établissement éducatif, où les gens de divers âges peuvent prendre une langue étrangère, la danse, la musique, et d'autres cours.  Le chitalishta des 19èmes et 20èmes siècles a joué un rôle essentiel en protégeant et en développant la culture bulgare.  Le premier chitalishta est apparu dans le 1850s, et plus tard s'est transformé en un bâtiment qui atteindrait beaucoup d'objectifs.</French>
+		<German>[TAB]Ein chitalishte ist eine bulgarische Organisation und ein Gebäude, das zahlreiche Funktionen sofort, einschließlich ein Einkaufszentrum, Bibliothek vollendet, und ein Theater.  Es wird auch als pädagogische Anstalt verwendet, in der Leute des verschiedenen Alters eine Fremdsprache, Tanz, Musik und andere Kurse nehmen können.  Das chitalishta der 19. und 20. Jahrhunderte spielte eine lebenswichtige Rolle in dem Schützen und der bulgarischen Kultur entwickelnd.  Das erste chitalishta erschien im 1850s und entwickelte später in ein Gebäude, das viele Zwecke dienen würde.</German>
+		<Italian>[TAB]Un chitalishte è un'organizzazione e una struttura che compie le funzioni numerose immediatamente, compreso un ritrovo comunale, biblioteca e un teatro bulgari.  Inoltre è usato come istituto scolastico, in cui la gente di varie età può prendere una lingua straniera, il ballo, la musica ed altri corsi.  Il chitalishta dei diciannovesimi e ventesimi secoli ha svolto un ruolo vitale nella protezione e nello sviluppare della coltura bulgara.  Il primo chitalishta è comparso nel 1850s e più successivamente si è evoluto in una costruzione che avrebbe molti scopi.</Italian>
+		<Spanish>[TAB]Un chitalishte es una organización y un edificio que logra funciones numerosas inmediatamente, incluyendo un centro de comunidad, biblioteca, y un teatro búlgaros.  También se utiliza como institución educativa, en donde la gente de varias edades puede tomar un idioma extranjero, danza, música, y otros cursos.  El chitalishta de los diecinueveavo y vigésimos siglos desempeñó un papel vital en la protección y desarrollar de la cultura búlgara.  El primer chitalishta apareció en el 1850s, y se desarrolló más adelante en un edificio que respondería a muchos propósitos.</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_CHITALISHTE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Chitalishte[COLOR_REVERT], the Bulgarian replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT], can turn two citizens into artists.</English>
+		<French>Le [COLOR_BUILDING_TEXT]chitalishte[COLOR_REVERT], l'équivalent Bulgare de la [COLOR_BUILDING_TEXT]bibliothèque[COLOR_REVERT], peut transformer deux citoyens en artistes.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Tschitalischte[COLOR_REVERT], die Bulgarisch Ersatz für die [COLOR_BUILDING_TEXT]Bibliothek[COLOR_REVERT], kann zwei Bürger zu Künstler machen.</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Citali&#353;te[COLOR_REVERT], la sostituzione Bulgaro per il [COLOR_BUILDING_TEXT]Biblioteca[COLOR_REVERT], può trasformare in due cittadini gli artisti.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Chitalishte[COLOR_REVERT], la sustitución de B&#250;lgaro para el [COLOR_BUILDING_TEXT]Biblioteca[COLOR_REVERT], puede dar vuelta a dos ciudadanos en artistas.</Spanish>
+	</TEXT>
+</Civ4GameText>

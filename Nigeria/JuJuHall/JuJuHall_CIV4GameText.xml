@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NIGERIA_JUJUHALL</Tag>
+		<English>JuJu Hall</English>
+		<French>Salle de jùjú</French>
+		<German>JuJu Hall</German>
+		<Italian>JuJu Hall</Italian>
+		<Spanish>JuJu Hall</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NIGERIA_JUJUHALL_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Juju Hall[COLOR_REVERT] increases a city's culture and increases the happiness output from using the culture slider. They also provide culture and are required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder. The Nigerian replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT] allows provides one free Priest specialist.</English>
+		<French>La [COLOR_BUILDING_TEXT]salle de jùjú[COLOR_REVERT] améliore la culture de la ville et augmente le bonheur lié au taux de culture. Ils sont requis pour construire le [COLOR_BUILDING_TEXT]théâtre du monde[COLOR_REVERT]. L'équivalent nigérian du [COLOR_BUILDING_TEXT]théâtre[COLOR_REVERT] procure également un prêtre gratuit.</French>
+		<German>A [COLOR_BUILDING_TEXT]Juju Hall[COLOR_REVERT] increases a city's culture and increases the happiness output from using the culture slider. They also provide culture and are required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder. The Nigerian replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT] allows provides one free Priest specialist.</German>
+		<Italian>A [COLOR_BUILDING_TEXT]Juju Hall[COLOR_REVERT] increases a city's culture and increases the happiness output from using the culture slider. They also provide culture and are required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder. The Nigerian replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT] allows provides one free Priest specialist.</Italian>
+		<Spanish>A [COLOR_BUILDING_TEXT]Juju Hall[COLOR_REVERT] increases a city's culture and increases the happiness output from using the culture slider. They also provide culture and are required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder. The Nigerian replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT] allows provides one free Priest specialist.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NIGERIA_JUJUHALL_PEDIA</Tag>
+		<English>[TAB]The music of Nigeria includes many kinds of folk and popular music, some of which are known worldwide. Styles of folk music are related to the multitudes of ethnic groups in the country, each with their own techniques, instruments, and songs. JuJu is a style of Nigerian popular music, derived from traditional Yoruba percussion. This music, unlike apala, sakara, and fuji, was not created by Muslim Yoruba, and is therefore secular. JuJu music is performed primarily by artists from the southwestern region of Nigeria, where the Yoruba are the most numerous ethnic group. In performance, audience members commonly shower JuJu musicians with paper money; this tradition is known as "spraying."</English>
+		<French>[TAB]The music of Nigeria includes many kinds of folk and popular music, some of which are known worldwide. Styles of folk music are related to the multitudes of ethnic groups in the country, each with their own techniques, instruments, and songs. JuJu is a style of Nigerian popular music, derived from traditional Yoruba percussion. This music, unlike apala, sakara, and fuji, was not created by Muslim Yoruba, and is therefore secular. JuJu music is performed primarily by artists from the southwestern region of Nigeria, where the Yoruba are the most numerous ethnic group. In performance, audience members commonly shower JuJu musicians with paper money; this tradition is known as "spraying."</French>
+		<German>[TAB]The music of Nigeria includes many kinds of folk and popular music, some of which are known worldwide. Styles of folk music are related to the multitudes of ethnic groups in the country, each with their own techniques, instruments, and songs. JuJu is a style of Nigerian popular music, derived from traditional Yoruba percussion. This music, unlike apala, sakara, and fuji, was not created by Muslim Yoruba, and is therefore secular. JuJu music is performed primarily by artists from the southwestern region of Nigeria, where the Yoruba are the most numerous ethnic group. In performance, audience members commonly shower JuJu musicians with paper money; this tradition is known as "spraying."</German>
+		<Italian>[TAB]The music of Nigeria includes many kinds of folk and popular music, some of which are known worldwide. Styles of folk music are related to the multitudes of ethnic groups in the country, each with their own techniques, instruments, and songs. JuJu is a style of Nigerian popular music, derived from traditional Yoruba percussion. This music, unlike apala, sakara, and fuji, was not created by Muslim Yoruba, and is therefore secular. JuJu music is performed primarily by artists from the southwestern region of Nigeria, where the Yoruba are the most numerous ethnic group. In performance, audience members commonly shower JuJu musicians with paper money; this tradition is known as "spraying."</Italian>
+		<Spanish>[TAB]The music of Nigeria includes many kinds of folk and popular music, some of which are known worldwide. Styles of folk music are related to the multitudes of ethnic groups in the country, each with their own techniques, instruments, and songs. JuJu is a style of Nigerian popular music, derived from traditional Yoruba percussion. This music, unlike apala, sakara, and fuji, was not created by Muslim Yoruba, and is therefore secular. JuJu music is performed primarily by artists from the southwestern region of Nigeria, where the Yoruba are the most numerous ethnic group. In performance, audience members commonly shower JuJu musicians with paper money; this tradition is known as "spraying."</Spanish>
+	</TEXT>
+</Civ4GameText>

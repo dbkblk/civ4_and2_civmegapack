@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER</Tag>
+		<English>Indus Sewer</English>
+		<French>Égoûts de l'Indus</French>
+		<German>Indus Sewer</German>
+		<Italian>Indus Sewer</Italian>
+		<Spanish>Indus Sewer</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER_PEDIA</Tag>
+		<English>[TAB] In the Indus Valley, cleanliness was obviously an important part of their society.  The ancient cities of Harappa and Mohenjo-Daro of the Indus Valley Civilization constructed complex networks of brick-lined sewage drains from around 2600 BC.  These cities also had outdoor flush toilets connected to this network.  The urban areas of the Indus Valley also provided public and private baths, sewerage was disposed through underground drains build with precisely laid bricks.  Sophisticated water management systems drained the sewage into reservoirs.  Drains from houses were also connected to wider public drains.</English>
+		<French>[TAB] Dans la vallée de l'Indus, la propreté est évidemment une partie importante de leur société. Les anciennes villes d'Harappa et Mohenjo-Daro de la civilisation de l'Indus construit des réseaux complexes de brique doublure draine les eaux usées d'environ 2600 avant JC. Ces villes ont également outdoor toilettes à chasse d'eau connectées à ce réseau. Les agglomérations urbaines de la vallée de l'Indus a également fourni des bains publics et privés, a été éliminé grâce à l'assainissement des drains souterrains construire avec des briques précisément définies. Des systèmes sophistiqués de gestion de l'eau drainée dans les réservoirs d'eaux usées. Des égouts de maisons ont également été connectés à un public plus large drains.</French>
+		<German>[TAB] In der Indus-Tal, Sauberkeit war natürlich ein wichtiger Teil ihrer Gesellschaft. Die antiken Städte und Harappa Mohenjo-Spende der Indus Valley Civilization konstruierten komplexen Netzwerken aus Backstein-lined Kanalisation aus der Zeit um 2600 v. Chr.. Diese Städte hatten auch im Freien flush Toiletten an diesem Netzwerk. Die städtischen Gebieten der Indus-Tal auch die öffentlichen und privaten Bäder, Kanalisation entsorgt wurde durch unterirdische Kanalisation bauen, die genau mit Ziegeln. Ausgefeilte Wasser-Management-Systemen in die Kanalisation entwässert Reservoire. Abflüsse von Häusern wurden auch an weiteren öffentlichen Kanalisation.</German>
+		<Italian>[TAB] Nel cuore della Valle, per la pulizia è stata, ovviamente, una parte importante della loro società. L'antica città di Harappa e Mohenjo-daro della Civiltà della valle dell'Indo costruito reti complesse di mattoni in fila i canali di scolo delle acque reflue da circa il 2600 aC. Queste città ha avuto anche all'aperto flush toilets collegato a questa rete. Le aree urbane di Indus Valley ha fornito anche i bagni pubblici e privati, la rete fognaria è stato smaltito attraverso i canali di scolo sotterraneo costruito con mattoni di cui appunto. Sofisticati sistemi di gestione delle acque di depurazione in prosciugato le riserve. Case da canali di scolo sono stati inoltre collegata a un pubblico più ampio dei canali di scolo.</Italian>
+		<Spanish>[TAB] En el valle de Indus, la limpieza es obviamente una parte importante de su sociedad. Las antiguas ciudades de Harapa y Mohenjo-daro de la civilización del valle Indus construyeron complejas redes de ladrillo-alineadas alrededor de los desagües de aguas residuales 2600 aC. En estos lugares al aire libre había inodoros conectados a esta red. Las zonas urbanas del valle de Indus también baños públicos y privados, de alcantarillado se eliminan a través de los drenajes subterráneos construir con ladrillos precisamente establecidas. Sofisticados sistemas de gestión del agua drenada en los reservorios de aguas residuales. Desagües de las casas también fueron conectados a un público más amplio el sistema de alcantarillado.</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Sewer[COLOR_REVERT], the Harappan replacement for the [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</English>
+		<French>Les [COLOR_BUILDING_TEXT]égouts de l'Indus[COLOR_REVERT], l'équivalent harappéen du [COLOR_BUILDING_TEXT]système d'égoûts[COLOR_REVERT] sont disponibles plus tôt et possèdes une pénaltie d'espionnage inférieure.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Kanalisation[COLOR_REVERT], die Harappan Ersatz für die [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</German>
+		<Italian>La [COLOR_BUILDING_TEXT]Fognatura[COLOR_REVERT], la sostituzione Harappan per l'[COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Alcantarillado[COLOR_REVERT], la sustitución de la Harappan [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</Spanish>
+	</TEXT>
+</Civ4GameText>

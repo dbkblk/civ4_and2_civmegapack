@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+        <TEXT>
+		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK</Tag>
+		<English>Mamluk</English>
+		<French>Mamelouk</French>
+		<German>Mamluk</German>
+		<Italian>Mamluk</Italian>
+		<Spanish>Mamluk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK_PEDIA</Tag>
+		<English>[TAB]The mamluks were slaves trained as warriors by various Arab leaders, partially because early believers in Islam would not fight each other.  Slave warriors got around this ban.  The mamluks were well trained and highly motivated.  A mamluk army from Egypt won a rare victory against the Mongols in Syria, turning these barbarian horsemen back from the Nile and North Africa.  In time the mamluks rose up against their Arab rulers and took control themselves.  When Napoleon invaded Egypt in the eighteenth century, he defeated a mamluk army at the Battle of the Pyramids.</English>
+		<French>[TAB]The mamluks were slaves trained as warriors by various Arab leaders, partially because early believers in Islam would not fight each other.  Slave warriors got around this ban.  The mamluks were well trained and highly motivated.  A mamluk army from Egypt won a rare victory against the Mongols in Syria, turning these barbarian horsemen back from the Nile and North Africa.  In time the mamluks rose up against their Arab rulers and took control themselves.  When Napoleon invaded Egypt in the eighteenth century, he defeated a mamluk army at the Battle of the Pyramids.</French>
+		<German>[TAB]The mamluks were slaves trained as warriors by various Arab leaders, partially because early believers in Islam would not fight each other.  Slave warriors got around this ban.  The mamluks were well trained and highly motivated.  A mamluk army from Egypt won a rare victory against the Mongols in Syria, turning these barbarian horsemen back from the Nile and North Africa.  In time the mamluks rose up against their Arab rulers and took control themselves.  When Napoleon invaded Egypt in the eighteenth century, he defeated a mamluk army at the Battle of the Pyramids.</German>
+		<Italian>[TAB]The mamluks were slaves trained as warriors by various Arab leaders, partially because early believers in Islam would not fight each other.  Slave warriors got around this ban.  The mamluks were well trained and highly motivated.  A mamluk army from Egypt won a rare victory against the Mongols in Syria, turning these barbarian horsemen back from the Nile and North Africa.  In time the mamluks rose up against their Arab rulers and took control themselves.  When Napoleon invaded Egypt in the eighteenth century, he defeated a mamluk army at the Battle of the Pyramids.</Italian>
+		<Spanish>[TAB]The mamluks were slaves trained as warriors by various Arab leaders, partially because early believers in Islam would not fight each other.  Slave warriors got around this ban.  The mamluks were well trained and highly motivated.  A mamluk army from Egypt won a rare victory against the Mongols in Syria, turning these barbarian horsemen back from the Nile and North Africa.  In time the mamluks rose up against their Arab rulers and took control themselves.  When Napoleon invaded Egypt in the eighteenth century, he defeated a mamluk army at the Battle of the Pyramids.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK_STRATEGY</Tag>
+		<English>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</English>
+		<French>L'équivalent egyptien du [COLOR_UNIT_TEXT]chevalier à cotte de maille[COLOR_REVERT] démarre avec la promotion 'combat désertique I'.</French>
+		<German>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</German>
+		<Italian>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</Italian>
+		<Spanish>The Egyptian replacement for the [COLOR_UNIT_TEXT]Mailed Knight[COLOR_REVERT]) starts with the Desert Combat I promotion.</Spanish>
+	</TEXT>
+</Civ4GameText>

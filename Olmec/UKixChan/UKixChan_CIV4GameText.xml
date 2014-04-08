@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_U_KIX_CHAN</Tag>
+		<English>U-Kix-Chan</English>
+		<French>U-Kix-Chan</French>
+		<German>U-Kix-Chan</German>
+		<Italian>U-Kix-Chan</Italian>
+		<Spanish>U-Kix-Chan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_U_KIX_CHAN_PEDIA</Tag>
+		<English>[H1]U-Kix-Chan[\H1][NEWLINE][BOLD]King of the Palenque[\BOLD][NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]U-Kix-Chan is the founder of the B'aakal Dynasty at Palenque, what would become a Maya kingdom.</English>
+		<French>[H1]U-Kix-Chan[\H1][NEWLINE][BOLD]King of the Palenque[\BOLD][NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]U-Kix-Chan is the founder of the B'aakal Dynasty at Palenque, what would become a Maya kingdom.</French>
+		<German>[H1]U-Kix-Chan[\H1][NEWLINE][BOLD]King of the Palenque[\BOLD][NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]U-Kix-Chan is the founder of the B'aakal Dynasty at Palenque, what would become a Maya kingdom.</German>
+		<Italian>[H1]U-Kix-Chan[\H1][NEWLINE][BOLD]King of the Palenque[\BOLD][NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]U-Kix-Chan is the founder of the B'aakal Dynasty at Palenque, what would become a Maya kingdom.</Italian>
+		<Spanish>[H1]U-Kix-Chan[\H1][NEWLINE][BOLD]King of the Palenque[\BOLD][NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]U-Kix-Chan is the founder of the B'aakal Dynasty at Palenque, what would become a Maya kingdom.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_U_KIX_CHAN_1</Tag>
+		<English>Welcome, [CT_NAME]! I am [OUR_NAME] of the [OUR_CIV_ADJ] people. May our friendship last longer than the stones.</English>
+		<French>Bienvenue, [CT_NAME] ! Je suis [OUR_NAME] du peuple olmèque. Puisse notre amitié durer plus longtemps que les pierres.</French>
+		<German>Welcome, [CT_NAME]! I am [OUR_NAME] of the [OUR_CIV_ADJ] people. May our friendship last longer than the stones.</German>
+		<Italian>Welcome, [CT_NAME]! I am [OUR_NAME] of the [OUR_CIV_ADJ] people. May our friendship last longer than the stones.</Italian>
+		<Spanish>Welcome, [CT_NAME]! I am [OUR_NAME] of the [OUR_CIV_ADJ] people. May our friendship last longer than the stones.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR</Tag>
+		<English>Llogor</English>
+		<French>Llogor</French>
+		<German>Llogor</German>
+		<Italian>Llogor</Italian>
+		<Spanish>Llogor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR_PEDIA</Tag>
+		<English>[TAB]A Llogor was a place where Albanians would hide munitions with which to fight their Turkish, Serbian, and Montenegrin oppressors. Especially in the early 1900s these were important when Albanians from all regions were uniting to reclaim their land from the Ottoman conquerors: one of the movies about the war for the declaration of Albania's independence is about a homemade gunpowder mill in the mountains that was used to produce the ammunition the men waged war against their enemies with.</English>
+		<French>[TAB]A Llogor was a place where Albanians would hide munitions with which to fight their Turkish, Serbian, and Montenegrin oppressors. Especially in the early 1900s these were important when Albanians from all regions were uniting to reclaim their land from the Ottoman conquerors: one of the movies about the war for the declaration of Albania's independence is about a homemade gunpowder mill in the mountains that was used to produce the ammunition the men waged war against their enemies with.</French>
+		<German>[TAB]A Llogor was a place where Albanians would hide munitions with which to fight their Turkish, Serbian, and Montenegrin oppressors. Especially in the early 1900s these were important when Albanians from all regions were uniting to reclaim their land from the Ottoman conquerors: one of the movies about the war for the declaration of Albania's independence is about a homemade gunpowder mill in the mountains that was used to produce the ammunition the men waged war against their enemies with.</German>
+		<Italian>[TAB]A Llogor was a place where Albanians would hide munitions with which to fight their Turkish, Serbian, and Montenegrin oppressors. Especially in the early 1900s these were important when Albanians from all regions were uniting to reclaim their land from the Ottoman conquerors: one of the movies about the war for the declaration of Albania's independence is about a homemade gunpowder mill in the mountains that was used to produce the ammunition the men waged war against their enemies with.</Italian>
+		<Spanish>[TAB]A Llogor was a place where Albanians would hide munitions with which to fight their Turkish, Serbian, and Montenegrin oppressors. Especially in the early 1900s these were important when Albanians from all regions were uniting to reclaim their land from the Ottoman conquerors: one of the movies about the war for the declaration of Albania's independence is about a homemade gunpowder mill in the mountains that was used to produce the ammunition the men waged war against their enemies with.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Garrison[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in the Albanian civilization. It gives Gunpowder units extra experience.</English>
+		<French>La [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT] est remplacée par le [COLOR_BUILDING_TEXT]llogor[COLOR_REVERT] dans la civilisation albanais. Il procure de l'expérience supplémentaire aux unités à poudre à canon.</French>
+		<German>The [COLOR_BUILDING_TEXT]Garrison[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in the Albanian civilization. It gives Gunpowder units extra experience.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Garrison[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in the Albanian civilization. It gives Gunpowder units extra experience.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Garrison[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in the Albanian civilization. It gives Gunpowder units extra experience.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAKTRIA_MINT</Tag>
+		<English>Baktrian Mint</English>
+		<French>Baktrian Mint</French>
+		<German>Baktrian Mint</German>
+		<Italian>Baktrian Mint</Italian>
+		<Spanish>Baktrian Mint</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAKTRIA_MINT_PEDIA</Tag>
+		<English>[TAB]Not much today exists to tell us of these strange Greeks from India.  Well positioned on the Silk Road from Anatolia to Far East Asia.  The Baktrians were a wealthy people.  They were also rich in mineral deposits such as gold.  Their mints were famous for their skills in making coins.[NEWLINE][TAB]Their coins were some of the most technologically advanced, sophisticated and aesthetically pleasing to all of those from the ancient world.  Finally the largest gold coin ever minted that has been discovered came from a Baktrian Mint.</English>
+		<French>[TAB]Not much today exists to tell us of these strange Greeks from India.  Well positioned on the Silk Road from Anatolia to Far East Asia.  The Baktrians were a wealthy people.  They were also rich in mineral deposits such as gold.  Their mints were famous for their skills in making coins.[NEWLINE][TAB]Their coins were some of the most technologically advanced, sophisticated and aesthetically pleasing to all of those from the ancient world.  Finally the largest gold coin ever minted that has been discovered came from a Baktrian Mint.</French>
+		<German>[TAB]Not much today exists to tell us of these strange Greeks from India.  Well positioned on the Silk Road from Anatolia to Far East Asia.  The Baktrians were a wealthy people.  They were also rich in mineral deposits such as gold.  Their mints were famous for their skills in making coins.[NEWLINE][TAB]Their coins were some of the most technologically advanced, sophisticated and aesthetically pleasing to all of those from the ancient world.  Finally the largest gold coin ever minted that has been discovered came from a Baktrian Mint.</German>
+		<Italian>[TAB]Not much today exists to tell us of these strange Greeks from India.  Well positioned on the Silk Road from Anatolia to Far East Asia.  The Baktrians were a wealthy people.  They were also rich in mineral deposits such as gold.  Their mints were famous for their skills in making coins.[NEWLINE][TAB]Their coins were some of the most technologically advanced, sophisticated and aesthetically pleasing to all of those from the ancient world.  Finally the largest gold coin ever minted that has been discovered came from a Baktrian Mint.</Italian>
+		<Spanish>[TAB]Not much today exists to tell us of these strange Greeks from India.  Well positioned on the Silk Road from Anatolia to Far East Asia.  The Baktrians were a wealthy people.  They were also rich in mineral deposits such as gold.  Their mints were famous for their skills in making coins.[NEWLINE][TAB]Their coins were some of the most technologically advanced, sophisticated and aesthetically pleasing to all of those from the ancient world.  Finally the largest gold coin ever minted that has been discovered came from a Baktrian Mint.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BAKTRIA_MINT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT] which is available earlier, and slightly cheaper.</English>
+		<French>Le [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] remplace la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT]. Il est disponible plus tôt et pour moins cher.</French>
+		<German>The [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT] which is available earlier, and slightly cheaper.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT] which is available earlier, and slightly cheaper.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT] which is available earlier, and slightly cheaper.</Spanish>
+	</TEXT>
+</Civ4GameText>

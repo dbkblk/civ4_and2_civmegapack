@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jesse Smith (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Infos -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE</Tag>
+		<English>Venus Temple</English>
+		<French>Temple de Venus</French>
+		<German>Venus Temple</German>
+		<Italian>Venus Temple</Italian>
+		<Spanish>Venus Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_PEDIA</Tag>
+		<English>[TAB]The Toltecs built many temples for many purposes throughout their empire. There is some dispute about the purposes of the temples in the early part of the empire or pre-military rule. But according to all sources they were religious in nature. In one legend about the feathered serpent god Quetzalcoatl, the temples were sources of sacrifices of not humans, but fruit and snakes to the plumed serpent god, until a military coup that exiled the high priest Acatyl Topiltzin and forced him and the other followers of the Plumed Serpent from the city. But most historians believe that the temples were, like most meso-american civilizations, places of human sacrifice, but also symbols of the Toltec majesty as they spread their influence far and wide throughout their empire and surrouding lands. </English>
+		<French>[TAB]The Toltecs built many temples for many purposes throughout their empire. There is some dispute about the purposes of the temples in the early part of the empire or pre-military rule. But according to all sources they were religious in nature. In one legend about the feathered serpent god Quetzalcoatl, the temples were sources of sacrifices of not humans, but fruit and snakes to the plumed serpent god, until a military coup that exiled the high priest Acatyl Topiltzin and forced him and the other followers of the Plumed Serpent from the city. But most historians believe that the temples were, like most meso-american civilizations, places of human sacrifice, but also symbols of the Toltec majesty as they spread their influence far and wide throughout their empire and surrouding lands. </French>
+		<German>[TAB]The Toltecs built many temples for many purposes throughout their empire. There is some dispute about the purposes of the temples in the early part of the empire or pre-military rule. But according to all sources they were religious in nature. In one legend about the feathered serpent god Quetzalcoatl, the temples were sources of sacrifices of not humans, but fruit and snakes to the plumed serpent god, until a military coup that exiled the high priest Acatyl Topiltzin and forced him and the other followers of the Plumed Serpent from the city. But most historians believe that the temples were, like most meso-american civilizations, places of human sacrifice, but also symbols of the Toltec majesty as they spread their influence far and wide throughout their empire and surrouding lands. </German>
+		<Italian>[TAB]The Toltecs built many temples for many purposes throughout their empire. There is some dispute about the purposes of the temples in the early part of the empire or pre-military rule. But according to all sources they were religious in nature. In one legend about the feathered serpent god Quetzalcoatl, the temples were sources of sacrifices of not humans, but fruit and snakes to the plumed serpent god, until a military coup that exiled the high priest Acatyl Topiltzin and forced him and the other followers of the Plumed Serpent from the city. But most historians believe that the temples were, like most meso-american civilizations, places of human sacrifice, but also symbols of the Toltec majesty as they spread their influence far and wide throughout their empire and surrouding lands. </Italian>
+		<Spanish>[TAB]The Toltecs built many temples for many purposes throughout their empire. There is some dispute about the purposes of the temples in the early part of the empire or pre-military rule. But according to all sources they were religious in nature. In one legend about the feathered serpent god Quetzalcoatl, the temples were sources of sacrifices of not humans, but fruit and snakes to the plumed serpent god, until a military coup that exiled the high priest Acatyl Topiltzin and forced him and the other followers of the Plumed Serpent from the city. But most historians believe that the temples were, like most meso-american civilizations, places of human sacrifice, but also symbols of the Toltec majesty as they spread their influence far and wide throughout their empire and surrouding lands. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</English>
+		<French>Le [COLOR_BUILDING_TEXT]temple de Venus[COLOR_REVERT], équivalent toltèque du [COLOR_BUILDING_TEXT]théâtre[COLOR_REVERT], procure aux unités de combat rapproché trois bonus d'expérience en plus du bonus de culture habituel.</French>
+		<German>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</Spanish>
+	</TEXT>
+</Civ4GameText>

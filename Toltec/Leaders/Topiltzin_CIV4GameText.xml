@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TOPILTZIN</Tag>
+		<English>Topiltzin</English>
+		<French>Topiltzin</French>
+		<German>Topiltzin</German>
+		<Italian>Topiltzin</Italian>
+		<Spanish>Topiltzin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TOPILTZIN_PEDIA</Tag>
+		<English>[H1]Ce Acatl Topiltzin [\H1][NEWLINE][NEWLINE][BOLD]Lived: [\BOLD] ?-?[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]The greatest ruler of the Toltecs was Ce Acatl Topiltzin who was renown for being the leader and high priest of Quetzacoatl at the time when Tula and the Empire were established. According to Toltec legend, Tezatlipoca's followers drove Topiltzin and the followers of Quetzalcoatl out of the city around 1000 AD. 
+They fled south, where they were able to defeat the Maya at the city of Chichen Itza, and take it for their own. An interesting twist in Topiltzin's legend is that he vowed to return to Tula from the east in one of his sacred years and take his vengeance. This legend lived all the way to the time of the Aztecs, 
+who attributed the arrival of the Spanish as the return of Topiltzin, an event that they feared greatly.</English>
+		<French>[[H1]Ce Acatl Topiltzin [\H1][NEWLINE][NEWLINE][BOLD]Lived: [\BOLD] ?-?[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]The greatest ruler of the Toltecs was Ce Acatl Topiltzin who was renown for being the leader and high priest of Quetzacoatl at the time when Tula and the Empire were established. According to Toltec legend, Tezatlipoca's followers drove Topiltzin and the followers of Quetzalcoatl out of the city around 1000 AD. 
+They fled south, where they were able to defeat the Maya at the city of Chichen Itza, and take it for their own. An interesting twist in Topiltzin's legend is that he vowed to return to Tula from the east in one of his sacred years and take his vengeance. This legend lived all the way to the time of the Aztecs, 
+who attributed the arrival of the Spanish as the return of Topiltzin, an event that they feared greatly.</French>
+		<German>[H1]Ce Acatl Topiltzin [\H1][NEWLINE][NEWLINE][BOLD]Lived: [\BOLD] ?-?[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]The greatest ruler of the Toltecs was Ce Acatl Topiltzin who was renown for being the leader and high priest of Quetzacoatl at the time when Tula and the Empire were established. According to Toltec legend, Tezatlipoca's followers drove Topiltzin and the followers of Quetzalcoatl out of the city around 1000 AD. 
+They fled south, where they were able to defeat the Maya at the city of Chichen Itza, and take it for their own. An interesting twist in Topiltzin's legend is that he vowed to return to Tula from the east in one of his sacred years and take his vengeance. This legend lived all the way to the time of the Aztecs, 
+who attributed the arrival of the Spanish as the return of Topiltzin, an event that they feared greatly.</German>
+		<Italian>[H1]Ce Acatl Topiltzin [\H1][NEWLINE][NEWLINE][BOLD]Lived: [\BOLD] ?-?[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]The greatest ruler of the Toltecs was Ce Acatl Topiltzin who was renown for being the leader and high priest of Quetzacoatl at the time when Tula and the Empire were established. According to Toltec legend, Tezatlipoca's followers drove Topiltzin and the followers of Quetzalcoatl out of the city around 1000 AD. 
+They fled south, where they were able to defeat the Maya at the city of Chichen Itza, and take it for their own. An interesting twist in Topiltzin's legend is that he vowed to return to Tula from the east in one of his sacred years and take his vengeance. This legend lived all the way to the time of the Aztecs, 
+who attributed the arrival of the Spanish as the return of Topiltzin, an event that they feared greatly.</Italian>
+		<Spanish>[H1]Ce Acatl Topiltzin [\H1][NEWLINE][NEWLINE][BOLD]Lived: [\BOLD] ?-?[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]The greatest ruler of the Toltecs was Ce Acatl Topiltzin who was renown for being the leader and high priest of Quetzacoatl at the time when Tula and the Empire were established. According to Toltec legend, Tezatlipoca's followers drove Topiltzin and the followers of Quetzalcoatl out of the city around 1000 AD. 
+They fled south, where they were able to defeat the Maya at the city of Chichen Itza, and take it for their own. An interesting twist in Topiltzin's legend is that he vowed to return to Tula from the east in one of his sacred years and take his vengeance. This legend lived all the way to the time of the Aztecs, 
+who attributed the arrival of the Spanish as the return of Topiltzin, an event that they feared greatly.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TOPILTZIN_1</Tag>
+		<English>Behold, [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE] - here by the will of the Great Father, and by his will I am chief!</English>
+		<French>Prennez garde, [CT_NAME] ! Je suis [OUR_NAME] du peuple toltèque - ici par le souhait du père fondateur, et par son souhait je suis le chef !</French>
+		<German>Behold, [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE] - here by the will of the Great Father, and by his will I am chief!</German>
+		<Italian>Behold, [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE] - here by the will of the Great Father, and by his will I am chief!</Italian>
+		<Spanish>Behold, [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE] - here by the will of the Great Father, and by his will I am chief!</Spanish>
+	</TEXT>
+</Civ4GameText>

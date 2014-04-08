@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI</Tag>
+		<English>Didanawisgi</English>
+		<French>Didanawisgi</French>
+		<German>Didanawisgi</German>
+		<Italian>Didanawisgi</Italian>
+		<Spanish>Didanawisgi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] replacement for the Aniyonega civilization is the [COLOR_BUILDING_TEXT]Didanawisgi[COLOR_REVERT] and it heals one unit fully per turn in addition.</English>
+		<French>Le remplacement de la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT] pour la civilisation cherokee est le [COLOR_BUILDING_TEXT]didanawisgi[COLOR_REVERT]. Il soigne une unité supplémentaire par tour.</French>
+		<German>The [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] replacement for the Aniyonega civilization is the [COLOR_BUILDING_TEXT]Didanawisgi[COLOR_REVERT] and it heals one unit fully per turn in addition.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] replacement for the Aniyonega civilization is the [COLOR_BUILDING_TEXT]Didanawisgi[COLOR_REVERT] and it heals one unit fully per turn in addition.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] replacement for the Aniyonega civilization is the [COLOR_BUILDING_TEXT]Didanawisgi[COLOR_REVERT] and it heals one unit fully per turn in addition.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI_PEDIA</Tag>
+		<English>[TAB]Didanawisgi is the Cherokee word for medicine man. A common thread woven through all Native American remedies is the idea of "wellness" a term recently picked up by some in the modern medical professions. A state of "wellness" is described as "harmony between the mind, body and spirit." The Cherokee word "tohi" - health - is the same as the word for peace. You're in good health when your body is at peace. The "medicine circle" has no beginning and no end and therefore represents a concept of "harmonious unity."</English>
+		<French>[TAB]Didanawisgi is the Cherokee word for medicine man. A common thread woven through all Native American remedies is the idea of "wellness" a term recently picked up by some in the modern medical professions. A state of "wellness" is described as "harmony between the mind, body and spirit." The Cherokee word "tohi" - health - is the same as the word for peace. You're in good health when your body is at peace. The "medicine circle" has no beginning and no end and therefore represents a concept of "harmonious unity."</French>
+		<German>[TAB]Didanawisgi is the Cherokee word for medicine man. A common thread woven through all Native American remedies is the idea of "wellness" a term recently picked up by some in the modern medical professions. A state of "wellness" is described as "harmony between the mind, body and spirit." The Cherokee word "tohi" - health - is the same as the word for peace. You're in good health when your body is at peace. The "medicine circle" has no beginning and no end and therefore represents a concept of "harmonious unity."</German>
+		<Italian>[TAB]Didanawisgi is the Cherokee word for medicine man. A common thread woven through all Native American remedies is the idea of "wellness" a term recently picked up by some in the modern medical professions. A state of "wellness" is described as "harmony between the mind, body and spirit." The Cherokee word "tohi" - health - is the same as the word for peace. You're in good health when your body is at peace. The "medicine circle" has no beginning and no end and therefore represents a concept of "harmonious unity."</Italian>
+		<Spanish>[TAB]Didanawisgi is the Cherokee word for medicine man. A common thread woven through all Native American remedies is the idea of "wellness" a term recently picked up by some in the modern medical professions. A state of "wellness" is described as "harmony between the mind, body and spirit." The Cherokee word "tohi" - health - is the same as the word for peace. You're in good health when your body is at peace. The "medicine circle" has no beginning and no end and therefore represents a concept of "harmonious unity."</Spanish>
+	</TEXT>
+</Civ4GameText>

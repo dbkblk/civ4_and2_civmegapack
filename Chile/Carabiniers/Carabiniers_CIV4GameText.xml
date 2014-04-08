@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHILE_CARABINIERS</Tag>
+		<English>Carabineros</English>
+		<French>
+			<Text>Carabineros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Carabineros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Carabineros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Carabineros</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHILE_CARABINIERS_STRATEGY</Tag>
+		<English>Chilean [COLOR_UNIT_TEXT]Caribiniers[COLOR_REVERT] (a replacement for [COLOR_UNIT_TEXT]Machine Guns[COLOR_REVERT]) gain both an additional 25% city defense and 2 additional first strikes.</English>
+		<French>Le [COLOR_UNIT_TEXT]caribinieros[COLOR_REVERT] chilien (équivalent de la [COLOR_UNIT_TEXT]mitrailleuse[COLOR_REVERT]) obtient un bonus de défense de ville de 25% et 2 premières attaques.</French>
+		<German>Chilean [COLOR_UNIT_TEXT]Caribiniers[COLOR_REVERT] (a replacement for [COLOR_UNIT_TEXT]Machine Guns[COLOR_REVERT]) gain both an additional 25% city defense and 2 additional first strikes.</German>
+		<Italian>Chilean [COLOR_UNIT_TEXT]Caribiniers[COLOR_REVERT] (a replacement for [COLOR_UNIT_TEXT]Machine Guns[COLOR_REVERT]) gain both an additional 25% city defense and 2 additional first strikes.</Italian>
+		<Spanish>Chilean [COLOR_UNIT_TEXT]Caribiniers[COLOR_REVERT] (a replacement for [COLOR_UNIT_TEXT]Machine Guns[COLOR_REVERT]) gain both an additional 25% city defense and 2 additional first strikes.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHILE_CARABINIERS_PEDIA</Tag>
+		<English>[TAB]Carabineros de Chile are the uniformed Chilean national police force and gendarmery, created on April 27, 1927. Their mission is to maintain the order and create public respect for the laws of the country. They depend on the Ministerio de Defensa Nacional (Ministry of National Defense) through the Undersecretary of Carabiniers and the Ministerio del Interior (Ministry of the Interior). Chile also has an investigative police force, the Policia de Investigaciones.</English>
+		<French>[TAB]Carabineros de Chile are the uniformed Chilean national police force and gendarmery, created on April 27, 1927. Their mission is to maintain the order and create public respect for the laws of the country. They depend on the Ministerio de Defensa Nacional (Ministry of National Defense) through the Undersecretary of Carabiniers and the Ministerio del Interior (Ministry of the Interior). Chile also has an investigative police force, the Policia de Investigaciones.</French>
+		<German>[TAB]Carabineros de Chile are the uniformed Chilean national police force and gendarmery, created on April 27, 1927. Their mission is to maintain the order and create public respect for the laws of the country. They depend on the Ministerio de Defensa Nacional (Ministry of National Defense) through the Undersecretary of Carabiniers and the Ministerio del Interior (Ministry of the Interior). Chile also has an investigative police force, the Policia de Investigaciones.</German>
+		<Italian>[TAB]Carabineros de Chile are the uniformed Chilean national police force and gendarmery, created on April 27, 1927. Their mission is to maintain the order and create public respect for the laws of the country. They depend on the Ministerio de Defensa Nacional (Ministry of National Defense) through the Undersecretary of Carabiniers and the Ministerio del Interior (Ministry of the Interior). Chile also has an investigative police force, the Policia de Investigaciones.</Italian>
+		<Spanish>[TAB]Carabineros de Chile are the uniformed Chilean national police force and gendarmery, created on April 27, 1927. Their mission is to maintain the order and create public respect for the laws of the country. They depend on the Ministerio de Defensa Nacional (Ministry of National Defense) through the Undersecretary of Carabiniers and the Ministerio del Interior (Ministry of the Interior). Chile also has an investigative police force, the Policia de Investigaciones.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DINNEHIH_CODETALKER</Tag>
+		<English>Code Talker</English>
+		<French>
+			<Text>Instructeur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Code Talker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Code Talker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Code Talker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DINNEHIH_CODETALKER_STRATEGY</Tag>
+		<English>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</English>
+		<French>Recrutez un [COLOR_UNIT_TEXT]instructeur[COLOR_REVERT] pour défier les défenses côtières. Ils sont immunisés aux premières attaques et ont une petite probabilité de retraite.</French>
+		<German>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</German>
+		<Italian>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</Italian>
+		<Spanish>Build [COLOR_UNIT_TEXT]Code Talkers[COLOR_REVERT] to challenge coastal defences. They are immune to First Strikes and have a slight withdraw chance.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DINNEHIH_CODETALKER_PEDIA</Tag>
+		<English>[TAB]The Navajo Code Talkers, whose ranks exceed 400 during the course of World War II in the Pacific Theater.  Have been credited with saving countless lives and hastening the end of the war. The Code Talker's served in all six Marine divisions from 1942 to 1945. The Code Talker's primary job was to talk and transmit information on tactics, troop movements, orders and other vital battlefield information via telegraphs and radios in their native dialect.  A major advantage of the code talker system was its speed. The method of using Morse code often took hours where as, the Navajos handled a message in minutes.   It has been said that if was not for the Navajo Code Talker's, the Marines would have never taken Iwo Jima. The Navajo's unwritten language was understood by fewer than 30 non-Navajo's at the time of WWII.  The size and complexity of the language made the code extremely difficult to comprehend, much less decipher.  It was not until 1968 that the code became declassified by the US Government.</English>
+		<French>[TAB]The Navajo Code Talkers, whose ranks exceed 400 during the course of World War II in the Pacific Theater.  Have been credited with saving countless lives and hastening the end of the war. The Code Talker's served in all six Marine divisions from 1942 to 1945. The Code Talker's primary job was to talk and transmit information on tactics, troop movements, orders and other vital battlefield information via telegraphs and radios in their native dialect.  A major advantage of the code talker system was its speed. The method of using Morse code often took hours where as, the Navajos handled a message in minutes.   It has been said that if was not for the Navajo Code Talker's, the Marines would have never taken Iwo Jima. The Navajo's unwritten language was understood by fewer than 30 non-Navajo's at the time of WWII.  The size and complexity of the language made the code extremely difficult to comprehend, much less decipher.  It was not until 1968 that the code became declassified by the US Government.</French>
+		<German>[TAB]The Navajo Code Talkers, whose ranks exceed 400 during the course of World War II in the Pacific Theater.  Have been credited with saving countless lives and hastening the end of the war. The Code Talker's served in all six Marine divisions from 1942 to 1945. The Code Talker's primary job was to talk and transmit information on tactics, troop movements, orders and other vital battlefield information via telegraphs and radios in their native dialect.  A major advantage of the code talker system was its speed. The method of using Morse code often took hours where as, the Navajos handled a message in minutes.   It has been said that if was not for the Navajo Code Talker's, the Marines would have never taken Iwo Jima. The Navajo's unwritten language was understood by fewer than 30 non-Navajo's at the time of WWII.  The size and complexity of the language made the code extremely difficult to comprehend, much less decipher.  It was not until 1968 that the code became declassified by the US Government.</German>
+		<Italian>[TAB]The Navajo Code Talkers, whose ranks exceed 400 during the course of World War II in the Pacific Theater.  Have been credited with saving countless lives and hastening the end of the war. The Code Talker's served in all six Marine divisions from 1942 to 1945. The Code Talker's primary job was to talk and transmit information on tactics, troop movements, orders and other vital battlefield information via telegraphs and radios in their native dialect.  A major advantage of the code talker system was its speed. The method of using Morse code often took hours where as, the Navajos handled a message in minutes.   It has been said that if was not for the Navajo Code Talker's, the Marines would have never taken Iwo Jima. The Navajo's unwritten language was understood by fewer than 30 non-Navajo's at the time of WWII.  The size and complexity of the language made the code extremely difficult to comprehend, much less decipher.  It was not until 1968 that the code became declassified by the US Government.</Italian>
+		<Spanish>[TAB]The Navajo Code Talkers, whose ranks exceed 400 during the course of World War II in the Pacific Theater.  Have been credited with saving countless lives and hastening the end of the war. The Code Talker's served in all six Marine divisions from 1942 to 1945. The Code Talker's primary job was to talk and transmit information on tactics, troop movements, orders and other vital battlefield information via telegraphs and radios in their native dialect.  A major advantage of the code talker system was its speed. The method of using Morse code often took hours where as, the Navajos handled a message in minutes.   It has been said that if was not for the Navajo Code Talker's, the Marines would have never taken Iwo Jima. The Navajo's unwritten language was understood by fewer than 30 non-Navajo's at the time of WWII.  The size and complexity of the language made the code extremely difficult to comprehend, much less decipher.  It was not until 1968 that the code became declassified by the US Government.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WESTINDIES_JDFENGINEER</Tag>
+		<English>JDF Engineer</English>
+		<French>Ingénieur JDF</French>
+		<German>JDF Engineer</German>
+		<Spanish>JDF Engineer</Spanish>
+		<Italian>JDF Engineer</Italian>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WESTINDIES_JDFENGINEER_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</English>
+		<French>La [COLOR_UNIT_TEXT]force de défense jamaïcaine[COLOR_REVERT] remplace la [COLOR_UNIT_TEXT]marine[COLOR_REVERT], et obtient du mouvement supplémentaire et la promotion 'flanc I'.</French>
+		<German>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Jamaican Defense Force[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT], and gains both additional movement and the Flanking I promotion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WESTINDIES_JDFENGINEER_PEDIA</Tag>
+		<English>[TAB]1 Engineer Regiment (JDF) is a unit of the Jamaica Defence Force primarily responsible for providing military and civil engineering. The regiment was formed in 1992 after a requirement was identified for increased military and civil engineering capability for the JDF than could be provided by the then existing structure. At the time, all JDF engineering capacity was provided by the Construction Squadron and the Engineering Unit of the Support and Services Battalion. The regiment today consists of a total of four distinct sub-units.</English>
+		<French>[TAB]1 Engineer Regiment (JDF) is a unit of the Jamaica Defence Force primarily responsible for providing military and civil engineering. The regiment was formed in 1992 after a requirement was identified for increased military and civil engineering capability for the JDF than could be provided by the then existing structure. At the time, all JDF engineering capacity was provided by the Construction Squadron and the Engineering Unit of the Support and Services Battalion. The regiment today consists of a total of four distinct sub-units.</French>
+		<German>[TAB]1 Engineer Regiment (JDF) is a unit of the Jamaica Defence Force primarily responsible for providing military and civil engineering. The regiment was formed in 1992 after a requirement was identified for increased military and civil engineering capability for the JDF than could be provided by the then existing structure. At the time, all JDF engineering capacity was provided by the Construction Squadron and the Engineering Unit of the Support and Services Battalion. The regiment today consists of a total of four distinct sub-units.</German>
+		<Spanish>[TAB]1 Engineer Regiment (JDF) is a unit of the Jamaica Defence Force primarily responsible for providing military and civil engineering. The regiment was formed in 1992 after a requirement was identified for increased military and civil engineering capability for the JDF than could be provided by the then existing structure. At the time, all JDF engineering capacity was provided by the Construction Squadron and the Engineering Unit of the Support and Services Battalion. The regiment today consists of a total of four distinct sub-units.</Spanish>
+		<Italian>[TAB]1 Engineer Regiment (JDF) is a unit of the Jamaica Defence Force primarily responsible for providing military and civil engineering. The regiment was formed in 1992 after a requirement was identified for increased military and civil engineering capability for the JDF than could be provided by the then existing structure. At the time, all JDF engineering capacity was provided by the Construction Squadron and the Engineering Unit of the Support and Services Battalion. The regiment today consists of a total of four distinct sub-units.</Italian>
+	</TEXT>
+</Civ4GameText>

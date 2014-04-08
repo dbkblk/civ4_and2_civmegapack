@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ###################################################################################### -->
+<!-- #####					CIV GOLD 4.0 VIETNAM							  					    ##### -->
+<!-- #####													 								    ##### -->
+<!-- #####   THIS PLUG AND PLAY SYSTEM REQUIRES THE CCCP DLL AVAILABLE HERE:	 	  						    ##### -->
+<!-- #####   http://forums.civfanatics.com/showthread.php?t=207938			  									    ##### -->
+<!-- #####												  	 								    ##### -->
+<!-- #####   Original Author: WYZ_SUB10						  										    ##### -->
+<!-- #####   Credit also to : Purplexus, Impaler[WRG], Chinese American						 			Date: Apr/29/07	    ##### -->
+<!-- #####													 								    ##### -->
+<!-- ###################################################################################### -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIETNAM_DESC</Tag>
+		<English>Vietnamese Empire</English>
+		<French>Vietnam</French>
+		<German>Vietnamese Empire</German>
+		<Italian>Vietnamese Empire</Italian>
+		<Spanish>Vietnam Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIETNAM_SHORT_DESC</Tag>
+		<English>Vietnam</English>
+		<French>Vietnamiens</French>
+		<German>Vietnam</German>
+		<Italian>Vietnam</Italian>
+		<Spanish>Vietnam</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIETNAM_PEDIA</Tag>
+		<English> [TAB]The Vietnamese civilization has existed for thousands of years. Vietnamese legends hold that native people populated and civilized the land more than 4,000 years ago. Chinese historical records tell of an indigenous people that existed about 2,500 years ago. Some historians, both in Asia and in the West, hold that the various peoples of today's Vietnam were brought together by a Qin Dynasty-era general who was fed up with the despotic rule of the Qin Shi Huang (First emperor of China proper) and escaped to the "southern Yue [Viet] mountains" to set up his own kingdom. He and his soldiers conquered the land and established a civilized society modeled after ancient Chinese customs. This Chinese general adopted the native language (which sounded similar to southern Chinese dialects anyway) and married local women, who gave birth to sons that inherited the kingdom. Whether this is indeed historically true or not is still subject to debate.[PARAGRAPH:2]What is known for sure is that for most of the period from 207 BC to the early 10th century, it was under the rule of successive dynasties of China. Sporadic independence movements were attempted, but were quickly extinguished by the Chinese army. In 939, the Vietnamese defeated Chinese forces at the Bach Dang River and gained independence. They gained complete autonomy a century later. For most of its history, Vietnam has been strongly influenced by its much bigger northern neighbor, China. However, during the rule of the Tran Dynasty, it defeated three Mongol attempts of invasion by the Yuan Dynasty. Feudalism in Vietnam reached its zenith in the Le Dynasty 1400s, especially with the emperor Le Thanh Tong. Between the 13th and 17th centuries, the Vietnamese expanded southward in a process known as nam tien (southward expansion). They eventually conquered the kingdom of Champa and much of the Khmer empire. [PARAGRAPH:2]The independent period ended in the mid-19th century, when the country was colonized by France.  French rule continued until World War II, when Japan briefly occupied Vietnam and used the country as a base to launch attacks against the rest of Indochina and India. When the war ended, France attempted to re-establish control but failed, after they were defeated at Dien Bien Phu. There was overwhelming support for a unified country, however, the West, particularly the United States feared that the highly popular Ho Chi Minh would easily win any election.[PARAGRAPH:2]The US under the Kennedy administration began to send military advisors into Vietnam and things quickly escalated from there.  The Communist strongholds in the North were supported by China and the Soviet Union while the regime set up in the South was supported by the United States. The conflict quickly escalated into the Vietnam War; one of the most controversial wars in history.  All American troops were withdrawn by March 29, 1973. By April 30, 1975, North Vietnam had overtaken the puppet regime in South Vietnam and by 1976, Vietnam was finally unified the Socialist Republic of Vietnam. This is the government that currently exists today. </English>
+		<French>The Vietnamese civilization has existed for thousands of years. Vietnamese legends hold that native people populated and civilized the land more than 4,000 years ago. Chinese historical records tell of an indigenous people that existed about 2,500 years ago. Some historians, both in Asia and in the West, hold that the various peoples of today's Vietnam were brought together by a Qin Dynasty-era general who was fed up with the despotic rule of the Qin Shi Huang (First emperor of China proper) and escaped to the "southern Yue [Viet] mountains" to set up his own kingdom. He and his soldiers conquered the land and established a civilized society modeled after ancient Chinese customs. This Chinese general adopted the native language (which sounded similar to southern Chinese dialects anyway) and married local women, who gave birth to sons that inherited the kingdom. Whether this is indeed historically true or not is still subject to debate.[NEWLINE][PARAGRAPH:2]What is known for sure is that for most of the period from 207 BC to the early 10th century, it was under the rule of successive dynasties of China. Sporadic independence movements were attempted, but were quickly extinguished by the Chinese army. In 939, the Vietnamese defeated Chinese forces at the Bach Dang River and gained independence. They gained complete autonomy a century later. For most of its history, Vietnam has been strongly influenced by its much bigger northern neighbor, China. However, during the rule of the Tran Dynasty, it defeated three Mongol attempts of invasion by the Yuan Dynasty. Feudalism in Vietnam reached its zenith in the Le Dynasty 1400s, especially with the emperor Le Thanh Tong. Between the 13th and 17th centuries, the Vietnamese expanded southward in a process known as nam tien (southward expansion). They eventually conquered the kingdom of Champa and much of the Khmer empire.[NEWLINE] [PARAGRAPH:2]The independent period ended in the mid-19th century, when the country was colonized by France.  French rule continued until World War II, when Japan briefly occupied Vietnam and used the country as a base to launch attacks against the rest of Indochina and India. When the war ended, France attempted to re-establish control but failed, after they were defeated at Dien Bien Phu. There was overwhelming support for a unified country, however, the West, particularly the United States feared that the highly popular Ho Chi Minh would easily win any election. [NEWLINE][PARAGRAPH:2]The US under the Kennedy administration began to send military advisors into Vietnam and things quickly escalated from there.  The Communist strongholds in the North were supported by China and the Soviet Union while the regime set up in the South was supported by the United States. The conflict quickly escalated into the Vietnam War; one of the most controversial wars in history.  All American troops were withdrawn by March 29, 1973. By April 30, 1975, North Vietnam had overtaken the puppet regime in South Vietnam and by 1976, Vietnam was finally unified the Socialist Republic of Vietnam. This is the government that currently exists today. </French>
+		<German>The Vietnamese civilization has existed for thousands of years. Vietnamese legends hold that native people populated and civilized the land more than 4,000 years ago. Chinese historical records tell of an indigenous people that existed about 2,500 years ago. Some historians, both in Asia and in the West, hold that the various peoples of today's Vietnam were brought together by a Qin Dynasty-era general who was fed up with the despotic rule of the Qin Shi Huang (First emperor of China proper) and escaped to the "southern Yue [Viet] mountains" to set up his own kingdom. He and his soldiers conquered the land and established a civilized society modeled after ancient Chinese customs. This Chinese general adopted the native language (which sounded similar to southern Chinese dialects anyway) and married local women, who gave birth to sons that inherited the kingdom. Whether this is indeed historically true or not is still subject to debate.[NEWLINE][PARAGRAPH:2]What is known for sure is that for most of the period from 207 BC to the early 10th century, it was under the rule of successive dynasties of China. Sporadic independence movements were attempted, but were quickly extinguished by the Chinese army. In 939, the Vietnamese defeated Chinese forces at the Bach Dang River and gained independence. They gained complete autonomy a century later. For most of its history, Vietnam has been strongly influenced by its much bigger northern neighbor, China. However, during the rule of the Tran Dynasty, it defeated three Mongol attempts of invasion by the Yuan Dynasty. Feudalism in Vietnam reached its zenith in the Le Dynasty 1400s, especially with the emperor Le Thanh Tong. Between the 13th and 17th centuries, the Vietnamese expanded southward in a process known as nam tien (southward expansion). They eventually conquered the kingdom of Champa and much of the Khmer empire. [NEWLINE][PARAGRAPH:2]The independent period ended in the mid-19th century, when the country was colonized by France.  French rule continued until World War II, when Japan briefly occupied Vietnam and used the country as a base to launch attacks against the rest of Indochina and India. When the war ended, France attempted to re-establish control but failed, after they were defeated at Dien Bien Phu. There was overwhelming support for a unified country, however, the West, particularly the United States feared that the highly popular Ho Chi Minh would easily win any election.[NEWLINE][PARAGRAPH:2] The US under the Kennedy administration began to send military advisors into Vietnam and things quickly escalated from there.  The Communist strongholds in the North were supported by China and the Soviet Union while the regime set up in the South was supported by the United States. The conflict quickly escalated into the Vietnam War; one of the most controversial wars in history.  All American troops were withdrawn by March 29, 1973. By April 30, 1975, North Vietnam had overtaken the puppet regime in South Vietnam and by 1976, Vietnam was finally unified the Socialist Republic of Vietnam. This is the government that currently exists today.</German>
+		<Italian>The Vietnamese civilization has existed for thousands of years. Vietnamese legends hold that native people populated and civilized the land more than 4,000 years ago. Chinese historical records tell of an indigenous people that existed about 2,500 years ago. Some historians, both in Asia and in the West, hold that the various peoples of today's Vietnam were brought together by a Qin Dynasty-era general who was fed up with the despotic rule of the Qin Shi Huang (First emperor of China proper) and escaped to the "southern Yue [Viet] mountains" to set up his own kingdom. He and his soldiers conquered the land and established a civilized society modeled after ancient Chinese customs. This Chinese general adopted the native language (which sounded similar to southern Chinese dialects anyway) and married local women, who gave birth to sons that inherited the kingdom. Whether this is indeed historically true or not is still subject to debate.[NEWLINE][PARAGRAPH:2]What is known for sure is that for most of the period from 207 BC to the early 10th century, it was under the rule of successive dynasties of China. Sporadic independence movements were attempted, but were quickly extinguished by the Chinese army. In 939, the Vietnamese defeated Chinese forces at the Bach Dang River and gained independence. They gained complete autonomy a century later. For most of its history, Vietnam has been strongly influenced by its much bigger northern neighbor, China. However, during the rule of the Tran Dynasty, it defeated three Mongol attempts of invasion by the Yuan Dynasty. Feudalism in Vietnam reached its zenith in the Le Dynasty 1400s, especially with the emperor Le Thanh Tong. Between the 13th and 17th centuries, the Vietnamese expanded southward in a process known as nam tien (southward expansion). They eventually conquered the kingdom of Champa and much of the Khmer empire.[NEWLINE] [PARAGRAPH:2]The independent period ended in the mid-19th century, when the country was colonized by France.  French rule continued until World War II, when Japan briefly occupied Vietnam and used the country as a base to launch attacks against the rest of Indochina and India. When the war ended, France attempted to re-establish control but failed, after they were defeated at Dien Bien Phu. There was overwhelming support for a unified country, however, the West, particularly the United States feared that the highly popular Ho Chi Minh would easily win any election. [NEWLINE][PARAGRAPH:2]The US under the Kennedy administration began to send military advisors into Vietnam and things quickly escalated from there.  The Communist strongholds in the North were supported by China and the Soviet Union while the regime set up in the South was supported by the United States. The conflict quickly escalated into the Vietnam War; one of the most controversial wars in history.  All American troops were withdrawn by March 29, 1973. By April 30, 1975, North Vietnam had overtaken the puppet regime in South Vietnam and by 1976, Vietnam was finally unified the Socialist Republic of Vietnam. This is the government that currently exists today.</Italian>
+		<Spanish>The Vietnamese civilization has existed for thousands of years. Vietnamese legends hold that native people populated and civilized the land more than 4,000 years ago. Chinese historical records tell of an indigenous people that existed about 2,500 years ago. Some historians, both in Asia and in the West, hold that the various peoples of today's Vietnam were brought together by a Qin Dynasty-era general who was fed up with the despotic rule of the Qin Shi Huang (First emperor of China proper) and escaped to the "southern Yue [Viet] mountains" to set up his own kingdom. He and his soldiers conquered the land and established a civilized society modeled after ancient Chinese customs. This Chinese general adopted the native language (which sounded similar to southern Chinese dialects anyway) and married local women, who gave birth to sons that inherited the kingdom. Whether this is indeed historically true or not is still subject to debate.[NEWLINE][PARAGRAPH:2]What is known for sure is that for most of the period from 207 BC to the early 10th century, it was under the rule of successive dynasties of China. Sporadic independence movements were attempted, but were quickly extinguished by the Chinese army. In 939, the Vietnamese defeated Chinese forces at the Bach Dang River and gained independence. They gained complete autonomy a century later. For most of its history, Vietnam has been strongly influenced by its much bigger northern neighbor, China. However, during the rule of the Tran Dynasty, it defeated three Mongol attempts of invasion by the Yuan Dynasty. Feudalism in Vietnam reached its zenith in the Le Dynasty 1400s, especially with the emperor Le Thanh Tong. Between the 13th and 17th centuries, the Vietnamese expanded southward in a process known as nam tien (southward expansion). They eventually conquered the kingdom of Champa and much of the Khmer empire. [NEWLINE][PARAGRAPH:2]The independent period ended in the mid-19th century, when the country was colonized by France.  French rule continued until World War II, when Japan briefly occupied Vietnam and used the country as a base to launch attacks against the rest of Indochina and India. When the war ended, France attempted to re-establish control but failed, after they were defeated at Dien Bien Phu. There was overwhelming support for a unified country, however, the West, particularly the United States feared that the highly popular Ho Chi Minh would easily win any election. [NEWLINE][PARAGRAPH:2]The US under the Kennedy administration began to send military advisors into Vietnam and things quickly escalated from there.  The Communist strongholds in the North were supported by China and the Soviet Union while the regime set up in the South was supported by the United States. The conflict quickly escalated into the Vietnam War; one of the most controversial wars in history.  All American troops were withdrawn by March 29, 1973. By April 30, 1975, North Vietnam had overtaken the puppet regime in South Vietnam and by 1976, Vietnam was finally unified the Socialist Republic of Vietnam. This is the government that currently exists today.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIETNAM_ADJECTIVE</Tag>
+		<English>Vietnamese </English>
+    <French>
+	    <Text>vietnamien:vietnamienne:vietnamiens:vietnamiennes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
+		<German>Vietnamese </German>
+		<Italian>Vietnamese </Italian>
+		<Spanish>Vietnamese </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HANOI</Tag>
+		<English>Hanoi</English>
+		<French>
+			<Text>Hanoi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Hanoi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Hanoi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hanoi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAIGON</Tag>
+		<English>Saigon</English>
+		<French>
+			<Text>Saigon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Saigon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Saigon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Saigon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HUE</Tag>
+		<English>Hue</English>
+		<French>
+			<Text>Hue</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Hue</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Hue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAIPHONG</Tag>
+		<English>Haiphong</English>
+		<French>
+			<Text>Haiphong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Haiphong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Haiphong</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Haiphong</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DANANG</Tag>
+		<English>Danang</English>
+		<French>
+			<Text>Danang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Danang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Danang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Danang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CANTHO</Tag>
+		<English>Cantho</English>
+		<French>
+			<Text>Cantho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cantho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cantho</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cantho</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NHA_TRANG</Tag>
+		<English>Nha Trang</English>
+		<French>
+			<Text>Nha Trang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Nha Trang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nha Trang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Nha Trang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_QUI_NHON</Tag>
+		<English>Qui Nhon</English>
+		<French>
+			<Text>Qui Nhon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Qui Nhon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Qui Nhon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Qui Nhon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VINH</Tag>
+		<English>Vinh</English>
+		<French>
+			<Text>Vinh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vinh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Vinh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Vinh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LONG_XUYEN</Tag>
+		<English>Long Xuyen</English>
+		<French>
+			<Text>Long Xuyen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Long Xuyen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Long Xuyen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Long Xuyen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NAM_DINH</Tag>
+		<English>Nam Dinh</English>
+		<French>
+			<Text>Nam Dinh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Nam Dinh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nam Dinh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Nam Dinh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HALONG</Tag>
+		<English>Halong</English>
+		<French>
+			<Text>Halong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Halong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Halong</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Halong</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DALAT</Tag>
+		<English>Dalat</English>
+		<French>
+			<Text>Dalat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dalat</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dalat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dalat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TRANH_HOA</Tag>
+		<English>Thanh Hoa</English>
+		<French>
+			<Text>Thanh Hoa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Thanh Hoa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Thanh Hoa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Thanh Hoa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VIET_TRI</Tag>
+		<English>Viet Tri</English>
+		<French>
+			<Text>Viet Tri</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Viet Tri</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Viet Tri</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Viet Tri</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MYTHO</Tag>
+		<English>Mytho</English>
+		<French>
+			<Text>Mytho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mytho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mytho</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mytho</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BEN_TRE</Tag>
+		<English>Ben Tre</English>
+		<French>
+			<Text>Ben Tre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ben Tre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ben Tre</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ben Tre</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BAC_NINH</Tag>
+		<English>Bac Ninh</English>
+		<French>
+			<Text>Bac Ninh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bac Ninh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bac Ninh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bac Ninh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAPA</Tag>
+		<English>Sapa</English>
+		<French>
+			<Text>Sapa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sapa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Sapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BIEN_HOA</Tag>
+		<English>Bien Hoa</English>
+		<French>
+			<Text>Bien Hoa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bien Hoa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bien Hoa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bien Hoa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VINH_LONG</Tag>
+		<English>Vinh Long</English>
+		<French>
+			<Text>Vinh Long</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vinh Long</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Vinh Long</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Vinh Long</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_THAI_NGUYEN</Tag>
+		<English>Thai Nguyen</English>
+		<French>
+			<Text>Thai Nguyen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Thai Nguyen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Thai Nguyen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Thai Nguyen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RACH_GIA</Tag>
+		<English>Rach Gia</English>
+		<French>
+			<Text>Rach Gia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rach Gia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rach Gia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rach Gia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SOC_TRANG</Tag>
+		<English>Soc Trang</English>
+		<French>
+			<Text>Soc Trang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Soc Trang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Soc Trang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Soc Trang</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BAC_LIEU</Tag>
+		<English>Bac Lieu</English>
+		<French>
+			<Text>Bac Lieu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bac Lieu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bac Lieu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bac Lieu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DIEN_BIEN_PHU</Tag>
+		<English>Dien Bien Phu</English>
+		<French>
+			<Text>Dien Bien Phu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dien Bien Phu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dien Bien Phu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dien Bien Phu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>	

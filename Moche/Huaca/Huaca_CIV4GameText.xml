@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOCHE_HUACA</Tag>
+		<English>Huaca</English>
+		<French>Huaca</French>
+		<German>Huaca</German>
+		<Italian>Huaca</Italian>
+		<Spanish>Huaca</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOCHE_HUACA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Huaca[COLOR_REVERT], the Moche replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], grants an additional trade route in the city in which it is built.</English>
+		<French>Le [COLOR_BUILDING_TEXT]huaca[COLOR_REVERT], équivalent moche du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT], procure une route commerciale supplémentaire dans la ville où il est construit.</French>
+		<German>The [COLOR_BUILDING_TEXT]Huaca[COLOR_REVERT], the Moche replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], grants an additional trade route in the city in which it is built.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Huaca[COLOR_REVERT], the Moche replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], grants an additional trade route in the city in which it is built.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Huaca[COLOR_REVERT], the Moche replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], grants an additional trade route in the city in which it is built.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOCHE_HUACA_PEDIA</Tag>
+		<English>[TAB]In Quechua, a Native American language of South America, a huaca or wak'a is an object that represents something revered, typically a monument of some kind. The term huaca can refer to natural locations, such as immense rocks. Some huacas have been associated with veneration and ritual. Andean cultures believed every object has a physical presence and two camaquen (spirits), one to create it and another to animate it. They would invoke its spirits for the object to function.[PARAGRAPH:1] The term 'huaca' is often associated with pyramids and temples in Moche culture. Impressive ziggurats can be found in a number of Moche sites. </English>
+		<French>[TAB]In Quechua, a Native American language of South America, a huaca or wak'a is an object that represents something revered, typically a monument of some kind. The term huaca can refer to natural locations, such as immense rocks. Some huacas have been associated with veneration and ritual. Andean cultures believed every object has a physical presence and two camaquen (spirits), one to create it and another to animate it. They would invoke its spirits for the object to function.[PARAGRAPH:1] The term 'huaca' is often associated with pyramids and temples in Moche culture. Impressive ziggurats can be found in a number of Moche sites. </French>
+		<German>[TAB]In Quechua, a Native American language of South America, a huaca or wak'a is an object that represents something revered, typically a monument of some kind. The term huaca can refer to natural locations, such as immense rocks. Some huacas have been associated with veneration and ritual. Andean cultures believed every object has a physical presence and two camaquen (spirits), one to create it and another to animate it. They would invoke its spirits for the object to function.[PARAGRAPH:1] The term 'huaca' is often associated with pyramids and temples in Moche culture. Impressive ziggurats can be found in a number of Moche sites. </German>
+		<Italian>[TAB]In Quechua, a Native American language of South America, a huaca or wak'a is an object that represents something revered, typically a monument of some kind. The term huaca can refer to natural locations, such as immense rocks. Some huacas have been associated with veneration and ritual. Andean cultures believed every object has a physical presence and two camaquen (spirits), one to create it and another to animate it. They would invoke its spirits for the object to function.[PARAGRAPH:1] The term 'huaca' is often associated with pyramids and temples in Moche culture. Impressive ziggurats can be found in a number of Moche sites. </Italian>
+		<Spanish>[TAB]In Quechua, a Native American language of South America, a huaca or wak'a is an object that represents something revered, typically a monument of some kind. The term huaca can refer to natural locations, such as immense rocks. Some huacas have been associated with veneration and ritual. Andean cultures believed every object has a physical presence and two camaquen (spirits), one to create it and another to animate it. They would invoke its spirits for the object to function.[PARAGRAPH:1] The term 'huaca' is often associated with pyramids and temples in Moche culture. Impressive ziggurats can be found in a number of Moche sites. </Spanish>
+	</TEXT>
+</Civ4GameText>

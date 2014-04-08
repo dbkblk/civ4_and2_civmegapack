@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Created with Notepad by strategyonly -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LATVIA_DESC</Tag>
+		<English>Latvian Empire</English>
+		<French>Lettonie</French>
+		<German>Latvian Empire</German>
+		<Italian>Latvian Empire</Italian>
+		<Spanish>Latvian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LATVIA_SHORT_DESC</Tag>
+		<English>Latvia</English>
+		<French>Lettons</French>
+		<German>Latvia</German>
+		<Italian>Latvia</Italian>
+		<Spanish>Latvia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LATVIA_ADJECTIVE</Tag>
+		<English>Latvian</English>
+		<French>
+	    <Text>letton:lettonne:lettons:lettonnes</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
+		<German>Latvian</German>
+		<Italian>Latvian</Italian>
+		<Spanish>Latvian</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LATVIA_PEDIA</Tag>
+		<English>Latvia; Latvian: Latvija, officially the Republic of Latvia (Latvian: Latvijas Republika) is a country in Northern Europe in the Baltic region. It is bordered to the north by Estonia (343 km), to the south by Lithuania (588 km), and to the east both by Belarus (141 km) and the Russian Federation (276 km).  Across the Baltic Sea to the west lies Sweden. The territory of Latvia covers 64,589 km² and is influenced by a temperate seasonal climate.
+
+The Latvians are a Baltic people closely related to the Lithuanians, with the Latvian language sharing many similarities to Lithuanian. Today the Latvians and Lithuanians are the only surviving members of the Baltic peoples and Baltic languages of the Indo-European family. The modern name of Latvia is thought to originate from the ancient Latvian name Latvji, which may have originated from the river named Latva or Latuva, which may be today's Lates upe.
+
+Latvia is a democratic parliamentary republic and is divided into 26 districts. The capital and largest city is Riga. Latvia has been a member of the United Nations since 17 September 1991, of the European Union since 1 May 2004 and of NATO since 29 March 2004.
+
+The Vikings invaded the area now known as Latvia in the 9th century, which was ruled by pagan Baltic tribes and stood on a trading crossroads between Scandinavia and Russia. The Russians attacked in the 10th century. The invasion of the Teutonic Knights (German crusaders) in the 13th century was resisted in a lengthy struggle, but Latvia eventually came under their control in 1230, converted to Christianity, and was governed by them for more than 200 years. By 1562 Poland and Lithuania had taken over most of the country. Sweden conquered the north in 1621 and Russia took over control of this area in 1710. By 1800 all of Latvia had come under Russian control. Serfdom was abolished between 1817-19 and the country became increasingly urbanized. A Latvian nationalist movement began to emerge in the mid 19th century and grew from the 1890s.</English>
+	        	<French>Not in French</French>
+		<German>Not in German</German>
+		<Italian>Not in Italian</Italian>
+		<Spanish>Not in Spanish</Spanish>
+        </TEXT>
+</Civ4GameText>

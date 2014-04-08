@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUTAPA_ROZVI</Tag>
+		<English>Rozvi</English>
+		<French>Rozvi</French>
+		<German>Rozvi</German>
+		<Italian>Rozvi</Italian>
+		<Spanish>Rozvi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUTAPA_ROZVI_STRATEGY</Tag>
+		<English>The Mutapa [COLOR_UNIT_TEXT]Rozvi[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], begins with the Flanking I promotion, giving it a chance to withdraw from combat.</English>
+		<French>Le [COLOR_UNIT_TEXT]rozvi[COLOR_REVERT]est l'équivalent zimbabwéen du [COLOR_UNIT_TEXT]soldat avec masse[COLOR_REVERT]. Il commence avec la promotion 'contournement I', améliorant ses chances de retraite au combat.</French>
+		<German>The Mutapa [COLOR_UNIT_TEXT]Rozvi[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], begins with the Flanking I promotion, giving it a chance to withdraw from combat.</German>
+		<Italian>The Mutapa [COLOR_UNIT_TEXT]Rozvi[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], begins with the Flanking I promotion, giving it a chance to withdraw from combat.</Italian>
+		<Spanish>The Mutapa [COLOR_UNIT_TEXT]Rozvi[COLOR_REVERT], which replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], begins with the Flanking I promotion, giving it a chance to withdraw from combat.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MUTAPA_ROZVI_PEDIA</Tag>
+		<English>[TAB]In 1693 the Portuguese were defeated by the Rozwi. The Rozwi were formed from several Shona states that dominated the plateau of present-day Zimbabwe at the time. The Portuguese were driven off the central plateau and only retained a nominal presence at one of the fairs in the eastern highlands. The whole of present-day Zimbabwe was brought under the control of Changamire and became known as the Rozwi Empire. This fierce tribe of warriors was to be known as the Rozvi people and after driving the Portuguese out of the area, went on to establish the Rozvi Empire.</English>
+		<French>[TAB]In 1693 the Portuguese were defeated by the Rozwi. The Rozwi were formed from several Shona states that dominated the plateau of present-day Zimbabwe at the time. The Portuguese were driven off the central plateau and only retained a nominal presence at one of the fairs in the eastern highlands. The whole of present-day Zimbabwe was brought under the control of Changamire and became known as the Rozwi Empire. This fierce tribe of warriors was to be known as the Rozvi people and after driving the Portuguese out of the area, went on to establish the Rozvi Empire.</French>
+		<German>[TAB]In 1693 the Portuguese were defeated by the Rozwi. The Rozwi were formed from several Shona states that dominated the plateau of present-day Zimbabwe at the time. The Portuguese were driven off the central plateau and only retained a nominal presence at one of the fairs in the eastern highlands. The whole of present-day Zimbabwe was brought under the control of Changamire and became known as the Rozwi Empire. This fierce tribe of warriors was to be known as the Rozvi people and after driving the Portuguese out of the area, went on to establish the Rozvi Empire.</German>
+		<Italian>[TAB]In 1693 the Portuguese were defeated by the Rozwi. The Rozwi were formed from several Shona states that dominated the plateau of present-day Zimbabwe at the time. The Portuguese were driven off the central plateau and only retained a nominal presence at one of the fairs in the eastern highlands. The whole of present-day Zimbabwe was brought under the control of Changamire and became known as the Rozwi Empire. This fierce tribe of warriors was to be known as the Rozvi people and after driving the Portuguese out of the area, went on to establish the Rozvi Empire.</Italian>
+		<Spanish>[TAB]In 1693 the Portuguese were defeated by the Rozwi. The Rozwi were formed from several Shona states that dominated the plateau of present-day Zimbabwe at the time. The Portuguese were driven off the central plateau and only retained a nominal presence at one of the fairs in the eastern highlands. The whole of present-day Zimbabwe was brought under the control of Changamire and became known as the Rozwi Empire. This fierce tribe of warriors was to be known as the Rozvi people and after driving the Portuguese out of the area, went on to establish the Rozvi Empire.</Spanish>
+	</TEXT>
+</Civ4GameText>	

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_URHOKPOTA</Tag>
+		<English>Urhokpota</English>
+		<French>Urhokpota</French>
+		<German>Urhokpota</German>
+		<Italian>Urhokpota</Italian>
+		<Spanish>Urhokpota</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_URHOKPOTA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist.</English>
+		<French>Le [COLOR_BUILDING_TEXT]urhokpota[COLOR_REVERT] remplace le tribunal et procure un artiste.</French>
+		<German>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_URHOKPOTA_PEDIA</Tag>
+		<English>The Urhokpota building worked as a courthouse in the Empire of Benin. It is said that the charm which was buried at the gate of the Palace brought prosperity to the Kingdom. The Oba lodged Okpota in a house near the Palace in the area of the present day Exhibition Centre. The verandah to his house soon became a meeting place for the elders, even for the Oba, and Urhokpota has ever since remained a Centre for meeting and useful deliberations.</English>
+		<French>The Urhokpota building worked as a courthouse in the Empire of Benin. It is said that the charm which was buried at the gate of the Palace brought prosperity to the Kingdom. The Oba lodged Okpota in a house near the Palace in the area of the present day Exhibition Centre. The verandah to his house soon became a meeting place for the elders, even for the Oba, and Urhokpota has ever since remained a Centre for meeting and useful deliberations.</French>
+		<German>The Urhokpota building worked as a courthouse in the Empire of Benin. It is said that the charm which was buried at the gate of the Palace brought prosperity to the Kingdom. The Oba lodged Okpota in a house near the Palace in the area of the present day Exhibition Centre. The verandah to his house soon became a meeting place for the elders, even for the Oba, and Urhokpota has ever since remained a Centre for meeting and useful deliberations.</German>
+		<Italian>The Urhokpota building worked as a courthouse in the Empire of Benin. It is said that the charm which was buried at the gate of the Palace brought prosperity to the Kingdom. The Oba lodged Okpota in a house near the Palace in the area of the present day Exhibition Centre. The verandah to his house soon became a meeting place for the elders, even for the Oba, and Urhokpota has ever since remained a Centre for meeting and useful deliberations.</Italian>
+		<Spanish>The Urhokpota building worked as a courthouse in the Empire of Benin. It is said that the charm which was buried at the gate of the Palace brought prosperity to the Kingdom. The Oba lodged Okpota in a house near the Palace in the area of the present day Exhibition Centre. The verandah to his house soon became a meeting place for the elders, even for the Oba, and Urhokpota has ever since remained a Centre for meeting and useful deliberations.</Spanish>
+	</TEXT>
+</Civ4GameText>

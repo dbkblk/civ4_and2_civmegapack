@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+   <TEXT>
+		<Tag>TXT_KEY_LEADER_NUWAS</Tag>
+		<English>Dhu Nuwas</English>
+		<French>
+			<Text>Dhu Nuwas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dhu Nuwas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dhu Nuwas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dhu Nuwas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT> 
+    <TEXT>
+		<Tag>TXT_KEY_LEADER_NUWAS_PEDIA</Tag>
+		<English>[H1]Yusuf Dhu Nuwas[\H1][NEWLINE][BOLD]Last king of the Himyarite kingdom of Yemen[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 517 - 525[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Yusuf Dhu Nuwas was the last king of the Himyarite kingdom of Yemen and a convert to Judaism.  Some sources state that he was the successor of Rabia ibn Mudhar, a member of the same dynasty; the archeologist Alessandro de Maigret believes he was an usurper.  According to a number of medieval historians, who depend on the account of John of Ephesus, Dhu Nuwas, who was a convert to Judaism, announced that he would persecute the Christians living in his kingdom because Christian states persecuted his fellow co-religionists in their realms; a letter survives written by Simon, the bishop of Beth Arsham in 524 CE, recounts Dhu Nuwas' (where he is called Dimnon) persecution in Najran (modern al-Ukhdud in Saudi Arabia).  The persecution is apparently described and condemned in the Qur'an (al-Buruj:4).  According to the contemporary sources, after seizing the throne of the Himyarites, in ca. 518 or 523 Dhu Nuwas attacked the Aksumite (mainly Christian) garrison at Zafar, capturing them and burning their churches. He then moved against Najran, a Christian and Aksumite stronghold. After accepting the city's capitulation, he massacred those inhabitants who would not renounce Christianity. Estimates of the death toll from this event range up to 20,000 in some sources.  Dhu Nuwas then proceeded to write a letter to the Lakhmid king Mundhir of al-Hira and King Kavadh I of Persia, informing them of his deed and encouraging them to do likewise to the Christians under their dominion. Al-Mundhir received this letter in January 519 as he was receiving an embassy from Constantinople seeking to forge a peace between the Roman Empire and Hira. He revealed the contents of the letter to the Roman ambassadors who were horrified at its contents. Word of the slaughter quickly spread throughout the Rom an and Persian realms, and refugees from Najran even reached the court of the Roman emperor Justin I himself, begging him to avenge the martyred Christians.  The slaughter of the Axumite garrison in Zafar also provoked a response from Kaleb, King of Axum. Procopius reports that Kaleb (whom he calls Hellesthaeus) with the help of Justin, the Roman Emperor, collected a fleet and crossed from Africa to Yemen, where he defeated Dhu Nuwas about the year 520 or 525 (1.20). Kaleb then appointed his Christian South Arabian follower Sumuafa' Ashawa' to rule Yemen as his viceroy.  Arab tradition states that Dhu Nuwas committed suicide by riding his horse into the Red Sea. De Maigret reports that another South Arabian inscription from Husn al-Ghurab may indicate that he was killed in battle fighting against Kaleb's army.  De Maigret also reports that in 1951, three inscriptions were found just north of al-Ukhdud, which refer to a military campaign led by Dhu Nuwas (where he is called Yusuf Asar Yathar), and are dated to the year 633 of the Himyarite era, equivalent to AD 518 or 523.</English>
+		<French>[H1]Yusuf Dhu Nuwas[\H1][NEWLINE][BOLD]Last king of the Himyarite kingdom of Yemen[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 517 - 525[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Yusuf Dhu Nuwas was the last king of the Himyarite kingdom of Yemen and a convert to Judaism.  Some sources state that he was the successor of Rabia ibn Mudhar, a member of the same dynasty; the archeologist Alessandro de Maigret believes he was an usurper.  According to a number of medieval historians, who depend on the account of John of Ephesus, Dhu Nuwas, who was a convert to Judaism, announced that he would persecute the Christians living in his kingdom because Christian states persecuted his fellow co-religionists in their realms; a letter survives written by Simon, the bishop of Beth Arsham in 524 CE, recounts Dhu Nuwas' (where he is called Dimnon) persecution in Najran (modern al-Ukhdud in Saudi Arabia).  The persecution is apparently described and condemned in the Qur'an (al-Buruj:4).  According to the contemporary sources, after seizing the throne of the Himyarites, in ca. 518 or 523 Dhu Nuwas attacked the Aksumite (mainly Christian) garrison at Zafar, capturing them and burning their churches. He then moved against Najran, a Christian and Aksumite stronghold. After accepting the city's capitulation, he massacred those inhabitants who would not renounce Christianity. Estimates of the death toll from this event range up to 20,000 in some sources.  Dhu Nuwas then proceeded to write a letter to the Lakhmid king Mundhir of al-Hira and King Kavadh I of Persia, informing them of his deed and encouraging them to do likewise to the Christians under their dominion. Al-Mundhir received this letter in January 519 as he was receiving an embassy from Constantinople seeking to forge a peace between the Roman Empire and Hira. He revealed the contents of the letter to the Roman ambassadors who were horrified at its contents. Word of the slaughter quickly spread throughout the Rom an and Persian realms, and refugees from Najran even reached the court of the Roman emperor Justin I himself, begging him to avenge the martyred Christians.  The slaughter of the Axumite garrison in Zafar also provoked a response from Kaleb, King of Axum. Procopius reports that Kaleb (whom he calls Hellesthaeus) with the help of Justin, the Roman Emperor, collected a fleet and crossed from Africa to Yemen, where he defeated Dhu Nuwas about the year 520 or 525 (1.20). Kaleb then appointed his Christian South Arabian follower Sumuafa' Ashawa' to rule Yemen as his viceroy.  Arab tradition states that Dhu Nuwas committed suicide by riding his horse into the Red Sea. De Maigret reports that another South Arabian inscription from Husn al-Ghurab may indicate that he was killed in battle fighting against Kaleb's army.  De Maigret also reports that in 1951, three inscriptions were found just north of al-Ukhdud, which refer to a military campaign led by Dhu Nuwas (where he is called Yusuf Asar Yathar), and are dated to the year 633 of the Himyarite era, equivalent to AD 518 or 523.</French>
+		<German>[H1]Yusuf Dhu Nuwas[\H1][NEWLINE][BOLD]Last king of the Himyarite kingdom of Yemen[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 517 - 525[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Yusuf Dhu Nuwas was the last king of the Himyarite kingdom of Yemen and a convert to Judaism.  Some sources state that he was the successor of Rabia ibn Mudhar, a member of the same dynasty; the archeologist Alessandro de Maigret believes he was an usurper.  According to a number of medieval historians, who depend on the account of John of Ephesus, Dhu Nuwas, who was a convert to Judaism, announced that he would persecute the Christians living in his kingdom because Christian states persecuted his fellow co-religionists in their realms; a letter survives written by Simon, the bishop of Beth Arsham in 524 CE, recounts Dhu Nuwas' (where he is called Dimnon) persecution in Najran (modern al-Ukhdud in Saudi Arabia).  The persecution is apparently described and condemned in the Qur'an (al-Buruj:4).  According to the contemporary sources, after seizing the throne of the Himyarites, in ca. 518 or 523 Dhu Nuwas attacked the Aksumite (mainly Christian) garrison at Zafar, capturing them and burning their churches. He then moved against Najran, a Christian and Aksumite stronghold. After accepting the city's capitulation, he massacred those inhabitants who would not renounce Christianity. Estimates of the death toll from this event range up to 20,000 in some sources.  Dhu Nuwas then proceeded to write a letter to the Lakhmid king Mundhir of al-Hira and King Kavadh I of Persia, informing them of his deed and encouraging them to do likewise to the Christians under their dominion. Al-Mundhir received this letter in January 519 as he was receiving an embassy from Constantinople seeking to forge a peace between the Roman Empire and Hira. He revealed the contents of the letter to the Roman ambassadors who were horrified at its contents. Word of the slaughter quickly spread throughout the Rom an and Persian realms, and refugees from Najran even reached the court of the Roman emperor Justin I himself, begging him to avenge the martyred Christians.  The slaughter of the Axumite garrison in Zafar also provoked a response from Kaleb, King of Axum. Procopius reports that Kaleb (whom he calls Hellesthaeus) with the help of Justin, the Roman Emperor, collected a fleet and crossed from Africa to Yemen, where he defeated Dhu Nuwas about the year 520 or 525 (1.20). Kaleb then appointed his Christian South Arabian follower Sumuafa' Ashawa' to rule Yemen as his viceroy.  Arab tradition states that Dhu Nuwas committed suicide by riding his horse into the Red Sea. De Maigret reports that another South Arabian inscription from Husn al-Ghurab may indicate that he was killed in battle fighting against Kaleb's army.  De Maigret also reports that in 1951, three inscriptions were found just north of al-Ukhdud, which refer to a military campaign led by Dhu Nuwas (where he is called Yusuf Asar Yathar), and are dated to the year 633 of the Himyarite era, equivalent to AD 518 or 523.</German>
+		<Italian>[H1]Yusuf Dhu Nuwas[\H1][NEWLINE][BOLD]Last king of the Himyarite kingdom of Yemen[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 517 - 525[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Yusuf Dhu Nuwas was the last king of the Himyarite kingdom of Yemen and a convert to Judaism.  Some sources state that he was the successor of Rabia ibn Mudhar, a member of the same dynasty; the archeologist Alessandro de Maigret believes he was an usurper.  According to a number of medieval historians, who depend on the account of John of Ephesus, Dhu Nuwas, who was a convert to Judaism, announced that he would persecute the Christians living in his kingdom because Christian states persecuted his fellow co-religionists in their realms; a letter survives written by Simon, the bishop of Beth Arsham in 524 CE, recounts Dhu Nuwas' (where he is called Dimnon) persecution in Najran (modern al-Ukhdud in Saudi Arabia).  The persecution is apparently described and condemned in the Qur'an (al-Buruj:4).  According to the contemporary sources, after seizing the throne of the Himyarites, in ca. 518 or 523 Dhu Nuwas attacked the Aksumite (mainly Christian) garrison at Zafar, capturing them and burning their churches. He then moved against Najran, a Christian and Aksumite stronghold. After accepting the city's capitulation, he massacred those inhabitants who would not renounce Christianity. Estimates of the death toll from this event range up to 20,000 in some sources.  Dhu Nuwas then proceeded to write a letter to the Lakhmid king Mundhir of al-Hira and King Kavadh I of Persia, informing them of his deed and encouraging them to do likewise to the Christians under their dominion. Al-Mundhir received this letter in January 519 as he was receiving an embassy from Constantinople seeking to forge a peace between the Roman Empire and Hira. He revealed the contents of the letter to the Roman ambassadors who were horrified at its contents. Word of the slaughter quickly spread throughout the Rom an and Persian realms, and refugees from Najran even reached the court of the Roman emperor Justin I himself, begging him to avenge the martyred Christians.  The slaughter of the Axumite garrison in Zafar also provoked a response from Kaleb, King of Axum. Procopius reports that Kaleb (whom he calls Hellesthaeus) with the help of Justin, the Roman Emperor, collected a fleet and crossed from Africa to Yemen, where he defeated Dhu Nuwas about the year 520 or 525 (1.20). Kaleb then appointed his Christian South Arabian follower Sumuafa' Ashawa' to rule Yemen as his viceroy.  Arab tradition states that Dhu Nuwas committed suicide by riding his horse into the Red Sea. De Maigret reports that another South Arabian inscription from Husn al-Ghurab may indicate that he was killed in battle fighting against Kaleb's army.  De Maigret also reports that in 1951, three inscriptions were found just north of al-Ukhdud, which refer to a military campaign led by Dhu Nuwas (where he is called Yusuf Asar Yathar), and are dated to the year 633 of the Himyarite era, equivalent to AD 518 or 523.</Italian>
+		<Spanish>[H1]Yusuf Dhu Nuwas[\H1][NEWLINE][BOLD]Last king of the Himyarite kingdom of Yemen[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 517 - 525[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Yusuf Dhu Nuwas was the last king of the Himyarite kingdom of Yemen and a convert to Judaism.  Some sources state that he was the successor of Rabia ibn Mudhar, a member of the same dynasty; the archeologist Alessandro de Maigret believes he was an usurper.  According to a number of medieval historians, who depend on the account of John of Ephesus, Dhu Nuwas, who was a convert to Judaism, announced that he would persecute the Christians living in his kingdom because Christian states persecuted his fellow co-religionists in their realms; a letter survives written by Simon, the bishop of Beth Arsham in 524 CE, recounts Dhu Nuwas' (where he is called Dimnon) persecution in Najran (modern al-Ukhdud in Saudi Arabia).  The persecution is apparently described and condemned in the Qur'an (al-Buruj:4).  According to the contemporary sources, after seizing the throne of the Himyarites, in ca. 518 or 523 Dhu Nuwas attacked the Aksumite (mainly Christian) garrison at Zafar, capturing them and burning their churches. He then moved against Najran, a Christian and Aksumite stronghold. After accepting the city's capitulation, he massacred those inhabitants who would not renounce Christianity. Estimates of the death toll from this event range up to 20,000 in some sources.  Dhu Nuwas then proceeded to write a letter to the Lakhmid king Mundhir of al-Hira and King Kavadh I of Persia, informing them of his deed and encouraging them to do likewise to the Christians under their dominion. Al-Mundhir received this letter in January 519 as he was receiving an embassy from Constantinople seeking to forge a peace between the Roman Empire and Hira. He revealed the contents of the letter to the Roman ambassadors who were horrified at its contents. Word of the slaughter quickly spread throughout the Rom an and Persian realms, and refugees from Najran even reached the court of the Roman emperor Justin I himself, begging him to avenge the martyred Christians.  The slaughter of the Axumite garrison in Zafar also provoked a response from Kaleb, King of Axum. Procopius reports that Kaleb (whom he calls Hellesthaeus) with the help of Justin, the Roman Emperor, collected a fleet and crossed from Africa to Yemen, where he defeated Dhu Nuwas about the year 520 or 525 (1.20). Kaleb then appointed his Christian South Arabian follower Sumuafa' Ashawa' to rule Yemen as his viceroy.  Arab tradition states that Dhu Nuwas committed suicide by riding his horse into the Red Sea. De Maigret reports that another South Arabian inscription from Husn al-Ghurab may indicate that he was killed in battle fighting against Kaleb's army.  De Maigret also reports that in 1951, three inscriptions were found just north of al-Ukhdud, which refer to a military campaign led by Dhu Nuwas (where he is called Yusuf Asar Yathar), and are dated to the year 633 of the Himyarite era, equivalent to AD 518 or 523.</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_NUWAS_1</Tag>
+		<English>Blessings, [CT_NAME] of the [CT_EMPIRE], and join me in dialogue. From a pound of talk, comes an ounce of understanding.</English>
+		<French>Soyez bénis, [CT_NAME] des [CT_EMPIRE], et rejoignez ma prière. D'une fontaine de parole, vient une once de compréhension.</French>
+		<German>Blessings, [CT_NAME] of the [CT_EMPIRE], and join me in dialogue. From a pound of talk, comes an ounce of understanding.</German>
+		<Italian>Blessings, [CT_NAME] of the [CT_EMPIRE], and join me in dialogue. From a pound of talk, comes an ounce of understanding.</Italian>
+		<Spanish>Blessings, [CT_NAME] of the [CT_EMPIRE], and join me in dialogue. From a pound of talk, comes an ounce of understanding.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your Refuse to talk response</English>
+		<French>Your Refuse to talk response</French>
+		<German>Your Refuse to talk response</German>
+		<Italian>Your Refuse to talk response</Italian>
+		<Spanish>Your Refuse to talk response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your refuse to peace talks response</English>
+		<French>Your refuse to peace talks response</French>
+		<German>Your refuse to peace talks response</German>
+		<Italian>Your refuse to peace talks response</Italian>
+		<Spanish>Your refuse to peace talks response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your Friendly Hello Response</English>
+		<French>Your Friendly Hello Response</French>
+		<German>Your Friendly Hello Response</German>
+		<Italian>Your Friendly Hello Response</Italian>
+		<Spanish>Your Friendly Hello Response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your Unfriendly Hello Response</English>
+		<French>Your Unfriendly Hello Response</French>
+		<German>Your Unfriendly Hello Response</German>
+		<Italian>Your Unfriendly Hello Response</Italian>
+		<Spanish>Your Unfriendly Hello Response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SAMPLE_LEADER_1</Tag>
+		<English>Your Demands to another civ when you are weaker then they are</English>
+		<French>Your Demands to another civ when you are weaker then they are</French>
+		<German>Your Demands to another civ when you are weaker then they are</German>
+		<Italian>Your Demands to another civ when you are weaker then they are</Italian>
+		<Spanish>Your Demands to another civ when you are weaker then they are</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SAMPLE_LEADER_1</Tag>
+		<English>Your Demands to another civ when you are Equal to power as they are</English>
+		<French>Your Demands to another civ when you are Equal to power as they are</French>
+		<German>Your Demands to another civ when you are Equal to power as they are</German>
+		<Italian>Your Demands to another civ when you are Equal to power as they are</Italian>
+		<Spanish>Your Demands to another civ when you are Equal to power as they are</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SAMPLE_LEADER_1</Tag>
+		<English>Your Demands to another civ when you are stronger then they are</English>
+		<French>Your Demands to another civ when you are stronger then they are</French>
+		<German>Your Demands to another civ when you are stronger then they are</German>
+		<Italian>Your Demands to another civ when you are stronger then they are</Italian>
+		<Spanish>Your Demands to another civ when you are stronger then they are</Spanish>
+	</TEXT>
+</Civ4GameText>

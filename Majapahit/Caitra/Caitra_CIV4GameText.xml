@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA</Tag>
+		<English>Caitra Tribute</English>
+		<French>Hommage à Caitra</French>
+		<German>Caitra Tribute</German>
+		<Italian>Caitra Tribute</Italian>
+		<Spanish>Caitra Tribute</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Caitra Tribute[COLOR_REVERT] (the Majapahit replacement for [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT]) provides a free Merchant.</English>
+		<French>L'[COLOR_BUILDING_TEXT]hommage à Caitra[COLOR_REVERT] (équivalent majapahit du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT]) procure un marchand gratuit.</French>
+		<German>[COLOR_BUILDING_TEXT]Caitra Tribute[COLOR_REVERT] (the Majapahit replacement for [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT]) provides a free Merchant.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Caitra Tribute[COLOR_REVERT] (the Majapahit replacement for [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT]) provides a free Merchant.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Caitra Tribute[COLOR_REVERT] (the Majapahit replacement for [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT]) provides a free Merchant.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA_PEDIA</Tag>
+		<English>[TAB]The main event of the Majapahit administrative calendar took place on the first day of the month of Caitra (March-April) when representatives from all territories paying tax or tribute to Majapahit came to the capital to pay court. Majapahit's territories were roughly divided into three types: the palace and its vicinity; the areas of east Java and Bali which were directly administrated by officials appointed by the king; and the outer dependencies which enjoyed substantial internal autonomy.</English>
+		<French>[TAB]The main event of the Majapahit administrative calendar took place on the first day of the month of Caitra (March-April) when representatives from all territories paying tax or tribute to Majapahit came to the capital to pay court. Majapahit's territories were roughly divided into three types: the palace and its vicinity; the areas of east Java and Bali which were directly administrated by officials appointed by the king; and the outer dependencies which enjoyed substantial internal autonomy.</French>
+		<German>[TAB]The main event of the Majapahit administrative calendar took place on the first day of the month of Caitra (March-April) when representatives from all territories paying tax or tribute to Majapahit came to the capital to pay court. Majapahit's territories were roughly divided into three types: the palace and its vicinity; the areas of east Java and Bali which were directly administrated by officials appointed by the king; and the outer dependencies which enjoyed substantial internal autonomy.</German>
+		<Italian>[TAB]The main event of the Majapahit administrative calendar took place on the first day of the month of Caitra (March-April) when representatives from all territories paying tax or tribute to Majapahit came to the capital to pay court. Majapahit's territories were roughly divided into three types: the palace and its vicinity; the areas of east Java and Bali which were directly administrated by officials appointed by the king; and the outer dependencies which enjoyed substantial internal autonomy.</Italian>
+		<Spanish>[TAB]The main event of the Majapahit administrative calendar took place on the first day of the month of Caitra (March-April) when representatives from all territories paying tax or tribute to Majapahit came to the capital to pay court. Majapahit's territories were roughly divided into three types: the palace and its vicinity; the areas of east Java and Bali which were directly administrated by officials appointed by the king; and the outer dependencies which enjoyed substantial internal autonomy.</Spanish>
+	</TEXT>
+</Civ4GameText>

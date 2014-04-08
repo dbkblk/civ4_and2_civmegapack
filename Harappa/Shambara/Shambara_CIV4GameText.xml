@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SHAMBARA</Tag>
+		<English>Shambara</English>
+		<French>Shambara</French>
+		<German>Shambara</German>
+		<Italian>Shambara</Italian>
+		<Spanish>Shambara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SHAMBARA_PEDIA</Tag>
+		<English>[H1]Shambara[\H1][NEWLINE][BOLD]King of Harappa[\BOLD][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Not much about the Indus Valley culture is known, let alone its kings.  Because its language is not yet known, much of the information about Shambara is taken from myth and through the Vedas.  Shambara was the primary non-Aryan or Dasyu, a people of the Indus Valley, enemy of the Vedic people.  Shambara is known through Divodasa, a king of the Vedics.  Divodasa defeated Shambara and conquered his hundred cities, leading many scholars to think that Shambara was a great king who had much land under his sway.</English>
+		<French>[H1]Shambara[\H1][NEWLINE][BOLD]Roi d'Harappa[\BOLD][PARAGRAPH:2][BOLD]Biographie :[\BOLD][NEWLINE][TAB]Pas grand chose de la culture de la vallée de l'Indus est connu, sans parler de ses rois. Parce que son langage n'est pas encore connue, la plupart des informations sur Shambara est tiré mythe et à travers les Védas. Shambara a été le premier non-aryens ou Dasyu, un peuple de la vallée de l'Indus, ennemi du peuple védique. Shambara est connu à travers Divodasa, un roi de la Vedics. Divodasa vaincu et conquis son Shambara centaine de villes, ce qui conduit de nombreux chercheurs à penser que Shambara fut un grand roi qui avait beaucoup de terres sous son emprise.</French>
+		<German>[H1]Gilgamesch[\H1][NEWLINE][BOLD]K&#246;nig von Harappa[\BOLD][PARAGRAPH:2][BOLD]Hintergrund:[\BOLD][NEWLINE][TAB]Nicht viel über die Kultur des Indus-Tal ist bekannt, geschweige denn ihre Könige. Weil seine Sprache ist noch nicht bekannt, einen Großteil der Informationen über Shambara wird von Mythos und durch die Veden. Shambara war der primäre nicht-arischen oder Dasyu, ein Volk von der Indus-Tal, der Feind der Vedischen Menschen. Shambara ist bekannt durch Divodasa, ein König der Vedics. Divodasa besiegt und erobert seine Shambara hundert Städte, viele der führenden Gelehrten zu glauben, dass Shambara war ein großer König, der hatte viel Land unter seiner Herrschaft.</German>
+		<Italian>[H1]Shambara[\H1][NEWLINE][BOLD]Re di Harappa[\BOLD][PARAGRAPH:2][BOLD]Informazioni:[\BOLD][NEWLINE][TAB] Non molto circa la cultura della Valle è conosciuta, e tanto meno il suo re. Perché la sua lingua non è ancora noto, gran parte delle informazioni su Shambara è tratto dal mito e attraverso i Veda. Shambara è stato il primo non-ariana "o Dasyu, un popolo di Indus Valley, nemico del popolo vedica. Shambara è conosciuto attraverso Divodasa, un re dei Vedics. Divodasa sconfitto Shambara cento e conquistò la sua città, che porta molti studiosi a pensare che Shambara è stato un grande re, che aveva molto terreno sotto la sua influenza. </Italian>
+		<Spanish>[H1]Shambara[\H1][NEWLINE][BOLD]Rey de Harappa[\BOLD][PARAGRAPH:2][BOLD]Historia:[\BOLD][NEWLINE][TAB]No se mucho sobre la cultura del Indus Valle es conocido, por no hablar de sus reyes. Debido a su idioma no se conoce todavía, gran parte de la información acerca de Shambara está tomada del mito y a través de los Vedas. Shambara fue el principal no ario o Dasyu, un pueblo del valle de Indus, enemigo de los pueblos védicos. Shambara se conoce a través de Divodasa, un rey de la Vedics. Divodasa derrotado y conquistado su Shambara cien ciudades, llevando a muchos estudiosos piensan que Shambara fue un gran rey que había mucha tierra bajo su dominio.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SHAMBARA_1</Tag>
+		<English>I hope we can bring each other aid, [CT_NAME], for dark nights will return after these few moonlit nights.</English>
+		<French>J'espère que nous pourrons nous porter mutuellement assistance, [CT_NAME], pour que les nuits obscures reviennent après ces quelques nuits de clair de lune.</French>
+		<German>Ich hoffe, wir können damit jede andere Hilfe, [CT_NAME], für dunkle Nächte zurück, nachdem diese wenigen mondhellen Nächten.</German>
+		<Italian>J'espère que nous pourrons porter mutuellement assistance, [CT_NAME], pour les nuits obscures sera de retour après ces quelques nuits clair de lune.</Italian>
+		<Spanish>Espero que cada uno puede aportar otras ayudas, [CT_NAME], de noches oscuras regresará después de estas pocas noches la luz de la luna.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,28 @@
+MCP > Votre offre est une insulte envers les Ukraine
+MCP > tibet > songtsen > pour l'excellence soit honorée
+MCP > Siméon > bulgares > Je vous dirai qui vous êtes
+David Ben gourion fix
+
+Vérifier:
+ashantie
+TXT_KEY_CIV_BAKTRIA_DESC
+TXT_KEY_CIV_BATAVII_DESC
+TXT_KEY_CIV_CHAMPA_ADJECTIVE
+TXT_KEY_CIV_DINNEHIH_ADJECTIVE
+mamelouk
+TXT_KEY_CIV_HUNS_ADJECTIVE
+TXT_KEY_CIV_KANEMBORNU_ADJECTIVE
+TXT_KEY_CIV_KAZAKH_ADJECTIVE
+khazar
+lettone ou lettonne ?
+lithuanie
+majapahit
+Norvègiens ?
+seldjouke ?
+
+Modèle:
+<French>
+	<Text>Inglese:Inglese:Inglesi:Inglesi</Text>
+	<Gender>Male:Female:Male:Female</Gender>
+	<Plural>0:0:1:1</Plural>
+</French>

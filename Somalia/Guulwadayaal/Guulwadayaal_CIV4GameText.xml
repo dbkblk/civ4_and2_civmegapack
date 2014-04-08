@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	 <TEXT>
+		<Tag>TXT_KEY_UNIT_SOMALIA_GUULWADAYAAL</Tag>
+		<English>Guulwadayaal</English>
+		<French>
+			<Text>Guulwadayaal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Guulwadayaal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guulwadayaal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guulwadayaal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOMALIA_GUULWADAYAAL_PEDIA</Tag>
+		<English>[TAB]In August 1972, the government established the People's Militia, known as the Victory Pioneers (Guulwadayaal). Although a wing of the army, the militia worked under the supervision of the Political Bureau of the presidency. After the SRSP's formation in 1976, the militia became part of the party apparatus. Largely because of the need for military reserves, militia membership increased from 2,500 in 1977 to about 10,000 in 1979, and to approximately 20,000 by 1990. After the collapse of Siad Barre's regime, the People's Militia, like other military elements, disintegrated. </English>
+		<French>[TAB]In August 1972, the government established the People's Militia, known as the Victory Pioneers (Guulwadayaal). Although a wing of the army, the militia worked under the supervision of the Political Bureau of the presidency. After the SRSP's formation in 1976, the militia became part of the party apparatus. Largely because of the need for military reserves, militia membership increased from 2,500 in 1977 to about 10,000 in 1979, and to approximately 20,000 by 1990. After the collapse of Siad Barre's regime, the People's Militia, like other military elements, disintegrated. </French>
+		<German>[TAB]In August 1972, the government established the People's Militia, known as the Victory Pioneers (Guulwadayaal). Although a wing of the army, the militia worked under the supervision of the Political Bureau of the presidency. After the SRSP's formation in 1976, the militia became part of the party apparatus. Largely because of the need for military reserves, militia membership increased from 2,500 in 1977 to about 10,000 in 1979, and to approximately 20,000 by 1990. After the collapse of Siad Barre's regime, the People's Militia, like other military elements, disintegrated. </German>
+		<Italian>[TAB]In August 1972, the government established the People's Militia, known as the Victory Pioneers (Guulwadayaal). Although a wing of the army, the militia worked under the supervision of the Political Bureau of the presidency. After the SRSP's formation in 1976, the militia became part of the party apparatus. Largely because of the need for military reserves, militia membership increased from 2,500 in 1977 to about 10,000 in 1979, and to approximately 20,000 by 1990. After the collapse of Siad Barre's regime, the People's Militia, like other military elements, disintegrated. </Italian>
+		<Spanish>[TAB]In August 1972, the government established the People's Militia, known as the Victory Pioneers (Guulwadayaal). Although a wing of the army, the militia worked under the supervision of the Political Bureau of the presidency. After the SRSP's formation in 1976, the militia became part of the party apparatus. Largely because of the need for military reserves, militia membership increased from 2,500 in 1977 to about 10,000 in 1979, and to approximately 20,000 by 1990. After the collapse of Siad Barre's regime, the People's Militia, like other military elements, disintegrated. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOMALIA_GUULWADAYAAL_STRATEGY</Tag>
+		<English>The Guulwadayaal is the Somali replacement for the [COLOR_UNIT_TEXT]SAM Infantry[COLOR_REVERT]. Drawn from the populace, this union is very cheap to huild compared to its counterpart, but it is less powerful and has a smaller chance to intercept.</English>
+		<French>Le guulwadayaal est l'équivalent somalien de l'[COLOR_UNIT_TEXT]infanterie SAM[COLOR_REVERT]. Recruté directement parmi la population, cette unité à très bas coût est un peu moins puissante et à une plus faible probabilité d'interception que son homologue.</French>
+		<German>The Guulwadayaal is the Somali replacement for the [COLOR_UNIT_TEXT]SAM Infantry[COLOR_REVERT]. Drawn from the populace, this union is very cheap to huild compared to its counterpart, but it is less powerful and has a smaller chance to intercept.</German>
+		<Italian>The Guulwadayaal is the Somali replacement for the [COLOR_UNIT_TEXT]SAM Infantry[COLOR_REVERT]. Drawn from the populace, this union is very cheap to huild compared to its counterpart, but it is less powerful and has a smaller chance to intercept.</Italian>
+		<Spanish>The Guulwadayaal is the Somali replacement for the [COLOR_UNIT_TEXT]SAM Infantry[COLOR_REVERT]. Drawn from the populace, this union is very cheap to huild compared to its counterpart, but it is less powerful and has a smaller chance to intercept.</Spanish>
+	</TEXT>
+</Civ4GameText>

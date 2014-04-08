@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNS_TARKAN</Tag>
+		<English>Tarkan</English>
+		<French>Tarkan</French>
+		<German>Tarkan</German>
+		<Spanish>Tarkan</Spanish>
+		<Italian>Tarkan</Italian>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNS_TARKAN_PEDIA</Tag>
+		<English>[TAB]These light hussars were ideal for reconnaissance and raiding sources of fodder and provisions in advance of the army. In battle, they were used in such light cavalry roles as harassing enemy skirmishers, overrunning cannon positions, and pursuing fleeing troops. Tarkans also had a reputation for being the dashing, if unruly, adventurers of the army. The traditional image of the tarkan is of a reckless, hard-drinking, hard-swearing, womanising, moustachioed swashbuckler. Less romantically, tarkans were also known (and feared) for their poor treatment of local civilians. In addition to commandeering local food-stocks for the army, hussars were known to also use the opportunity for personal looting and pillaging.</English>
+		<French>[TAB]These light hussars were ideal for reconnaissance and raiding sources of fodder and provisions in advance of the army. In battle, they were used in such light cavalry roles as harassing enemy skirmishers, overrunning cannon positions, and pursuing fleeing troops. Tarkans also had a reputation for being the dashing, if unruly, adventurers of the army. The traditional image of the tarkan is of a reckless, hard-drinking, hard-swearing, womanising, moustachioed swashbuckler. Less romantically, tarkans were also known (and feared) for their poor treatment of local civilians. In addition to commandeering local food-stocks for the army, hussars were known to also use the opportunity for personal looting and pillaging.</French>
+		<German>[TAB]These light hussars were ideal for reconnaissance and raiding sources of fodder and provisions in advance of the army. In battle, they were used in such light cavalry roles as harassing enemy skirmishers, overrunning cannon positions, and pursuing fleeing troops. Tarkans also had a reputation for being the dashing, if unruly, adventurers of the army. The traditional image of the tarkan is of a reckless, hard-drinking, hard-swearing, womanising, moustachioed swashbuckler. Less romantically, tarkans were also known (and feared) for their poor treatment of local civilians. In addition to commandeering local food-stocks for the army, hussars were known to also use the opportunity for personal looting and pillaging.</German>
+		<Italian>[TAB]These light hussars were ideal for reconnaissance and raiding sources of fodder and provisions in advance of the army. In battle, they were used in such light cavalry roles as harassing enemy skirmishers, overrunning cannon positions, and pursuing fleeing troops. Tarkans also had a reputation for being the dashing, if unruly, adventurers of the army. The traditional image of the tarkan is of a reckless, hard-drinking, hard-swearing, womanising, moustachioed swashbuckler. Less romantically, tarkans were also known (and feared) for their poor treatment of local civilians. In addition to commandeering local food-stocks for the army, hussars were known to also use the opportunity for personal looting and pillaging.</Italian>
+		<Spanish>[TAB]These light hussars were ideal for reconnaissance and raiding sources of fodder and provisions in advance of the army. In battle, they were used in such light cavalry roles as harassing enemy skirmishers, overrunning cannon positions, and pursuing fleeing troops. Tarkans also had a reputation for being the dashing, if unruly, adventurers of the army. The traditional image of the tarkan is of a reckless, hard-drinking, hard-swearing, womanising, moustachioed swashbuckler. Less romantically, tarkans were also known (and feared) for their poor treatment of local civilians. In addition to commandeering local food-stocks for the army, hussars were known to also use the opportunity for personal looting and pillaging.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNS_TARKAN_STRATEGY</Tag>
+		<English>The tarkan replaces the [COLOR_UNIT_TEXT]horse archer[COLOR_REVERT]. The Tarkans can defeat enemy infantry troops with ease, being able to heal while moving. They are also a bit cheaper than normal.</English>
+		<French>Le tarkan remplace la [COLOR_UNIT_TEXT]cavalerie montée[COLOR_REVERT]. Les tarkans peut facilement défaire l'infanterie ennemie car ils peuvent se soigner en mouvement. Ils sont également moins chers.</French>
+		<German>The tarkan replaces the [COLOR_UNIT_TEXT]horse archer[COLOR_REVERT]. The Tarkans can defeat enemy infantry troops with ease, being able to heal while moving. They are also a bit cheaper than normal.</German>
+		<Italian>The tarkan replaces the [COLOR_UNIT_TEXT]horse archer[COLOR_REVERT]. The Tarkans can defeat enemy infantry troops with ease, being able to heal while moving. They are also a bit cheaper than normal.</Italian>
+		<Spanish>The tarkan replaces the [COLOR_UNIT_TEXT]horse archer[COLOR_REVERT]. The Tarkans can defeat enemy infantry troops with ease, being able to heal while moving. They are also a bit cheaper than normal.</Spanish>
+	</TEXT>
+</Civ4GameText>	

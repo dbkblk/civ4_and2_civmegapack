@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VILLU_STATUE</Tag>
+		<English>Villu Statue</English>
+		<French>Statue de Villu</French>
+		<German>Villu Statue</German>
+		<Italian>Statua di Villu</Italian>
+		<Spanish>Estatua de la Villu</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_VILLU_STATUE_PEDIA</Tag>
+		<English>[TAB] Villu is a Mitanni fish-deity.  Mitanni was an ancient Hurrian kingdom that flourished in the 14th century BC.  Villu is known today by a few surviving clay statues of him as a cult object.  Villu was a god of water with influence over droughts and thirst.  He was used in a jurisdictional role.  People convicted of crimes involving the sea, water or blood would be stoned with the aforesaid statues to death.  Were a criminal to be punished in any other way, Villu would decrease the river flow, causing drought and famine.  Following the conquest of Mitanni by the Hittites, his cult and the punishment declined.</English>
+		<French>[TAB] Villu Mitaniens est un poisson-divinité. Mitaniens hourrite est un ancien royaume qui prospéra dans le 14ème siècle avant JC. Villu est connue aujourd'hui par une poignée de survivants des statues d'argile de lui comme d'un objet-culte. Villu était un dieu de l'eau ayant une influence sur la sécheresse et la soif. Il a été utilisé dans un rôle juridictionnel. Les personnes condamnées pour des crimes liés à la mer, l'eau ou le sang sera lapidé avec lesdites statues à la mort. Étaient un criminel pour être punis de toute autre manière, Villu diminuerait le débit fluvial, entraînant la sécheresse et la famine. Après la conquête de Mitaniens par les Hittites, son culte et la sanction refusée.</French>
+		<German>[TAB] Villu ist ein Mitanni Fisch-Gottheit. Mitanni war eine antike Hurrian Reich blühte, dass im 14. Jahrhundert v. Chr.. Villu bekannt ist heute von wenigen überlebenden Ton Statuen von ihm als Kult-Objekt. Villu war ein Gott des Wassers mit Einfluss auf Dürren und Durst. Er war in einer Gerichtsbarkeit Rolle. Die Leute sind, Straftaten im Zusammenhang mit dem Meer, das Wasser oder Blut wäre gesteinigt mit den genannten Statuen zu Tode. Waren ein Strafverfahren bestraft werden in irgendeiner anderen Art und Weise, Villu sinken würden den Fluss fließen, was Dürre und Hungersnot. Nach der Eroberung durch die Mitanni Hethiter, seinem Kult-und die Strafe abgelehnt.</German>
+		<Italian>[TAB] Villu è un pesce Mitanni-divinità. Mitanni era un antico regno Hurrian che fiorirono nel 14 ° secolo aC. Villu oggi è conosciuto da pochi superstiti argilla statue di lui come un oggetto di culto. Villu era un dio delle acque con influenza sulla siccità e la sete. Egli è stato utilizzato in un ruolo giurisdizionale. Persone condannate per reati che comportano il mare, l'acqua o il sangue sarebbe lapidato con i suddetti statue a morte. Sono un criminale di essere punito in qualsiasi altro modo, Villu farebbe diminuire la portata del fiume, provocando siccità e carestia. In seguito alla conquista di Mitanni dagli Ittiti, il suo culto e la punizione rifiutato.</Italian>
+		<Spanish>[TAB] Villu Mitanni pescado es una deidad-. Mitanni hurritas fue un antiguo reino que floreció en el siglo 14 antes de Cristo. Villu es conocida hoy por algunos supervivientes de las estatuas de arcilla como un objeto de culto. Villu era un dios de las aguas, con influencia en la sequía y la sed. Fue usado en una función jurisdiccional. Las personas condenadas por delitos relacionados con el mar, el agua o la sangre sería apedreado con las mencionadas estatuas a la muerte. Fueron un penal que se castiga de cualquier otra manera, Villu disminuiría el caudal del río, causando la sequía y el hambre. Tras la conquista de Mitanni por los hititas, su culto y la pena se redujo.</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_VILLU_STATUE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Villu Statue[COLOR_REVERT], the Hurrian replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</English>
+		<French>La [COLOR_BUILDING_TEXT]statue de Villu[COLOR_REVERT], équivalent hourrite du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure un prêtre gratuit, mais ne peut pas convertir un citoyen en espion.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Villu Statue[COLOR_REVERT], der Hurriter Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgeb&#228;ude[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Statua di Villu[COLOR_REVERT], il Hurriti sostituzione per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Estatua de la Villu[COLOR_REVERT], el Hurrita reemplazo para el [COLOR_BUILDING_TEXT]Delegaci&#243;[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGENTINA_DESC</Tag>
+		<English>Argentinian Empire</English>
+		<French>Argentine</French>
+		<German>Argentinian Empire</German>
+		<Italian>Argentinian Empire</Italian>
+		<Spanish>Argentinian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGENTINA_SHORT_DESC</Tag>
+		<English>Argentina</English>
+		<French>Argentins</French>
+		<German>Argentina</German>
+		<Italian>Argentina</Italian>
+		<Spanish>Argentina</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGENTINA_PEDIA</Tag>
+		<English>[TAB]The first signs of human presence in Argentina are located in the Patagonia (Piedra Museo, Santa Cruz), and date from 11,000 BC. Around 1 AD, several corn-based civilizations developed in the western and northwestern Andean region (Ansilta, Condorhuasi, Cienaga, Aguada, Santa Maria, Huarpes, Diaguitas, Sanavirones, among others); some of them were conquered by the Quechuas and integrated into the Inca Empire as a region called Tucma or Tucumán. In the northestern area, the Guaraní developed a culture based on yuca and sweet potato. The central and southern areas (Pampas and Patagonia) were dominated by nomadic cultures, unified in the 17th century by the Mapuches, and never conquered by the Europeans.[PARAGRAPH:2]Europeans arrived in 1502. Spain established a permanent colony on the site of Buenos Aires in 1580, and the Viceroyalty of the Río de la Plata in 1776. In 1806 and 1807 the British Empire invaded the Viceroyalty, but the creole population managed to repel the invasions. On May 25, 1810, after the confirmation of the rumors about the overthrow of King Ferdinand VII by Napoleon, the most prominent citizens of Buenos Aires took advantage of the situation and created the First Government Junta. Independence from Spain was declared on July 9, 1816. Centralist and federationist groups were in conflict until national unity was established and the constitution promulgated in 1853.[PARAGRAPH:2]From 1880 to 1930, Argentina enjoyed increasing prosperity and prominence. Conservative forces dominated Argentine politics until 1916, when their traditional rivals, the Radicals, won control of the government. The military forced Hipólito Yrigoyen from power in 1930, leading to another decade of Conservative rule. Political change led to the presidency of Juan Perón in 1946, who tried to empower the working class and greatly expanded the number of unionized workers. The Revolución Libertadora of 1955 deposed him.[PARAGRAPH:2]From the 1950s to 1970s, military and civilian administrations traded power. The armed forces took power through a junta in charge of the self-appointed National Reorganization Process until 1983. The armed forces repressed opposition using harsh illegal measures (the "Dirty War"). Democracy was restored in 1983. Raúl Alfonsín's Radical government took steps to account for the "disappeared", established civilian control of the armed forces, and consolidated democratic institutions. the country started implementing new policies based on re-industrialization, import substitution, increased exports, and consistent fiscal surplus in 2002.</English>
+		<French>[TAB]The first signs of human presence in Argentina are located in the Patagonia (Piedra Museo, Santa Cruz), and date from 11,000 BC. Around 1 AD, several corn-based civilizations developed in the western and northwestern Andean region (Ansilta, Condorhuasi, Cienaga, Aguada, Santa Maria, Huarpes, Diaguitas, Sanavirones, among others); some of them were conquered by the Quechuas and integrated into the Inca Empire as a region called Tucma or Tucumán. In the northestern area, the Guaraní developed a culture based on yuca and sweet potato. The central and southern areas (Pampas and Patagonia) were dominated by nomadic cultures, unified in the 17th century by the Mapuches, and never conquered by the Europeans.[PARAGRAPH:2]Europeans arrived in 1502. Spain established a permanent colony on the site of Buenos Aires in 1580, and the Viceroyalty of the Río de la Plata in 1776. In 1806 and 1807 the British Empire invaded the Viceroyalty, but the creole population managed to repel the invasions. On May 25, 1810, after the confirmation of the rumors about the overthrow of King Ferdinand VII by Napoleon, the most prominent citizens of Buenos Aires took advantage of the situation and created the First Government Junta. Independence from Spain was declared on July 9, 1816. Centralist and federationist groups were in conflict until national unity was established and the constitution promulgated in 1853.[PARAGRAPH:2]From 1880 to 1930, Argentina enjoyed increasing prosperity and prominence. Conservative forces dominated Argentine politics until 1916, when their traditional rivals, the Radicals, won control of the government. The military forced Hipólito Yrigoyen from power in 1930, leading to another decade of Conservative rule. Political change led to the presidency of Juan Perón in 1946, who tried to empower the working class and greatly expanded the number of unionized workers. The Revolución Libertadora of 1955 deposed him.[PARAGRAPH:2]From the 1950s to 1970s, military and civilian administrations traded power. The armed forces took power through a junta in charge of the self-appointed National Reorganization Process until 1983. The armed forces repressed opposition using harsh illegal measures (the "Dirty War"). Democracy was restored in 1983. Raúl Alfonsín's Radical government took steps to account for the "disappeared", established civilian control of the armed forces, and consolidated democratic institutions. the country started implementing new policies based on re-industrialization, import substitution, increased exports, and consistent fiscal surplus in 2002.</French>
+		<German>[TAB]The first signs of human presence in Argentina are located in the Patagonia (Piedra Museo, Santa Cruz), and date from 11,000 BC. Around 1 AD, several corn-based civilizations developed in the western and northwestern Andean region (Ansilta, Condorhuasi, Cienaga, Aguada, Santa Maria, Huarpes, Diaguitas, Sanavirones, among others); some of them were conquered by the Quechuas and integrated into the Inca Empire as a region called Tucma or Tucumán. In the northestern area, the Guaraní developed a culture based on yuca and sweet potato. The central and southern areas (Pampas and Patagonia) were dominated by nomadic cultures, unified in the 17th century by the Mapuches, and never conquered by the Europeans.[PARAGRAPH:2]Europeans arrived in 1502. Spain established a permanent colony on the site of Buenos Aires in 1580, and the Viceroyalty of the Río de la Plata in 1776. In 1806 and 1807 the British Empire invaded the Viceroyalty, but the creole population managed to repel the invasions. On May 25, 1810, after the confirmation of the rumors about the overthrow of King Ferdinand VII by Napoleon, the most prominent citizens of Buenos Aires took advantage of the situation and created the First Government Junta. Independence from Spain was declared on July 9, 1816. Centralist and federationist groups were in conflict until national unity was established and the constitution promulgated in 1853.[PARAGRAPH:2]From 1880 to 1930, Argentina enjoyed increasing prosperity and prominence. Conservative forces dominated Argentine politics until 1916, when their traditional rivals, the Radicals, won control of the government. The military forced Hipólito Yrigoyen from power in 1930, leading to another decade of Conservative rule. Political change led to the presidency of Juan Perón in 1946, who tried to empower the working class and greatly expanded the number of unionized workers. The Revolución Libertadora of 1955 deposed him.[PARAGRAPH:2]From the 1950s to 1970s, military and civilian administrations traded power. The armed forces took power through a junta in charge of the self-appointed National Reorganization Process until 1983. The armed forces repressed opposition using harsh illegal measures (the "Dirty War"). Democracy was restored in 1983. Raúl Alfonsín's Radical government took steps to account for the "disappeared", established civilian control of the armed forces, and consolidated democratic institutions. the country started implementing new policies based on re-industrialization, import substitution, increased exports, and consistent fiscal surplus in 2002.</German>
+		<Italian>[TAB]The first signs of human presence in Argentina are located in the Patagonia (Piedra Museo, Santa Cruz), and date from 11,000 BC. Around 1 AD, several corn-based civilizations developed in the western and northwestern Andean region (Ansilta, Condorhuasi, Cienaga, Aguada, Santa Maria, Huarpes, Diaguitas, Sanavirones, among others); some of them were conquered by the Quechuas and integrated into the Inca Empire as a region called Tucma or Tucumán. In the northestern area, the Guaraní developed a culture based on yuca and sweet potato. The central and southern areas (Pampas and Patagonia) were dominated by nomadic cultures, unified in the 17th century by the Mapuches, and never conquered by the Europeans.[PARAGRAPH:2]Europeans arrived in 1502. Spain established a permanent colony on the site of Buenos Aires in 1580, and the Viceroyalty of the Río de la Plata in 1776. In 1806 and 1807 the British Empire invaded the Viceroyalty, but the creole population managed to repel the invasions. On May 25, 1810, after the confirmation of the rumors about the overthrow of King Ferdinand VII by Napoleon, the most prominent citizens of Buenos Aires took advantage of the situation and created the First Government Junta. Independence from Spain was declared on July 9, 1816. Centralist and federationist groups were in conflict until national unity was established and the constitution promulgated in 1853.[PARAGRAPH:2]From 1880 to 1930, Argentina enjoyed increasing prosperity and prominence. Conservative forces dominated Argentine politics until 1916, when their traditional rivals, the Radicals, won control of the government. The military forced Hipólito Yrigoyen from power in 1930, leading to another decade of Conservative rule. Political change led to the presidency of Juan Perón in 1946, who tried to empower the working class and greatly expanded the number of unionized workers. The Revolución Libertadora of 1955 deposed him.[PARAGRAPH:2]From the 1950s to 1970s, military and civilian administrations traded power. The armed forces took power through a junta in charge of the self-appointed National Reorganization Process until 1983. The armed forces repressed opposition using harsh illegal measures (the "Dirty War"). Democracy was restored in 1983. Raúl Alfonsín's Radical government took steps to account for the "disappeared", established civilian control of the armed forces, and consolidated democratic institutions. the country started implementing new policies based on re-industrialization, import substitution, increased exports, and consistent fiscal surplus in 2002.</Italian>
+		<Spanish>[TAB]The first signs of human presence in Argentina are located in the Patagonia (Piedra Museo, Santa Cruz), and date from 11,000 BC. Around 1 AD, several corn-based civilizations developed in the western and northwestern Andean region (Ansilta, Condorhuasi, Cienaga, Aguada, Santa Maria, Huarpes, Diaguitas, Sanavirones, among others); some of them were conquered by the Quechuas and integrated into the Inca Empire as a region called Tucma or Tucumán. In the northestern area, the Guaraní developed a culture based on yuca and sweet potato. The central and southern areas (Pampas and Patagonia) were dominated by nomadic cultures, unified in the 17th century by the Mapuches, and never conquered by the Europeans.[PARAGRAPH:2]Europeans arrived in 1502. Spain established a permanent colony on the site of Buenos Aires in 1580, and the Viceroyalty of the Río de la Plata in 1776. In 1806 and 1807 the British Empire invaded the Viceroyalty, but the creole population managed to repel the invasions. On May 25, 1810, after the confirmation of the rumors about the overthrow of King Ferdinand VII by Napoleon, the most prominent citizens of Buenos Aires took advantage of the situation and created the First Government Junta. Independence from Spain was declared on July 9, 1816. Centralist and federationist groups were in conflict until national unity was established and the constitution promulgated in 1853.[PARAGRAPH:2]From 1880 to 1930, Argentina enjoyed increasing prosperity and prominence. Conservative forces dominated Argentine politics until 1916, when their traditional rivals, the Radicals, won control of the government. The military forced Hipólito Yrigoyen from power in 1930, leading to another decade of Conservative rule. Political change led to the presidency of Juan Perón in 1946, who tried to empower the working class and greatly expanded the number of unionized workers. The Revolución Libertadora of 1955 deposed him.[PARAGRAPH:2]From the 1950s to 1970s, military and civilian administrations traded power. The armed forces took power through a junta in charge of the self-appointed National Reorganization Process until 1983. The armed forces repressed opposition using harsh illegal measures (the "Dirty War"). Democracy was restored in 1983. Raúl Alfonsín's Radical government took steps to account for the "disappeared", established civilian control of the armed forces, and consolidated democratic institutions. the country started implementing new policies based on re-industrialization, import substitution, increased exports, and consistent fiscal surplus in 2002.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGENTINA_ADJECTIVE</Tag>
+		<English>Argentinian</English>
+    <French>
+      <Text>argentin:argentine:argentins:argentines</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
+		<German>Argentinian</German>
+		<Italian>Argentinian</Italian>
+		<Spanish>Argentinian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BUENOS_AIRES</Tag>
+		<English>Buenos Aires</English>
+		<French>
+			<Text>Buenos Aires</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Buenos Aires</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Buenos Aires</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Buenos Aires</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SALTA</Tag>
+		<English>Salta</English>
+		<French>
+			<Text>Salta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Salta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Salta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Salta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ROSEO</Tag>
+		<English>Roseo</English>
+		<French>
+			<Text>Roseo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Roseo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Roseo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Roseo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_COBA</Tag>
+		<English>Coba</English>
+		<French>
+			<Text>Coba</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Coba</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Coba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Coba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MENDOZA</Tag>
+		<English>Mendoza</English>
+		<French>
+			<Text>Mendoza</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mendoza</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mendoza</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mendoza</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PARANI</Tag>
+		<English>Parani</English>
+		<French>
+			<Text>Parani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Parani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Parani</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Parani</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTA_FE</Tag>
+		<English>Santa Fe</English>
+		<French>
+			<Text>Santa Fe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Santa Fe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Santa Fe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Santa Fe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTIAGO_DEL_ESTERO</Tag>
+		<English>Santiago del Estero</English>
+		<French>
+			<Text>Santiago del Estero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Santiago del Estero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Santiago del Estero</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Santiago del Estero</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_JUJUY</Tag>
+		<English>Jujuy</English>
+		<French>
+			<Text>Jujuy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Jujuy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Jujuy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jujuy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CORRIENTES</Tag>
+		<English>Corrientes</English>
+		<French>
+			<Text>Corrientes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Corrientes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Corrientes</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Corrientes</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LA_PLATA</Tag>
+		<English>La Plata</English>
+		<French>
+			<Text>La Plata</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>La Plata</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>La Plata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>La Plata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MAR_DEL_PLATA</Tag>
+		<English>Mar del Plata</English>
+		<French>
+			<Text>Mar del Plata</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mar del Plata</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mar del Plata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mar del Plata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SANTA_ROSA</Tag>
+		<English>Santa Rosa</English>
+		<French>
+			<Text>Santa Rosa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Santa Rosa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Santa Rosa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Santa Rosa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_LUIS</Tag>
+		<English>San Luis</English>
+		<French>
+			<Text>San Luis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Luis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Luis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Luis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LA_RIOJA</Tag>
+		<English>La Rioja</English>
+		<French>
+			<Text>La Rioja</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>La Rioja</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>La Rioja</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>La Rioja</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CATAMARCA</Tag>
+		<English>Catamarca</English>
+		<French>
+			<Text>Catamarca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Catamarca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Catamarca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Catamarca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORMOSA</Tag>
+		<English>Formosa</English>
+		<French>
+			<Text>Formosa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Formosa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Formosa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Formosa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RESISTENCIA</Tag>
+		<English>Resistencia</English>
+		<French>
+			<Text>Resistencia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Resistencia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Resistencia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Resistencia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_JUAN</Tag>
+		<English>San Juan</English>
+		<French>
+			<Text>San Juan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Juan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Juan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Juan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_POSADAS</Tag>
+		<English>Posadas</English>
+		<French>
+			<Text>Posadas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Posadas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Posadas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Posadas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VIEDMA</Tag>
+		<English>Viedma</English>
+		<French>
+			<Text>Viedma</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Viedma</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Viedma</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Viedma</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RAWSON</Tag>
+		<English>Rawson</English>
+		<French>
+			<Text>Rawson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rawson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rawson</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rawson</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_COMODORO_RIVADAVIA</Tag>
+		<English>Comodoro Rivadavia</English>
+		<French>
+			<Text>Comodoro Rivadavia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Comodoro Rivadavia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Comodoro Rivadavia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Comodoro Rivadavia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VENADO_TUERTO</Tag>
+		<English>Venado Tuerto</English>
+		<French>
+			<Text>Venado Tuerto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Venado Tuerto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Venado Tuerto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Venado Tuerto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RAFAELA</Tag>
+		<English>Rafaela</English>
+		<French>
+			<Text>Rafaela</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rafaela</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rafaela</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rafaela</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RIO_GALLEGOS</Tag>
+		<English>Rio Gallegos</English>
+		<French>
+			<Text>Rio Gallegos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rio Gallegos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rio Gallegos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rio Gallegos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RIO_GRANDE</Tag>
+		<English>Rio Grande</English>
+		<French>
+			<Text>Rio Grande</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rio Grande</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rio Grande</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rio Grande</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_USHUAIA</Tag>
+		<English>Ushuaia</English>
+		<French>
+			<Text>Ushuaia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ushuaia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ushuaia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ushuaia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TRELEW</Tag>
+		<English>Trelew</English>
+		<French>
+			<Text>Trelew</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Trelew</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Trelew</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Trelew</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PUERTO_MADRYN</Tag>
+		<English>Puerto Madryn</English>
+		<French>
+			<Text>Puerto Madryn</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Puerto Madryn</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Puerto Madryn</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Puerto Madryn</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_NICOLE</Tag>
+		<English>San Nicole</English>
+		<French>
+			<Text>San Nicole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Nicole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Nicole</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Nicole</Text>
+			<Gender>Female</Gender>3
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PILAR</Tag>
+		<English>Pilar</English>
+		<French>
+			<Text>Pilar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pilar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pilar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pilar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUALEGUAYCHU</Tag>
+		<English>GualeguayChu</English>
+		<French>
+			<Text>GualeguayChu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>GualeguayChu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>GualeguayChu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>GualeguayChu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NEUQUE</Tag>
+		<English>Neuque</English>
+		<French>
+			<Text>Neuque</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Neuque</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Neuque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Neuque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CONCEPCIZ_EL_BERMEJO</Tag>
+		<English>Concepciz el Bermejo</English>
+		<French>
+			<Text>Concepciz el Bermejo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Concepciz el Bermejo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Concepciz el Bermejo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Concepciz el Bermejo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PUERTO_EGMONT</Tag>
+		<English>Puerto Egmont</English>
+		<French>
+			<Text>Puerto Egmont</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Puerto Egmont</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Puerto Egmont</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Puerto Egmont</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_FERNANDO_DEL_VALLE</Tag>
+		<English>San Fernando del Valle</English>
+		<French>
+			<Text>San Fernando del Valle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Fernando del Valle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Fernando del Valle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Fernando del Valle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CHUQUISACA</Tag>
+		<English>Chuquisaca</English>
+		<French>
+			<Text>Chuquisaca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Chuquisaca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Chuquisaca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Chuquisaca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HUAQUI</Tag>
+		<English>Huaqui</English>
+		<French>
+			<Text>Huaqui</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Huaqui</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Huaqui</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Huaqui</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_MIGUEL_DE_TUCUMAN</Tag>
+		<English>San Miguel de Tucuman</English>
+		<French>
+			<Text>San Miguel de Tucuman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Miguel de Tucuman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Miguel de Tucuman</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Miguel de Tucuman</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RIO_CUARTO</Tag>
+		<English>Rio Cuarto</English>
+		<French>
+			<Text>Rio Cuarto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rio Cuarto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rio Cuarto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rio Cuarto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BAHIA_BLANCA</Tag>
+		<English>Bahia Blanca</English>
+		<French>
+			<Text>Bahia Blanca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bahia Blanca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bahia Blanca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bahia Blanca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_CARLOS_DE_BARILOCHE</Tag>
+		<English>San Carlos de Bariloche</English>
+		<French>
+			<Text>San Carlos de Bariloche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Carlos de Bariloche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Carlos de Bariloche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Carlos de Bariloche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PUERTO_SANTA_CRUZ</Tag>
+		<English>Puerto Santa Cruz</English>
+		<French>
+			<Text>Puerto Santa Cruz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Puerto Santa Cruz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Puerto Santa Cruz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Puerto Santa Cruz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MISIONES</Tag>
+		<English>Misiones</English>
+		<French>
+			<Text>Misiones</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Misiones</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Misiones</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Misiones</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BEUGUEN</Tag>
+		<English>Beuguen</English>
+		<French>
+			<Text>Beuguen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Beuguen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Beuguen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Beuguen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RIO_NEGRO</Tag>
+		<English>Rio Negro</English>
+		<French>
+			<Text>Rio Negro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rio Negro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rio Negro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rio Negro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CONCORDIA</Tag>
+		<English>Concordia</English>
+		<French>
+			<Text>Concordia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Concordia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Concordia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Concordia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

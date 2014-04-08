@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PHOENICIA_BIREME</Tag>
+		<English>Bireme</English>
+		<French>Birème</French>
+		<German>Bireme</German>
+		<Italian>Bireme</Italian>
+		<Spanish>Bireme</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PHOENICIA_BIREME_STRATEGY</Tag>
+		<English>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</English>
+		<French>Construisez cette unité (équivalent phénicien de la [COLOR_UNIT_TEXT]galère[COLOR_REVERT]) pour rapidement explorer vos côtes et transporter 2 unités terrestes. Elle ne peut pas entrer dans l'océan mais reçoit les promotions [COLOR_HIGHLIGHT_TEXT]contournement I[COLOR_REVERT] et [COLOR_HIGHLIGHT_TEXT]sentinelle[COLOR_REVERT].</French>
+		<German>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</German>
+		<Italian>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</Italian>
+		<Spanish>Build this unit (the Phoenician replacement for the [COLOR_UNIT_TEXT]Galley[COLOR_REVERT]) to quickly explore your coasts and transport up to 2 land units. They cannot enter ocean spaces but receives both the [COLOR_HIGHLIGHT_TEXT]Flanking I[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Sentry[COLOR_REVERT] promotions.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PHOENICIA_BIREME_PEDIA</Tag>
+		<English>[TAB]The bireme was introduced by the Phoenicians around 800 BC and became the leading warship of the Mediterranean world in the centuries to follow.[PARAGRAPH:1]The Phoenicians were astute naval architects. They lowered the platforms where the oarsmen were seated (crinolines) to increase vessel stability. The battering ram was covered in bronze. The decorative poop was bent and resembled the tail of a scorpion. The balustrade of the battle platform was covered with the shields of warriors, the bireme was thus partially covered in a primitive 'armor'. These war biremes were typically 30 meters in length and 5 meters wide. Phoenicians were the finest seamen of their time, and were often employed as mercenaries.</English>
+		<French>[TAB]The bireme was introduced by the Phoenicians around 800 BC and became the leading warship of the Mediterranean world in the centuries to follow.[PARAGRAPH:1]The Phoenicians were astute naval architects. They lowered the platforms where the oarsmen were seated (crinolines) to increase vessel stability. The battering ram was covered in bronze. The decorative poop was bent and resembled the tail of a scorpion. The balustrade of the battle platform was covered with the shields of warriors, the bireme was thus partially covered in a primitive 'armor'. These war biremes were typically 30 meters in length and 5 meters wide. Phoenicians were the finest seamen of their time, and were often employed as mercenaries.</French>
+		<German>[TAB]The bireme was introduced by the Phoenicians around 800 BC and became the leading warship of the Mediterranean world in the centuries to follow.[PARAGRAPH:1]The Phoenicians were astute naval architects. They lowered the platforms where the oarsmen were seated (crinolines) to increase vessel stability. The battering ram was covered in bronze. The decorative poop was bent and resembled the tail of a scorpion. The balustrade of the battle platform was covered with the shields of warriors, the bireme was thus partially covered in a primitive 'armor'. These war biremes were typically 30 meters in length and 5 meters wide. Phoenicians were the finest seamen of their time, and were often employed as mercenaries.</German>
+		<Italian>[TAB]The bireme was introduced by the Phoenicians around 800 BC and became the leading warship of the Mediterranean world in the centuries to follow.[PARAGRAPH:1]The Phoenicians were astute naval architects. They lowered the platforms where the oarsmen were seated (crinolines) to increase vessel stability. The battering ram was covered in bronze. The decorative poop was bent and resembled the tail of a scorpion. The balustrade of the battle platform was covered with the shields of warriors, the bireme was thus partially covered in a primitive 'armor'. These war biremes were typically 30 meters in length and 5 meters wide. Phoenicians were the finest seamen of their time, and were often employed as mercenaries.</Italian>
+		<Spanish>[TAB]The bireme was introduced by the Phoenicians around 800 BC and became the leading warship of the Mediterranean world in the centuries to follow.[PARAGRAPH:1]The Phoenicians were astute naval architects. They lowered the platforms where the oarsmen were seated (crinolines) to increase vessel stability. The battering ram was covered in bronze. The decorative poop was bent and resembled the tail of a scorpion. The balustrade of the battle platform was covered with the shields of warriors, the bireme was thus partially covered in a primitive 'armor'. These war biremes were typically 30 meters in length and 5 meters wide. Phoenicians were the finest seamen of their time, and were often employed as mercenaries.</Spanish>
+	</TEXT>
+</Civ4GameText>

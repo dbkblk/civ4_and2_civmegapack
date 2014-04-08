@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES</Tag>
+		<English>Scythian Stables</English>
+		<French>Écuries scythes</French>
+		<German>Scythian Stables</German>
+		<Italian>Scythian Stables</Italian>
+		<Spanish>Scythian Stables</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES_PEDIA</Tag>
+		<English>[TAB]If the Scythians were not the first to domesticate the horse they were among the earliest, if not the first of the Central Asian people to learn to ride it. Mounted soldiers was the Scythians' success in war; so when they penetrated into Asia, the technique of riding was rapidly adopted and mastered throughout the entire Middle Eastern area.[PARAGRAPH:1]Though the Scythian had elaborate bitted bridles, the stirrup was not known to them and they rode on saddleclothes, relying on grip and balance. Even so, they were formidable horsemen in battle.</English>
+		<French>[TAB]If the Scythians were not the first to domesticate the horse they were among the earliest, if not the first of the Central Asian people to learn to ride it. Mounted soldiers was the Scythians' success in war; so when they penetrated into Asia, the technique of riding was rapidly adopted and mastered throughout the entire Middle Eastern area.[PARAGRAPH:1]Though the Scythian had elaborate bitted bridles, the stirrup was not known to them and they rode on saddleclothes, relying on grip and balance. Even so, they were formidable horsemen in battle.</French> 
+		<German>[TAB]If the Scythians were not the first to domesticate the horse they were among the earliest, if not the first of the Central Asian people to learn to ride it. Mounted soldiers was the Scythians' success in war; so when they penetrated into Asia, the technique of riding was rapidly adopted and mastered throughout the entire Middle Eastern area.[PARAGRAPH:1]Though the Scythian had elaborate bitted bridles, the stirrup was not known to them and they rode on saddleclothes, relying on grip and balance. Even so, they were formidable horsemen in battle.</German>
+		<Italian>[TAB]If the Scythians were not the first to domesticate the horse they were among the earliest, if not the first of the Central Asian people to learn to ride it. Mounted soldiers was the Scythians' success in war; so when they penetrated into Asia, the technique of riding was rapidly adopted and mastered throughout the entire Middle Eastern area.[PARAGRAPH:1]Though the Scythian had elaborate bitted bridles, the stirrup was not known to them and they rode on saddleclothes, relying on grip and balance. Even so, they were formidable horsemen in battle.</Italian>
+		<Spanish>[TAB]If the Scythians were not the first to domesticate the horse they were among the earliest, if not the first of the Central Asian people to learn to ride it. Mounted soldiers was the Scythians' success in war; so when they penetrated into Asia, the technique of riding was rapidly adopted and mastered throughout the entire Middle Eastern area.[PARAGRAPH:1]Though the Scythian had elaborate bitted bridles, the stirrup was not known to them and they rode on saddleclothes, relying on grip and balance. Even so, they were formidable horsemen in battle.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES_STRATEGY</Tag>
+		<English>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</English>
+		<French>La Scythie remplace les [COLOR_BUILDING_TEXT]écuries[COLOR_REVERT] par les [COLOR_BUILDING_TEXT]écuries scythes[COLOR_REVERT], qui procure la promotion 'marche' aux unités construites dans la ville.</French>
+		<German>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</German>
+		<Italian>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</Italian>
+		<Spanish>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</Spanish>
+	</TEXT>
+</Civ4GameText>

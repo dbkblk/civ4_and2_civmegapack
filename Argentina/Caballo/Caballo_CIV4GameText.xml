@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARGENTINA_CABALLO</Tag>
+		<English>Granadero a Caballo</English>
+		<French>Grenadier à cheval</French>
+		<German>Granadero a Caballo</German>
+		<Italian>Granadero a Caballo</Italian>
+		<Spanish>Granadero a Caballo</Spanish>
+		<Russian>Granadero a Caballo</Russian>
+		<Chinese>Granadero a Caballo</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARGENTINA_CABALLO_PEDIA</Tag>
+		<English>[TAB]Jose de San Martin was a well respected and highly decorated general. He was the sole founder of the "Regimiento de Granaderos a Caballo" (Mounted Grenadier Regiment of the Argentine Army). It served as a school which produced some of the best cavalry officers in the history of South American warfare. All of the members of this school were well disciplined, well mannered, and were superior in training to any force before it. The significance of these soldiers would soon be realized when it came time for San Martín to begin assembling the force that would lead the march towards Peru.</English>
+		<French>[TAB]Jose de San Martin was a well respected and highly decorated general. He was the sole founder of the "Regimiento de Granaderos a Caballo" (Mounted Grenadier Regiment of the Argentine Army). It served as a school which produced some of the best cavalry officers in the history of South American warfare. All of the members of this school were well disciplined, well mannered, and were superior in training to any force before it. The significance of these soldiers would soon be realized when it came time for San Martín to begin assembling the force that would lead the march towards Peru.</French>
+		<German>[TAB]Jose de San Martin was a well respected and highly decorated general. He was the sole founder of the "Regimiento de Granaderos a Caballo" (Mounted Grenadier Regiment of the Argentine Army). It served as a school which produced some of the best cavalry officers in the history of South American warfare. All of the members of this school were well disciplined, well mannered, and were superior in training to any force before it. The significance of these soldiers would soon be realized when it came time for San Martín to begin assembling the force that would lead the march towards Peru.</German>
+		<Italian>[TAB]Jose de San Martin was a well respected and highly decorated general. He was the sole founder of the "Regimiento de Granaderos a Caballo" (Mounted Grenadier Regiment of the Argentine Army). It served as a school which produced some of the best cavalry officers in the history of South American warfare. All of the members of this school were well disciplined, well mannered, and were superior in training to any force before it. The significance of these soldiers would soon be realized when it came time for San Martín to begin assembling the force that would lead the march towards Peru.</Italian>
+		<Spanish>[TAB]Jose de San Martin was a well respected and highly decorated general. He was the sole founder of the "Regimiento de Granaderos a Caballo" (Mounted Grenadier Regiment of the Argentine Army). It served as a school which produced some of the best cavalry officers in the history of South American warfare. All of the members of this school were well disciplined, well mannered, and were superior in training to any force before it. The significance of these soldiers would soon be realized when it came time for San Martín to begin assembling the force that would lead the march towards Peru.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARGENTINA_CABALLO_STRATEGY</Tag>
+		<English>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</English>
+		<French>L'équivalent argentin de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT] est légèrement plus puissante et possède un bonus contre les unités à poudre à canon.</French>
+		<German>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</German>
+		<Italian>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</Italian>
+		<Spanish>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</Spanish>
+	</TEXT>
+</Civ4GameText>	

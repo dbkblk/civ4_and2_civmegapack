@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENEZUELA_DESC</Tag>
+		<English>Venezuelan Empire</English> 
+		<French>Vénézuéla</French>
+		<German>Venezuelan Empire</German>
+		<Italian>Venezuelan Empire</Italian>
+		<Spanish>Venezuelan Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENEZUELA_SHORT_DESC</Tag>
+		<English>Venezuela</English>
+		<French>Vénézuéliens</French>
+		<German>Venezuela</German>
+		<Italian>Venezuela</Italian>
+		<Spanish>Venezuela</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENEZUELA_ADJECTIVE</Tag>
+		<English>Venezuelan</English>
+    <French>
+      <Text>vénézuélien:vénézuélienne:vénézuéliens:vénézuéliennes</Text>
+      <Gender>Male:Female:Male:Female</Gender>
+      <Plural>0:0:1:1</Plural>
+    </French>
+		<German>Venezuelan</German>
+		<Italian>Venezuelan</Italian>
+		<Spanish>Venezuelan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VENEZUELA_PEDIA</Tag>
+		<English>[TAB]Venezuela, officially the Bolivarian Republic of Venezuela (Spanish: Republica Bolivariana de Venezuela), is a country on the northern coast of South America. The country comprises a continental mainland and numerous islands located off the Venezuelan coastline in the Caribbean Sea. The Bolivarian Republic of Venezuela possesses borders with Guyana to the east, Brazil to the south, and Colombia to the west. Trinidad and Tobago, Grenada, St. Lucia, Barbados, Curacao, Bonaire, Aruba, Saint Vincent and the Grenadines and the Leeward Antilles lie just north, off the Venezuelan coast. Falling within the tropics, Venezuela sits close to the equator, in the Northern Hemisphere.
+
+	A former Spanish colony, which has been an independent republic since 1821, Venezuela holds territorial disputes with Guyana, largely concerning the Essequibo area, and with Colombia concerning the Gulf of Venezuela. In 1895, after the dispute over the Guyana border flared up, it was submitted to a neutral commission, which in 1899 decided it mostly in Guyana's favour. Today, the Bolivarian Republic of Venezuela is known widely for its petroleum industry, the environmental diversity of its territory, and its natural features. Venezuela is considered to be among the world's 17 most biodiverse countries.
+
+	Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, especially in the capital Caracas which is also the largest city. Other major cities include Maracaibo, Valencia, Maracay, Barquisimeto, Ciudad Guayana and the popular tourist city of Merida. Venezuela is also home to a diversity of wildlife in a variety of protected habitats.
+	
+	The name "Venezuela" is believed to have originated from the cartographer Amerigo Vespucci who, along with Alonso de Ojeda, led a 1499 naval expedition along the northwestern coast's Gulf of Venezuela. On reaching the Guajira Peninsula, the crew observed villages (palafitos) that the people had built over the water. This reminded Vespucci of the city of Venice (Italian: Venezia), so he named the region "Venezuola", meaning "little Venice" in Italian. In Spanish, the suffix -zuela is used as a diminutive term (e.g., plaza / plazuela, cazo / cazuela); thus, the term's original sense would have been that of a "little Venice". Martin Fernandez de Enciso, a member of the Vespucci and Ojeda's crew, states in his work Summa de Geografia that the indigenous population they found were called "Veneciuela", suggesting that the name "Venezuela" may have evolved from a native word. The Vespucci story, however, remains the most popular and accepted version of the origin of the country's name.
+	
+	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
+
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuelaunder the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolutiondeclared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+
+Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+
+	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
+
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavezs previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+
+	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
+
+	The unicameral Venezuelan parliament is the National Assembly or Asamblea Nacional. Its 167 deputies, of which three are reserved for indigenous people, serve five-year terms and may be re-elected for a maximum of two additional terms. They are elected by popular vote through a combination of party lists and single member constituencies. The highest judicial body is the Supreme Tribunal of Justice or Tribunal Supremo de Justicia, whose magistrates are elected by parliament for a single twelve-year term. The National Electoral Council (Consejo Nacional Electoral, or CNE) is in charge of electoral processes; it is formed by five main directors elected by the National Assembly.
+	</English>
+		<French>[TAB]Venezuela, officially the Bolivarian Republic of Venezuela (Spanish: Republica Bolivariana de Venezuela), is a country on the northern coast of South America. The country comprises a continental mainland and numerous islands located off the Venezuelan coastline in the Caribbean Sea. The Bolivarian Republic of Venezuela possesses borders with Guyana to the east, Brazil to the south, and Colombia to the west. Trinidad and Tobago, Grenada, St. Lucia, Barbados, Curacao, Bonaire, Aruba, Saint Vincent and the Grenadines and the Leeward Antilles lie just north, off the Venezuelan coast. Falling within the tropics, Venezuela sits close to the equator, in the Northern Hemisphere.
+
+	A former Spanish colony, which has been an independent republic since 1821, Venezuela holds territorial disputes with Guyana, largely concerning the Essequibo area, and with Colombia concerning the Gulf of Venezuela. In 1895, after the dispute over the Guyana border flared up, it was submitted to a neutral commission, which in 1899 decided it mostly in Guyana's favour. Today, the Bolivarian Republic of Venezuela is known widely for its petroleum industry, the environmental diversity of its territory, and its natural features. Venezuela is considered to be among the world's 17 most biodiverse countries.
+
+	Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, especially in the capital Caracas which is also the largest city. Other major cities include Maracaibo, Valencia, Maracay, Barquisimeto, Ciudad Guayana and the popular tourist city of Merida. Venezuela is also home to a diversity of wildlife in a variety of protected habitats.
+	
+	The name "Venezuela" is believed to have originated from the cartographer Amerigo Vespucci who, along with Alonso de Ojeda, led a 1499 naval expedition along the northwestern coast's Gulf of Venezuela. On reaching the Guajira Peninsula, the crew observed villages (palafitos) that the people had built over the water. This reminded Vespucci of the city of Venice (Italian: Venezia), so he named the region "Venezuola", meaning "little Venice" in Italian. In Spanish, the suffix -zuela is used as a diminutive term (e.g., plaza / plazuela, cazo / cazuela); thus, the term's original sense would have been that of a "little Venice". Martin Fernandez de Enciso, a member of the Vespucci and Ojeda's crew, states in his work Summa de Geografia that the indigenous population they found were called "Veneciuela", suggesting that the name "Venezuela" may have evolved from a native word. The Vespucci story, however, remains the most popular and accepted version of the origin of the country's name.
+	
+	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
+
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuelaunder the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolutiondeclared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+
+Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+
+	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
+
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavezs previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+
+	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
+
+	The unicameral Venezuelan parliament is the National Assembly or Asamblea Nacional. Its 167 deputies, of which three are reserved for indigenous people, serve five-year terms and may be re-elected for a maximum of two additional terms. They are elected by popular vote through a combination of party lists and single member constituencies. The highest judicial body is the Supreme Tribunal of Justice or Tribunal Supremo de Justicia, whose magistrates are elected by parliament for a single twelve-year term. The National Electoral Council (Consejo Nacional Electoral, or CNE) is in charge of electoral processes; it is formed by five main directors elected by the National Assembly.
+	</French>
+		<German>[TAB]Venezuela, officially the Bolivarian Republic of Venezuela (Spanish: Republica Bolivariana de Venezuela), is a country on the northern coast of South America. The country comprises a continental mainland and numerous islands located off the Venezuelan coastline in the Caribbean Sea. The Bolivarian Republic of Venezuela possesses borders with Guyana to the east, Brazil to the south, and Colombia to the west. Trinidad and Tobago, Grenada, St. Lucia, Barbados, Curacao, Bonaire, Aruba, Saint Vincent and the Grenadines and the Leeward Antilles lie just north, off the Venezuelan coast. Falling within the tropics, Venezuela sits close to the equator, in the Northern Hemisphere.
+
+	A former Spanish colony, which has been an independent republic since 1821, Venezuela holds territorial disputes with Guyana, largely concerning the Essequibo area, and with Colombia concerning the Gulf of Venezuela. In 1895, after the dispute over the Guyana border flared up, it was submitted to a neutral commission, which in 1899 decided it mostly in Guyana's favour. Today, the Bolivarian Republic of Venezuela is known widely for its petroleum industry, the environmental diversity of its territory, and its natural features. Venezuela is considered to be among the world's 17 most biodiverse countries.
+
+	Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, especially in the capital Caracas which is also the largest city. Other major cities include Maracaibo, Valencia, Maracay, Barquisimeto, Ciudad Guayana and the popular tourist city of Merida. Venezuela is also home to a diversity of wildlife in a variety of protected habitats.
+	
+	The name "Venezuela" is believed to have originated from the cartographer Amerigo Vespucci who, along with Alonso de Ojeda, led a 1499 naval expedition along the northwestern coast's Gulf of Venezuela. On reaching the Guajira Peninsula, the crew observed villages (palafitos) that the people had built over the water. This reminded Vespucci of the city of Venice (Italian: Venezia), so he named the region "Venezuola", meaning "little Venice" in Italian. In Spanish, the suffix -zuela is used as a diminutive term (e.g., plaza / plazuela, cazo / cazuela); thus, the term's original sense would have been that of a "little Venice". Martin Fernandez de Enciso, a member of the Vespucci and Ojeda's crew, states in his work Summa de Geografia that the indigenous population they found were called "Veneciuela", suggesting that the name "Venezuela" may have evolved from a native word. The Vespucci story, however, remains the most popular and accepted version of the origin of the country's name.
+	
+	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
+
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuelaunder the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolutiondeclared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+
+Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+
+	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
+
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavezs previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+
+	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
+
+	The unicameral Venezuelan parliament is the National Assembly or Asamblea Nacional. Its 167 deputies, of which three are reserved for indigenous people, serve five-year terms and may be re-elected for a maximum of two additional terms. They are elected by popular vote through a combination of party lists and single member constituencies. The highest judicial body is the Supreme Tribunal of Justice or Tribunal Supremo de Justicia, whose magistrates are elected by parliament for a single twelve-year term. The National Electoral Council (Consejo Nacional Electoral, or CNE) is in charge of electoral processes; it is formed by five main directors elected by the National Assembly.
+	</German>
+		<Italian>[TAB]Venezuela, officially the Bolivarian Republic of Venezuela (Spanish: Republica Bolivariana de Venezuela), is a country on the northern coast of South America. The country comprises a continental mainland and numerous islands located off the Venezuelan coastline in the Caribbean Sea. The Bolivarian Republic of Venezuela possesses borders with Guyana to the east, Brazil to the south, and Colombia to the west. Trinidad and Tobago, Grenada, St. Lucia, Barbados, Curacao, Bonaire, Aruba, Saint Vincent and the Grenadines and the Leeward Antilles lie just north, off the Venezuelan coast. Falling within the tropics, Venezuela sits close to the equator, in the Northern Hemisphere.
+
+	A former Spanish colony, which has been an independent republic since 1821, Venezuela holds territorial disputes with Guyana, largely concerning the Essequibo area, and with Colombia concerning the Gulf of Venezuela. In 1895, after the dispute over the Guyana border flared up, it was submitted to a neutral commission, which in 1899 decided it mostly in Guyana's favour. Today, the Bolivarian Republic of Venezuela is known widely for its petroleum industry, the environmental diversity of its territory, and its natural features. Venezuela is considered to be among the world's 17 most biodiverse countries.
+
+	Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, especially in the capital Caracas which is also the largest city. Other major cities include Maracaibo, Valencia, Maracay, Barquisimeto, Ciudad Guayana and the popular tourist city of Merida. Venezuela is also home to a diversity of wildlife in a variety of protected habitats.
+	
+	The name "Venezuela" is believed to have originated from the cartographer Amerigo Vespucci who, along with Alonso de Ojeda, led a 1499 naval expedition along the northwestern coast's Gulf of Venezuela. On reaching the Guajira Peninsula, the crew observed villages (palafitos) that the people had built over the water. This reminded Vespucci of the city of Venice (Italian: Venezia), so he named the region "Venezuola", meaning "little Venice" in Italian. In Spanish, the suffix -zuela is used as a diminutive term (e.g., plaza / plazuela, cazo / cazuela); thus, the term's original sense would have been that of a "little Venice". Martin Fernandez de Enciso, a member of the Vespucci and Ojeda's crew, states in his work Summa de Geografia that the indigenous population they found were called "Veneciuela", suggesting that the name "Venezuela" may have evolved from a native word. The Vespucci story, however, remains the most popular and accepted version of the origin of the country's name.
+	
+	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
+
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuelaunder the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolutiondeclared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+
+Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+
+	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
+
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavezs previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+
+	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
+
+	The unicameral Venezuelan parliament is the National Assembly or Asamblea Nacional. Its 167 deputies, of which three are reserved for indigenous people, serve five-year terms and may be re-elected for a maximum of two additional terms. They are elected by popular vote through a combination of party lists and single member constituencies. The highest judicial body is the Supreme Tribunal of Justice or Tribunal Supremo de Justicia, whose magistrates are elected by parliament for a single twelve-year term. The National Electoral Council (Consejo Nacional Electoral, or CNE) is in charge of electoral processes; it is formed by five main directors elected by the National Assembly.
+	</Italian>
+		<Spanish>[TAB]Venezuela, officially the Bolivarian Republic of Venezuela (Spanish: Republica Bolivariana de Venezuela), is a country on the northern coast of South America. The country comprises a continental mainland and numerous islands located off the Venezuelan coastline in the Caribbean Sea. The Bolivarian Republic of Venezuela possesses borders with Guyana to the east, Brazil to the south, and Colombia to the west. Trinidad and Tobago, Grenada, St. Lucia, Barbados, Curacao, Bonaire, Aruba, Saint Vincent and the Grenadines and the Leeward Antilles lie just north, off the Venezuelan coast. Falling within the tropics, Venezuela sits close to the equator, in the Northern Hemisphere.
+
+	A former Spanish colony, which has been an independent republic since 1821, Venezuela holds territorial disputes with Guyana, largely concerning the Essequibo area, and with Colombia concerning the Gulf of Venezuela. In 1895, after the dispute over the Guyana border flared up, it was submitted to a neutral commission, which in 1899 decided it mostly in Guyana's favour. Today, the Bolivarian Republic of Venezuela is known widely for its petroleum industry, the environmental diversity of its territory, and its natural features. Venezuela is considered to be among the world's 17 most biodiverse countries.
+
+	Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, especially in the capital Caracas which is also the largest city. Other major cities include Maracaibo, Valencia, Maracay, Barquisimeto, Ciudad Guayana and the popular tourist city of Merida. Venezuela is also home to a diversity of wildlife in a variety of protected habitats.
+	
+	The name "Venezuela" is believed to have originated from the cartographer Amerigo Vespucci who, along with Alonso de Ojeda, led a 1499 naval expedition along the northwestern coast's Gulf of Venezuela. On reaching the Guajira Peninsula, the crew observed villages (palafitos) that the people had built over the water. This reminded Vespucci of the city of Venice (Italian: Venezia), so he named the region "Venezuola", meaning "little Venice" in Italian. In Spanish, the suffix -zuela is used as a diminutive term (e.g., plaza / plazuela, cazo / cazuela); thus, the term's original sense would have been that of a "little Venice". Martin Fernandez de Enciso, a member of the Vespucci and Ojeda's crew, states in his work Summa de Geografia that the indigenous population they found were called "Veneciuela", suggesting that the name "Venezuela" may have evolved from a native word. The Vespucci story, however, remains the most popular and accepted version of the origin of the country's name.
+	
+	Human habitation of Venezuela is estimated to have commenced at least 15,000 years ago from which period leaf-shaped flake tools, together with chopping and plano-convex scraping implements, have been found exposed on the high riverine terraces of the Rio Pedregal in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, have been found at a similar series of sites in northwestern Venezuela known as "El Jobo"; according to radiocarbon dating, these date from 13,000 to 7,000 BC. In the 16th century, when the Spanish colonization of Venezuela began, indigenous peoples such as the Mariches, themselves descendants of the Caribs, were systematically killed. Indian caciques (leaders) such as Guaicaipuro and Tamanaco attempted to resist Spanish incursions, but were ultimately subdued; Tamanaco himself, by order of Caracas' founder Diego de Losada, was also put to death.
+
+Venezuela was first colonized by Spain in 1522, when it hosted the Spanish Empire's first permanent South American settlement[citation needed] in what is now Cumaná. These portions of eastern Venezuela were incorporated into New Andalusia. Administered by the Audiencia of Santo Domingo since the early 16th century, most of Venezuela became part of the Viceroyalty of New Granada in the early 18th century, and was then reorganized as an autonomous Captaincy General starting in 1776. After a series of unsuccessful uprisings, Venezuelaunder the leadership of Francisco de Miranda, a Venezuelan marshal involved in the French Revolutiondeclared independence on 5 July 1811. This began the Venezuelan War of Independence. However, a devastating earthquake that struck Caracas in 1812, together with the rebellion of the Venezuelan llaneros, helped bring down the first Venezuelan republic. A second Venezuelan republic, proclaimed on 7 August 1813, lasted several months before being crushed as well.
+
+Sovereignty was only attained after Simon Bolivar, aided by José Antonio Páez and Antonio José de Sucre, won the Battle of Carabobo on 24 June 1821. Jose Prudencio Padilla and Rafael Urdaneta's victory in the Battle of Lake Maracaibo on 24 July 1823 helped seal Venezuelan independence. New Granada's congress gave Bolívar control of the Granadian army; leading it, he liberated several countries and founded Gran Colombia. Sucre, who won many battles for Bolívar, went on to liberate Ecuador, and later become the second president of Bolivia. Venezuela remained part of Gran Colombia until 1830, when a rebellion led by Páez allowed the proclamation of a new Republic of Venezuela; Páez became its first president.
+
+Much of Venezuela's nineteenth century history was characterized by political turmoil and dictatorial rule. During first half of the 20th century, caudillos (military strongmen) continued to dominate, though they generally allowed for mild social reforms and promoted economic growth. Following the death of Juan Vicente Gómez in 1935 and the demise of caudillismo (authoritarian rule), pro-democracy movements eventually forced the military to withdraw from direct involvement in national politics in 1958. Since that year, Venezuela has had a series of democratically elected governments. The discovery of massive oil deposits, totaling some 400 million barrels,[citation needed] during World War I prompted an economic boom that lasted into the 1980s; by 1935, Venezuela's per capita GDP was Latin America's highest. After World War II the globalization and heavy immigration from Southern Europe (mainly from Spain, Italy, Portugal) and poorer Latin American countries markedly diversified Venezuelan society.
+
+	The huge public spending and accumulation of internal and external debts by the government and private sector during the Petrodollar years of the 1970s and early 1980s, followed by the collapse of oil prices during the 1980s, crippled the Venezuelan economy. As the government devalued the currency in order to face its mounting local and non-local financial obligations, Venezuelans' real standard of living fell dramatically. A number of failed economic policies and increasing corruption in government and society at large, has led to rising poverty and crime and worsening social indicators and increasing political instability,[opinion needs balancing] resulting in two major coup attempts in 1992.
+
+	In the February 1992 coup, Hugo Chavez, a former paratrooper, attempted to overthrow the government of President Carlos Andres Perez as anger grew against the President's economic austerity measures. Chavez was unsuccessful and landed in jail. In November of that year, another unsuccessful coup attempt occurred, organized by other revolutionary groups in the Venezuelan Armed Forces and those that remained from Chavezs previous attempt. In 1998, Hugo Chavez (who led the first unsuccessful coup in 1992) was elected president as a reaction against the established political parties and the corruption and inequalities their policies created. He remains president today. Since coming to power, Chavez has attracted some controversy through his reforms of the Constitution, the implementation of his "Bolivarian Revolution", and in April 2002 (though now a democratically elected president) Chavez was temporarily ousted from power by right-wing elements in the army and the business sector.
+
+	The venezuelan president is elected by a vote with direct and universal suffrage, and functions as both head of state and head of government. The term of office is six years, and a president may be re-elected to a single consecutive term. The president appoints the vice-president and decides the size and composition of the cabinet and makes appointments to it with the involvement of the legislature. The president can ask the legislature to reconsider portions of laws he finds objectionable, but a simple parliamentary majority can diminish these objections.
+
+	The unicameral Venezuelan parliament is the National Assembly or Asamblea Nacional. Its 167 deputies, of which three are reserved for indigenous people, serve five-year terms and may be re-elected for a maximum of two additional terms. They are elected by popular vote through a combination of party lists and single member constituencies. The highest judicial body is the Supreme Tribunal of Justice or Tribunal Supremo de Justicia, whose magistrates are elected by parliament for a single twelve-year term. The National Electoral Council (Consejo Nacional Electoral, or CNE) is in charge of electoral processes; it is formed by five main directors elected by the National Assembly.
+	</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CARACAS</Tag>
+		<English>Caracas</English>
+		<French>
+			<Text>Caracas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Caracas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Caracas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Caracas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MARACAIBO</Tag>
+		<English>Maracaibo</English>
+		<French>
+			<Text>Maracaibo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Maracaibo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Maracaibo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Maracaibo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VALENCIA</Tag>
+		<English>Valencia</English>
+		<French>
+			<Text>Valencia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Valencia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Valencia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Valencia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BARQUISIMETO</Tag>
+		<English>Barquisimeto</English>
+		<French>
+			<Text>Barquisimeto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Barquisimeto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Barquisimeto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Barquisimeto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MARACAY</Tag>
+		<English>Maracay</English>
+		<French>
+			<Text>Maracay</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Maracay</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Maracay</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Maracay</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CUIDAD_GUAYANA</Tag>
+		<English>Ciudad Guayana</English>
+		<French>
+			<Text>Ciudad Guayana</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ciudad Guayana</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ciudad Guayana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ciudad Guayana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BARCELONA</Tag>
+		<English>Barcelona</English>
+		<French>
+			<Text>Barcelona</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Barcelona</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Barcelona</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Barcelona</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MATURIN</Tag>
+		<English>Maturín</English>
+		<French>
+			<Text>Maturín</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Maturín</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Maturín</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Maturín</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TURMERO</Tag>
+		<English>Turmero</English>
+		<French>
+			<Text>Turmero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Turmero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Turmero</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Turmero</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CIUDAD_BOLIVAR</Tag>
+		<English>Ciudad Bolívar</English>
+		<French>
+			<Text>Ciudad Bolívar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ciudad Bolívar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ciudad Bolívar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ciudad Bolívar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BARINAS</Tag>
+		<English>Barinas</English>
+		<French>
+			<Text>Barinas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Barinas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Barinas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Barinas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LOS_TEQUES</Tag>
+		<English>Los Teques</English>
+		<French>
+			<Text>Los Teques</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Los Teques</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Los Teques</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Teques</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CUMANA</Tag>
+		<English>Cumaná</English>
+		<French>
+			<Text>Cumaná</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cumaná</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cumaná</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cumaná</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_CRISTOBAL</Tag>
+		<English>San Cristóbal</English>
+		<French>
+			<Text>San Cristóbal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Cristóbal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Cristóbal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Cristóbal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PUERTO_LA_CRUZ</Tag>
+		<English>Puerto La Cruz</English>
+		<French>
+			<Text>Puerto La Cruz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Puerto La Cruz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Puerto La Cruz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Puerto La Cruz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MERIDA</Tag>
+		<English>Mérida</English>
+		<French>
+			<Text>Mérida</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mérida</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mérida</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mérida</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CABIMAS</Tag>
+		<English>Cabimas</English>
+		<French>
+			<Text>Cabimas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cabimas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cabimas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cabimas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CORO</Tag>
+		<English>Coro</English>
+		<French>
+			<Text>Coro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Coro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Coro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Coro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUATIRE</Tag>
+		<English>Guatire</English>
+		<French>
+			<Text>Guatire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Guatire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guatire</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guatire</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CUA</Tag>
+		<English>Cúa</English>
+		<French>
+			<Text>Cúa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cúa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cúa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cúa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUARENAS</Tag>
+		<English>Guarenas</English>
+		<French>
+			<Text>Guarenas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Guarenas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guarenas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guarenas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OCUMARE_DEL_TUY</Tag>
+		<English>Ocumare del Tuy</English>
+		<French>
+			<Text>Ocumare del Tuy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ocumare del Tuy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ocumare del Tuy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ocumare del Tuy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PUERTO_CABELLO</Tag>
+		<English>Puerto Cabello</English>
+		<French>
+			<Text>Puerto Cabello</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Puerto Cabello</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Puerto Cabello</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Puerto Cabello</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUACARA</Tag>
+		<English>Guacara</English>
+		<French>
+			<Text>Guacara</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Guacara</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guacara</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guacara</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_EL_TIGRE</Tag>
+		<English>El Tigre</English>
+		<French>
+			<Text>El Tigre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>El Tigre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>El Tigre</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Tigre</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_EL_LIMON</Tag>
+		<English>El Limón</English>
+		<French>
+			<Text>El Limón</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>El Limón</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>El Limón</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Limón</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ACARIGUA</Tag>
+		<English>Acarigua</English>
+		<French>
+			<Text>Acarigua</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Acarigua</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Acarigua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Acarigua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PUNTO_FIJO</Tag>
+		<English>Punto Fijo</English>
+		<French>
+			<Text>Punto Fijo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Punto Fijo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Punto Fijo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Punto Fijo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CABUDARE</Tag>
+		<English>Cabudare</English>
+		<French>
+			<Text>Cabudare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cabudare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cabudare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cabudare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CHARALLAVE</Tag>
+		<English>Charallave</English>
+		<French>
+			<Text>Charallave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Charallave</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Charallave</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Charallave</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CIUDAD_OJEDA</Tag>
+		<English>Ciudad Ojeda</English>
+		<French>
+			<Text>Ciudad Ojeda</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ciudad Ojeda</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ciudad Ojeda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ciudad Ojeda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PALO_NEGRO</Tag>
+		<English>Palo Negro</English>
+		<French>
+			<Text>Palo Negro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Palo Negro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Palo Negro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Palo Negro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CAGUA</Tag>
+		<English>Cagua</English>
+		<French>
+			<Text>Cagua</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cagua</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cagua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cagua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ANACO</Tag>
+		<English>Anaco</English>
+		<French>
+			<Text>Anaco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Anaco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Anaco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Anaco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CALABOZO</Tag>
+		<English>Calabozo</English>
+		<French>
+			<Text>Calabozo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Calabozo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Calabozo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Calabozo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GUANARE</Tag>
+		<English>Guanare</English>
+		<French>
+			<Text>Guanare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Guanare</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guanare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guanare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

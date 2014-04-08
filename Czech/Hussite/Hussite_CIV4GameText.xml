@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CZECH_HUSSITE</Tag>
+		<English>Hussite Infantry</English>
+		<French>
+			<Text>Infanterie hussite</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Hussite Infantry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Hussite Infantry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hussite Infantry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CZECH_HUSSITE_STRATEGY</Tag>
+		<English>The Czech Unique Unit, the [COLOR_UNIT_TEXT]Hussite[COLOR_REVERT], has two more first strikes.</English>
+		<French>L'unité unique tchécoslovaque, l'[COLOR_UNIT_TEXT]infanterie hussite[COLOR_REVERT], dispose de deux premières attaques.</French>
+		<German>The Czech Unique Unit, the [COLOR_UNIT_TEXT]Hussite[COLOR_REVERT], has two more first strikes.</German>
+		<Italian>The Czech Unique Unit, the [COLOR_UNIT_TEXT]Hussite[COLOR_REVERT], has two more first strikes.</Italian>
+		<Spanish>The Czech Unique Unit, the [COLOR_UNIT_TEXT]Hussite[COLOR_REVERT], has two more first strikes.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CZECH_HUSSITE_PEDIA</Tag>
+		<English>[TAB]The Hussite wars also marked the earliest successful use of pistols on the battlefield. The Czechs called the handgun a píštala, and anti-infantry field guns houfnice, from which the English words "pistol" and "howitzer" have been derived. The Germans had just started corning gunpowder, making it suitable for use in smaller, tactical weapons. A gunman on an open field armed with only a single-shot weapon was no match for a charging knight on a horseback; however, from behind a castle wall, or from within the enclosure of the wagenburg, massed and disciplined gunmen could use the handgun to its greatest potential. From his experiences at the Battle of Grunwald, Žižka knew exactly how his enemies would attack, and he found new ways to defeat forces numerically superior to his own.</English>
+		<French>[TAB]The Hussite wars also marked the earliest successful use of pistols on the battlefield. The Czechs called the handgun a píštala, and anti-infantry field guns houfnice, from which the English words "pistol" and "howitzer" have been derived. The Germans had just started corning gunpowder, making it suitable for use in smaller, tactical weapons. A gunman on an open field armed with only a single-shot weapon was no match for a charging knight on a horseback; however, from behind a castle wall, or from within the enclosure of the wagenburg, massed and disciplined gunmen could use the handgun to its greatest potential. From his experiences at the Battle of Grunwald, Žižka knew exactly how his enemies would attack, and he found new ways to defeat forces numerically superior to his own.</French>
+		<German>[TAB]The Hussite wars also marked the earliest successful use of pistols on the battlefield. The Czechs called the handgun a píštala, and anti-infantry field guns houfnice, from which the English words "pistol" and "howitzer" have been derived. The Germans had just started corning gunpowder, making it suitable for use in smaller, tactical weapons. A gunman on an open field armed with only a single-shot weapon was no match for a charging knight on a horseback; however, from behind a castle wall, or from within the enclosure of the wagenburg, massed and disciplined gunmen could use the handgun to its greatest potential. From his experiences at the Battle of Grunwald, Žižka knew exactly how his enemies would attack, and he found new ways to defeat forces numerically superior to his own.</German>
+		<Italian>[TAB]The Hussite wars also marked the earliest successful use of pistols on the battlefield. The Czechs called the handgun a píštala, and anti-infantry field guns houfnice, from which the English words "pistol" and "howitzer" have been derived. The Germans had just started corning gunpowder, making it suitable for use in smaller, tactical weapons. A gunman on an open field armed with only a single-shot weapon was no match for a charging knight on a horseback; however, from behind a castle wall, or from within the enclosure of the wagenburg, massed and disciplined gunmen could use the handgun to its greatest potential. From his experiences at the Battle of Grunwald, Žižka knew exactly how his enemies would attack, and he found new ways to defeat forces numerically superior to his own.</Italian>
+		<Spanish>[TAB]The Hussite wars also marked the earliest successful use of pistols on the battlefield. The Czechs called the handgun a píštala, and anti-infantry field guns houfnice, from which the English words "pistol" and "howitzer" have been derived. The Germans had just started corning gunpowder, making it suitable for use in smaller, tactical weapons. A gunman on an open field armed with only a single-shot weapon was no match for a charging knight on a horseback; however, from behind a castle wall, or from within the enclosure of the wagenburg, massed and disciplined gunmen could use the handgun to its greatest potential. From his experiences at the Battle of Grunwald, Žižka knew exactly how his enemies would attack, and he found new ways to defeat forces numerically superior to his own.</Spanish>
+	</TEXT>
+</Civ4GameText>

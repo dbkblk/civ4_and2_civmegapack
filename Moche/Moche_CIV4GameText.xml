@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOCHE_DESC</Tag>
+		<English>Moche Empire</English> 
+		<French>Indiens moches</French>
+		<German>Moche Empire</German>
+		<Italian>Moche Empire</Italian>
+		<Spanish>Moche Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOCHE_SHORT_DESC</Tag>
+		<English>Moche</English>
+		<French>Moches</French>
+		<German>Moche</German>
+		<Italian>Moche</Italian>
+		<Spanish>Moche</Spanish>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_CIV_MOCHE_PEDIA</Tag>
+		<English>[TAB]The Moche civilization (alternately, the Mochica culture, Early Chimu, Pre-Chimu, Proto-Chimu, etc.) flourished in northern Peru from about 100 A.D. to 800 A.D., during the Regional Development Epoch. While still the subject of some debate, many scholars contend that the Moche were not politically organized as a monolithic empire or state but rather as a group of autonomous polities that shared a common elite culture as seen in the rich iconography and monumental architecture that survive today. They are particularly noted for their elaborately painted ceramics, gold work, monumental constructions (huacas) and irrigation systems. Moche history may be broadly divided into three periods - the emergence of the Moche culture in Early Moche (AD 100-300), its expansion and florescence during Middle Moche (AD 300-600), and the urban nucleation and subsequent collapse in Late Moche (AD 500-750). Moche society was agriculturally based with a significant level of investment in the diversion of river water into a network of irrigation canals. Their culture was sophisticated and their artifacts document their lives with detailed scenes of hunting, fishing, fighting, sacrifice, sexual encounters and elaborate ceremonies.[PARAGRAPH:2]The Moche cultural sphere is centered around several valleys on the north coast of Peru - Lambayeque, Jequetepeque, Chicama, Moche, Viru, Chao, Santa, and Nepena. The Huaca del Sol, a pyramidal adobe structure on the Rio Moche, had been the largest pre-Columbian structure in Peru; however, it was partly destroyed when Spanish Conquistadors mined its graves for gold. Fortunately the nearby Huaca de la Luna has remained largely intact - it contains many colorful murals with complex iconography and has been under excavation since the early 1990s. Other major Moche sites include Sipan, Pampa Grande, Loma Negra, Dos Cabezas, Pacatnamu, San Jose de Moro, the El Brujo complex, Mocollope, Cerro Mayal, Galindo, Huancaco, and Panamarca.[PARAGRAPH:2]There are several theories as to what caused the demise of the Moche political structure. Some scholars have emphasised the role of environmental change. Studies of ice cores drilled from glaciers in the Andes reveal climatic events between 536 to 594 AD, possibly a super El Nino, that resulted in 30 years of intense rain and flooding followed by 30 years of drought, part of the aftermath of the climate changes of 535-536.These weather events could have disrupted the Moche way of life and shattered their faith in their religion, which had promised stable weather through sacrifices[PARAGRAPH:2]However, it is clear that these events did not cause the final Moche demise. Recently discovered evidence suggests that the Moche polities survived beyond 650 AD in the Jequetepeque Valley and the Moche Valleys. For instance, in the Jequetepeque Valley, later settlements are characterized by fortifications and defensive works. While there is no evidence of a foreign invasion, as many scholars have suggested in the past (i.e. a Huari invasion), there is some evidence of social unrest, possibly the result of climatic changes as factions fought for control over scarce resources.</English>
+		<French>[TAB]The Moche civilization (alternately, the Mochica culture, Early Chimu, Pre-Chimu, Proto-Chimu, etc.) flourished in northern Peru from about 100 A.D. to 800 A.D., during the Regional Development Epoch. While still the subject of some debate, many scholars contend that the Moche were not politically organized as a monolithic empire or state but rather as a group of autonomous polities that shared a common elite culture as seen in the rich iconography and monumental architecture that survive today. They are particularly noted for their elaborately painted ceramics, gold work, monumental constructions (huacas) and irrigation systems. Moche history may be broadly divided into three periods - the emergence of the Moche culture in Early Moche (AD 100-300), its expansion and florescence during Middle Moche (AD 300-600), and the urban nucleation and subsequent collapse in Late Moche (AD 500-750). Moche society was agriculturally based with a significant level of investment in the diversion of river water into a network of irrigation canals. Their culture was sophisticated and their artifacts document their lives with detailed scenes of hunting, fishing, fighting, sacrifice, sexual encounters and elaborate ceremonies.[PARAGRAPH:2]The Moche cultural sphere is centered around several valleys on the north coast of Peru - Lambayeque, Jequetepeque, Chicama, Moche, Viru, Chao, Santa, and Nepena. The Huaca del Sol, a pyramidal adobe structure on the Rio Moche, had been the largest pre-Columbian structure in Peru; however, it was partly destroyed when Spanish Conquistadors mined its graves for gold. Fortunately the nearby Huaca de la Luna has remained largely intact - it contains many colorful murals with complex iconography and has been under excavation since the early 1990s. Other major Moche sites include Sipan, Pampa Grande, Loma Negra, Dos Cabezas, Pacatnamu, San Jose de Moro, the El Brujo complex, Mocollope, Cerro Mayal, Galindo, Huancaco, and Panamarca.[PARAGRAPH:2]There are several theories as to what caused the demise of the Moche political structure. Some scholars have emphasised the role of environmental change. Studies of ice cores drilled from glaciers in the Andes reveal climatic events between 536 to 594 AD, possibly a super El Nino, that resulted in 30 years of intense rain and flooding followed by 30 years of drought, part of the aftermath of the climate changes of 535-536.These weather events could have disrupted the Moche way of life and shattered their faith in their religion, which had promised stable weather through sacrifices[PARAGRAPH:2]However, it is clear that these events did not cause the final Moche demise. Recently discovered evidence suggests that the Moche polities survived beyond 650 AD in the Jequetepeque Valley and the Moche Valleys. For instance, in the Jequetepeque Valley, later settlements are characterized by fortifications and defensive works. While there is no evidence of a foreign invasion, as many scholars have suggested in the past (i.e. a Huari invasion), there is some evidence of social unrest, possibly the result of climatic changes as factions fought for control over scarce resources.</French>
+		<German>[TAB]The Moche civilization (alternately, the Mochica culture, Early Chimu, Pre-Chimu, Proto-Chimu, etc.) flourished in northern Peru from about 100 A.D. to 800 A.D., during the Regional Development Epoch. While still the subject of some debate, many scholars contend that the Moche were not politically organized as a monolithic empire or state but rather as a group of autonomous polities that shared a common elite culture as seen in the rich iconography and monumental architecture that survive today. They are particularly noted for their elaborately painted ceramics, gold work, monumental constructions (huacas) and irrigation systems. Moche history may be broadly divided into three periods - the emergence of the Moche culture in Early Moche (AD 100-300), its expansion and florescence during Middle Moche (AD 300-600), and the urban nucleation and subsequent collapse in Late Moche (AD 500-750). Moche society was agriculturally based with a significant level of investment in the diversion of river water into a network of irrigation canals. Their culture was sophisticated and their artifacts document their lives with detailed scenes of hunting, fishing, fighting, sacrifice, sexual encounters and elaborate ceremonies.[PARAGRAPH:2]The Moche cultural sphere is centered around several valleys on the north coast of Peru - Lambayeque, Jequetepeque, Chicama, Moche, Viru, Chao, Santa, and Nepena. The Huaca del Sol, a pyramidal adobe structure on the Rio Moche, had been the largest pre-Columbian structure in Peru; however, it was partly destroyed when Spanish Conquistadors mined its graves for gold. Fortunately the nearby Huaca de la Luna has remained largely intact - it contains many colorful murals with complex iconography and has been under excavation since the early 1990s. Other major Moche sites include Sipan, Pampa Grande, Loma Negra, Dos Cabezas, Pacatnamu, San Jose de Moro, the El Brujo complex, Mocollope, Cerro Mayal, Galindo, Huancaco, and Panamarca.[PARAGRAPH:2]There are several theories as to what caused the demise of the Moche political structure. Some scholars have emphasised the role of environmental change. Studies of ice cores drilled from glaciers in the Andes reveal climatic events between 536 to 594 AD, possibly a super El Nino, that resulted in 30 years of intense rain and flooding followed by 30 years of drought, part of the aftermath of the climate changes of 535-536.These weather events could have disrupted the Moche way of life and shattered their faith in their religion, which had promised stable weather through sacrifices[PARAGRAPH:2]However, it is clear that these events did not cause the final Moche demise. Recently discovered evidence suggests that the Moche polities survived beyond 650 AD in the Jequetepeque Valley and the Moche Valleys. For instance, in the Jequetepeque Valley, later settlements are characterized by fortifications and defensive works. While there is no evidence of a foreign invasion, as many scholars have suggested in the past (i.e. a Huari invasion), there is some evidence of social unrest, possibly the result of climatic changes as factions fought for control over scarce resources.</German>
+		<Italian>[TAB]The Moche civilization (alternately, the Mochica culture, Early Chimu, Pre-Chimu, Proto-Chimu, etc.) flourished in northern Peru from about 100 A.D. to 800 A.D., during the Regional Development Epoch. While still the subject of some debate, many scholars contend that the Moche were not politically organized as a monolithic empire or state but rather as a group of autonomous polities that shared a common elite culture as seen in the rich iconography and monumental architecture that survive today. They are particularly noted for their elaborately painted ceramics, gold work, monumental constructions (huacas) and irrigation systems. Moche history may be broadly divided into three periods - the emergence of the Moche culture in Early Moche (AD 100-300), its expansion and florescence during Middle Moche (AD 300-600), and the urban nucleation and subsequent collapse in Late Moche (AD 500-750). Moche society was agriculturally based with a significant level of investment in the diversion of river water into a network of irrigation canals. Their culture was sophisticated and their artifacts document their lives with detailed scenes of hunting, fishing, fighting, sacrifice, sexual encounters and elaborate ceremonies.[PARAGRAPH:2]The Moche cultural sphere is centered around several valleys on the north coast of Peru - Lambayeque, Jequetepeque, Chicama, Moche, Viru, Chao, Santa, and Nepena. The Huaca del Sol, a pyramidal adobe structure on the Rio Moche, had been the largest pre-Columbian structure in Peru; however, it was partly destroyed when Spanish Conquistadors mined its graves for gold. Fortunately the nearby Huaca de la Luna has remained largely intact - it contains many colorful murals with complex iconography and has been under excavation since the early 1990s. Other major Moche sites include Sipan, Pampa Grande, Loma Negra, Dos Cabezas, Pacatnamu, San Jose de Moro, the El Brujo complex, Mocollope, Cerro Mayal, Galindo, Huancaco, and Panamarca.[PARAGRAPH:2]There are several theories as to what caused the demise of the Moche political structure. Some scholars have emphasised the role of environmental change. Studies of ice cores drilled from glaciers in the Andes reveal climatic events between 536 to 594 AD, possibly a super El Nino, that resulted in 30 years of intense rain and flooding followed by 30 years of drought, part of the aftermath of the climate changes of 535-536.These weather events could have disrupted the Moche way of life and shattered their faith in their religion, which had promised stable weather through sacrifices[PARAGRAPH:2]However, it is clear that these events did not cause the final Moche demise. Recently discovered evidence suggests that the Moche polities survived beyond 650 AD in the Jequetepeque Valley and the Moche Valleys. For instance, in the Jequetepeque Valley, later settlements are characterized by fortifications and defensive works. While there is no evidence of a foreign invasion, as many scholars have suggested in the past (i.e. a Huari invasion), there is some evidence of social unrest, possibly the result of climatic changes as factions fought for control over scarce resources.</Italian>
+		<Spanish>[TAB]The Moche civilization (alternately, the Mochica culture, Early Chimu, Pre-Chimu, Proto-Chimu, etc.) flourished in northern Peru from about 100 A.D. to 800 A.D., during the Regional Development Epoch. While still the subject of some debate, many scholars contend that the Moche were not politically organized as a monolithic empire or state but rather as a group of autonomous polities that shared a common elite culture as seen in the rich iconography and monumental architecture that survive today. They are particularly noted for their elaborately painted ceramics, gold work, monumental constructions (huacas) and irrigation systems. Moche history may be broadly divided into three periods - the emergence of the Moche culture in Early Moche (AD 100-300), its expansion and florescence during Middle Moche (AD 300-600), and the urban nucleation and subsequent collapse in Late Moche (AD 500-750). Moche society was agriculturally based with a significant level of investment in the diversion of river water into a network of irrigation canals. Their culture was sophisticated and their artifacts document their lives with detailed scenes of hunting, fishing, fighting, sacrifice, sexual encounters and elaborate ceremonies.[PARAGRAPH:2]The Moche cultural sphere is centered around several valleys on the north coast of Peru - Lambayeque, Jequetepeque, Chicama, Moche, Viru, Chao, Santa, and Nepena. The Huaca del Sol, a pyramidal adobe structure on the Rio Moche, had been the largest pre-Columbian structure in Peru; however, it was partly destroyed when Spanish Conquistadors mined its graves for gold. Fortunately the nearby Huaca de la Luna has remained largely intact - it contains many colorful murals with complex iconography and has been under excavation since the early 1990s. Other major Moche sites include Sipan, Pampa Grande, Loma Negra, Dos Cabezas, Pacatnamu, San Jose de Moro, the El Brujo complex, Mocollope, Cerro Mayal, Galindo, Huancaco, and Panamarca.[PARAGRAPH:2]There are several theories as to what caused the demise of the Moche political structure. Some scholars have emphasised the role of environmental change. Studies of ice cores drilled from glaciers in the Andes reveal climatic events between 536 to 594 AD, possibly a super El Nino, that resulted in 30 years of intense rain and flooding followed by 30 years of drought, part of the aftermath of the climate changes of 535-536.These weather events could have disrupted the Moche way of life and shattered their faith in their religion, which had promised stable weather through sacrifices[PARAGRAPH:2]However, it is clear that these events did not cause the final Moche demise. Recently discovered evidence suggests that the Moche polities survived beyond 650 AD in the Jequetepeque Valley and the Moche Valleys. For instance, in the Jequetepeque Valley, later settlements are characterized by fortifications and defensive works. While there is no evidence of a foreign invasion, as many scholars have suggested in the past (i.e. a Huari invasion), there is some evidence of social unrest, possibly the result of climatic changes as factions fought for control over scarce resources.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOCHE_ADJECTIVE</Tag>
+		<English>Moche</English>
+    <French>
+	    <Text>moche:moche:moches:moches</Text>
+	    <Gender>Male:Female:Male:Female</Gender>
+	    <Plural>0:0:1:1</Plural>
+    </French>
+		<German>Moche</German>
+		<Italian>Moche</Italian>
+		<Spanish>Moche</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PANAMARCA</Tag>
+		<English>Panamarca</English>
+		<French>
+			<Text>Panamarca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Panamarca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Panamarca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Panamarca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HUANCACO</Tag>
+		<English>Huancaco</English>
+		<French>
+			<Text>Huancaco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Huancaco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Huancaco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Huancaco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SIPAN</Tag>
+		<English>Sipan</English>
+		<French>
+			<Text>Sipan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sipan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Sipan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sipan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PAMPA_GRANDE</Tag>
+		<English>Pampa Grande</English>
+		<French>
+			<Text>Pampa Grande</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pampa Grande</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pampa Grande</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pampa Grande</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LOMA_NEGRA</Tag>
+		<English>Loma Negra</English>
+		<French>
+			<Text>Loma Negra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Loma Negra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Loma Negra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Loma Negra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DOS_CABEZAS</Tag>
+		<English>Dos Cabezas</English>
+		<French>
+			<Text>Dos Cabezas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dos Cabezas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dos Cabezas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dos Cabezas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PACATNAMU</Tag>
+		<English>Pacatnamu</English>
+		<French>
+			<Text>Pacatnamu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pacatnamu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pacatnamu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pacatnamu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAN_JOSE_DE_MORO</Tag>
+		<English>San Jose de Moro</English>
+		<French>
+			<Text>San Jose de Moro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>San Jose de Moro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>San Jose de Moro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>San Jose de Moro</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_EL_BRUJO</Tag>
+		<English>El Brujo</English>
+		<French>
+			<Text>El Brujo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>El Brujo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>El Brujo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Brujo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MOCOLLOPE</Tag>
+		<English>Mocollope</English>
+		<French>
+			<Text>Mocollope</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mocollope</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mocollope</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mocollope</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CERRO_MAYAL</Tag>
+		<English>Cerro Mayal</English>
+		<French>
+			<Text>Cerro Mayal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cerro Mayal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cerro Mayal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cerro Mayal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GALINDO</Tag>
+		<English>Galindo</English>
+		<French>
+			<Text>Galindo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Galindo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Galindo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Galindo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OREJAS</Tag>
+		<English>Orejas</English>
+		<French>
+			<Text>Orejas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Orejas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Orejas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Orejas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TAMBO_REAL</Tag>
+		<English>Tambo Real</English>
+		<French>
+			<Text>Tambo Real</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tambo Real</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Tambo Real</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Tambo Real</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

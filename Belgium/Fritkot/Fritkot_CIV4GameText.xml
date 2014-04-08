@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT>
+		<Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT</Tag>
+		<English>Fritkot</English>
+		<French>Friterie</French>
+		<German>Fritkot</German>
+		<Italian>Fritkot</Italian>
+		<Spanish>Fritkot</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT_PEDIA</Tag>
+		<English>[TAB]A Belgian legend claims that the term "French" was introduced when British or American soldiers arrived in Belgium during World War I, and consequently tasted Belgian fries. They supposedly called them "French", as it was the official language of the Belgian Army at that time.[PARAGRAPH:1]Whether or not Belgians invented them, "frites" became the national snack and a substantial part of both national dishes, making the Belgians their largest per capita consumers[citation needed] in Europe and their "symbolic" creators. The national dishes are "steak and fries with salad", and "mussels with fries".</English>
+		<French>[TAB]A Belgian legend claims that the term "French" was introduced when British or American soldiers arrived in Belgium during World War I, and consequently tasted Belgian fries. They supposedly called them "French", as it was the official language of the Belgian Army at that time.[PARAGRAPH:1]Whether or not Belgians invented them, "frites" became the national snack and a substantial part of both national dishes, making the Belgians their largest per capita consumers[citation needed] in Europe and their "symbolic" creators. The national dishes are "steak and fries with salad", and "mussels with fries".</French>
+		<German>[TAB]A Belgian legend claims that the term "French" was introduced when British or American soldiers arrived in Belgium during World War I, and consequently tasted Belgian fries. They supposedly called them "French", as it was the official language of the Belgian Army at that time.[PARAGRAPH:1]Whether or not Belgians invented them, "frites" became the national snack and a substantial part of both national dishes, making the Belgians their largest per capita consumers[citation needed] in Europe and their "symbolic" creators. The national dishes are "steak and fries with salad", and "mussels with fries".</German>
+		<Italian>[TAB]A Belgian legend claims that the term "French" was introduced when British or American soldiers arrived in Belgium during World War I, and consequently tasted Belgian fries. They supposedly called them "French", as it was the official language of the Belgian Army at that time.[PARAGRAPH:1]Whether or not Belgians invented them, "frites" became the national snack and a substantial part of both national dishes, making the Belgians their largest per capita consumers[citation needed] in Europe and their "symbolic" creators. The national dishes are "steak and fries with salad", and "mussels with fries".</Italian>
+		<Spanish>[TAB]A Belgian legend claims that the term "French" was introduced when British or American soldiers arrived in Belgium during World War I, and consequently tasted Belgian fries. They supposedly called them "French", as it was the official language of the Belgian Army at that time.[PARAGRAPH:1]Whether or not Belgians invented them, "frites" became the national snack and a substantial part of both national dishes, making the Belgians their largest per capita consumers[citation needed] in Europe and their "symbolic" creators. The national dishes are "steak and fries with salad", and "mussels with fries".</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT_STRATEGY</Tag>
+		<English>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</English>
+		<French>La Belgique remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] avec la [COLOR_BUILDING_TEXT]friterie[COLOR_REVERT], qui est moins chère et procure du bonheur supplémentaire, mais dispose d'une réduction de la santé.</French>
+		<German>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</German>
+		<Italian>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</Italian>
+		<Spanish>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</Spanish>
+	</TEXT>
+</Civ4GameText>

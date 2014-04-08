@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GEORGIA_HORSEMAN</Tag>
+		<English>Georgian Tribesman</English>
+		<French>Cavalier géorgien</French>
+		<German>Georgian Tribesman</German>
+		<Italian>Georgian Tribesman</Italian>
+		<Spanish>Georgian Tribesman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GEORGIA_HORSEMAN_PEDIA</Tag>
+		<English>[TAB]The history of Georgia has been marked by a series of invasions and subjugation by several empires (such as Rome, Persia, Arabian Caliphate, Mongol Empire, the Ottoman Empire and the Russian Empire). Like in many cultures of the region, horsemen have traditionally played a role in the defence of the small nation.</English>
+		<French>[TAB]The history of Georgia has been marked by a series of invasions and subjugation by several empires (such as Rome, Persia, Arabian Caliphate, Mongol Empire, the Ottoman Empire and the Russian Empire). Like in many cultures of the region, horsemen have traditionally played a role in the defence of the small nation.</French>
+		<German>[TAB]The history of Georgia has been marked by a series of invasions and subjugation by several empires (such as Rome, Persia, Arabian Caliphate, Mongol Empire, the Ottoman Empire and the Russian Empire). Like in many cultures of the region, horsemen have traditionally played a role in the defence of the small nation.</German>
+		<Italian>[TAB]The history of Georgia has been marked by a series of invasions and subjugation by several empires (such as Rome, Persia, Arabian Caliphate, Mongol Empire, the Ottoman Empire and the Russian Empire). Like in many cultures of the region, horsemen have traditionally played a role in the defence of the small nation.</Italian>
+		<Spanish>[TAB]The history of Georgia has been marked by a series of invasions and subjugation by several empires (such as Rome, Persia, Arabian Caliphate, Mongol Empire, the Ottoman Empire and the Russian Empire). Like in many cultures of the region, horsemen have traditionally played a role in the defence of the small nation.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GEORGIA_HORSEMAN_STRATEGY</Tag>
+		<English>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</English>
+		<French>Le [COLOR_UNIT_TEXT]cavalier géorgien[COLOR_REVERT] remplace l'[COLOR_UNIT_TEXT]archer monté[COLOR_REVERT]. Habitué aux combats en terrain difficiles de leur terre natale, ils obtiennent des bonus d'attaque sur les collines ou en défense.</French>
+		<German>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</German>
+		<Italian>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</Italian>
+		<Spanish>The Georgian [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]. Very accustomed to fighting in the rough terrain of their homeland, so they get bonuses when attacking hills and also to defend himself in them.</Spanish>
+	</TEXT>
+</Civ4GameText>

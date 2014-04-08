@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT>
+		<Tag>TXT_KEY_UNIT_HIGHLANDER</Tag>
+		<English>Highlander</English>
+		<French>
+			<Text>Highlander</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Highlander</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Highlander</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Highlander</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_UNIT_HIGHLANDER_PEDIA</Tag>
+		<English>[TAB]Highlanders were the troops that consisted of the common men of the Scottish Highlands. The were usually formed from local clans and acted to preserve order within their communities. Highlanders were particular prominent once the King James VI of Scotland inherited the throne of the Kingdom of England, and became also "James I" of England. After the Glorious Revolution and the overthrow of the Roman Catholic James VII by William and Mary, Scotland briefly threatened to select a different Protestant monarch from England. In 1707, however, the Parliament of Scotland and the Parliament of England enacted the twin Acts of Union, which created the Kingdom of Great Britain.</English>
+		<French>[TAB]Highlanders were the troops that consisted of the common men of the Scottish Highlands</French>
+		<German>[TAB]Highlanders were the troops that consisted of the common men of the Scottish Highlands</German>
+		<Italian>[TAB]Highlanders were the troops that consisted of the common men of the Scottish Highlands</Italian>
+		<Spanish>[TAB]Highlanders were the troops that consisted of the common men of the Scottish Highlands</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HIGHLANDER_STRATEGY</Tag>
+		<English>Build this melee unit (the Scottish replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) for mountainous defense with a slight withdrawal chance.</English>
+		<French>Recrutez cette unité de combat rapproché (équivalent écossais du [COLOR_UNIT_TEXT]spadassin[COLOR_REVERT]) pour défendre les montagnes avec une proba de retraite supplémentaire.</French>
+		<German>Build this melee unit (the Scottish replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) for mountainous defense with a slight withdrawal chance.</German>
+		<Italian>Build this melee unit (the Scottish replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) for mountainous defense with a slight withdrawal chance.</Italian>
+		<Spanish>Build this melee unit (the Scottish replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) for mountainous defense with a slight withdrawal chance.</Spanish>
+	</TEXT>
+</Civ4GameText>	
