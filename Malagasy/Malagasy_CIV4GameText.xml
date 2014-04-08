@@ -6,7 +6,8 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALAGASY_DESC</Tag>
 		<English>Malagasy Empire</English>
-		<French>Madagascar</Text>
+		<French>
+			<Text>Madagascar</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
