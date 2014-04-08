@@ -53,7 +53,7 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_MARINE</UnitClassType>
+					<UnitClassType>UNITCLASS_MODERN_INFANTRY</UnitClassType>
 					<UnitType>UNIT_VIETNAM_VIETCONG</UnitType>
 				</Unit>
 			</Units>

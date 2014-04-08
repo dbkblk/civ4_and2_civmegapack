@@ -13,11 +13,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SOUTH_AFRICA_SHORT_DESC</Tag>
-		<English>South Arfica</English>
-		<French>South Arfica</French>
-		<German>South Arfica</German>
-		<Italian>South Arfica</Italian>
-		<Spanish>South Arfica</Spanish>
+		<English>South Africa</English>
+		<French>South Africa</French>
+		<German>South Africa</German>
+		<Italian>South Africa</Italian>
+		<Spanish>South Africa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SOUTH_AFRICA_ADJECTIVE</Tag>
@@ -372,7 +372,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CITY_NAME_OOS-LONDEN</Tag>
+		<Tag>TXT_KEY_CITY_NAME_OOS_LONDEN</Tag>
 		<English>Oos-Londen</English>
 		<French>
 			<Text>Oos-Londen</Text>
@@ -396,25 +396,25 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CITY_NAME_WLKOM</Tag>
-		<English>Wlkom</English>
+		<Tag>TXT_KEY_CITY_NAME_WELKOM</Tag>
+		<English>Welkom</English>
 		<French>
-			<Text>Wlkom</Text>
+			<Text>Welkom</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Wlkom</Text>
+			<Text>Welkom</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Wlkom</Text>
+			<Text>Welkom</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Wlkom</Text>
+			<Text>Welkom</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>

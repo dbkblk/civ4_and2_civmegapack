@@ -29,11 +29,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD_STRATEGY</Tag>
-		<English>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</English>
-		<French>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</French>
-		<German>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</German>
-		<Italian>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</Italian>
-		<Spanish>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</Spanish>
+		<English>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</English>
+		<French>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</French>
+		<German>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</German>
+		<Italian>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</Italian>
+		<Spanish>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Modern Infantry[COLOR_REVERT]. They receive the Patrol I promotion and are better attacking cities.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD_PEDIA</Tag>

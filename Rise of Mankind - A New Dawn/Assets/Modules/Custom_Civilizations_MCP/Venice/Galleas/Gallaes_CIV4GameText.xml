@@ -5,11 +5,11 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GALLEAS</Tag>
-		<English>Galeass</English>
-		<French>Galéasse</French>
-		<German>Galeass</German>
-		<Italian>Galeass</Italian>
-		<Spanish>Galeass</Spanish>
+		<English>Great Galeass</English>
+		<French>Great Galéasse</French>
+		<German>Great Galeass</German>
+		<Italian>Great Galeass</Italian>
+		<Spanish>Great Galeass</Spanish>
 	</TEXT>
  	<TEXT>
 		<Tag>TXT_KEY_UNIT_GALLEAS_PEDIA</Tag>
@@ -21,10 +21,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GALLEAS_STRATEGY</Tag>
-		<English>The [COLOR_UNIT_TEXT]Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Caravel[COLOR_REVERT], though fighting better on coasts.</English>
-		<French>La [COLOR_UNIT_TEXT]Galéasse[COLOR_REVERT] est une amélioration de la [COLOR_UNIT_TEXT]Caravel[COLOR_REVERT], though fighting better on coasts.</French>
-		<German>The [COLOR_UNIT_TEXT]Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Caravel[COLOR_REVERT], though fighting better on coasts.</German>
-		<Italian>The [COLOR_UNIT_TEXT]Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Caravel[COLOR_REVERT], though fighting better on coasts.</Italian>
-		<Spanish>The [COLOR_UNIT_TEXT]Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Caravel[COLOR_REVERT], though fighting better on coasts.</Spanish>
+		<English>The [COLOR_UNIT_TEXT]Great Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Galleass[COLOR_REVERT], though fighting better on coasts.</English>
+		<French>La [COLOR_UNIT_TEXT]Great Galéasse[COLOR_REVERT] est une amélioration de la [COLOR_UNIT_TEXT]Galleass[COLOR_REVERT], though fighting better on coasts.</French>
+		<German>The [COLOR_UNIT_TEXT]Great Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Galleass[COLOR_REVERT], though fighting better on coasts.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Great Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Galleass[COLOR_REVERT], though fighting better on coasts.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Great Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Galleass[COLOR_REVERT], though fighting better on coasts.</Spanish>
 	</TEXT>
 </Civ4GameText>	
