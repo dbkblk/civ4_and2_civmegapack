@@ -23,10 +23,10 @@
 		<Tag>TXT_KEY_CIV_DINNEHIH_ADJECTIVE</Tag>
 		<English>Dinnehih</English>
 		<French>
-	    <Text>dinnehih:dinnehih:dinnehihs:dinnehihs</Text>
-    	<Gender>Male:Female:Male:Female</Gender>
-    	<Plural>0:0:1:1</Plural>
-    </French>
+	    		<Text>dinnehih:dinnehih:dinnehihs:dinnehihs</Text>
+		    	<Gender>Male:Female:Male:Female</Gender>
+		    	<Plural>0:0:1:1</Plural>
+    		</French>
 		<German>Dinnehih</German>
 		<Italian>Dinnehih</Italian>
 		<Spanish>Dinnehih</Spanish>
