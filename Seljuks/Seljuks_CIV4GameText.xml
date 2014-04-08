@@ -14,7 +14,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SELJUK_SHORT_DESC</Tag>
 		<English>Seljuks</English>
-		<French>Seldjouks</French>
+		<French>Seldjoukides</French>
 		<German>Seljuks</German>
 		<Italian>Seljuks</Italian>
 		<Spanish>Seljuks</Spanish>
@@ -22,11 +22,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SELJUK_ADJECTIVE</Tag>
 		<English>Seljuk</English>
-    <French>
-	    <Text>seldjouk:seldjouke:seldjouks:seldjoukes</Text>
-	    <Gender>Male:Female:Male:Female</Gender>
-	    <Plural>0:0:1:1</Plural>
-    </French>
+		<French>
+			<Text>seldjoukide:seldjoukide:seldjoukides:seldjoukides</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Seljuk</German>
 		<Italian>Seljuk</Italian>
 		<Spanish>Seljuk</Spanish>
