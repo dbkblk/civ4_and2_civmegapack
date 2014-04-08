@@ -6,7 +6,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BAKTRIA_DESC</Tag>
 		<English>Baktrian Empire</English>
-		<French>Baktria</French>
+		<French>
+			<Text>Royaume gréco-bactrien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
 		<German>Baktrian Empire</German>
 		<Italian>Baktrian Empire</Italian>
 		<Spanish>Baktrian Empire</Spanish>
@@ -14,7 +18,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BAKTRIA_SHORT_DESC</Tag>
 		<English>Baktria</English>
-		<French>Baktria</French>
+		<French>Gréco-bactriens</French>
 		<German>Baktria</German>
 		<Italian>Baktria</Italian>
 		<Spanish>Baktria</Spanish>
@@ -23,9 +27,9 @@
 		<Tag>TXT_KEY_CIV_BAKTRIA_ADJECTIVE</Tag>
 		<English>Baktrian</English>
 		<French>
-			<Text>Baktrian</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
+			<Text>bactrien:bactrienne:bactriens:bactriennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
 			<Text>Baktrian</Text>
