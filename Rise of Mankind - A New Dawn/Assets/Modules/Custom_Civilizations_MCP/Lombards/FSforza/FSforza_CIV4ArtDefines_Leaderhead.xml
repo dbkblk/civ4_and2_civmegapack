@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:FSforza_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_FSFORZA</Type>
+			<Button>art/Lombards/FSforza/btn_LH_magyar_Matyas.dds</Button>
+			<NIF>art/Lombards/FSforza/John II.nif</NIF>
+			<KFM>art/Lombards/FSforza/John II.kfm</KFM>
+			<NoShaderNIF>art/Lombards/FSforza/John II.nif</NoShaderNIF>
+			<BackgroundKFM>art/Lombards/FSforza/JohnII_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

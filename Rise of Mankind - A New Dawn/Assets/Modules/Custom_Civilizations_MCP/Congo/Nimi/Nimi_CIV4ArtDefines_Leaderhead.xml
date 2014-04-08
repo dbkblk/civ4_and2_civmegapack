@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Nimi_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NIMI</Type>
+			<Button>art/Congo/Nimi/Nimi.dds</Button>
+			<NIF>art/Congo/Nimi/julius_caesar.nif</NIF>
+			<KFM>art/Congo/Nimi/julius_caesar.kfm</KFM>
+			<NoShaderNIF>art/Congo/Nimi/julius_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Congo/Nimi/julius_caesar_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

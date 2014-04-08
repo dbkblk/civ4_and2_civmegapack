@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Lange_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_LANGE</Type>
+			<Button>art/NewZealand/Lange/curtin.dds</Button>
+			<NIF>art/NewZealand/Lange/fdr.nif</NIF>
+			<KFM>art/NewZealand/Lange/fdr.kfm</KFM>
+			<NoShaderNIF>art/NewZealand/Lange/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/NewZealand/Lange/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Prempeh_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PREMPEH</Type>
+			<Button>art/Ashanti/Prempeh/Prempeh.dds</Button>
+			<NIF>art/Ashanti/Prempeh/shaka.nif</NIF>
+			<KFM>art/Ashanti/Prempeh/shaka.kfm</KFM>
+			<NoShaderNIF>art/Ashanti/Prempeh/shaka.nif</NoShaderNIF>
+			<BackgroundKFM>art/Ashanti/Prempeh/shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

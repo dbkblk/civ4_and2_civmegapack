@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BELGIUM_PIRON</Tag>
+		<English>Brigade Piron</English>
+		<French>Brigade Piron</French>
+		<German>Brigade Piron</German>
+		<Italian>Brigade Piron</Italian>
+		<Spanish>Brigade Piron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BELGIUM_PIRON_PEDIA</Tag>
+		<English>[TAB]Belgian 1st Infantry Brigade, also known by the name of its commander as the "Brigade Piron", began as miscellaneous small elements in the United Kingdom, expanded to a "fusilier" battalion by the end of 1940, mustered a pair of such battalions in 1941, and in January 1943 assumed the official brigade designation. Various schemes were considered during this time for utilizing the brigade overseas, but it was decided to reserve it for the actual liberation of Belgium.</English>
+		<French>[TAB]Belgian 1st Infantry Brigade, also known by the name of its commander as the "Brigade Piron", began as miscellaneous small elements in the United Kingdom, expanded to a "fusilier" battalion by the end of 1940, mustered a pair of such battalions in 1941, and in January 1943 assumed the official brigade designation. Various schemes were considered during this time for utilizing the brigade overseas, but it was decided to reserve it for the actual liberation of Belgium.</French>
+		<German>[TAB]Belgian 1st Infantry Brigade, also known by the name of its commander as the "Brigade Piron", began as miscellaneous small elements in the United Kingdom, expanded to a "fusilier" battalion by the end of 1940, mustered a pair of such battalions in 1941, and in January 1943 assumed the official brigade designation. Various schemes were considered during this time for utilizing the brigade overseas, but it was decided to reserve it for the actual liberation of Belgium.</German>
+		<Italian>[TAB]Belgian 1st Infantry Brigade, also known by the name of its commander as the "Brigade Piron", began as miscellaneous small elements in the United Kingdom, expanded to a "fusilier" battalion by the end of 1940, mustered a pair of such battalions in 1941, and in January 1943 assumed the official brigade designation. Various schemes were considered during this time for utilizing the brigade overseas, but it was decided to reserve it for the actual liberation of Belgium.</Italian>
+		<Spanish>[TAB]Belgian 1st Infantry Brigade, also known by the name of its commander as the "Brigade Piron", began as miscellaneous small elements in the United Kingdom, expanded to a "fusilier" battalion by the end of 1940, mustered a pair of such battalions in 1941, and in January 1943 assumed the official brigade designation. Various schemes were considered during this time for utilizing the brigade overseas, but it was decided to reserve it for the actual liberation of Belgium.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BELGIUM_PIRON_STRATEGY</Tag>
+		<English>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</English>
+		<French>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</French>
+		<German>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</German>
+		<Italian>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</Italian>
+		<Spanish>The Belgian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] receives an additional bonus against Gunpowder units and a free City Garrison I promotion.</Spanish>
+	</TEXT>
+</Civ4GameText>	

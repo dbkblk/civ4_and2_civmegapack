@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Charles_XII_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CHARLES_XII</Type>
+			<Button>,art/Sweden/Charles XII/CharlesXII.dds,art/Sweden/Charles XII/Sweden_Atlas.dds,1,1</Button>
+			<NIF>art/Sweden/Charles XII/george_washington.nif</NIF>
+			<KFM>art/Sweden/Charles XII/george_washington.kfm</KFM>
+			<NoShaderNIF>art/Sweden/Charles XII/george_washington_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Sweden/Charles XII/washington_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

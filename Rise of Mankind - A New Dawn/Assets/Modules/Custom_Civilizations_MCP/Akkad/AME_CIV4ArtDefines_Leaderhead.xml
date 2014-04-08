@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:AME_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SARGON</Type>
+			<Button>art/Akkad/Art/Sargon/sargon.dds</Button>
+			<NIF>art/Akkad/Art/Sargon/Gilgamesh.nif</NIF>
+			<KFM>art/Akkad/Art/Sargon/Gilgamesh.kfm</KFM>
+			<NoShaderNIF>art/Akkad/Art/Sargon/Gilgamesh_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Akkad/Art/Sargon/Gilgamesh_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ENHEDUANNA</Type>
+			<Button>art/Akkad/Art/Enheduanna/Enheduanna.dds</Button>
+			<NIF>art/Akkad/Art/Enheduanna/ishtar.nif</NIF>
+			<KFM>art/Akkad/Art/Enheduanna/isabella.kfm</KFM>
+			<NoShaderNIF>art/Akkad/Art/Enheduanna/ishtar.nif</NoShaderNIF>
+			<BackgroundKFM>art/Akkad/Art/Enheduanna/Nefertiti_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

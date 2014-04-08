@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Geronimo_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_GERONIMO</Type>
+			<Button>art/Apache/Geronimo/Btn_LH_Geronimo.dds</Button>
+			<NIF>art/Apache/Geronimo/geronimo.nif</NIF>
+			<KFM>art/Apache/Geronimo/george_washington.kfm</KFM>
+			<NoShaderNIF/>
+			<BackgroundKFM>art/Apache/Geronimo/washington_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

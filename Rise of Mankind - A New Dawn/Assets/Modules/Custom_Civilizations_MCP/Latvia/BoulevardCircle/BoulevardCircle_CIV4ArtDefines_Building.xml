@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:BoulevardCircle_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_BOULEVARD_CIRCLE</Type>
+			<LSystem>LSYSTEM_WALLS</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>0.4</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Walls/Walls.nif</NIF>
+			<KFM/>
+			<Button>art/Latvia/BoulevardCircle/boulevard_circle.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

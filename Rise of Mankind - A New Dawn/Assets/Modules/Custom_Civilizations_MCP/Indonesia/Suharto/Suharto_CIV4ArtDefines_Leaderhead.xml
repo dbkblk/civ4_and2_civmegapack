@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Suharto_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SUHARTO</Type>
+			<Button>art/Indonesia/Suharto/Suharto.dds</Button>
+			<NIF>art/Indonesia/Suharto/Mao_tse_tung.nif</NIF>
+			<KFM>art/Indonesia/Suharto/Mao_tse_tung.kfm</KFM>
+			<NoShaderNIF>art/Indonesia/Suharto/mao_tse_tung_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Indonesia/Suharto/Mao_tse_tung_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

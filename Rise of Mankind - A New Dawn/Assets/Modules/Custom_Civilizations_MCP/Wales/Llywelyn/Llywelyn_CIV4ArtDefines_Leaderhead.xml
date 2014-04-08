@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Llywelyn_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_LLYWELYN</Type>
+			<Button>,art/Wales/Llywelyn/Btn_LH_Wales_Llywelyn,art/Wales/Llywelyn/Wales_Atlas.dds,3,1</Button>
+			<NIF>art/Wales/Llywelyn/julius_caesar.nif</NIF>
+			<KFM>art/Wales/Llywelyn/julius_caesar.kfm</KFM>
+			<NoShaderNIF>art/Wales/Llywelyn/julius_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>Modules/Custom_Civilizations_MCP/Wales/Llywelyn/julius_caesar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:SepeTiaraju_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SEPE_TIARAJU</Type>
+			<Button>art/Tupi/SepeTiaraju/Kopenawa.dds</Button>
+			<NIF>art/Tupi/SepeTiaraju/shaka.nif</NIF>
+			<KFM>art/Tupi/SepeTiaraju/shaka.kfm</KFM>
+			<NoShaderNIF>art/Tupi/SepeTiaraju/shaka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Tupi/SepeTiaraju/shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

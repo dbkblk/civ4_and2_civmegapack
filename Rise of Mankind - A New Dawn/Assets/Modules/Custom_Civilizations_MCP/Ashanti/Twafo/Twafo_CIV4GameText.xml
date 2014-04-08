@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ASHANTI_TWAFO</Tag>
+		<English>Twafo</English>
+		<French>
+			<Text>Twafo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Twafo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Twafo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Twafo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ASHANTI_TWAFO_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] replaces the traditional Arquebusier and has a bonus when defending cities.</English>
+		<French>The [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] replaces the traditional Arquebusier and has a bonus when defending cities.</French>
+		<German>The [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] replaces the traditional Arquebusier and has a bonus when defending cities.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] replaces the traditional Arquebusier and has a bonus when defending cities.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] replaces the traditional Arquebusier and has a bonus when defending cities.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ASHANTI_TWAFO_PEDIA</Tag>
+		<English>[TAB]The Ashanti national army was elaborately organized into 6 parts, each with various sub-divisions, and muskets gradually replaced bows and arrows as the main weapons. On the move the army used this general breakdown- advance guard, main body, rearguard, and right and left wings. This detailed organization had several advantages, enabling the Ashanti generals to maneuver their forces with flexibility.  The Twafo was the advance guard within the system.</English>
+		<French>[TAB]The Ashanti national army was elaborately organized into 6 parts, each with various sub-divisions, and muskets gradually replaced bows and arrows as the main weapons. On the move the army used this general breakdown- advance guard, main body, rearguard, and right and left wings. This detailed organization had several advantages, enabling the Ashanti generals to maneuver their forces with flexibility.  The Twafo was the advance guard within the system.</French>
+		<German>[TAB]The Ashanti national army was elaborately organized into 6 parts, each with various sub-divisions, and muskets gradually replaced bows and arrows as the main weapons. On the move the army used this general breakdown- advance guard, main body, rearguard, and right and left wings. This detailed organization had several advantages, enabling the Ashanti generals to maneuver their forces with flexibility.  The Twafo was the advance guard within the system.</German>
+		<Italian>[TAB]The Ashanti national army was elaborately organized into 6 parts, each with various sub-divisions, and muskets gradually replaced bows and arrows as the main weapons. On the move the army used this general breakdown- advance guard, main body, rearguard, and right and left wings. This detailed organization had several advantages, enabling the Ashanti generals to maneuver their forces with flexibility.  The Twafo was the advance guard within the system.</Italian>
+		<Spanish>[TAB]The Ashanti national army was elaborately organized into 6 parts, each with various sub-divisions, and muskets gradually replaced bows and arrows as the main weapons. On the move the army used this general breakdown- advance guard, main body, rearguard, and right and left wings. This detailed organization had several advantages, enabling the Ashanti generals to maneuver their forces with flexibility.  The Twafo was the advance guard within the system.</Spanish>
+	</TEXT>
+</Civ4GameText>

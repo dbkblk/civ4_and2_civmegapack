@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mikheil_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MIKHEIL</Type>
+			<Button>art/Georgia/Mikheil/mikheilbutton.dds</Button>
+			<NIF>Modules/Custom_Civilizations_MCP/Georgia/Mikheil/saakashvili.nif</NIF>
+			<KFM>art/Georgia/Mikheil/napoleon.kfm</KFM>
+			<NoShaderNIF>Modules/Custom_Civilizations_MCP/Georgia/Mikheil/saakashvili.nif</NoShaderNIF>
+			<BackgroundKFM>art/Georgia/Mikheil/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

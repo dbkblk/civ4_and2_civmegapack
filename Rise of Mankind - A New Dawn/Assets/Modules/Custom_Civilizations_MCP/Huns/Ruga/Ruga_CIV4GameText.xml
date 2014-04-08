@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_RUGA</Tag>
+		<English>Ruga</English>
+		<French>
+			<Text>Ruga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ruga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ruga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ruga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_RUGA_PEDIA</Tag>
+		<English>[H1]Ruga[\H1][NEWLINE][BOLD]Hunnic King[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.5th Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Rugila also referred to as Ruhas, Ruga and Rua, was a warlord who was a major factor in the Huns' early victories over the Roman Empire. Under his command, the Huns invaded Roman territory and, after threatening the capitol, managed to take tribute from the Roman emperor of the time. He also forced the Roman Empire to give up all the rogue Hunnish soldiers they had acquired over the years. This was a big event, because the Roman Empire had come to rely on all of their Hunnish soldiers. His most important act, though, was that he united the Huns under his sole kingship by 432. In 434, he was succeeded briefly by his brother Mundzuk, who was rumoured to have had Rugila killed. For this he was expelled and his sons Attila and Bleda  became joint rulers of the united Hunnic tribes. He served as an important forerunner to Attila the Hun during the fifth century AD.</English>
+		<French>[H1]Ruga[\H1][NEWLINE][BOLD]Hunnic King[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.5th Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Rugila also referred to as Ruhas, Ruga and Rua, was a warlord who was a major factor in the Huns' early victories over the Roman Empire. Under his command, the Huns invaded Roman territory and, after threatening the capitol, managed to take tribute from the Roman emperor of the time. He also forced the Roman Empire to give up all the rogue Hunnish soldiers they had acquired over the years. This was a big event, because the Roman Empire had come to rely on all of their Hunnish soldiers. His most important act, though, was that he united the Huns under his sole kingship by 432. In 434, he was succeeded briefly by his brother Mundzuk, who was rumoured to have had Rugila killed. For this he was expelled and his sons Attila and Bleda  became joint rulers of the united Hunnic tribes. He served as an important forerunner to Attila the Hun during the fifth century AD.</French>
+		<German>[H1]Ruga[\H1][NEWLINE][BOLD]Hunnic King[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.5th Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Rugila also referred to as Ruhas, Ruga and Rua, was a warlord who was a major factor in the Huns' early victories over the Roman Empire. Under his command, the Huns invaded Roman territory and, after threatening the capitol, managed to take tribute from the Roman emperor of the time. He also forced the Roman Empire to give up all the rogue Hunnish soldiers they had acquired over the years. This was a big event, because the Roman Empire had come to rely on all of their Hunnish soldiers. His most important act, though, was that he united the Huns under his sole kingship by 432. In 434, he was succeeded briefly by his brother Mundzuk, who was rumoured to have had Rugila killed. For this he was expelled and his sons Attila and Bleda  became joint rulers of the united Hunnic tribes. He served as an important forerunner to Attila the Hun during the fifth century AD.</German>
+		<Italian>[H1]Ruga[\H1][NEWLINE][BOLD]Hunnic King[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.5th Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Rugila also referred to as Ruhas, Ruga and Rua, was a warlord who was a major factor in the Huns' early victories over the Roman Empire. Under his command, the Huns invaded Roman territory and, after threatening the capitol, managed to take tribute from the Roman emperor of the time. He also forced the Roman Empire to give up all the rogue Hunnish soldiers they had acquired over the years. This was a big event, because the Roman Empire had come to rely on all of their Hunnish soldiers. His most important act, though, was that he united the Huns under his sole kingship by 432. In 434, he was succeeded briefly by his brother Mundzuk, who was rumoured to have had Rugila killed. For this he was expelled and his sons Attila and Bleda  became joint rulers of the united Hunnic tribes. He served as an important forerunner to Attila the Hun during the fifth century AD.</Italian>
+		<Spanish>[H1]Ruga[\H1][NEWLINE][BOLD]Hunnic King[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.5th Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Rugila also referred to as Ruhas, Ruga and Rua, was a warlord who was a major factor in the Huns' early victories over the Roman Empire. Under his command, the Huns invaded Roman territory and, after threatening the capitol, managed to take tribute from the Roman emperor of the time. He also forced the Roman Empire to give up all the rogue Hunnish soldiers they had acquired over the years. This was a big event, because the Roman Empire had come to rely on all of their Hunnish soldiers. His most important act, though, was that he united the Huns under his sole kingship by 432. In 434, he was succeeded briefly by his brother Mundzuk, who was rumoured to have had Rugila killed. For this he was expelled and his sons Attila and Bleda  became joint rulers of the united Hunnic tribes. He served as an important forerunner to Attila the Hun during the fifth century AD.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_RUGA_1</Tag>
+		<English>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</English>
+		<French>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</French>
+		<German>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</German>
+		<Italian>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</Italian>
+		<Spanish>I am [OUR_NAME] of the [OUR_CIV_SHORT].  Disrespect the [OUR_CIV_SHORT], and you shall pay, both in gold and in blood.</Spanish>
+	</TEXT>
+</Civ4GameText>

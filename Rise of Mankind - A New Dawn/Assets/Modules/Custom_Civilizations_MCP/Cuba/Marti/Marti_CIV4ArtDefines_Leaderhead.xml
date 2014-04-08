@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Marti_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MARTI</Type>
+			<Button>art/Cuba/Marti/marti.dds</Button>
+			<NIF>art/Cuba/Marti/gandhi.nif</NIF>
+			<KFM>art/Cuba/Marti/gandhi.kfm</KFM>
+			<NoShaderNIF>art/Cuba/Marti/gandhi.nif</NoShaderNIF>
+			<BackgroundKFM>art/Cuba/Marti/gandhi_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

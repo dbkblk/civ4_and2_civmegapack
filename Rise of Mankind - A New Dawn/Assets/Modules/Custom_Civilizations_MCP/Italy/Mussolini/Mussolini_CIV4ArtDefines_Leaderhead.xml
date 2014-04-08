@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mussolini_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MUSSOLINI</Type>
+			<Button>art/Italy/Mussolini/Mussolini.dds</Button>
+			<NIF>art/Italy/Mussolini/Mussolini.nif</NIF>
+			<KFM>art/Italy/Mussolini/Mussolini.kfm</KFM>
+			<NoShaderNIF>art/Italy/Mussolini/Mussolini.nif</NoShaderNIF>
+			<BackgroundKFM>art/Italy/Mussolini/Mussolini_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

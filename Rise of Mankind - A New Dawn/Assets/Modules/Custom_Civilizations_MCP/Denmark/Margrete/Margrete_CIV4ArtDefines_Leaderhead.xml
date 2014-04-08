@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Margrete_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MARGRETE</Type>
+			<Button>art/Denmark/Margrete/Margrete.dds</Button>
+			<NIF>art/Denmark/Margrete/nocrwnizzy2.nif</NIF>
+			<KFM>art/Denmark/Margrete/isabella.kfm</KFM>
+			<NoShaderNIF>art/Denmark/Margrete/nocrwnizzy2.nif</NoShaderNIF>
+			<BackgroundKFM>art/Denmark/Margrete/Isabella_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

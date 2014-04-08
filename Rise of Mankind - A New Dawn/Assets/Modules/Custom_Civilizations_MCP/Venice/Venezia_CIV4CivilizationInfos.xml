@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jesse Smith (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4CivilizationInfos xmlns="x-schema:Venezia_CIV4CivilizationsSchema.xml">
+	<CivilizationInfos>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_VENEZIA</Type>
+			<Description>TXT_KEY_CIV_VENEZIA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_VENEZIA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_VENEZIA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_VENEZIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_VENICE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_VENEZIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPE</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Venice</City>
+				<City>Chioggia</City>
+				<City>Padova</City>
+				<City>Verona</City>
+				<City>Vicenza</City>
+				<City>Vigonovo</City>
+				<City>San Dona' di Piave</City>
+				<City>Mira</City>
+				<City>Soave</City>
+				<City>Mirano</City>
+				<City>Portogruaro</City>
+				<City>Spinea</City>
+				<City>Iesolo</City>
+				<City>Martellago</City>
+				<City>Scorze</City>
+				<City>Santa Maria di Sala</City>
+				<City>Cavarzere</City>
+				<City>Noale</City>
+				<City>Dolo</City>
+				<City>Treviso</City>
+				<City>Arcugnano</City>
+				<City>Marcon</City>
+				<City>Eraclea</City>
+				<City>Cavallino Treporti</City>
+				<City>Santo Stino di Livenza</City>
+				<City>Camponogara</City>
+				<City>Caorle</City>
+				<City>Salzano</City>
+				<City>San Michele al Tagliamento</City>
+				<City>Musile di Piave</City>
+				<City>Concordia Sagittaria</City>
+				<City>Lido</City>
+				<City>Cona</City>
+				<City>Stra</City>
+				<City>Quarto d'Altino</City>
+				<City>Pramaggiore</City>
+				<City>Teglio Veneto</City>
+				<City>Cinto Caomaggiore</City>
+				<City>Fosso</City>
+				<City>Fiesso d'Artico</City>
+				<City>Teglio Veneto</City>
+				<City>Gruaro</City>
+				<City>Pianiga</City>
+				<City>Campagna Lupia</City>
+				<City>Annone Veneto</City>
+				<City>Santo Stino di Livenza</City>
+				<City>Nova Venezia</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_BROTHEL</BuildingClassType>
+					<BuildingType>BUILDING_CORTEGIANE_ONESTE</BuildingType>
+ 				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_CARAVEL</UnitClassType>
+					<UnitType>UNIT_GALLEAS</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_FISHING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_WEAVING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_OLIGARCHY</CivicType>
+				<CivicType>CIVIC_TRIBAL</CivicType>
+				<CivicType>CIVIC_BARTER</CivicType>
+				<CivicType>CIVIC_FOLKLORE</CivicType>
+				<CivicType>CIVIC_SURVIVAL</CivicType>
+				<CivicType>CIVIC_NOTHING</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_ANDREA_GRITTI</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_ENRICO_DANDOLO</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_ROMAN</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ROMAN_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ROMAN_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+	</CivilizationInfos>
+</Civ4CivilizationInfos>

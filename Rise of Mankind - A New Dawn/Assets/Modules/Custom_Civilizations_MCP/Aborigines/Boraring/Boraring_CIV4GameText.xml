@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING</Tag>
+		<English>Bora Ring</English>
+		<French>Bora Ring</French>
+		<German>Bora Ring</German>
+		<Italian>Bora Ring</Italian>
+		<Spanish>Bora Ring</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING_PEDIA</Tag>
+		<English>[TAB]A bora ring is a cultural site important to Indigenous Australians. Bora rings are circles of foot-hardened earth surrounded by raised embankments. They were generally constructed in pairs (although some sites have three), with a bigger circle about 22 metres in diameter and a smaller one of about 14 metres. The rings are joined by a sacred walkway. The rings were used in ceremonies, particularly for initiation. They are named for the belt worn by initiated tribesmen.</English>
+		<French>[TAB]A bora ring is a cultural site important to Indigenous Australians. Bora rings are circles of foot-hardened earth surrounded by raised embankments. They were generally constructed in pairs (although some sites have three), with a bigger circle about 22 metres in diameter and a smaller one of about 14 metres. The rings are joined by a sacred walkway. The rings were used in ceremonies, particularly for initiation. They are named for the belt worn by initiated tribesmen.</French>
+		<German>[TAB]A bora ring is a cultural site important to Indigenous Australians. Bora rings are circles of foot-hardened earth surrounded by raised embankments. They were generally constructed in pairs (although some sites have three), with a bigger circle about 22 metres in diameter and a smaller one of about 14 metres. The rings are joined by a sacred walkway. The rings were used in ceremonies, particularly for initiation. They are named for the belt worn by initiated tribesmen.</German>
+		<Italian>[TAB]A bora ring is a cultural site important to Indigenous Australians. Bora rings are circles of foot-hardened earth surrounded by raised embankments. They were generally constructed in pairs (although some sites have three), with a bigger circle about 22 metres in diameter and a smaller one of about 14 metres. The rings are joined by a sacred walkway. The rings were used in ceremonies, particularly for initiation. They are named for the belt worn by initiated tribesmen.</Italian>
+		<Spanish>[TAB]A bora ring is a cultural site important to Indigenous Australians. Bora rings are circles of foot-hardened earth surrounded by raised embankments. They were generally constructed in pairs (although some sites have three), with a bigger circle about 22 metres in diameter and a smaller one of about 14 metres. The rings are joined by a sacred walkway. The rings were used in ceremonies, particularly for initiation. They are named for the belt worn by initiated tribesmen.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING_STRATEGY</Tag>
+		<English>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</English>
+		<French>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</French>
+		<German>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</German>
+		<Italian>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</Italian>
+		<Spanish>The Aborigines replace the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_YORUBA</Tag>
+		<English>Yoruba Horseman</English>
+		<French>Yoruba Horseman</French>
+		<German>Yoruba Horseman</German>
+		<Italian>Yoruba Horseman</Italian>
+		<Spanish>Yoruba Horseman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_YORUBA_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</English>
+		<French>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</French>
+		<German>Der [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (bei Benin Ersatz für den [COLOR_UNIT_TEXT]Ritter[COLOR_REVERT]) erhält zu Beginn zwei Beförderungen, nämlich Schock und Flanke I.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_YORUBA_PEDIA</Tag>
+		<English>The Yoruba had their own Art of War. As part of rituals, which the male Yoruba needed to become men, they were trained from their early childhood on to be specialists in disciplines like horseback riding, swimming and hunting.</English>
+		<French>The Yoruba had their own Art of War. As part of rituals, which the male Yoruba needed to become men, they were trained from their early childhood on to be specialists in disciplines like horseback riding, swimming and hunting.</French>
+		<German>Die Yoruba hatten seit jeher ihre eigenen Kampfkünste. Als Teil der Rituale, die die Männer der Yoruba zum Eintritt in die "Männlichkeit" benötigen, werden sie von frühauf darauf getrimmt in Disziplinen wie Reiten, Schwimmen und der Jagd Spezialisten zu sein.</German>
+		<Italian>The Yoruba had their own Art of War. As part of rituals, which the male Yoruba needed to become men, they were trained from their early childhood on to be specialists in disciplines like horseback riding, swimming and hunting.</Italian>
+		<Spanish>The Yoruba had their own Art of War. As part of rituals, which the male Yoruba needed to become men, they were trained from their early childhood on to be specialists in disciplines like horseback riding, swimming and hunting.</Spanish>
+	</TEXT>
+</Civ4GameText>	

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Color Vals -->
+<Civ4ColorVals xmlns="x-schema:Ireland_CIV4InterfaceSchema.xml">
+	<ColorVals>
+		<ColorVal>
+			<Type>COLOR_PLAYER_HUNTER_GREEN</Type>
+			<fRed>0.10</fRed>
+			<fGreen>0.53</fGreen>
+			<fBlue>0.24</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_HUNTER_GREEN_TEXT</Type>
+			<fRed>0.26</fRed>
+			<fGreen>0.63</fGreen>
+			<fBlue>0.40</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_METALLIC_GOLD</Type>
+			<fRed>0.85</fRed>
+			<fGreen>0.71</fGreen>
+			<fBlue>0.17</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+	</ColorVals>
+</Civ4ColorVals>

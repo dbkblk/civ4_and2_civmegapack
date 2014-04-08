@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Vlad_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_VLAD</Type>
+			<Button>art/Romania/Vlad/Vlad.dds</Button>
+			<NIF>art/Romania/Vlad/Justinian.nif</NIF>
+			<KFM>art/LeaderHeads/Justinian/Justinian.kfm</KFM>
+			<NoShaderNIF>art/Romania/Vlad/Justinian_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Romania/Vlad/Justinian_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

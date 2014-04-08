@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Andranik_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ANDRANIK</Type>
+			<Button>art/Armenia/Andranik/Andranik.dds</Button>
+			<NIF>art/Armenia/Andranik/josef_stalin.nif</NIF>
+			<KFM>art/Armenia/Andranik/josef_stalin.kfm</KFM>
+			<NoShaderNIF>art/Armenia/Andranik/josef_stalin_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Armenia/Andranik/josef_stalin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

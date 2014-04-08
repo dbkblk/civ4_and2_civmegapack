@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4CivilizationInfos xmlns="x-schema:Champa_CIV4CivilizationsSchema.xml">
+	<CivilizationInfos>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_CHAMPA</Type>
+			<Description>TXT_KEY_CIV_CHAMPA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_CHAMPA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_CHAMPA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_CHAMPA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_CHAMPA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_CHAMPA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_ASIAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>My Son</City>
+				<City>Vijaya</City>
+				<City>Indrapura</City>
+				<City>Amaravati</City>
+				<City>Kauthara</City>
+				<City>Panduranga</City>
+				<City>Hue</City>
+				<City>Po Nagar</City>
+				<City>Po Klaung</City>
+				<City>Lam Ap Pho</City>
+				<City>Duong Long</City>
+				<City>Khuong My</City>
+				<City>Pho Hai</City>
+				<City>Thap Mam</City>
+				<City>Tra Kieu</City>
+				<City>Chien Dan</City>
+				<City>Thu Tien</City>
+				<City>Canh Tien</City>
+				<City>Phu Loc</City>
+				<City>Banh It</City>
+				<City>Binh Lam</City>
+				<City>Nhan Thap</City>
+				<City>Po Rome</City>
+				<City>Hoi La</City>
+				<City>Po Sanu</City>
+
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+					<BuildingType>BUILDING_CHAM_MENARA</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_WAR_ELEPHANT</UnitClassType>
+					<UnitType>UNIT_CHAM_SPEAR_ELEPHANT</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_AGRICULTURE</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_HUNTING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_OLIGARCHY</CivicType>
+				<CivicType>CIVIC_TRIBAL</CivicType>
+				<CivicType>CIVIC_BARTER</CivicType>
+				<CivicType>CIVIC_FOLKLORE</CivicType>
+				<CivicType>CIVIC_SURVIVAL</CivicType>
+				<CivicType>CIVIC_NOTHING</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_BHADRAVARMAN</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_CHE_BONG_NGA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_KHMER</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_KHMER_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_KHMER_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+	</CivilizationInfos>
+</Civ4CivilizationInfos>

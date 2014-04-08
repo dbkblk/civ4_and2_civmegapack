@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Yunupingu_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_YUNUPINGU</Type>
+			<Button>art/Aborigines/Yunupingu/yunupingu.dds</Button>
+			<NIF>art/Aborigines/Yunupingu/Gandhi.nif</NIF>
+			<KFM>art/Aborigines/Yunupingu/Gandhi.kfm</KFM>
+			<NoShaderNIF>art/Aborigines/Yunupingu/Gandhi_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Aborigines/Yunupingu/Gandhi_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

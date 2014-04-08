@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- re-Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kamehameha_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KAMEHAMEHA</Type>
+			<Button>art/Polynesia/Kamehameha/btn_kamehameha.dds</Button>
+			<NIF>art/Polynesia/Kamehameha/King_English.nif</NIF>
+			<KFM>art/Polynesia/Kamehameha/King_English.kfm</KFM>
+			<NoShaderNIF>art/Polynesia/Kamehameha/King_English.nif</NoShaderNIF>
+			<BackgroundKFM>art/Polynesia/Kamehameha/winston_churchill_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

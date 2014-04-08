@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kruger_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KRUGER</Type>
+			<Button>art/SouthAfrica/Kruger/Kruger.dds</Button>
+			<NIF>art/SouthAfrica/Kruger/Kruger.nif</NIF>
+			<KFM>art/SouthAfrica/Kruger/winston_churchill.kfm</KFM>
+			<NoShaderNIF>art/SouthAfrica/Kruger/Kruger.nif</NoShaderNIF>
+			<BackgroundKFM>art/SouthAfrica/Kruger/Kruger_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

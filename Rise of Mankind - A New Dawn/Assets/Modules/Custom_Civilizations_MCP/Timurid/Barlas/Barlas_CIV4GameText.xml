@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TIMURID_BARLAS</Tag>
+		<English>Barlas Rider</English>
+		<French>Barlas Rider</French>
+		<German>Barlas Rider</German>
+		<Italian>Barlas Rider</Italian>
+		<Spanish>Barlas Rider</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TIMURID_BARLAS_PEDIA</Tag>
+		<English>[TAB]The Barlas were a Turko-Mongol nomadic confederation of Central Asia and the chief tribe of the Timurid emperors who ruled much of Central Asia, Iran, and South Asia in the Middle Ages. The Barlas were descendants of the Mongol warlord Bodonchir who was also considered the direct ancestor of Genghis Khan. The Turko-Mongol conqueror Timur was from a noble family of the Barlas clan.[PARAGRAPH:1]The Mughal Empire of South Asia was founded by Zahir ud-din Muhammad Babur, a descendent of the Timurids. The Barlas family name is used by the descendents of Mughals in Pakistan.</English>
+		<French>[TAB]The Barlas were a Turko-Mongol nomadic confederation of Central Asia and the chief tribe of the Timurid emperors who ruled much of Central Asia, Iran, and South Asia in the Middle Ages. The Barlas were descendants of the Mongol warlord Bodonchir who was also considered the direct ancestor of Genghis Khan. The Turko-Mongol conqueror Timur was from a noble family of the Barlas clan.[PARAGRAPH:1]The Mughal Empire of South Asia was founded by Zahir ud-din Muhammad Babur, a descendent of the Timurids. The Barlas family name is used by the descendents of Mughals in Pakistan.</French>
+		<German>[TAB]The Barlas were a Turko-Mongol nomadic confederation of Central Asia and the chief tribe of the Timurid emperors who ruled much of Central Asia, Iran, and South Asia in the Middle Ages. The Barlas were descendants of the Mongol warlord Bodonchir who was also considered the direct ancestor of Genghis Khan. The Turko-Mongol conqueror Timur was from a noble family of the Barlas clan.[PARAGRAPH:1]The Mughal Empire of South Asia was founded by Zahir ud-din Muhammad Babur, a descendent of the Timurids. The Barlas family name is used by the descendents of Mughals in Pakistan.</German>
+		<Italian>[TAB]The Barlas were a Turko-Mongol nomadic confederation of Central Asia and the chief tribe of the Timurid emperors who ruled much of Central Asia, Iran, and South Asia in the Middle Ages. The Barlas were descendants of the Mongol warlord Bodonchir who was also considered the direct ancestor of Genghis Khan. The Turko-Mongol conqueror Timur was from a noble family of the Barlas clan.[PARAGRAPH:1]The Mughal Empire of South Asia was founded by Zahir ud-din Muhammad Babur, a descendent of the Timurids. The Barlas family name is used by the descendents of Mughals in Pakistan.</Italian>
+		<Spanish>[TAB]The Barlas were a Turko-Mongol nomadic confederation of Central Asia and the chief tribe of the Timurid emperors who ruled much of Central Asia, Iran, and South Asia in the Middle Ages. The Barlas were descendants of the Mongol warlord Bodonchir who was also considered the direct ancestor of Genghis Khan. The Turko-Mongol conqueror Timur was from a noble family of the Barlas clan.[PARAGRAPH:1]The Mughal Empire of South Asia was founded by Zahir ud-din Muhammad Babur, a descendent of the Timurids. The Barlas family name is used by the descendents of Mughals in Pakistan.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TIMURID_BARLAS_STRATEGY</Tag>
+		<English>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</English>
+		<French>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</French>
+		<German>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</German>
+		<Italian>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</Italian>
+		<Spanish>The Timurid replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] gets a bonus in hill terrain.</Spanish>
+	</TEXT>
+</Civ4GameText>

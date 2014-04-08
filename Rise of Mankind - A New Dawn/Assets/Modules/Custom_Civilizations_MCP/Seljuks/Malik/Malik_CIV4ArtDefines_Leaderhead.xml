@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Malik_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MALIK</Type>
+			<Button>Modules/Custom_Civilizations_MCP/Seljuks/Malik/malik.dds</Button>
+			<NIF>art/Seljuks/Malik/Selim.nif</NIF>
+			<KFM>art/Seljuks/Malik/Suleiman.kfm</KFM>
+			<NoShaderNIF>art/Seljuks/Malik/Selim.nif</NoShaderNIF>
+			<BackgroundKFM>art/Seljuks/Malik/Suleiman_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

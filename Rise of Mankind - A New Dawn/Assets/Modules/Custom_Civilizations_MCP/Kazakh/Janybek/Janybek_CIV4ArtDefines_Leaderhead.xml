@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Janybek_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_JANYBEK</Type>
+			<Button>art/Kazakh/Janybek/Janybek.dds</Button>
+			<NIF>art/Kazakh/Janybek/saladin.nif</NIF>
+			<KFM>art/Kazakh/Janybek/saladin.kfm</KFM>
+			<NoShaderNIF>art/Kazakh/Janybek/saladin_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Kazakh/Janybek/IbnSaud_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

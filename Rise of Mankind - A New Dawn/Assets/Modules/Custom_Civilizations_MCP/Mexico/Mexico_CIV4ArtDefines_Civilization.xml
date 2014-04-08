@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mexico_CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MEXICO</Type>
+			<Button>art/Mexico/Mexico.dds</Button>
+			<Path>art/Mexico/FlagDECAL_Mexico.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+	</CivilizationArtInfos>
+</Civ4ArtDefines>

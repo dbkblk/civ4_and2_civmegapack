@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kossuth_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KOSSUTH</Type>
+			<Button>art/Hungary/Kossuth/Btn_LH_Kossuth.dds</Button>
+			<NIF>art/Hungary/Kossuth/Kossuth.nif</NIF>
+			<KFM>art/Hungary/Kossuth/Kossuth.kfm</KFM>
+			<NoShaderNIF>art/Hungary/Kossuth/Kossuth.nif</NoShaderNIF>
+			<BackgroundKFM>art/Hungary/Kossuth/Kossuth_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+        <TEXT>
+		<Tag>TXT_KEY_UNIT_SELJUK_GHULAM_WARRIOR</Tag>
+		<English>Ghulam Warrior</English>
+		<French>Ghulam Warrior</French>
+		<German>Ghulam Warrior</German>
+		<Italian>Ghulam Warrior</Italian>
+		<Spanish>Ghulam Warrior</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SELJUK_GHULAM_WARRIOR_STRATEGY</Tag>
+		<English>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</English>
+		<French>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</French>
+		<German>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</German>
+		<Italian>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</Italian>
+		<Spanish>Although a little more expensive, this Seljuk replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] unit has increased strength and is great in deserts.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SELJUK_GHULAM_WARRIOR_PEDIA</Tag>
+		<English>[TAB]The Ghulam warriors were slave-soldiers in service of kings and generals throughout the Turkish and Persian Empires of the Medieval and Early Modern eras. Since the break-up of the Abbasid Caliphate, the Ghulam were grouped into whole armies. They were usually Turkic in origin and fought as cavalrymen. The Ghulam seem to have lived celibate lives. The absence of family life and offspring was one of the reasons why Ghulam, even when attaining power, generally failed to start dynasties or proclaim their independence. The only exception to this was the Ghaznavid dynasty of Afghanistan, which originated amongst the Ghulam of the Samanid dynasty.</English>
+		<French>[TAB]The Ghulam warriors were slave-soldiers in service of kings and generals throughout the Turkish and Persian Empires of the Medieval and Early Modern eras. Since the break-up of the Abbasid Caliphate, the Ghulam were grouped into whole armies. They were usually Turkic in origin and fought as cavalrymen. The Ghulam seem to have lived celibate lives. The absence of family life and offspring was one of the reasons why Ghulam, even when attaining power, generally failed to start dynasties or proclaim their independence. The only exception to this was the Ghaznavid dynasty of Afghanistan, which originated amongst the Ghulam of the Samanid dynasty.</French>
+		<German>[TAB]The Ghulam warriors were slave-soldiers in service of kings and generals throughout the Turkish and Persian Empires of the Medieval and Early Modern eras. Since the break-up of the Abbasid Caliphate, the Ghulam were grouped into whole armies. They were usually Turkic in origin and fought as cavalrymen. The Ghulam seem to have lived celibate lives. The absence of family life and offspring was one of the reasons why Ghulam, even when attaining power, generally failed to start dynasties or proclaim their independence. The only exception to this was the Ghaznavid dynasty of Afghanistan, which originated amongst the Ghulam of the Samanid dynasty.</German>
+		<Italian>[TAB]The Ghulam warriors were slave-soldiers in service of kings and generals throughout the Turkish and Persian Empires of the Medieval and Early Modern eras. Since the break-up of the Abbasid Caliphate, the Ghulam were grouped into whole armies. They were usually Turkic in origin and fought as cavalrymen. The Ghulam seem to have lived celibate lives. The absence of family life and offspring was one of the reasons why Ghulam, even when attaining power, generally failed to start dynasties or proclaim their independence. The only exception to this was the Ghaznavid dynasty of Afghanistan, which originated amongst the Ghulam of the Samanid dynasty.</Italian>
+		<Spanish>[TAB]The Ghulam warriors were slave-soldiers in service of kings and generals throughout the Turkish and Persian Empires of the Medieval and Early Modern eras. Since the break-up of the Abbasid Caliphate, the Ghulam were grouped into whole armies. They were usually Turkic in origin and fought as cavalrymen. The Ghulam seem to have lived celibate lives. The absence of family life and offspring was one of the reasons why Ghulam, even when attaining power, generally failed to start dynasties or proclaim their independence. The only exception to this was the Ghaznavid dynasty of Afghanistan, which originated amongst the Ghulam of the Samanid dynasty.</Spanish>
+	</TEXT>
+</Civ4GameText>

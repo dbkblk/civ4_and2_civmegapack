@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ColorVals xmlns="x-schema:Venezia_CIV4InterfaceSchema.xml">
+	<ColorVals>
+		<ColorVal>
+			<Type>COLOR_V_RED</Type>
+			<fRed>0.78</fRed>
+			<fGreen>0.03</fGreen>
+			<fBlue>0.08</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_V_GOLD</Type>
+			<fRed>0.83</fRed>
+			<fGreen>0.68</fGreen>
+			<fBlue>0.21</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+	</ColorVals>
+</Civ4ColorVals>

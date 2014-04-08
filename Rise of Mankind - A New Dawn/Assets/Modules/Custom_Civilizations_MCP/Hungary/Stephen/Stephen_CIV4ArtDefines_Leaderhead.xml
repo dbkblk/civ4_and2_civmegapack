@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Stephen_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_STEPHEN</Type>
+			<Button>art/Hungary/Stephen/Stephen.dds</Button>
+			<NIF>art/Hungary/Stephen/Cyrus.nif</NIF>
+			<KFM>art/LeaderHeads/Cyrus/Cyrus.kfm</KFM>
+			<NoShaderNIF>art/Hungary/Stephen/Cyrus_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Hungary/Stephen/Willem van Oranje_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

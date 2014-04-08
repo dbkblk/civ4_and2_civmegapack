@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kitra_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KITRA</Type>
+			<Button>art/Hurrians/Kitra/Solomon.dds</Button>
+			<NIF>art/Hurrians/Kitra/asoka.nif</NIF>
+			<KFM>art/Hurrians/Kitra/asoka.kfm</KFM>
+			<NoShaderNIF>art/Hurrians/Kitra/asoka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Hurrians/Kitra/asoka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

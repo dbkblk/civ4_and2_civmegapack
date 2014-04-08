@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANDELA</Tag>
+		<English>Mandela</English>
+		<French>
+			<Text>Mandela</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mandela</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandela</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandela</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANDELA_PEDIA</Tag>
+		<English>[H1]Nelson Mandela[\H1][NEWLINE][BOLD]11th President of South Africa[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1918 - 2013[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Nelson Rolihlahla Mandela is a former President of South Africa, the first to be elected in fully representative democratic elections. Before his presidency, Mandela was an anti-apartheid activist and leader of the African National Congress and its armed wing Umkhonto we Sizwe. He spent 27 years in prison, much of it in a cell on Robben Island, on convictions for crimes that included sabotage committed while he spearheaded the struggle against apartheid.[PARAGRAPH:1]Among opponents of apartheid in South Africa and internationally, he became a symbol of freedom and equality, while the apartheid government and nations sympathetic to it condemned him and the ANC as communists and terrorists.[PARAGRAPH:1]Following his release from prison in 1990, his switch to a policy of reconciliation and negotiation helped lead the transition to multi-racial democracy in South Africa. Since the end of apartheid, he has been widely praised, even by former opponents.[PARAGRAPH:1]Mandela has received more than one hundred awards over four decades, most notably the Nobel Peace Prize in 1993. He is currently a celebrated elder statesman who continues to voice his opinion on topical issues. In South Africa he is often known as Madiba, an honorary title adopted by elders of Mandela's clan. The title has come to be synonymous with Nelson Mandela.</English>
+		<French>[H1]Nelson Mandela[\H1][NEWLINE][BOLD]11th President of South Africa[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1918 - 2013[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Nelson Rolihlahla Mandela is a former President of South Africa, the first to be elected in fully representative democratic elections. Before his presidency, Mandela was an anti-apartheid activist and leader of the African National Congress and its armed wing Umkhonto we Sizwe. He spent 27 years in prison, much of it in a cell on Robben Island, on convictions for crimes that included sabotage committed while he spearheaded the struggle against apartheid.[PARAGRAPH:1]Among opponents of apartheid in South Africa and internationally, he became a symbol of freedom and equality, while the apartheid government and nations sympathetic to it condemned him and the ANC as communists and terrorists.[PARAGRAPH:1]Following his release from prison in 1990, his switch to a policy of reconciliation and negotiation helped lead the transition to multi-racial democracy in South Africa. Since the end of apartheid, he has been widely praised, even by former opponents.[PARAGRAPH:1]Mandela has received more than one hundred awards over four decades, most notably the Nobel Peace Prize in 1993. He is currently a celebrated elder statesman who continues to voice his opinion on topical issues. In South Africa he is often known as Madiba, an honorary title adopted by elders of Mandela's clan. The title has come to be synonymous with Nelson Mandela.</French>
+		<German>[H1]Nelson Mandela[\H1][NEWLINE][BOLD]11th President of South Africa[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1918 - 2013[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Nelson Rolihlahla Mandela is a former President of South Africa, the first to be elected in fully representative democratic elections. Before his presidency, Mandela was an anti-apartheid activist and leader of the African National Congress and its armed wing Umkhonto we Sizwe. He spent 27 years in prison, much of it in a cell on Robben Island, on convictions for crimes that included sabotage committed while he spearheaded the struggle against apartheid.[PARAGRAPH:1]Among opponents of apartheid in South Africa and internationally, he became a symbol of freedom and equality, while the apartheid government and nations sympathetic to it condemned him and the ANC as communists and terrorists.[PARAGRAPH:1]Following his release from prison in 1990, his switch to a policy of reconciliation and negotiation helped lead the transition to multi-racial democracy in South Africa. Since the end of apartheid, he has been widely praised, even by former opponents.[PARAGRAPH:1]Mandela has received more than one hundred awards over four decades, most notably the Nobel Peace Prize in 1993. He is currently a celebrated elder statesman who continues to voice his opinion on topical issues. In South Africa he is often known as Madiba, an honorary title adopted by elders of Mandela's clan. The title has come to be synonymous with Nelson Mandela.</German>
+		<Italian>[H1]Nelson Mandela[\H1][NEWLINE][BOLD]11th President of South Africa[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1918 - 2013[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Nelson Rolihlahla Mandela is a former President of South Africa, the first to be elected in fully representative democratic elections. Before his presidency, Mandela was an anti-apartheid activist and leader of the African National Congress and its armed wing Umkhonto we Sizwe. He spent 27 years in prison, much of it in a cell on Robben Island, on convictions for crimes that included sabotage committed while he spearheaded the struggle against apartheid.[PARAGRAPH:1]Among opponents of apartheid in South Africa and internationally, he became a symbol of freedom and equality, while the apartheid government and nations sympathetic to it condemned him and the ANC as communists and terrorists.[PARAGRAPH:1]Following his release from prison in 1990, his switch to a policy of reconciliation and negotiation helped lead the transition to multi-racial democracy in South Africa. Since the end of apartheid, he has been widely praised, even by former opponents.[PARAGRAPH:1]Mandela has received more than one hundred awards over four decades, most notably the Nobel Peace Prize in 1993. He is currently a celebrated elder statesman who continues to voice his opinion on topical issues. In South Africa he is often known as Madiba, an honorary title adopted by elders of Mandela's clan. The title has come to be synonymous with Nelson Mandela.</Italian>
+		<Spanish>[H1]Nelson Mandela[\H1][NEWLINE][BOLD]11th President of South Africa[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1918 - 2013[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Nelson Rolihlahla Mandela is a former President of South Africa, the first to be elected in fully representative democratic elections. Before his presidency, Mandela was an anti-apartheid activist and leader of the African National Congress and its armed wing Umkhonto we Sizwe. He spent 27 years in prison, much of it in a cell on Robben Island, on convictions for crimes that included sabotage committed while he spearheaded the struggle against apartheid.[PARAGRAPH:1]Among opponents of apartheid in South Africa and internationally, he became a symbol of freedom and equality, while the apartheid government and nations sympathetic to it condemned him and the ANC as communists and terrorists.[PARAGRAPH:1]Following his release from prison in 1990, his switch to a policy of reconciliation and negotiation helped lead the transition to multi-racial democracy in South Africa. Since the end of apartheid, he has been widely praised, even by former opponents.[PARAGRAPH:1]Mandela has received more than one hundred awards over four decades, most notably the Nobel Peace Prize in 1993. He is currently a celebrated elder statesman who continues to voice his opinion on topical issues. In South Africa he is often known as Madiba, an honorary title adopted by elders of Mandela's clan. The title has come to be synonymous with Nelson Mandela.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MANDELA_1</Tag>
+		<English>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. In my country we go to prison first and then become President.</English>
+		<French>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. In my country we go to prison first and then become President.</French>
+		<German>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. In my country we go to prison first and then become President.</German>
+		<Italian>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. In my country we go to prison first and then become President.</Italian>
+		<Spanish>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. In my country we go to prison first and then become President.</Spanish>
+	</TEXT>
+</Civ4GameText>

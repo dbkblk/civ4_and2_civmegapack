@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Narbona_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NARBONA</Type>
+			<Button>art/Dinnehih/Narbona/Narbona.dds</Button>
+			<NIF>art/Dinnehih/Narbona/sitting bull.nif</NIF>
+			<KFM>art/Dinnehih/Narbona/sitting bull.kfm</KFM>
+			<NoShaderNIF>art/Dinnehih/Narbona/sitting_bull_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Dinnehih/Narbona/sitting bull_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

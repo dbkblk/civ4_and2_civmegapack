@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Leopold_I_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+            <Type>ART_DEF_LEADER_LEOPOLD_I</Type>
+			<Button>art/Belgium/Leopold_I/Leopold_Btn.dds</Button>
+			<NIF>art/Belgium/Leopold_I/Bolivar.nif</NIF>
+			<KFM>art/Belgium/Leopold_I/Bolivar.kfm</KFM>
+			<NoShaderNIF>art/Belgium/Leopold_I/Bolivar.nif</NoShaderNIF>
+			<BackgroundKFM>art/Belgium/Leopold_I/Bolivar_BG.kfm</BackgroundKFM>
+          </LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

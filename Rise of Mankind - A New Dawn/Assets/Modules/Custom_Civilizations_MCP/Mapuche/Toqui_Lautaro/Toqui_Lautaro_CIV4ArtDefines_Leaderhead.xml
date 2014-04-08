@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Toqui_Lautaro_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TOQUI_LAUTARO</Type>
+			<Button>art/Mapuche/Toqui_Lautaro/Toqui_Lautaro.dds</Button>
+			<NIF>art/Mapuche/Toqui_Lautaro/asoka.nif</NIF>
+			<KFM>art/Mapuche/Toqui_Lautaro/asoka.kfm</KFM>
+			<NoShaderNIF>art/Mapuche/Toqui_Lautaro/asoka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mapuche/Toqui_Lautaro/IbnSaud_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

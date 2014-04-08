@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Hector_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HECTOR</Type>
+			<Button>art/Troy/Hector/Hector.dds</Button>
+			<NIF>art/Troy/Hector/ALEXANDER.NIF</NIF>
+			<KFM>art/Troy/Hector/alexander.kfm</KFM>
+			<NoShaderNIF>art/Troy/Hector/alexander_noshader.NIF</NoShaderNIF>
+			<BackgroundKFM>art/Troy/Hector/alexander_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

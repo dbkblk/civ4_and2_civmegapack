@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BRAZIL_PRACINHA</Tag>
+		<English>Pracinha</English>
+		<French>Pracinha</French>
+		<German>Pracinha</German>
+		<Italian>Pracinha</Italian>
+		<Spanish>Pracinha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BRAZIL_PRACINHA_PEDIA</Tag>
+		<English>[TAB]It is the main unit that fought against the Brazilian Federation in the Revolution of 32, when the state of Sao Paulo has separated of the rest of the nation and lately was the main Brazilian unit in the World War II. This revolution occurred in 1932, when the Paulistas has not accepted the new rules for the states of the dictator Getúlio Vargas and for 3 months São Paulo was an independent nation. The Revolution was over after bombards of aircrafts and cannons and when the state didn't receive necessary help of allied states.</English>
+		<French>[TAB]It is the main unit that fought against the Brazilian Federation in the Revolution of 32, when the state of Sao Paulo has separated of the rest of the nation and lately was the main Brazilian unit in the World War II. This revolution occurred in 1932, when the Paulistas has not accepted the new rules for the states of the dictator Getúlio Vargas and for 3 months São Paulo was an independent nation. The Revolution was over after bombards of aircrafts and cannons and when the state didn't receive necessary help of allied states.</French>
+		<German>[TAB]It is the main unit that fought against the Brazilian Federation in the Revolution of 32, when the state of Sao Paulo has separated of the rest of the nation and lately was the main Brazilian unit in the World War II. This revolution occurred in 1932, when the Paulistas has not accepted the new rules for the states of the dictator Getúlio Vargas and for 3 months São Paulo was an independent nation. The Revolution was over after bombards of aircrafts and cannons and when the state didn't receive necessary help of allied states.</German>
+		<Italian>[TAB]It is the main unit that fought against the Brazilian Federation in the Revolution of 32, when the state of Sao Paulo has separated of the rest of the nation and lately was the main Brazilian unit in the World War II. This revolution occurred in 1932, when the Paulistas has not accepted the new rules for the states of the dictator Getúlio Vargas and for 3 months São Paulo was an independent nation. The Revolution was over after bombards of aircrafts and cannons and when the state didn't receive necessary help of allied states.</Italian>
+		<Spanish>[TAB]It is the main unit that fought against the Brazilian Federation in the Revolution of 32, when the state of Sao Paulo has separated of the rest of the nation and lately was the main Brazilian unit in the World War II. This revolution occurred in 1932, when the Paulistas has not accepted the new rules for the states of the dictator Getúlio Vargas and for 3 months São Paulo was an independent nation. The Revolution was over after bombards of aircrafts and cannons and when the state didn't receive necessary help of allied states.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BRAZIL_PRACINHA_STRATEGY</Tag>
+		<English>The Brazilian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is slightly more powerful and less expensive to produce.</English>
+		<French>The Brazilian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is slightly more powerful and less expensive to produce.</French>
+		<German>The Brazilian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is slightly more powerful and less expensive to produce.</German>
+		<Italian>The Brazilian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is slightly more powerful and less expensive to produce.</Italian>
+		<Spanish>The Brazilian replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is slightly more powerful and less expensive to produce.</Spanish>
+	</TEXT>
+</Civ4GameText>	

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ewuare_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_EWUARE</Type>
+			<Button>art/Benin/Ewuare/Ewuare.dds</Button>
+			<NIF>art/Benin/Ewuare/shaka.nif</NIF>
+			<KFM>art/Benin/Ewuare/shaka.kfm</KFM>
+			<NoShaderNIF>art/Benin/Ewuare/shaka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Benin/Ewuare/shaka_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

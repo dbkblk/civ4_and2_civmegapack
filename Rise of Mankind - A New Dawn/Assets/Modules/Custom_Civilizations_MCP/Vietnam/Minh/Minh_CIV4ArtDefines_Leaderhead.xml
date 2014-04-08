@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Minh_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HO_CHI_MINH</Type>
+			<Button>art/Vietnam/Minh/HoChi_Button.dds</Button>
+			<NIF>art/Vietnam/Minh/HoChiMinh.nif</NIF>
+			<KFM>art/Vietnam/Minh/genghis_khan.kfm</KFM>
+			<NoShaderNIF>art/Vietnam/Minh/HoChiMinh_Nonshader_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Vietnam/Minh/genghis_khan_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Yahya_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NUWAS</Type>
+			<Button>art/Yemen/Nuwas/Yahya.dds</Button>
+			<NIF>art/Yemen/Nuwas/kublai_khan.nif</NIF>
+			<KFM>art/Yemen/Nuwas/kublai_khan.kfm</KFM>
+			<NoShaderNIF>art/Yemen/Nuwas/kublai_khan_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Yemen/Nuwas/kublai_khan_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

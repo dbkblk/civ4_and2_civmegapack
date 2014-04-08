@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Toghrul_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TOGHRUL</Type>
+			<Button>art/Seljuks/Toghrul/Shaybani.dds</Button>
+			<NIF>art/Seljuks/Toghrul/tokugawa.nif</NIF>
+			<KFM>art/Seljuks/Toghrul/tokugawa.kfm</KFM>
+			<NoShaderNIF>art/Seljuks/Toghrul/tokugawa.nif</NoShaderNIF>
+			<BackgroundKFM>art/Seljuks/Toghrul/tokugawa_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

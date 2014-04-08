@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:SouthAfrica_CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SOUTH_AFRICA</Type>
+			<Button>art/SouthAfrica/SouthAfrica.dds</Button>
+			<Path>art/SouthAfrica/FlagDECAL_SouthAfrica.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ZULU</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Spain.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,6,1</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_ZuluShield.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+	</CivilizationArtInfos>
+</Civ4ArtDefines>

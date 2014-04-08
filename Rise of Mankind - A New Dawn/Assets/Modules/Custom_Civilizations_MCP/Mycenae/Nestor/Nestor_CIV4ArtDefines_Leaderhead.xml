@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Nestor_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NESTOR</Type>
+			<Button>art/Mycenae/Nestor/nestorbut.dds</Button>
+			<NIF>art/Mycenae/Nestor/hannibal.nif</NIF>
+			<KFM>art/Mycenae/Nestor/hannibal.kfm</KFM>
+			<NoShaderNIF>art/Mycenae/Nestor/hannibal_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mycenae/Nestor/hannibal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

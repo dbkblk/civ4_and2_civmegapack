@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Created with Dreamweaver CS3 by DWOLF -->
+<!-- Sid Meier's Civilization IV Beyond The Sword -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Colombia_CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_COLOMBIA</Type>
+			<Button>art/Colombia/GranColombiaButton.dds</Button>
+			<Path>art/Colombia/FlagDECAL_colombia.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+	</CivilizationArtInfos>
+</Civ4ArtDefines>

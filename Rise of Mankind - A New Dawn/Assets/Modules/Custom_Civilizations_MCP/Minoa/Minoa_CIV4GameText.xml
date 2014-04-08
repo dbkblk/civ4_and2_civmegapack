@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- ############# Civilization ############# -->
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MINOA</Tag>
+		<English>Minoan Empire</English>
+		<French>Minoan Empire</French>
+		<German>Minoan Empire</German>
+		<Italian>Minoan Empire</Italian>
+		<Spanish>Minoan Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SHORT_MINOA</Tag>
+		<English>Minoa</English>
+		<French>Minoa</French>
+		<German>Minoa</German>
+		<Italian>Minoa</Italian>
+		<Spanish>Minoa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ADJECTIVE_MINOA</Tag>
+		<English>Minoan</English>
+		<French>Minoan</French>
+		<German>Minoan</German>
+		<Italian>Minoan</Italian>
+		<Spanish>Minoan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MINOA_PEDIA</Tag>
+		<English>[BOLD]Strategy:[\BOLD][PARAGRAPH:1] The Minoan civilization is a financial mastermind with Minos' "Financial" and "Organized" traits which makes the word 'poor' a thing of the past. Used well together with the trade route and culture bonus from their [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] UB and you will indeed be the richest civ on the map. Include the [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] UU, a [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] replacement available earlier and which can be recruited trough copper as well as iron, and there you got the number 1 civ for every map.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]The Minoan civilization, named after the legendary King Minos, was a Bronze-Age civilization that flourished on the island of Crete from approximately 2200 to 1450 BC when it gave way to the Mycenean civilization. Previously thought to exist only in Greek myths, the Minoans were discovered in 1900 by Sir Arthur Evans, a British archaeologist who was searching for King Minos' tomb at the site of Knossos on Crete. They used "Linear A" script to keep administrative records on tablets, but the ancient language remains large untranslated by historians.[PARAGRAPH:1:2]The Minoans are most closely associated with the myth of Theseus, the Minotaur, and the labyrinth. They are also well known for their maze-like palaces, which first appeared around 2000 BC. These unfortified palaces had a large open courtyard called the central court, and they may have been used as political, administrative, and/or economic centers based around storage and redistribution of agricultural goods. The four major Minoan palaces were Knossos, Phaistos, Zakro, and Mallia.[PARAGRAPH:1:2]Minoan art, architecture, and other forms of cultural expression show similarities to the civilizations of the Near East and Egypt. In particular, Minoans seem to have had a love of nature. Birds, cats, marine life, flowers, plants, and especially bulls are common images in frescos and on pottery. Women are also very popular in works of Minoan art and their pale skin distinguishes them from men, who were represented with darker skin tones.[PARAGRAPH:1:2]The Minoans are regarded as a peaceful, seafaring people who relied on overseas trade throughout the Mediterranean. Hence, the decline and eventual demise of the Minoan civilization still remains a mystery to archaeologists and historians. Common theories include a massive volcanic eruption on the island of Thera or Mycenaean conquest of Crete.[PARAGRAPH:1:2](Ancient History Encyclopedia:Minoan)</English>
+		<French>[BOLD]Strategy:[\BOLD][PARAGRAPH:1] The Minoan civilization is a financial mastermind with Minos' "Financial" and "Organized" traits which makes the word 'poor' a thing of the past. Used well together with the trade route and culture bonus from their [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] UB and you will indeed be the richest civ on the map. Include the [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] UU, a [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] replacement available earlier and which can be recruited trough copper as well as iron, and there you got the number 1 civ for every map.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]The Minoan civilization, named after the legendary King Minos, was a Bronze-Age civilization that flourished on the island of Crete from approximately 2200 to 1450 BC when it gave way to the Mycenean civilization. Previously thought to exist only in Greek myths, the Minoans were discovered in 1900 by Sir Arthur Evans, a British archaeologist who was searching for King Minos' tomb at the site of Knossos on Crete. They used "Linear A" script to keep administrative records on tablets, but the ancient language remains large untranslated by historians.[PARAGRAPH:1:2]The Minoans are most closely associated with the myth of Theseus, the Minotaur, and the labyrinth. They are also well known for their maze-like palaces, which first appeared around 2000 BC. These unfortified palaces had a large open courtyard called the central court, and they may have been used as political, administrative, and/or economic centers based around storage and redistribution of agricultural goods. The four major Minoan palaces were Knossos, Phaistos, Zakro, and Mallia.[PARAGRAPH:1:2]Minoan art, architecture, and other forms of cultural expression show similarities to the civilizations of the Near East and Egypt. In particular, Minoans seem to have had a love of nature. Birds, cats, marine life, flowers, plants, and especially bulls are common images in frescos and on pottery. Women are also very popular in works of Minoan art and their pale skin distinguishes them from men, who were represented with darker skin tones.[PARAGRAPH:1:2]The Minoans are regarded as a peaceful, seafaring people who relied on overseas trade throughout the Mediterranean. Hence, the decline and eventual demise of the Minoan civilization still remains a mystery to archaeologists and historians. Common theories include a massive volcanic eruption on the island of Thera or Mycenaean conquest of Crete.[PARAGRAPH:1:2](Ancient History Encyclopedia:Minoan)</French>
+		<German>[BOLD]Strategy:[\BOLD][PARAGRAPH:1] The Minoan civilization is a financial mastermind with Minos' "Financial" and "Organized" traits which makes the word 'poor' a thing of the past. Used well together with the trade route and culture bonus from their [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] UB and you will indeed be the richest civ on the map. Include the [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] UU, a [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] replacement available earlier and which can be recruited trough copper as well as iron, and there you got the number 1 civ for every map.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]The Minoan civilization, named after the legendary King Minos, was a Bronze-Age civilization that flourished on the island of Crete from approximately 2200 to 1450 BC when it gave way to the Mycenean civilization. Previously thought to exist only in Greek myths, the Minoans were discovered in 1900 by Sir Arthur Evans, a British archaeologist who was searching for King Minos' tomb at the site of Knossos on Crete. They used "Linear A" script to keep administrative records on tablets, but the ancient language remains large untranslated by historians.[PARAGRAPH:1:2]The Minoans are most closely associated with the myth of Theseus, the Minotaur, and the labyrinth. They are also well known for their maze-like palaces, which first appeared around 2000 BC. These unfortified palaces had a large open courtyard called the central court, and they may have been used as political, administrative, and/or economic centers based around storage and redistribution of agricultural goods. The four major Minoan palaces were Knossos, Phaistos, Zakro, and Mallia.[PARAGRAPH:1:2]Minoan art, architecture, and other forms of cultural expression show similarities to the civilizations of the Near East and Egypt. In particular, Minoans seem to have had a love of nature. Birds, cats, marine life, flowers, plants, and especially bulls are common images in frescos and on pottery. Women are also very popular in works of Minoan art and their pale skin distinguishes them from men, who were represented with darker skin tones.[PARAGRAPH:1:2]The Minoans are regarded as a peaceful, seafaring people who relied on overseas trade throughout the Mediterranean. Hence, the decline and eventual demise of the Minoan civilization still remains a mystery to archaeologists and historians. Common theories include a massive volcanic eruption on the island of Thera or Mycenaean conquest of Crete.[PARAGRAPH:1:2](Ancient History Encyclopedia:Minoan)</German>
+		<Italian>[BOLD]Strategy:[\BOLD][PARAGRAPH:1] The Minoan civilization is a financial mastermind with Minos' "Financial" and "Organized" traits which makes the word 'poor' a thing of the past. Used well together with the trade route and culture bonus from their [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] UB and you will indeed be the richest civ on the map. Include the [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] UU, a [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] replacement available earlier and which can be recruited trough copper as well as iron, and there you got the number 1 civ for every map.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]The Minoan civilization, named after the legendary King Minos, was a Bronze-Age civilization that flourished on the island of Crete from approximately 2200 to 1450 BC when it gave way to the Mycenean civilization. Previously thought to exist only in Greek myths, the Minoans were discovered in 1900 by Sir Arthur Evans, a British archaeologist who was searching for King Minos' tomb at the site of Knossos on Crete. They used "Linear A" script to keep administrative records on tablets, but the ancient language remains large untranslated by historians.[PARAGRAPH:1:2]The Minoans are most closely associated with the myth of Theseus, the Minotaur, and the labyrinth. They are also well known for their maze-like palaces, which first appeared around 2000 BC. These unfortified palaces had a large open courtyard called the central court, and they may have been used as political, administrative, and/or economic centers based around storage and redistribution of agricultural goods. The four major Minoan palaces were Knossos, Phaistos, Zakro, and Mallia.[PARAGRAPH:1:2]Minoan art, architecture, and other forms of cultural expression show similarities to the civilizations of the Near East and Egypt. In particular, Minoans seem to have had a love of nature. Birds, cats, marine life, flowers, plants, and especially bulls are common images in frescos and on pottery. Women are also very popular in works of Minoan art and their pale skin distinguishes them from men, who were represented with darker skin tones.[PARAGRAPH:1:2]The Minoans are regarded as a peaceful, seafaring people who relied on overseas trade throughout the Mediterranean. Hence, the decline and eventual demise of the Minoan civilization still remains a mystery to archaeologists and historians. Common theories include a massive volcanic eruption on the island of Thera or Mycenaean conquest of Crete.[PARAGRAPH:1:2](Ancient History Encyclopedia:Minoan)</Italian>
+		<Spanish>[BOLD]Strategy:[\BOLD][PARAGRAPH:1] The Minoan civilization is a financial mastermind with Minos' "Financial" and "Organized" traits which makes the word 'poor' a thing of the past. Used well together with the trade route and culture bonus from their [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] UB and you will indeed be the richest civ on the map. Include the [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] UU, a [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] replacement available earlier and which can be recruited trough copper as well as iron, and there you got the number 1 civ for every map.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]The Minoan civilization, named after the legendary King Minos, was a Bronze-Age civilization that flourished on the island of Crete from approximately 2200 to 1450 BC when it gave way to the Mycenean civilization. Previously thought to exist only in Greek myths, the Minoans were discovered in 1900 by Sir Arthur Evans, a British archaeologist who was searching for King Minos' tomb at the site of Knossos on Crete. They used "Linear A" script to keep administrative records on tablets, but the ancient language remains large untranslated by historians.[PARAGRAPH:1:2]The Minoans are most closely associated with the myth of Theseus, the Minotaur, and the labyrinth. They are also well known for their maze-like palaces, which first appeared around 2000 BC. These unfortified palaces had a large open courtyard called the central court, and they may have been used as political, administrative, and/or economic centers based around storage and redistribution of agricultural goods. The four major Minoan palaces were Knossos, Phaistos, Zakro, and Mallia.[PARAGRAPH:1:2]Minoan art, architecture, and other forms of cultural expression show similarities to the civilizations of the Near East and Egypt. In particular, Minoans seem to have had a love of nature. Birds, cats, marine life, flowers, plants, and especially bulls are common images in frescos and on pottery. Women are also very popular in works of Minoan art and their pale skin distinguishes them from men, who were represented with darker skin tones.[PARAGRAPH:1:2]The Minoans are regarded as a peaceful, seafaring people who relied on overseas trade throughout the Mediterranean. Hence, the decline and eventual demise of the Minoan civilization still remains a mystery to archaeologists and historians. Common theories include a massive volcanic eruption on the island of Thera or Mycenaean conquest of Crete.[PARAGRAPH:1:2](Ancient History Encyclopedia:Minoan)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MINOS</Tag>
+		<English>Minos</English>
+		<French>Minos</French>
+		<German>Minos</German>
+		<Italian>Minos</Italian>
+		<Spanish>Minos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MINOS_PEDIA</Tag>
+		<English>[H1]Minos[\H1][NEWLINE][BOLD]Legendary King of Crete[\BOLD][NEWLINE][BOLD]Lived:[\BOLD] Between 1700 and 1200 BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Little is known about king Minos of the Cretans, and he might actually have been a mythological character rather than a living one. "Minos" might be actually a title, as such titles were often used for kings. Historians have noted the similarity in the names of Menes of Egypt, Mannus of Germany, Manu of India and so on.[PARAGRAPH:1]Minos reigned over Crete and the Islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instructions from Zeus. He was the author of Cretan constitution and the founder of its naval supremacy. He is also in Attic tradition and on the Athenian stage, a cruel tyrant, the heartless exactor of the tribute of Athenian youths to feed the Minotaur.[PARAGRAPH:1]To explain how Minos governed the island over so many generations, it have been assumed that Minos actually were two kings. The first Minos was the son of Zeus and were the 'good' king Minos, and he were held in such esteem by the Olympian gods that, after he died, he were made on of the three 'Judges of the Dead' in the Greek underworld. The wife of 'Minos I' is said to be a nymph and he had a single son named Lycastus, his successor as king of Crete. Lycastus had a son named Minos after his grandfather, and this is 'Minos II', the 'bad' king Minos, and were a far more colorful character than his father and grandfather. It would be of this Minos we owe the myths of Theseus, the Minotaur and the Labyrinth. Unlike his grandfather, 'Minos II' fathered numerous children, including Androgeus, Catreus and Deucalion. He was the grandfather of King Idomeneus who led the Cretans to the Trojan War.[PARAGRAPH:1]Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but also Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan object appear at Mycenaean sites.[PARAGRAPH:1]Minos himself is said to have died in Sicily, where he was killed by the daughter of Cocalus, king of Agrigentum, who poured boiling water over him while he was taking a bath. Subsequently his remains were sent back to the Cretans, who placed them in a sarcophagus, on which was inscribed: "The tomb of Minos, the son of Zeus."[PARAGRAPH:1]The earlier legends of king Minos pictures him as a beneficent ruler, legislator and suppressor of piracy. His constitution is said to have formed the basis of that of Lycurgus for Sparta. According to these legends, he were made a judge of the underworld after his death.[PARAGRAPH:1](Wikipedia:Minos)</English>
+		<French>[H1]Minos[\H1][NEWLINE][BOLD]Legendary King of Crete[\BOLD][NEWLINE][BOLD]Lived:[\BOLD] Between 1700 and 1200 BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Little is known about king Minos of the Cretans, and he might actually have been a mythological character rather than a living one. "Minos" might be actually a title, as such titles were often used for kings. Historians have noted the similarity in the names of Menes of Egypt, Mannus of Germany, Manu of India and so on.[PARAGRAPH:1]Minos reigned over Crete and the Islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instructions from Zeus. He was the author of Cretan constitution and the founder of its naval supremacy. He is also in Attic tradition and on the Athenian stage, a cruel tyrant, the heartless exactor of the tribute of Athenian youths to feed the Minotaur.[PARAGRAPH:1]To explain how Minos governed the island over so many generations, it have been assumed that Minos actually were two kings. The first Minos was the son of Zeus and were the 'good' king Minos, and he were held in such esteem by the Olympian gods that, after he died, he were made on of the three 'Judges of the Dead' in the Greek underworld. The wife of 'Minos I' is said to be a nymph and he had a single son named Lycastus, his successor as king of Crete. Lycastus had a son named Minos after his grandfather, and this is 'Minos II', the 'bad' king Minos, and were a far more colorful character than his father and grandfather. It would be of this Minos we owe the myths of Theseus, the Minotaur and the Labyrinth. Unlike his grandfather, 'Minos II' fathered numerous children, including Androgeus, Catreus and Deucalion. He was the grandfather of King Idomeneus who led the Cretans to the Trojan War.[PARAGRAPH:1]Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but also Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan object appear at Mycenaean sites.[PARAGRAPH:1]Minos himself is said to have died in Sicily, where he was killed by the daughter of Cocalus, king of Agrigentum, who poured boiling water over him while he was taking a bath. Subsequently his remains were sent back to the Cretans, who placed them in a sarcophagus, on which was inscribed: "The tomb of Minos, the son of Zeus."[PARAGRAPH:1]The earlier legends of king Minos pictures him as a beneficent ruler, legislator and suppressor of piracy. His constitution is said to have formed the basis of that of Lycurgus for Sparta. According to these legends, he were made a judge of the underworld after his death.[PARAGRAPH:1](Wikipedia:Minos)</French>
+		<German>[H1]Minos[\H1][NEWLINE][BOLD]Legendary King of Crete[\BOLD][NEWLINE][BOLD]Lived:[\BOLD] Between 1700 and 1200 BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Little is known about king Minos of the Cretans, and he might actually have been a mythological character rather than a living one. "Minos" might be actually a title, as such titles were often used for kings. Historians have noted the similarity in the names of Menes of Egypt, Mannus of Germany, Manu of India and so on.[PARAGRAPH:1]Minos reigned over Crete and the Islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instructions from Zeus. He was the author of Cretan constitution and the founder of its naval supremacy. He is also in Attic tradition and on the Athenian stage, a cruel tyrant, the heartless exactor of the tribute of Athenian youths to feed the Minotaur.[PARAGRAPH:1]To explain how Minos governed the island over so many generations, it have been assumed that Minos actually were two kings. The first Minos was the son of Zeus and were the 'good' king Minos, and he were held in such esteem by the Olympian gods that, after he died, he were made on of the three 'Judges of the Dead' in the Greek underworld. The wife of 'Minos I' is said to be a nymph and he had a single son named Lycastus, his successor as king of Crete. Lycastus had a son named Minos after his grandfather, and this is 'Minos II', the 'bad' king Minos, and were a far more colorful character than his father and grandfather. It would be of this Minos we owe the myths of Theseus, the Minotaur and the Labyrinth. Unlike his grandfather, 'Minos II' fathered numerous children, including Androgeus, Catreus and Deucalion. He was the grandfather of King Idomeneus who led the Cretans to the Trojan War.[PARAGRAPH:1]Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but also Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan object appear at Mycenaean sites.[PARAGRAPH:1]Minos himself is said to have died in Sicily, where he was killed by the daughter of Cocalus, king of Agrigentum, who poured boiling water over him while he was taking a bath. Subsequently his remains were sent back to the Cretans, who placed them in a sarcophagus, on which was inscribed: "The tomb of Minos, the son of Zeus."[PARAGRAPH:1]The earlier legends of king Minos pictures him as a beneficent ruler, legislator and suppressor of piracy. His constitution is said to have formed the basis of that of Lycurgus for Sparta. According to these legends, he were made a judge of the underworld after his death.[PARAGRAPH:1](Wikipedia:Minos)</German>
+		<Italian>[H1]Minos[\H1][NEWLINE][BOLD]Legendary King of Crete[\BOLD][NEWLINE][BOLD]Lived:[\BOLD] Between 1700 and 1200 BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Little is known about king Minos of the Cretans, and he might actually have been a mythological character rather than a living one. "Minos" might be actually a title, as such titles were often used for kings. Historians have noted the similarity in the names of Menes of Egypt, Mannus of Germany, Manu of India and so on.[PARAGRAPH:1]Minos reigned over Crete and the Islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instructions from Zeus. He was the author of Cretan constitution and the founder of its naval supremacy. He is also in Attic tradition and on the Athenian stage, a cruel tyrant, the heartless exactor of the tribute of Athenian youths to feed the Minotaur.[PARAGRAPH:1]To explain how Minos governed the island over so many generations, it have been assumed that Minos actually were two kings. The first Minos was the son of Zeus and were the 'good' king Minos, and he were held in such esteem by the Olympian gods that, after he died, he were made on of the three 'Judges of the Dead' in the Greek underworld. The wife of 'Minos I' is said to be a nymph and he had a single son named Lycastus, his successor as king of Crete. Lycastus had a son named Minos after his grandfather, and this is 'Minos II', the 'bad' king Minos, and were a far more colorful character than his father and grandfather. It would be of this Minos we owe the myths of Theseus, the Minotaur and the Labyrinth. Unlike his grandfather, 'Minos II' fathered numerous children, including Androgeus, Catreus and Deucalion. He was the grandfather of King Idomeneus who led the Cretans to the Trojan War.[PARAGRAPH:1]Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but also Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan object appear at Mycenaean sites.[PARAGRAPH:1]Minos himself is said to have died in Sicily, where he was killed by the daughter of Cocalus, king of Agrigentum, who poured boiling water over him while he was taking a bath. Subsequently his remains were sent back to the Cretans, who placed them in a sarcophagus, on which was inscribed: "The tomb of Minos, the son of Zeus."[PARAGRAPH:1]The earlier legends of king Minos pictures him as a beneficent ruler, legislator and suppressor of piracy. His constitution is said to have formed the basis of that of Lycurgus for Sparta. According to these legends, he were made a judge of the underworld after his death.[PARAGRAPH:1](Wikipedia:Minos)</Italian>
+		<Spanish>[H1]Minos[\H1][NEWLINE][BOLD]Legendary King of Crete[\BOLD][NEWLINE][BOLD]Lived:[\BOLD] Between 1700 and 1200 BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Little is known about king Minos of the Cretans, and he might actually have been a mythological character rather than a living one. "Minos" might be actually a title, as such titles were often used for kings. Historians have noted the similarity in the names of Menes of Egypt, Mannus of Germany, Manu of India and so on.[PARAGRAPH:1]Minos reigned over Crete and the Islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instructions from Zeus. He was the author of Cretan constitution and the founder of its naval supremacy. He is also in Attic tradition and on the Athenian stage, a cruel tyrant, the heartless exactor of the tribute of Athenian youths to feed the Minotaur.[PARAGRAPH:1]To explain how Minos governed the island over so many generations, it have been assumed that Minos actually were two kings. The first Minos was the son of Zeus and were the 'good' king Minos, and he were held in such esteem by the Olympian gods that, after he died, he were made on of the three 'Judges of the Dead' in the Greek underworld. The wife of 'Minos I' is said to be a nymph and he had a single son named Lycastus, his successor as king of Crete. Lycastus had a son named Minos after his grandfather, and this is 'Minos II', the 'bad' king Minos, and were a far more colorful character than his father and grandfather. It would be of this Minos we owe the myths of Theseus, the Minotaur and the Labyrinth. Unlike his grandfather, 'Minos II' fathered numerous children, including Androgeus, Catreus and Deucalion. He was the grandfather of King Idomeneus who led the Cretans to the Trojan War.[PARAGRAPH:1]Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but also Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan object appear at Mycenaean sites.[PARAGRAPH:1]Minos himself is said to have died in Sicily, where he was killed by the daughter of Cocalus, king of Agrigentum, who poured boiling water over him while he was taking a bath. Subsequently his remains were sent back to the Cretans, who placed them in a sarcophagus, on which was inscribed: "The tomb of Minos, the son of Zeus."[PARAGRAPH:1]The earlier legends of king Minos pictures him as a beneficent ruler, legislator and suppressor of piracy. His constitution is said to have formed the basis of that of Lycurgus for Sparta. According to these legends, he were made a judge of the underworld after his death.[PARAGRAPH:1](Wikipedia:Minos)</Spanish>
+	</TEXT>
+	<!-- ############# City List ############# -->
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA1</Tag>
+		<English>Knossos</English>
+		<French>Knossos</French>
+		<German>Knossos</German>
+		<Italian>Knossos</Italian>
+		<Spanish>Knossos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA2</Tag>
+		<English>Phaistos</English>
+		<French>Phaistos</French>
+		<German>Phaistos</German>
+		<Italian>Phaistos</Italian>
+		<Spanish>Phaistos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA3</Tag>
+		<English>Malia</English>
+		<French>Malia</French>
+		<German>Malia</German>
+		<Italian>Malia</Italian>
+		<Spanish>Malia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA4</Tag>
+		<English>Kato Zakros</English>
+		<French>Kato Zakros</French>
+		<German>Kato Zakros</German>
+		<Italian>Kato Zakros</Italian>
+		<Spanish>Kato Zakros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA5</Tag>
+		<English>Agia Triada</English>
+		<French>Agia Triada</French>
+		<German>Agia Triada</German>
+		<Italian>Agia Triada</Italian>
+		<Spanish>Agia Triada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA6</Tag>
+		<English>Gournia</English>
+		<French>Gournia</French>
+		<German>Gournia</German>
+		<Italian>Gournia</Italian>
+		<Spanish>Gournia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA7</Tag>
+		<English>Kydonia</English>
+		<French>Kydonia</French>
+		<German>Kydonia</German>
+		<Italian>Kydonia</Italian>
+		<Spanish>Kydonia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA8</Tag>
+		<English>Galatas</English>
+		<French>Galatas</French>
+		<German>Galatas</German>
+		<Italian>Galatas</Italian>
+		<Spanish>Galatas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA9</Tag>
+		<English>Iouktas</English>
+		<French>Iouktas</French>
+		<German>Iouktas</German>
+		<Italian>Iouktas</Italian>
+		<Spanish>Iouktas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA10</Tag>
+		<English>Arkalochori</English>
+		<French>Arkalochori</French>
+		<German>Arkalochori</German>
+		<Italian>Arkalochori</Italian>
+		<Spanish>Arkalochori</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA11</Tag>
+		<English>Akrotiri</English>
+		<French>Akrotiri</French>
+		<German>Akrotiri</German>
+		<Italian>Akrotiri</Italian>
+		<Spanish>Akrotiri</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA12</Tag>
+		<English>Zominthos</English>
+		<French>Zominthos</French>
+		<German>Zominthos</German>
+		<Italian>Zominthos</Italian>
+		<Spanish>Zominthos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA13</Tag>
+		<English>Pseira</English>
+		<French>Pseira</French>
+		<German>Pseira</German>
+		<Italian>Pseira</Italian>
+		<Spanish>Pseira</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA14</Tag>
+		<English>Vasiliki</English>
+		<French>Vasiliki</French>
+		<German>Vasiliki</German>
+		<Italian>Vasiliki</Italian>
+		<Spanish>Vasiliki</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA15</Tag>
+		<English>Karfi</English>
+		<French>Karfi</French>
+		<German>Karfi</German>
+		<Italian>Karfi</Italian>
+		<Spanish>Karfi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA16</Tag>
+		<English>Pyrgos</English>
+		<French>Pyrgos</French>
+		<German>Pyrgos</German>
+		<Italian>Pyrgos</Italian>
+		<Spanish>Pyrgos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA17</Tag>
+		<English>Fournu Korfi</English>
+		<French>Fournu Korfi</French>
+		<German>Fournu Korfi</German>
+		<Italian>Fournu Korfi</Italian>
+		<Spanish>Fournu Korfi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA18</Tag>
+		<English>Agia Pelagia</English>
+		<French>Agia Pelagia</French>
+		<German>Agia Pelagia</German>
+		<Italian>Agia Pelagia</Italian>
+		<Spanish>Agia Pelagia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA19</Tag>
+		<English>Archanes</English>
+		<French>Archanes</French>
+		<German>Archanes</German>
+		<Italian>Archanes</Italian>
+		<Spanish>Archanes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA20</Tag>
+		<English>Kommos</English>
+		<French>Kommos</French>
+		<German>Kommos</German>
+		<Italian>Kommos</Italian>
+		<Spanish>Kommos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA21</Tag>
+		<English>Platanos</English>
+		<French>Platanos</French>
+		<German>Platanos</German>
+		<Italian>Platanos</Italian>
+		<Spanish>Platanos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA22</Tag>
+		<English>Lebana</English>
+		<French>Lebana</French>
+		<German>Lebana</German>
+		<Italian>Lebana</Italian>
+		<Spanish>Lebana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA23</Tag>
+		<English>Palaikastro</English>
+		<French>Palaikastro</French>
+		<German>Palaikastro</German>
+		<Italian>Palaikastro</Italian>
+		<Spanish>Palaikastro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA24</Tag>
+		<English>Praisos</English>
+		<French>Praisos</French>
+		<German>Praisos</German>
+		<Italian>Praisos</Italian>
+		<Spanish>Praisos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA25</Tag>
+		<English>Mochlos</English>
+		<French>Mochlos</French>
+		<German>Mochlos</German>
+		<Italian>Mochlos</Italian>
+		<Spanish>Mochlos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA26</Tag>
+		<English>Armenoi</English>
+		<French>Armenoi</French>
+		<German>Armenoi</German>
+		<Italian>Armenoi</Italian>
+		<Spanish>Armenoi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA27</Tag>
+		<English>Kamaizi</English>
+		<French>Kamaizi</French>
+		<German>Kamaizi</German>
+		<Italian>Kamaizi</Italian>
+		<Spanish>Kamaizi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA28</Tag>
+		<English>Monastiraki</English>
+		<French>Monastiraki</French>
+		<German>Monastiraki</German>
+		<Italian>Monastiraki</Italian>
+		<Spanish>Monastiraki</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA29</Tag>
+		<English>Stylos</English>
+		<French>Stylos</French>
+		<German>Stylos</German>
+		<Italian>Stylos</Italian>
+		<Spanish>Stylos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA30</Tag>
+		<English>Kalami</English>
+		<French>Kalami</French>
+		<German>Kalami</German>
+		<Italian>Kalami</Italian>
+		<Spanish>Kalami</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA31</Tag>
+		<English>Khania</English>
+		<French>Khania</French>
+		<German>Khania</German>
+		<Italian>Khania</Italian>
+		<Spanish>Khania</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA32</Tag>
+		<English>Maleme</English>
+		<French>Maleme</French>
+		<German>Maleme</German>
+		<Italian>Maleme</Italian>
+		<Spanish>Maleme</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA33</Tag>
+		<English>Platyvola</English>
+		<French>Platyvola</French>
+		<German>Platyvola</German>
+		<Italian>Platyvola</Italian>
+		<Spanish>Platyvola</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA34</Tag>
+		<English>Tylissos</English>
+		<French>Tylissos</French>
+		<German>Tylissos</German>
+		<Italian>Tylissos</Italian>
+		<Spanish>Tylissos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_MINOA35</Tag>
+		<English>Myxorrouma</English>
+		<French>Myxorrouma</French>
+		<German>Myxorrouma</German>
+		<Italian>Myxorrouma</Italian>
+		<Spanish>Myxorrouma</Spanish>
+	</TEXT>
+	<!-- ############# UB and UU ############# -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MINOA_XIFOS</Tag>
+		<English>Xifos</English>
+		<French>Xifos</French>
+		<German>Xifos</German>
+		<Italian>Xifos</Italian>
+		<Spanish>Xifos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MINOA_XIFOS_PEDIA</Tag>
+		<English>[TAB]The archeological evidence shows presence of huge watchtowers and warlike longboats from the Minoan era. However, there is no evidence of real war or any type of standing army in the Minoan Civilzation. It is possible that these were all elements to show status among the Minoan City States. Still the Minoans housed remerkable smith skills and Minoan smiths were renowned in the classical world and many of them worked abroud in Mainland Greece.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</English>
+		<French>[TAB]The archeological evidence shows presence of huge watchtowers and warlike longboats from the Minoan era. However, there is no evidence of real war or any type of standing army in the Minoan Civilzation. It is possible that these were all elements to show status among the Minoan City States. Still the Minoans housed remerkable smith skills and Minoan smiths were renowned in the classical world and many of them worked abroud in Mainland Greece.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</French>
+		<German>[TAB]The archeological evidence shows presence of huge watchtowers and warlike longboats from the Minoan era. However, there is no evidence of real war or any type of standing army in the Minoan Civilzation. It is possible that these were all elements to show status among the Minoan City States. Still the Minoans housed remerkable smith skills and Minoan smiths were renowned in the classical world and many of them worked abroud in Mainland Greece.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</German>
+		<Italian>[TAB]The archeological evidence shows presence of huge watchtowers and warlike longboats from the Minoan era. However, there is no evidence of real war or any type of standing army in the Minoan Civilzation. It is possible that these were all elements to show status among the Minoan City States. Still the Minoans housed remerkable smith skills and Minoan smiths were renowned in the classical world and many of them worked abroud in Mainland Greece.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</Italian>
+		<Spanish>[TAB]The archeological evidence shows presence of huge watchtowers and warlike longboats from the Minoan era. However, there is no evidence of real war or any type of standing army in the Minoan Civilzation. It is possible that these were all elements to show status among the Minoan City States. Still the Minoans housed remerkable smith skills and Minoan smiths were renowned in the classical world and many of them worked abroud in Mainland Greece.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MINOA_XIFOS_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] (the Minoan replacement for [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) is available earlier than its generic counterpart and can be built from more materials.</English>
+		<French>The [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] (the Minoan replacement for [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) is available earlier than its generic counterpart and can be built from more materials.</French>
+		<German>The [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] (the Minoan replacement for [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) is available earlier than its generic counterpart and can be built from more materials.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] (the Minoan replacement for [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) is available earlier than its generic counterpart and can be built from more materials.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Xifos[COLOR_REVERT] (the Minoan replacement for [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) is available earlier than its generic counterpart and can be built from more materials.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINOA_ANAKTORA</Tag>
+		<English>Anaktora</English>
+		<French>Anaktora</French>
+		<German>Anaktora</German>
+		<Italian>Anaktora</Italian>
+		<Spanish>Anaktora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINOA_ANAKTORA_PEDIA</Tag>
+		<English>[TAB]The Minoans are perhaps most known for their huge palaces (Anaktoras). While it was believed that all of these palaces were built in the Middle Minoan period around 2000 BC, it have later been proved that this is not the case and that the palace at Malia were built as early as the third millennium BC in the Early Minoan period. The three main old palaces were the ones at Malia, Knossos and Phaistos. These palaces had a number of functions, such as centers of government, administrative offices, shrines, workshops, and storage spaces. This have created a discussion if it really is right to call these buildings palaces, and the term court building have been suggested instead. However, the original term is probably too well entrenched to be replaced.[PARAGRAPH:1]Often the conventions of better-known, younger palaces have been used to reconstruct older ones, but this practice may be obscuring fundamental functional differences. Most older palaces had only one story and no representative facades. They were U-shaped, with a big central court, and generally were smaller than later palaces. Late palaces are characterised by multi-story buildings. The west facades had sandstone ashlar masonry. Knossos is the best-known example. See Knossos. Further building conventions could include storage magazines, a north-south orientation, a pillar room, a Minoan Hall system, a western court, and pier-and-door entrance ways. Palatial architecture in the First Palace Period is identified by its 'square within a square' style, whilst later, Second Palace Period constructions incorporated more internal divisions and corridors.[PARAGRAPH:1]It is a common architectural standard among the Middle Minoan 'palaces' that they are aligned with their surrounding topography. The MM palatial structure of Phaistos appears to align with Mount Ida, whilst Knossos is aligned with Juktas. These are oriented along a north-south axis. One suggested reason for this is the ritual significance of the mountain, where a number of Peak Sanctuaries have been excavated like Petsophas. The material record for these sites show clusters of clay figurines and evidence of animal sacrifice.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</English>
+		<French>[TAB]The Minoans are perhaps most known for their huge palaces (Anaktoras). While it was believed that all of these palaces were built in the Middle Minoan period around 2000 BC, it have later been proved that this is not the case and that the palace at Malia were built as early as the third millennium BC in the Early Minoan period. The three main old palaces were the ones at Malia, Knossos and Phaistos. These palaces had a number of functions, such as centers of government, administrative offices, shrines, workshops, and storage spaces. This have created a discussion if it really is right to call these buildings palaces, and the term court building have been suggested instead. However, the original term is probably too well entrenched to be replaced.[PARAGRAPH:1]Often the conventions of better-known, younger palaces have been used to reconstruct older ones, but this practice may be obscuring fundamental functional differences. Most older palaces had only one story and no representative facades. They were U-shaped, with a big central court, and generally were smaller than later palaces. Late palaces are characterised by multi-story buildings. The west facades had sandstone ashlar masonry. Knossos is the best-known example. See Knossos. Further building conventions could include storage magazines, a north-south orientation, a pillar room, a Minoan Hall system, a western court, and pier-and-door entrance ways. Palatial architecture in the First Palace Period is identified by its 'square within a square' style, whilst later, Second Palace Period constructions incorporated more internal divisions and corridors.[PARAGRAPH:1]It is a common architectural standard among the Middle Minoan 'palaces' that they are aligned with their surrounding topography. The MM palatial structure of Phaistos appears to align with Mount Ida, whilst Knossos is aligned with Juktas. These are oriented along a north-south axis. One suggested reason for this is the ritual significance of the mountain, where a number of Peak Sanctuaries have been excavated like Petsophas. The material record for these sites show clusters of clay figurines and evidence of animal sacrifice.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</French>
+		<German>[TAB]The Minoans are perhaps most known for their huge palaces (Anaktoras). While it was believed that all of these palaces were built in the Middle Minoan period around 2000 BC, it have later been proved that this is not the case and that the palace at Malia were built as early as the third millennium BC in the Early Minoan period. The three main old palaces were the ones at Malia, Knossos and Phaistos. These palaces had a number of functions, such as centers of government, administrative offices, shrines, workshops, and storage spaces. This have created a discussion if it really is right to call these buildings palaces, and the term court building have been suggested instead. However, the original term is probably too well entrenched to be replaced.[PARAGRAPH:1]Often the conventions of better-known, younger palaces have been used to reconstruct older ones, but this practice may be obscuring fundamental functional differences. Most older palaces had only one story and no representative facades. They were U-shaped, with a big central court, and generally were smaller than later palaces. Late palaces are characterised by multi-story buildings. The west facades had sandstone ashlar masonry. Knossos is the best-known example. See Knossos. Further building conventions could include storage magazines, a north-south orientation, a pillar room, a Minoan Hall system, a western court, and pier-and-door entrance ways. Palatial architecture in the First Palace Period is identified by its 'square within a square' style, whilst later, Second Palace Period constructions incorporated more internal divisions and corridors.[PARAGRAPH:1]It is a common architectural standard among the Middle Minoan 'palaces' that they are aligned with their surrounding topography. The MM palatial structure of Phaistos appears to align with Mount Ida, whilst Knossos is aligned with Juktas. These are oriented along a north-south axis. One suggested reason for this is the ritual significance of the mountain, where a number of Peak Sanctuaries have been excavated like Petsophas. The material record for these sites show clusters of clay figurines and evidence of animal sacrifice.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</German>
+		<Italian>[TAB]The Minoans are perhaps most known for their huge palaces (Anaktoras). While it was believed that all of these palaces were built in the Middle Minoan period around 2000 BC, it have later been proved that this is not the case and that the palace at Malia were built as early as the third millennium BC in the Early Minoan period. The three main old palaces were the ones at Malia, Knossos and Phaistos. These palaces had a number of functions, such as centers of government, administrative offices, shrines, workshops, and storage spaces. This have created a discussion if it really is right to call these buildings palaces, and the term court building have been suggested instead. However, the original term is probably too well entrenched to be replaced.[PARAGRAPH:1]Often the conventions of better-known, younger palaces have been used to reconstruct older ones, but this practice may be obscuring fundamental functional differences. Most older palaces had only one story and no representative facades. They were U-shaped, with a big central court, and generally were smaller than later palaces. Late palaces are characterised by multi-story buildings. The west facades had sandstone ashlar masonry. Knossos is the best-known example. See Knossos. Further building conventions could include storage magazines, a north-south orientation, a pillar room, a Minoan Hall system, a western court, and pier-and-door entrance ways. Palatial architecture in the First Palace Period is identified by its 'square within a square' style, whilst later, Second Palace Period constructions incorporated more internal divisions and corridors.[PARAGRAPH:1]It is a common architectural standard among the Middle Minoan 'palaces' that they are aligned with their surrounding topography. The MM palatial structure of Phaistos appears to align with Mount Ida, whilst Knossos is aligned with Juktas. These are oriented along a north-south axis. One suggested reason for this is the ritual significance of the mountain, where a number of Peak Sanctuaries have been excavated like Petsophas. The material record for these sites show clusters of clay figurines and evidence of animal sacrifice.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</Italian>
+		<Spanish>[TAB]The Minoans are perhaps most known for their huge palaces (Anaktoras). While it was believed that all of these palaces were built in the Middle Minoan period around 2000 BC, it have later been proved that this is not the case and that the palace at Malia were built as early as the third millennium BC in the Early Minoan period. The three main old palaces were the ones at Malia, Knossos and Phaistos. These palaces had a number of functions, such as centers of government, administrative offices, shrines, workshops, and storage spaces. This have created a discussion if it really is right to call these buildings palaces, and the term court building have been suggested instead. However, the original term is probably too well entrenched to be replaced.[PARAGRAPH:1]Often the conventions of better-known, younger palaces have been used to reconstruct older ones, but this practice may be obscuring fundamental functional differences. Most older palaces had only one story and no representative facades. They were U-shaped, with a big central court, and generally were smaller than later palaces. Late palaces are characterised by multi-story buildings. The west facades had sandstone ashlar masonry. Knossos is the best-known example. See Knossos. Further building conventions could include storage magazines, a north-south orientation, a pillar room, a Minoan Hall system, a western court, and pier-and-door entrance ways. Palatial architecture in the First Palace Period is identified by its 'square within a square' style, whilst later, Second Palace Period constructions incorporated more internal divisions and corridors.[PARAGRAPH:1]It is a common architectural standard among the Middle Minoan 'palaces' that they are aligned with their surrounding topography. The MM palatial structure of Phaistos appears to align with Mount Ida, whilst Knossos is aligned with Juktas. These are oriented along a north-south axis. One suggested reason for this is the ritual significance of the mountain, where a number of Peak Sanctuaries have been excavated like Petsophas. The material record for these sites show clusters of clay figurines and evidence of animal sacrifice.[PARAGRAPH:1](Wikipedia: Minoan Civilization)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MINOA_ANAKTORA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] is the Minoan replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and add extra culture and trade routes.</English>
+		<French>The [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] is the Minoan replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and add extra culture and trade routes.</French>
+		<German>The [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] is the Minoan replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and add extra culture and trade routes.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] is the Minoan replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and add extra culture and trade routes.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] is the Minoan replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and add extra culture and trade routes.</Spanish>
+	</TEXT>
+</Civ4GameText>

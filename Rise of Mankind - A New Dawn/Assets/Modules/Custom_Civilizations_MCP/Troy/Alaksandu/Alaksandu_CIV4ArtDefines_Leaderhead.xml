@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Alaksandu_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ALAKSANDU</Type>
+			<Button>art/Troy/Alaksandu/Alaksandu.dds</Button>
+			<NIF>art/Troy/Alaksandu/cunne_shote.NIF</NIF>
+			<KFM>art/Troy/Alaksandu/cunne_shote.kfm</KFM>
+			<NoShaderNIF>art/Troy/Alaksandu/cunne_shote.NIF</NoShaderNIF>
+			<BackgroundKFM>art/Troy/Alaksandu/cunne_shote_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

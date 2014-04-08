@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:GajahMada_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_GAJAH_MADA</Type>
+			<Button>art/Majapahit/GajahMada/Gajah_Mada.dds</Button>
+			<NIF>art/Majapahit/GajahMada/wang_kon.nif</NIF>
+			<KFM>art/Majapahit/GajahMada/wang_kon.kfm</KFM>
+			<NoShaderNIF>art/Majapahit/GajahMada/wang_kon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Majapahit/GajahMada/Wang_Kon_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

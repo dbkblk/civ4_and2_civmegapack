@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- Created with Dreamweaver CS3 by DWOLF -->
+<!-- Sid Meier's Civilization IV Beyond The Sword -->
+<!-- -->
+<!-- Building art path information -->
+<Civ4ArtDefines xmlns="x-schema:Senaki_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_GEORGIA_SENAKI</Type>
+			<LSystem>LSYSTEM_2x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.75</fScale>
+			<fInterfaceScale>0.65</fInterfaceScale>
+			<NIF>art/Georgia/Senaki/mta.nif</NIF>
+			<KFM/>
+			<Button>art/Georgia/Senaki/SenakiButton.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

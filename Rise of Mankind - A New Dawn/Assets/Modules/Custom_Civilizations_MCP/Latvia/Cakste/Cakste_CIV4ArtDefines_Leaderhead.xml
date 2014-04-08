@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Cakste_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CAKSTE</Type>
+			<Button>art/Latvia/Cakste/Janis_Cakste/Janis_Cakste.dds</Button>
+			<NIF>art/Latvia/Cakste/Janis_Cakste/cakste.nif</NIF>
+			<KFM>art/Latvia/Cakste/Janis_Cakste/julius_caesar.kfm</KFM>			
+			<NoShaderNIF>art/Latvia/Cakste/Janis_Cakste/cakste.nif</NoShaderNIF>			
+			<BackgroundKFM>art/Latvia/Cakste/Janis_Cakste/julius_caesar_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Crannog_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PICTS_CRANNOG</Type>
+			<LSystem>LSYSTEM_COAST</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>.95</fScale>
+			<fInterfaceScale>1.2</fInterfaceScale>
+			<NIF>Modules/Custom_Civilizations_MCP/Picts/Crannog/Viking_Post.nif</NIF>
+			<KFM/>
+			<Button>art/Picts/Crannog/Crannog.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

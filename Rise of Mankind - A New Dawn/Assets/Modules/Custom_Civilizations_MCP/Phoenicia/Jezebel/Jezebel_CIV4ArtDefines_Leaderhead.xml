@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Jezebel_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_JEZEBEL</Type>
+			<Button>art/Phoenicia/Jezebel/jezebel.dds</Button>
+			<NIF>art/Phoenicia/Jezebel/isabella.nif</NIF>
+			<KFM>art/Phoenicia/Jezebel/isabella.kfm</KFM>
+			<NoShaderNIF>art/Phoenicia/Jezebel/isabella_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Phoenicia/Jezebel/isabella_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

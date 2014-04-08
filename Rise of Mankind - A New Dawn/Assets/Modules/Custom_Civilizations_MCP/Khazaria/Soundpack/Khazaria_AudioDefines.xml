@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dean Ray Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Khazaria_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>DIPLO_ZIEBEL_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Khazaria/Soundpack/Ziebel_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_ZIEBEL_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Khazaria/Soundpack/Ziebel_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_ZIEBEL_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Khazaria/Soundpack/Ziebel_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BULAN_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Khazaria/Soundpack/Bulan_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BULAN_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Khazaria/Soundpack/Bulan_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BULAN_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Khazaria/Soundpack/Bulan_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

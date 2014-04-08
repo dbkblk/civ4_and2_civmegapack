@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Paez_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+            <Type>ART_DEF_LEADER_PAEZ</Type>
+			<Button>art/Venezuela/Paez/Paez.dds</Button>
+			<NIF>art/Venezuela/Paez/augustus_caesar.nif</NIF>
+			<KFM>art/Venezuela/Paez/augustus_caesar.kfm</KFM>
+			<NoShaderNIF>art/Venezuela/Paez/augustus_caesar.nif</NoShaderNIF>
+			<BackgroundKFM>art/Venezuela/Paez/IbnSaud_bg.kfm</BackgroundKFM>
+          </LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

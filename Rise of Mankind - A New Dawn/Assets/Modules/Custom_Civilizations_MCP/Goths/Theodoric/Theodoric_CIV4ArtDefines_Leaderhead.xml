@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Theodoric_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_THEODORIC</Type>
+			<Button>art/Goths/Theodoric/Theodoric.dds</Button>
+			<NIF>art/Goths/Theodoric/hannibal.nif</NIF>
+			<KFM>art/Goths/Theodoric/hannibal.kfm</KFM>
+			<NoShaderNIF>art/Goths/Theodoric/hannibal_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Goths/Theodoric/hannibal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

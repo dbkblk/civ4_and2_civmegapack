@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Civilis_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CIVILIS</Type>
+			<Button>art/Batavii/Civilis/Civilis_Button.dds</Button>
+			<NIF>art/Batavii/Civilis/ragnar_lodbrok.nif</NIF>
+			<KFM>art/Batavii/Civilis/ragnar_lodbrok.kfm</KFM>
+			<NoShaderNIF>art/Batavii/Civilis/ragnar_lodbrok_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Batavii/Civilis/Ragnar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

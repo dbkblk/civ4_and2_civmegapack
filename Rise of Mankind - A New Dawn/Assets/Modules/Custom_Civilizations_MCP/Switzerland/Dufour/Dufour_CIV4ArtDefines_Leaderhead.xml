@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Dufour_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DUFOUR</Type>
+			<Button>art/Switzerland/Dufour/dufour.dds</Button>
+			<NIF>art/Switzerland/Dufour/john_adams.nif</NIF>
+			<KFM>art/Switzerland/Dufour/john_adams.kfm</KFM>
+			<NoShaderNIF>art/Switzerland/Dufour/john_adams.nif</NoShaderNIF>
+			<BackgroundKFM>art/Switzerland/Dufour/john_adams_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

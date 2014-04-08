@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PAKISTAN_SSG</Tag>
+		<English>SSG</English>
+		<French>SSG</French>
+		<German>SSG</German>
+		<Italian>SSG</Italian>
+		<Spanish>SSG</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PAKISTAN_SSG_PEDIA</Tag>
+		<English>[TAB]Special Services Group (SSG) is an independent commando brigade of the Pakistan Army. It is an elite special operations force similar to the ,Special Air Service and United States Army Special Forces(Green Berets). Official numbers are put at 2,100 men, in 3 Battalions; however the actual strength is classified. It is estimated to have been increased to 4 Battalions, with the eventual formation of 2 Brigades of Special Forces (6 Battalions).</English>
+		<French>[TAB]Special Services Group (SSG) is an independent commando brigade of the Pakistan Army. It is an elite special operations force similar to the ,Special Air Service and United States Army Special Forces(Green Berets). Official numbers are put at 2,100 men, in 3 Battalions; however the actual strength is classified. It is estimated to have been increased to 4 Battalions, with the eventual formation of 2 Brigades of Special Forces (6 Battalions).</French>
+		<German>[TAB]Special Services Group (SSG) is an independent commando brigade of the Pakistan Army. It is an elite special operations force similar to the ,Special Air Service and United States Army Special Forces(Green Berets). Official numbers are put at 2,100 men, in 3 Battalions; however the actual strength is classified. It is estimated to have been increased to 4 Battalions, with the eventual formation of 2 Brigades of Special Forces (6 Battalions).</German>
+		<Italian>[TAB]Special Services Group (SSG) is an independent commando brigade of the Pakistan Army. It is an elite special operations force similar to the ,Special Air Service and United States Army Special Forces(Green Berets). Official numbers are put at 2,100 men, in 3 Battalions; however the actual strength is classified. It is estimated to have been increased to 4 Battalions, with the eventual formation of 2 Brigades of Special Forces (6 Battalions).</Italian>
+		<Spanish>[TAB]Special Services Group (SSG) is an independent commando brigade of the Pakistan Army. It is an elite special operations force similar to the ,Special Air Service and United States Army Special Forces(Green Berets). Official numbers are put at 2,100 men, in 3 Battalions; however the actual strength is classified. It is estimated to have been increased to 4 Battalions, with the eventual formation of 2 Brigades of Special Forces (6 Battalions).</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PAKISTAN_SSG_STRATEGY</Tag>
+		<English>The Pakistani replacement for the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT] moves faster and receives two promotions when built.</English>
+		<French>The Pakistani replacement for the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT] moves faster and receives two promotions when built.</French>
+		<German>The Pakistani replacement for the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT] moves faster and receives two promotions when built.</German>
+		<Italian>The Pakistani replacement for the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT] moves faster and receives two promotions when built.</Italian>
+		<Spanish>The Pakistani replacement for the [COLOR_UNIT_TEXT]Marine[COLOR_REVERT] moves faster and receives two promotions when built.</Spanish>
+	</TEXT>
+</Civ4GameText>	

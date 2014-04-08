@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:MootHill_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		 <BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ANGLO_SAXON_MOOT_HILL</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.20</fScale>
+			<fInterfaceScale>0.45</fInterfaceScale>
+			<NIF>art/AngloSaxons/MootHill/Amber College.nif</NIF>
+			<KFM/>
+			<Button>art/AngloSaxons/MootHill/moothill.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

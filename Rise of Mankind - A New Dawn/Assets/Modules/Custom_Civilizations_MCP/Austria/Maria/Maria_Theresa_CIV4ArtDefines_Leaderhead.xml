@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Maria_Theresa_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MARIA_THERESA</Type>
+			<Button>art/Austria/Maria/MariaTeresa.dds</Button>
+			<NIF>art/Austria/Maria/Maria.nif</NIF>
+			<KFM>art/Austria/Maria/catherine.kfm</KFM>
+			<NoShaderNIF>art/Austria/Maria/Maria.nif</NoShaderNIF>
+			<BackgroundKFM>art/Austria/Maria/catherine_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

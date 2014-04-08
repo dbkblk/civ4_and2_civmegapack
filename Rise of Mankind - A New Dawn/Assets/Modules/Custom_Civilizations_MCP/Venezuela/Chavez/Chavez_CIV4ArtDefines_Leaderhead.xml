@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Chavez_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+            <Type>ART_DEF_LEADER_CHAVEZ</Type>
+			<Button>art/Venezuela/Chavez/chavezbutton.dds</Button>
+			<NIF>art/Venezuela/Chavez/chavez.nif</NIF>
+			<KFM>art/Venezuela/Chavez/josef_stalin.kfm</KFM>
+			<NoShaderNIF>art/Venezuela/Chavez/chavez.nif</NoShaderNIF>
+			<BackgroundKFM>art/Venezuela/Chavez/josef_stalin_bg.kfm</BackgroundKFM>
+          </LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

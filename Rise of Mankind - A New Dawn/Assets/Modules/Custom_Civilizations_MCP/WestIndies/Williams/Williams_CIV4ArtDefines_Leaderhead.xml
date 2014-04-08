@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Williams_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_WILLIAMS</Type>
+			<Button>art/WestIndies/Williams/Williams.dds</Button>
+			<NIF>art/WestIndies/Williams/fdr.nif</NIF>
+			<KFM>art/WestIndies/Williams/fdr.kfm</KFM>
+			<NoShaderNIF>art/WestIndies/Williams/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/WestIndies/Williams/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

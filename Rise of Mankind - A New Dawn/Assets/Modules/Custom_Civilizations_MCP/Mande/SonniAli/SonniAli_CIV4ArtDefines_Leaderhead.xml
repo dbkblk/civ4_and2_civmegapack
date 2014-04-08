@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:SonniAli_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SUNNI_ALI</Type>
+			<Button>art/Mande/SonniAli/Button.dds</Button>
+			<NIF>art/Mande/SonniAli/sunni_ali.nif</NIF>
+			<KFM>art/Mande/SonniAli/Pericles.kfm</KFM>
+			<NoShaderNIF>art/Mande/SonniAli/sunni_ali.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mande/SonniAli/zara yaqob_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

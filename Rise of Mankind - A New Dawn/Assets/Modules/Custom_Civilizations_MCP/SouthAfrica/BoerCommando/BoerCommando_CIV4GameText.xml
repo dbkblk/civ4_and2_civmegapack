@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOUTHAFRICA_BOERCOMMANDO</Tag>
+		<English>Boer Commando</English>
+		<French>Boer Commando</French>
+		<German>Boer Commando</German>
+		<Italian>Boer Commando</Italian>
+		<Spanish>Boer Commando</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOUTHAFRICA_BOERCOMMANDO_PEDIA</Tag>
+		<English>[TAB]Guerrilla tactics were used extensively by the forces of the Afrikaner republics in the Second Boer War in South Africa 1899-1902. After the British defeated the Boer armies in conventional warfare and occupied their capitals of Pretoria and Bloemfontein, Boer commandos reverted to mobile warfare. Units led by leaders such as Christian de Wet harassed slow-moving British columns and attacked railway lines and encampments. The Boers were almost all mounted and possessed long range magazine loaded rifles. This gave them the ability to attack quickly and cause many casualties before retreating rapidly when British reinforcements arrived. In the early period of the guerrilla war, Boer commandoes could be very large, containing several thousand men and even field artillery. However, as their supplies of food and ammunition gave out, the Boers increasingly broke up into smaller units and relied on captured British arms and ammunition.</English>
+		<French>[TAB]Guerrilla tactics were used extensively by the forces of the Afrikaner republics in the Second Boer War in South Africa 1899-1902. After the British defeated the Boer armies in conventional warfare and occupied their capitals of Pretoria and Bloemfontein, Boer commandos reverted to mobile warfare. Units led by leaders such as Christian de Wet harassed slow-moving British columns and attacked railway lines and encampments. The Boers were almost all mounted and possessed long range magazine loaded rifles. This gave them the ability to attack quickly and cause many casualties before retreating rapidly when British reinforcements arrived. In the early period of the guerrilla war, Boer commandoes could be very large, containing several thousand men and even field artillery. However, as their supplies of food and ammunition gave out, the Boers increasingly broke up into smaller units and relied on captured British arms and ammunition.</French>
+		<German>[TAB]Guerrilla tactics were used extensively by the forces of the Afrikaner republics in the Second Boer War in South Africa 1899-1902. After the British defeated the Boer armies in conventional warfare and occupied their capitals of Pretoria and Bloemfontein, Boer commandos reverted to mobile warfare. Units led by leaders such as Christian de Wet harassed slow-moving British columns and attacked railway lines and encampments. The Boers were almost all mounted and possessed long range magazine loaded rifles. This gave them the ability to attack quickly and cause many casualties before retreating rapidly when British reinforcements arrived. In the early period of the guerrilla war, Boer commandoes could be very large, containing several thousand men and even field artillery. However, as their supplies of food and ammunition gave out, the Boers increasingly broke up into smaller units and relied on captured British arms and ammunition.</German>
+		<Italian>[TAB]Guerrilla tactics were used extensively by the forces of the Afrikaner republics in the Second Boer War in South Africa 1899-1902. After the British defeated the Boer armies in conventional warfare and occupied their capitals of Pretoria and Bloemfontein, Boer commandos reverted to mobile warfare. Units led by leaders such as Christian de Wet harassed slow-moving British columns and attacked railway lines and encampments. The Boers were almost all mounted and possessed long range magazine loaded rifles. This gave them the ability to attack quickly and cause many casualties before retreating rapidly when British reinforcements arrived. In the early period of the guerrilla war, Boer commandoes could be very large, containing several thousand men and even field artillery. However, as their supplies of food and ammunition gave out, the Boers increasingly broke up into smaller units and relied on captured British arms and ammunition.</Italian>
+		<Spanish>[TAB]Guerrilla tactics were used extensively by the forces of the Afrikaner republics in the Second Boer War in South Africa 1899-1902. After the British defeated the Boer armies in conventional warfare and occupied their capitals of Pretoria and Bloemfontein, Boer commandos reverted to mobile warfare. Units led by leaders such as Christian de Wet harassed slow-moving British columns and attacked railway lines and encampments. The Boers were almost all mounted and possessed long range magazine loaded rifles. This gave them the ability to attack quickly and cause many casualties before retreating rapidly when British reinforcements arrived. In the early period of the guerrilla war, Boer commandoes could be very large, containing several thousand men and even field artillery. However, as their supplies of food and ammunition gave out, the Boers increasingly broke up into smaller units and relied on captured British arms and ammunition.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SOUTHAFRICA_BOERCOMMANDO_STRATEGY</Tag>
+		<English>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</English>
+		<French>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</French>
+		<German>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</German>
+		<Italian>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</Italian>
+		<Spanish>The South African replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] starts with a free Commando promotion.</Spanish>
+	</TEXT>
+</Civ4GameText>	

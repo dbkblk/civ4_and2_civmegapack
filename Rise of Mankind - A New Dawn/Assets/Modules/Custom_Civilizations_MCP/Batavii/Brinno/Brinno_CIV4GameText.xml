@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BRINNO</Tag>
+		<English>Brinno</English>
+		<French>
+			<Text>Brinno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Brinno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Brinno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Brinno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BRINNO_PEDIA</Tag>
+       		<English>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</English>
+		<French>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</French>
+		<German>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</German>
+		<Italian>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</Italian>
+		<Spanish>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</Spanish>
+		<Russian>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</Russian>
+		<Japanese>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</Japanese>
+		<Chinese>[H1]Brinno[\H1][NEWLINE][BOLD]Chieftain of the Cananefates[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] c. 1st Century AD[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Brinno was leader of the Canninefates when they joined in the Batavian rebellion at the mouth of the Rhine in AD69. According to Tacitus he was:  "...a man of a certain stolid bravery and of distinguished birth. His father, after venturing on many acts of hostility, had scorned with impunity the ridiculous expedition of Caligula. His very name, the name of a family of rebels, made him popular. Raised aloft on a shield after the national fashion, and balanced on the shoulders of the bearers, he was chosen general."</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_BRINNO_1</Tag>
+		<English>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</English>
+		<French>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</French>
+		<German>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</German>
+		<Italian>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</Italian>
+		<Spanish>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</Spanish>
+		<Russian>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</Russian>
+		<Japanese>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</Japanese>
+		<Chinese>I am [OUR_NAME], a man of distinguished birth and a brave soldier.  Disrespect me, and I will have your head.</Chinese>
+	</TEXT>
+</Civ4GameText>

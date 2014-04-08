@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Boru_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BORU</Type>
+			<Button>,art/Ireland/Boru/Boru.dds,art/Ireland/Boru/Ireland_Atlas.dds,1,1</Button>
+			<NIF>art/Ireland/Boru/ragnar_lodbrok.nif</NIF>
+			<KFM>art/Ireland/Boru/ragnar_lodbrok.kfm</KFM>
+			<NoShaderNIF>art/Ireland/Boru/ragnar_lodbrok_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Ireland/Boru/bismarck_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONGO_FIDALGO</Tag>
+		<English>Fidalgo</English>
+		<French>Fidalgo</French>
+		<German>Fidalgo</German>
+		<Italian>Fidalgo</Italian>
+		<Spanish>Fidalgo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONGO_FIDALGO_STRATEGY</Tag>
+		<English>The Congolese swordsman replacement, the [COLOR_UNIT_TEXT]Fidalgo[COLOR_REVERT], is a bit cheaper and automatically receives the Woodsman I promotion, giving it an additional defensive bonus in jungles or forests.</English>
+		<French>The Congolese swordsman replacement, the [COLOR_UNIT_TEXT]Fidalgo[COLOR_REVERT], is a bit cheaper and automatically receives the Woodsman I promotion, giving it an additional defensive bonus in jungles or forests.</French>
+		<German>The Congolese swordsman replacement, the [COLOR_UNIT_TEXT]Fidalgo[COLOR_REVERT], is a bit cheaper and automatically receives the Woodsman I promotion, giving it an additional defensive bonus in jungles or forests.</German>
+		<Italian>The Congolese swordsman replacement, the [COLOR_UNIT_TEXT]Fidalgo[COLOR_REVERT], is a bit cheaper and automatically receives the Woodsman I promotion, giving it an additional defensive bonus in jungles or forests.</Italian>
+		<Spanish>The Congolese swordsman replacement, the [COLOR_UNIT_TEXT]Fidalgo[COLOR_REVERT], is a bit cheaper and automatically receives the Woodsman I promotion, giving it an additional defensive bonus in jungles or forests.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONGO_FIDALGO_PEDIA</Tag>
+		<English>[TAB]The Congo kingdom's army consisted of a mass levy of archers, drawn from the general male population, and a smaller corps of heavy infantry, who fought with swords and carried shields for protection. Portuguese documents typically referred to heavy infantry, considered nobles, as fidalgos in documents.</English>
+		<French>[TAB]The Congo kingdom's army consisted of a mass levy of archers, drawn from the general male population, and a smaller corps of heavy infantry, who fought with swords and carried shields for protection. Portuguese documents typically referred to heavy infantry, considered nobles, as fidalgos in documents.</French>
+		<German>[TAB]The Congo kingdom's army consisted of a mass levy of archers, drawn from the general male population, and a smaller corps of heavy infantry, who fought with swords and carried shields for protection. Portuguese documents typically referred to heavy infantry, considered nobles, as fidalgos in documents.</German>
+		<Italian>[TAB]The Congo kingdom's army consisted of a mass levy of archers, drawn from the general male population, and a smaller corps of heavy infantry, who fought with swords and carried shields for protection. Portuguese documents typically referred to heavy infantry, considered nobles, as fidalgos in documents.</Italian>
+		<Spanish>[TAB]The Congo kingdom's army consisted of a mass levy of archers, drawn from the general male population, and a smaller corps of heavy infantry, who fought with swords and carried shields for protection. Portuguese documents typically referred to heavy infantry, considered nobles, as fidalgos in documents.</Spanish>
+	</TEXT>
+</Civ4GameText>	

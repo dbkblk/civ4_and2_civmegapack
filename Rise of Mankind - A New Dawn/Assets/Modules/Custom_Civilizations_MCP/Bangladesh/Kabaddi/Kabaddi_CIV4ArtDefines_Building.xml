@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kabaddi_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+        <BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_BANGLADESH_KABADDI</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.7</fScale>
+			<fInterfaceScale>0.3</fInterfaceScale>
+			<NIF>art/Bangladesh/Kabaddi/recyclingcenter.nif</NIF>
+			<KFM/>
+			<Button>art/Bangladesh/Kabaddi/Kabaddi.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

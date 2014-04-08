@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Ostenaco_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OSTENACO</Type>
+			<Button>art/Aniyonega/Ostenaco/Tecumseh.dds</Button>
+			<NIF>art/Aniyonega/Ostenaco/huayna_capac.nif</NIF>
+			<KFM>art/Aniyonega/Ostenaco/huayna_capac.kfm</KFM>
+			<NoShaderNIF>Art/LeaderHeads/Sid/sid_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Aniyonega/Ostenaco/huayna_capac_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

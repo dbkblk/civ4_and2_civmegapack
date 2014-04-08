@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DENMARK_MANOR</Tag>
+		<English>Manor House</English>
+		<French>Manor House</French>
+		<German>Manor House</German>
+		<Italian>Manor House</Italian>
+		<Spanish>Manor House</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DENMARK_MANOR_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</English>
+		<French>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</French>
+		<German>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DENMARK_MANOR_PEDIA</Tag>
+		<English>[TAB]For centuries, most of Denmark was divided into a relatively small number of large estates, the farms of gentlemen. The seats of such estates were the herregaarde, or manor houses. There are still more than 400 manor houses in Denmark, dating from as far back as 1200 and as recently as 1915. Today, about 80 of these stately houses are open, at least in part, to the public. Time has wrought changes, sometimes peculiar changes, in these sturdy ghosts. But all are windows on a time when luxury, beauty, art and even the splendor of nature were the birthright of the lucky few.[PARAGRAPH:1]</English>
+		<French>[TAB]For centuries, most of Denmark was divided into a relatively small number of large estates, the farms of gentlemen. The seats of such estates were the herregaarde, or manor houses. There are still more than 400 manor houses in Denmark, dating from as far back as 1200 and as recently as 1915. Today, about 80 of these stately houses are open, at least in part, to the public. Time has wrought changes, sometimes peculiar changes, in these sturdy ghosts. But all are windows on a time when luxury, beauty, art and even the splendor of nature were the birthright of the lucky few.[PARAGRAPH:1]</French>
+		<German>[TAB]For centuries, most of Denmark was divided into a relatively small number of large estates, the farms of gentlemen. The seats of such estates were the herregaarde, or manor houses. There are still more than 400 manor houses in Denmark, dating from as far back as 1200 and as recently as 1915. Today, about 80 of these stately houses are open, at least in part, to the public. Time has wrought changes, sometimes peculiar changes, in these sturdy ghosts. But all are windows on a time when luxury, beauty, art and even the splendor of nature were the birthright of the lucky few.[PARAGRAPH:1]</German>
+		<Italian>[TAB]For centuries, most of Denmark was divided into a relatively small number of large estates, the farms of gentlemen. The seats of such estates were the herregaarde, or manor houses. There are still more than 400 manor houses in Denmark, dating from as far back as 1200 and as recently as 1915. Today, about 80 of these stately houses are open, at least in part, to the public. Time has wrought changes, sometimes peculiar changes, in these sturdy ghosts. But all are windows on a time when luxury, beauty, art and even the splendor of nature were the birthright of the lucky few.[PARAGRAPH:1]</Italian>
+		<Spanish>[TAB]For centuries, most of Denmark was divided into a relatively small number of large estates, the farms of gentlemen. The seats of such estates were the herregaarde, or manor houses. There are still more than 400 manor houses in Denmark, dating from as far back as 1200 and as recently as 1915. Today, about 80 of these stately houses are open, at least in part, to the public. Time has wrought changes, sometimes peculiar changes, in these sturdy ghosts. But all are windows on a time when luxury, beauty, art and even the splendor of nature were the birthright of the lucky few.[PARAGRAPH:1]</Spanish>
+	</TEXT>
+</Civ4GameText>

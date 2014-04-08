@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Chalchiuhtlatonac_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CHALCHIUHTLATONAC</Type>
+			<Button>art/Toltec/Chalchiuhtlatonac/Chalchiuhtlatonac.dds</Button>
+			<NIF>art/Toltec/Chalchiuhtlatonac/montezuma.nif</NIF>
+			<KFM>art/Toltec/Chalchiuhtlatonac/montezuma.kfm</KFM>
+			<NoShaderNIF>art/Toltec/Chalchiuhtlatonac/montezuma_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Toltec/Chalchiuhtlatonac/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

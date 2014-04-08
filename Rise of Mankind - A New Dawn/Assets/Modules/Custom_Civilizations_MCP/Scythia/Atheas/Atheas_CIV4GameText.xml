@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ATHEAS</Tag>
+		<English>Atheas</English>
+		<French>Atheas</French>
+		<German>Atheas</German>
+		<Italian>Atheas</Italian>
+		<Spanish>Atheas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ATHEAS_PEDIA</Tag>
+		<English>[H1]Atheas[\H1][NEWLINE][BOLD]King of the Scythian Tribes[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.? - 339 BC [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Beginning in the 4th century BC, several of the nomadic tribes settled to the north of the Black Sea. Kamenskoe Gorodishche (situated in the center of the land separating the Black and Caspian Seas, north of the Caucasus) became the center or capital of the Scythians. King Atheas managed to unite the many Scythian tribes and expanded his domain to the banks of the Danube.[PARAGRAPH:1] In 339 BC, Atheas died while doing battle with Philip of Macedon. Scythia was a power to be reckoned with until the latter part of the 3rd century BC when they were attacked and ultimately absorbed by Thracians from the west and Sarmatians from the east. From hence on, the Scythians are not mentioned in history.</English>
+		<French>[H1]Atheas[\H1][NEWLINE][BOLD]King of the Scythian Tribes[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.? - 339 BC [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Beginning in the 4th century BC, several of the nomadic tribes settled to the north of the Black Sea. Kamenskoe Gorodishche (situated in the center of the land separating the Black and Caspian Seas, north of the Caucasus) became the center or capital of the Scythians. King Atheas managed to unite the many Scythian tribes and expanded his domain to the banks of the Danube.[PARAGRAPH:1] In 339 BC, Atheas died while doing battle with Philip of Macedon. Scythia was a power to be reckoned with until the latter part of the 3rd century BC when they were attacked and ultimately absorbed by Thracians from the west and Sarmatians from the east. From hence on, the Scythians are not mentioned in history.</French>
+		<German>[H1]Atheas[\H1][NEWLINE][BOLD]King of the Scythian Tribes[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.? - 339 BC [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Beginning in the 4th century BC, several of the nomadic tribes settled to the north of the Black Sea. Kamenskoe Gorodishche (situated in the center of the land separating the Black and Caspian Seas, north of the Caucasus) became the center or capital of the Scythians. King Atheas managed to unite the many Scythian tribes and expanded his domain to the banks of the Danube.[PARAGRAPH:1] In 339 BC, Atheas died while doing battle with Philip of Macedon. Scythia was a power to be reckoned with until the latter part of the 3rd century BC when they were attacked and ultimately absorbed by Thracians from the west and Sarmatians from the east. From hence on, the Scythians are not mentioned in history.</German>
+		<Italian>[H1]Atheas[\H1][NEWLINE][BOLD]King of the Scythian Tribes[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.? - 339 BC [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Beginning in the 4th century BC, several of the nomadic tribes settled to the north of the Black Sea. Kamenskoe Gorodishche (situated in the center of the land separating the Black and Caspian Seas, north of the Caucasus) became the center or capital of the Scythians. King Atheas managed to unite the many Scythian tribes and expanded his domain to the banks of the Danube.[PARAGRAPH:1] In 339 BC, Atheas died while doing battle with Philip of Macedon. Scythia was a power to be reckoned with until the latter part of the 3rd century BC when they were attacked and ultimately absorbed by Thracians from the west and Sarmatians from the east. From hence on, the Scythians are not mentioned in history.</Italian>
+		<Spanish>[H1]Atheas[\H1][NEWLINE][BOLD]King of the Scythian Tribes[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]c.? - 339 BC [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Beginning in the 4th century BC, several of the nomadic tribes settled to the north of the Black Sea. Kamenskoe Gorodishche (situated in the center of the land separating the Black and Caspian Seas, north of the Caucasus) became the center or capital of the Scythians. King Atheas managed to unite the many Scythian tribes and expanded his domain to the banks of the Danube.[PARAGRAPH:1] In 339 BC, Atheas died while doing battle with Philip of Macedon. Scythia was a power to be reckoned with until the latter part of the 3rd century BC when they were attacked and ultimately absorbed by Thracians from the west and Sarmatians from the east. From hence on, the Scythians are not mentioned in history.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ATHEAS_1</Tag>
+		<English>I am [OUR_NAME] of the [OUR_EMPIRE]. If you must needs come to blows with us speedily, look about you, and behold our fathers' tombs. Attempt to meddle with them and you shall see whether or not we will fight with you.</English>
+		<French>I am [OUR_NAME] of the [OUR_EMPIRE]. If you must needs come to blows with us speedily, look about you, and behold our fathers' tombs. Attempt to meddle with them and you shall see whether or not we will fight with you.</French>
+		<German>I am [OUR_NAME] of the [OUR_EMPIRE]. If you must needs come to blows with us speedily, look about you, and behold our fathers' tombs. Attempt to meddle with them and you shall see whether or not we will fight with you.</German>
+		<Italian>I am [OUR_NAME] of the [OUR_EMPIRE]. If you must needs come to blows with us speedily, look about you, and behold our fathers' tombs. Attempt to meddle with them and you shall see whether or not we will fight with you.</Italian>
+		<Spanish>I am [OUR_NAME] of the [OUR_EMPIRE]. If you must needs come to blows with us speedily, look about you, and behold our fathers' tombs. Attempt to meddle with them and you shall see whether or not we will fight with you.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your Refuse to talk response</English>
+		<French>Your Refuse to talk response</French>
+		<German>Your Refuse to talk response</German>
+		<Italian>Your Refuse to talk response</Italian>
+		<Spanish>Your Refuse to talk response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your refuse to peace talks response</English>
+		<French>Your refuse to peace talks response</French>
+		<German>Your refuse to peace talks response</German>
+		<Italian>Your refuse to peace talks response</Italian>
+		<Spanish>Your refuse to peace talks response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your Friendly Hello Response</English>
+		<French>Your Friendly Hello Response</French>
+		<German>Your Friendly Hello Response</German>
+		<Italian>Your Friendly Hello Response</Italian>
+		<Spanish>Your Friendly Hello Response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SAMPLE_LEADER_1</Tag>
+		<English>Your Unfriendly Hello Response</English>
+		<French>Your Unfriendly Hello Response</French>
+		<German>Your Unfriendly Hello Response</German>
+		<Italian>Your Unfriendly Hello Response</Italian>
+		<Spanish>Your Unfriendly Hello Response</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SAMPLE_LEADER_1</Tag>
+		<English>Your Demands to another civ when you are weaker then they are</English>
+		<French>Your Demands to another civ when you are weaker then they are</French>
+		<German>Your Demands to another civ when you are weaker then they are</German>
+		<Italian>Your Demands to another civ when you are weaker then they are</Italian>
+		<Spanish>Your Demands to another civ when you are weaker then they are</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SAMPLE_LEADER_1</Tag>
+		<English>Your Demands to another civ when you are Equal to power as they are</English>
+		<French>Your Demands to another civ when you are Equal to power as they are</French>
+		<German>Your Demands to another civ when you are Equal to power as they are</German>
+		<Italian>Your Demands to another civ when you are Equal to power as they are</Italian>
+		<Spanish>Your Demands to another civ when you are Equal to power as they are</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SAMPLE_LEADER_1</Tag>
+		<English>Your Demands to another civ when you are stronger then they are</English>
+		<French>Your Demands to another civ when you are stronger then they are</French>
+		<German>Your Demands to another civ when you are stronger then they are</German>
+		<Italian>Your Demands to another civ when you are stronger then they are</Italian>
+		<Spanish>Your Demands to another civ when you are stronger then they are</Spanish>
+	</TEXT>
+</Civ4GameText>

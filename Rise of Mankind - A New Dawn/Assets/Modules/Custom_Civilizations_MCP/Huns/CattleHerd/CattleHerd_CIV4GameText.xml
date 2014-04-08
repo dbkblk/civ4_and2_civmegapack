@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNS_CATTLE</Tag>
+		<English>Cattle Herd</English>
+		<French>Cattle Herd</French>
+		<German>Cattle Herd</German>
+		<Italian>Cattle Herd</Italian>
+		<Spanish>Cattle Herd</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNS_CATTLE_PEDIA</Tag>
+		<English>[TAB]The Huns were a confederation of nomadic pastoralist people who, appearing from beyond the Volga, invaded Europe c. AD 370 and built up an enormous empire in Eurasia. They kept herds of cattle, horses, goats, and sheep as sources as food, as well as resources for clothing and other materials.</English>
+		<French>[TAB]The Huns were a confederation of nomadic pastoralist people who, appearing from beyond the Volga, invaded Europe c. AD 370 and built up an enormous empire in Eurasia. They kept herds of cattle, horses, goats, and sheep as sources as food, as well as resources for clothing and other materials.</French>
+		<German>[TAB]The Huns were a confederation of nomadic pastoralist people who, appearing from beyond the Volga, invaded Europe c. AD 370 and built up an enormous empire in Eurasia. They kept herds of cattle, horses, goats, and sheep as sources as food, as well as resources for clothing and other materials.</German>
+		<Italian>[TAB]The Huns were a confederation of nomadic pastoralist people who, appearing from beyond the Volga, invaded Europe c. AD 370 and built up an enormous empire in Eurasia. They kept herds of cattle, horses, goats, and sheep as sources as food, as well as resources for clothing and other materials.</Italian>
+		<Spanish>[TAB]The Huns were a confederation of nomadic pastoralist people who, appearing from beyond the Volga, invaded Europe c. AD 370 and built up an enormous empire in Eurasia. They kept herds of cattle, horses, goats, and sheep as sources as food, as well as resources for clothing and other materials.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNS_CATTLE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Cattle Herd[COLOR_REVERT] is the Hunnic replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]. It provides units built in the city with the Formation I promotion.</English>
+		<French>The [COLOR_BUILDING_TEXT]Cattle Herd[COLOR_REVERT] is the Hunnic replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]. It provides units built in the city with the Formation I promotion.</French>
+		<German>The [COLOR_BUILDING_TEXT]Cattle Herd[COLOR_REVERT] is the Hunnic replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]. It provides units built in the city with the Formation I promotion.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Cattle Herd[COLOR_REVERT] is the Hunnic replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]. It provides units built in the city with the Formation I promotion.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Cattle Herd[COLOR_REVERT] is the Hunnic replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]. It provides units built in the city with the Formation I promotion.</Spanish>
+	</TEXT>
+</Civ4GameText>

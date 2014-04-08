@@ -1,0 +1,14 @@
+<Civ4ArtDefines xmlns="x-schema:AME_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_AKKADIAN_TEMPLE_ISHTAR</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.8</fScale>
+			<fInterfaceScale>0.8</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Religion/Zoroastrian_Monastery/zoro_kloster.nif</NIF>
+			<KFM/>
+			<Button>art/Akkad/Art/Ishtar/Ishtar.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

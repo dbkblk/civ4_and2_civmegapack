@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN</Tag>
+		<English>Midewiwin</English>
+		<French>Midewiwin</French>
+		<German>Midewiwin</German>
+		<Italian>Midewiwin</Italian>
+		<Spanish>Midewiwin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT]) boost your cities' research and provide culture. They also allow you to turn 2 extra citizen in the city into a Scientist.</English>
+		<French>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT]) boost your cities' research and provide culture. They also allow you to turn 2 extra citizen in the city into a Scientist.</French>
+		<German>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT]) boost your cities' research and provide culture. They also allow you to turn 2 extra citizen in the city into a Scientist.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT]) boost your cities' research and provide culture. They also allow you to turn 2 extra citizen in the city into a Scientist.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT]) boost your cities' research and provide culture. They also allow you to turn 2 extra citizen in the city into a Scientist.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_PEDIA</Tag>
+		<English>[TAB]The name Midewiwin is derived from a Native American term for the Grand Medicine Society, a super-secret society of which today members would nominally be called by others than the Medewiwin, Shamans. Tribal groups who had such societies include the Ojibwa, Chippewa, Ottawa, and Potawatomi, the last of whom were prominent residents of the Midewiwin National Tallgrass Prairie region from the mid 1700's to the early to mid-1800's. According to the Potawatomi, Mide' or Mida (pronounced mid-day), means ‘mystic' or ‘mystically powerful.' The curing rituals performed by the members of the Midewiwin relied heavily on a tradition that incorporated mystical elements arising from the beliefs about the spirits that protected the "the original people".</English>
+		<French>[TAB]The name Midewiwin is derived from a Native American term for the Grand Medicine Society, a super-secret society of which today members would nominally be called by others than the Medewiwin, Shamans. Tribal groups who had such societies include the Ojibwa, Chippewa, Ottawa, and Potawatomi, the last of whom were prominent residents of the Midewiwin National Tallgrass Prairie region from the mid 1700's to the early to mid-1800's. According to the Potawatomi, Mide' or Mida (pronounced mid-day), means ‘mystic' or ‘mystically powerful.' The curing rituals performed by the members of the Midewiwin relied heavily on a tradition that incorporated mystical elements arising from the beliefs about the spirits that protected the "the original people".</French>
+		<German>[TAB]The name Midewiwin is derived from a Native American term for the Grand Medicine Society, a super-secret society of which today members would nominally be called by others than the Medewiwin, Shamans. Tribal groups who had such societies include the Ojibwa, Chippewa, Ottawa, and Potawatomi, the last of whom were prominent residents of the Midewiwin National Tallgrass Prairie region from the mid 1700's to the early to mid-1800's. According to the Potawatomi, Mide' or Mida (pronounced mid-day), means ‘mystic' or ‘mystically powerful.' The curing rituals performed by the members of the Midewiwin relied heavily on a tradition that incorporated mystical elements arising from the beliefs about the spirits that protected the "the original people".</German>
+		<Italian>[TAB]The name Midewiwin is derived from a Native American term for the Grand Medicine Society, a super-secret society of which today members would nominally be called by others than the Medewiwin, Shamans. Tribal groups who had such societies include the Ojibwa, Chippewa, Ottawa, and Potawatomi, the last of whom were prominent residents of the Midewiwin National Tallgrass Prairie region from the mid 1700's to the early to mid-1800's. According to the Potawatomi, Mide' or Mida (pronounced mid-day), means ‘mystic' or ‘mystically powerful.' The curing rituals performed by the members of the Midewiwin relied heavily on a tradition that incorporated mystical elements arising from the beliefs about the spirits that protected the "the original people".</Italian>
+		<Spanish>[TAB]The name Midewiwin is derived from a Native American term for the Grand Medicine Society, a super-secret society of which today members would nominally be called by others than the Medewiwin, Shamans. Tribal groups who had such societies include the Ojibwa, Chippewa, Ottawa, and Potawatomi, the last of whom were prominent residents of the Midewiwin National Tallgrass Prairie region from the mid 1700's to the early to mid-1800's. According to the Potawatomi, Mide' or Mida (pronounced mid-day), means ‘mystic' or ‘mystically powerful.' The curing rituals performed by the members of the Midewiwin relied heavily on a tradition that incorporated mystical elements arising from the beliefs about the spirits that protected the "the original people".</Spanish>
+	</TEXT>
+</Civ4GameText>

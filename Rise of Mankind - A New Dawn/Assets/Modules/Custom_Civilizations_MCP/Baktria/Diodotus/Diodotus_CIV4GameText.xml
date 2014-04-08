@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DIODOTUS</Tag>
+		<English>Diodotus I</English>
+		<French>
+			<Text>Diodotus I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Diodotus I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Diodotus I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Diodotus I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DIODOTUS_PEDIA</Tag>
+       		<English>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</English>
+		<French>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</French>
+		<German>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</German>
+		<Italian>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</Italian>
+		<Spanish>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</Spanish>
+		<Russian>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</Russian>
+		<Japanese>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</Japanese>
+		<Chinese>[H1]Diodotus I[\H1][NEWLINE][BOLD]Satrap of the Baktrian Kingdom[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] 3rd Century BC[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] Satrap (governor) of the Seleucid province of Baktria, who, with his son of the same name, founded the Greek kingdom of Baktria.[NEWLINE][TAB]At first subject to the Seleucid king Antiochus I and later to Antiochus II, Diodotus rebelled in about 250 and took the title of king. Little is known of his reign, but, according to some scholars, the Seleucid king Seleucus II, in order to secure Diodotus' friendship, married one of his sisters to him during a time (246) when the Seleucid Empire was in chaos. Diodotus was succeeded by his son, Diodotus II, and after his death was called by the cult-name Soter (Saviour).</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DIODOTUS_1</Tag>
+		<English>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]!</English>
+		<French>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]!</French>
+		<German>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]!</German>
+		<Italian>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]!</Italian>
+		<Spanish>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</Spanish>
+		<Russian>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</Russian>
+		<Japanese>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</Japanese>
+		<Chinese>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</Chinese>
+	</TEXT>
+</Civ4GameText>

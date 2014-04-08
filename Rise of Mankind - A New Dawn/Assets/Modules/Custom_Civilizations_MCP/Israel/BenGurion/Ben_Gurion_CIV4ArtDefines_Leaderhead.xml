@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ben_Gurion_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BEN_GURION</Type>
+			<Button>,art/Israel/BenGurion/bengurion.dds,art/Israel/BenGurion/Israel_Atlas.dds,5,1</Button>
+			<NIF>art/Israel/BenGurion/winston_churchill.nif</NIF>
+			<KFM>art/Israel/BenGurion/winston_churchill.kfm</KFM>
+			<NoShaderNIF>art/Israel/BenGurion/winston_churchill_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Israel/BenGurion/winston_churchill_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

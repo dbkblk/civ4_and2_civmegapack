@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Menzies_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MENZIES</Type>
+			<Button>art/Australia/Menzies/Menzies.dds</Button>
+			<NIF>art/Australia/Menzies/fdr.nif</NIF>
+			<KFM>art/Australia/Menzies/fdr.kfm</KFM>
+			<NoShaderNIF>art/Australia/Menzies/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Australia/Menzies/fdr_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by strategyonly -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+    	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BOULEVARD_CIRCLE</Tag>
+		<English>Boulevard Circle</English>
+		<French>Boulevard Circle</French>
+		<German>Boulevard Circle</German>
+		<Italian>Boulevard Circle</Italian>
+		<Spanish>Boulevard Circle</Spanish>
+	</TEXT>
+    	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BOULEVARD_CIRCLE_PEDIA</Tag>
+		<English>[TAB]Boulevard Circle and its key element, channel, embrace the Old Riga from three sides, enclosed by the Daugava River from the remaining side. Ensemble of parks, created after 1856, became the first stage of fortification system reconstruction commenced in the 17th century by Swedish military engineers. Extensive parks with few loosely scattered buildings and residential blocks have become a wonderful counterpoint to the Old Riga. Boulevard Circle separates the Old Riga from Art Noveau blocks in the centre.</English>
+		<French>Not in French</French>
+		<German>Not in German</German>
+		<Italian>Not in Italian</Italian>
+		<Spanish>Not in Spanish</Spanish>
+	</TEXT>
+</Civ4GameText>

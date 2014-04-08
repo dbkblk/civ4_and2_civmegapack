@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mandela_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MANDELA</Type>
+			<Button>art/SouthAfrica/Mandela/NMandela.dds</Button>
+			<NIF>art/SouthAfrica/Mandela/Nmandela.nif</NIF>
+			<KFM>art/SouthAfrica/Mandela/gandhi.kfm</KFM>
+			<NoShaderNIF>art/SouthAfrica/Mandela/Nmandela.nif</NoShaderNIF>
+			<BackgroundKFM>art/SouthAfrica/Mandela/gandhi_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

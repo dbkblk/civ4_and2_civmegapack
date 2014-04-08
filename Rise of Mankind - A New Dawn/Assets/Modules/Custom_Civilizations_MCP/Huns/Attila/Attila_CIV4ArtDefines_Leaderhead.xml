@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Attila_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ATTILA</Type>
+			<Button>art/Huns/Attila/Btn_LH_Attila.dds</Button>
+			<NIF>art/Huns/Attila/Attila.nif</NIF>
+			<KFM>art/Huns/Attila/gilgamesh.kfm</KFM>
+			<NoShaderNIF>art/Huns/Attila/Attila.nif</NoShaderNIF>
+			<BackgroundKFM>art/Huns/Attila/Gilgamesh_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

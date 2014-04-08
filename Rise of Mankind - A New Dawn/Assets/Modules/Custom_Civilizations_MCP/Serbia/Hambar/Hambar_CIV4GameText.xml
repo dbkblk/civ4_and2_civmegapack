@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HAMBAR</Tag>
+		<English>Hambar</English>
+		<French>Hambar</French>
+		<German>Hambar</German>
+		<Italian>Hambar</Italian>
+		<Spanish>Hambar</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_HAMBAR_PEDIA</Tag>
+		<English>[TAB]A hambar is a corn crib or small structure used for storing and drying corn in the Balkans and bordering regions in the Pannonian plain.  Although many hambars are generally obsolete, there are still some hambars found throughout the Balkan region.  The word originates from the Turkish word ambar meaning "storehouse, warehouse, or repository."  The word in its original form, ambar, is also used in Serbia.</English>
+		<French>[TAB]Un hambar est une huche de maïs ou une petite structure utilisée pour stocker et sécher le maïs aux Balkans et des régions encadrantes dans la plaine de Pannonian.  Bien que beaucoup de hambars soient généralement désuets, il restent quelques hambars trouvés dans toute la région balkanique.  Le mot provient de la signification ambar de mot turc « entrepôt, entrepôt, ou dépôt. »  Le mot sous sa forme originale, ambar, est également employé en Serbie.</French>
+		<German>[TAB]Ein hambar ist eine Maiskrippe oder eine kleine Struktur, die für die Speicherung und das Trocknen von Mais in den Balkan und die einfassenden Regionen in der Pannonian Ebene benutzt werden.  Obgleich viele hambars im Allgemeinen überholt sind, gibt es noch etwas hambars, die während der Balkan Region gefunden werden.  Das Wort entsteht von der ambar Bedeutung des türkischen Wortes „Lagerhaus, Lager oder Behälter.“  Das Wort in seiner ursprünglichen Form, ambar, wird auch in Serbien verwendet.</German>
+		<Italian>[TAB]Un hambar è una greppia del cereale o una piccola struttura usata per immagazzinare e l'essiccamento del cereale nei Balcani e le regioni bordering nella pianura di Pannonian.  Anche se molti hambars sono generalmente obsoleti, ci sono ancora alcuni hambars trovati durante la regione Balkan.  La parola proviene dal significato ambar “deposito, magazzino, o deposito di parola turca.„  La parola nella relativa forma originale, ambar, inoltre è usata in Serbia.</Italian>
+		<Spanish>[TAB]Un hambar es un pesebre del maíz o una estructura pequeña usada para almacenar y secar maíz en los Balcanes y las regiones que confinan en el llano de Pannonian.  Aunque muchos hambars son generalmente obsoletos, todavía hay algunos hambars encontrados a través de la región balcánica.  La palabra origina del significado ambar “almacén, almacén, o depósito de la palabra turca.”  La palabra en su forma original, ambar, también se utiliza en Serbia.</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_HAMBAR_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], the Serbian replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT], grants additional food and health with corn.</English>
+		<French>Le [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], le remplacement de l'Serbe [COLOR_BUILDING_TEXT]Grenier[COLOR_REVERT], grants additional food and health with corn.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], die Serbisch Ersatz für die [COLOR_BUILDING_TEXT]Kornkammer[COLOR_REVERT], grants additional food  with corn.</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sostituzione Serba per il [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], grants additional food with and health corn.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sustitución de Serbio para el [COLOR_BUILDING_TEXT]Granero[COLOR_REVERT], grants additional food and health with corn.</Spanish>
+	</TEXT>
+</Civ4GameText>

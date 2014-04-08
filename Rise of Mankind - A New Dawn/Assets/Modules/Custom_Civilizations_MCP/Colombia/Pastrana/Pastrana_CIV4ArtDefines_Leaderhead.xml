@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Pastrana_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+            <Type>ART_DEF_LEADER_PASTRANA</Type>
+			<Button>art/Colombia/Pastrana/LMMButton.dds</Button>
+			<NIF>art/Colombia/Pastrana/charles de gaulle.nif</NIF>
+			<KFM>art/Colombia/Pastrana/Charles De Gaulle.kfm</KFM>
+			<NoShaderNIF>art/Colombia/Pastrana/Charles De Gaulle_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Colombia/Pastrana/Charles De Gaulle_BG.kfm</BackgroundKFM>
+          </LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

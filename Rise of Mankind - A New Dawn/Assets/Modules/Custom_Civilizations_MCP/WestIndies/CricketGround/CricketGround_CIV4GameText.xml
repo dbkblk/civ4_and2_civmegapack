@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND</Tag>
+		<English>Cricket Ground</English>
+		<French>Cricket Ground</French>
+		<German>Cricket Ground</German>
+		<Italian>Cricket Ground</Italian>
+		<Spanish>Cricket Ground</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</English>
+		<French>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</French>
+		<German>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND_PEDIA</Tag>
+		<English>[TAB]Cricket has been an established team sport for hundreds of years and is thought to be the second most popular sport in the world. It is a bat-and-ball sport contested by two teams, usually of eleven players each. More than 100 countries are affiliated to the International Cricket Council, cricket's international governing body. The sport's modern form originated in England, and is most popular in the present and former members of the Commonwealth. In the countries of South Asia, including India, Pakistan, Bangladesh and Sri Lanka, cricket is the most popular sport. It is also a major sport in England, Australia, New Zealand, South Africa, Zimbabwe and the English-speaking countries of the Caribbean, which are collectively known in cricketing parlance as the West Indies.</English>
+		<French>[TAB]Cricket has been an established team sport for hundreds of years and is thought to be the second most popular sport in the world. It is a bat-and-ball sport contested by two teams, usually of eleven players each. More than 100 countries are affiliated to the International Cricket Council, cricket's international governing body. The sport's modern form originated in England, and is most popular in the present and former members of the Commonwealth. In the countries of South Asia, including India, Pakistan, Bangladesh and Sri Lanka, cricket is the most popular sport. It is also a major sport in England, Australia, New Zealand, South Africa, Zimbabwe and the English-speaking countries of the Caribbean, which are collectively known in cricketing parlance as the West Indies.</French>
+		<German>[TAB]Cricket has been an established team sport for hundreds of years and is thought to be the second most popular sport in the world. It is a bat-and-ball sport contested by two teams, usually of eleven players each. More than 100 countries are affiliated to the International Cricket Council, cricket's international governing body. The sport's modern form originated in England, and is most popular in the present and former members of the Commonwealth. In the countries of South Asia, including India, Pakistan, Bangladesh and Sri Lanka, cricket is the most popular sport. It is also a major sport in England, Australia, New Zealand, South Africa, Zimbabwe and the English-speaking countries of the Caribbean, which are collectively known in cricketing parlance as the West Indies.</German>
+		<Italian>[TAB]Cricket has been an established team sport for hundreds of years and is thought to be the second most popular sport in the world. It is a bat-and-ball sport contested by two teams, usually of eleven players each. More than 100 countries are affiliated to the International Cricket Council, cricket's international governing body. The sport's modern form originated in England, and is most popular in the present and former members of the Commonwealth. In the countries of South Asia, including India, Pakistan, Bangladesh and Sri Lanka, cricket is the most popular sport. It is also a major sport in England, Australia, New Zealand, South Africa, Zimbabwe and the English-speaking countries of the Caribbean, which are collectively known in cricketing parlance as the West Indies.</Italian>
+		<Spanish>[TAB]Cricket has been an established team sport for hundreds of years and is thought to be the second most popular sport in the world. It is a bat-and-ball sport contested by two teams, usually of eleven players each. More than 100 countries are affiliated to the International Cricket Council, cricket's international governing body. The sport's modern form originated in England, and is most popular in the present and former members of the Commonwealth. In the countries of South Asia, including India, Pakistan, Bangladesh and Sri Lanka, cricket is the most popular sport. It is also a major sport in England, Australia, New Zealand, South Africa, Zimbabwe and the English-speaking countries of the Caribbean, which are collectively known in cricketing parlance as the West Indies.</Spanish>
+	</TEXT>
+</Civ4GameText>

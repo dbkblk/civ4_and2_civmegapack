@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dean Ray Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Israel_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>DIPLO_BEN_GURION_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Israel/Soundpack/BenGurion_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BEN_GURION_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Israel/Soundpack/BenGurion_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BEN_GURION_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Israel/Soundpack/BenGurion_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_DAVID_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Israel/Soundpack/David_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_DAVID_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Israel/Soundpack/David_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_DAVID_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Israel/Soundpack/David_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

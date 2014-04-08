@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Modu_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MODU</Type>
+			<Button>art/Xiongnu/Modu/Modu.dds</Button>
+			<NIF>art/Xiongnu/Modu/genghis_khan.nif</NIF>
+			<KFM>art/Xiongnu/Modu/genghis_khan.kfm</KFM>
+			<NoShaderNIF>art/Xiongnu/Modu/genghis_khan_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Xiongnu/Modu/genghis_khan_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

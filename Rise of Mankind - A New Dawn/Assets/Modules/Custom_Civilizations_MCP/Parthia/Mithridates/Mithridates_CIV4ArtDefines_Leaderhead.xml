@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mithridates_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MITHRIDATES</Type>
+			<Button>art/Parthia/Mithridates/Timur.dds</Button>
+			<NIF>art/Parthia/Mithridates/Tamerlan.nif</NIF>
+			<KFM>art/Parthia/Mithridates/alexander.kfm</KFM>
+			<NoShaderNIF>art/Parthia/Mithridates/Tamerlan.nif</NoShaderNIF>
+			<BackgroundKFM>art/Parthia/Mithridates/alexander_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

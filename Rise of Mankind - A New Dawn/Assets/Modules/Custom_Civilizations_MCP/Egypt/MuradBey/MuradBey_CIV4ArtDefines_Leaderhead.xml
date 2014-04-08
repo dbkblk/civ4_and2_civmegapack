@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:MuradBey_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MURADBEY</Type>
+			<Button>art/Egypt/MuradBey/Turk_LH Button.dds</Button>
+			<NIF>art/Egypt/MuradBey/Charlemagne.nif</NIF>
+			<KFM>art/Egypt/MuradBey/Charlemagne.kfm</KFM>
+			<NoShaderNIF>art/Egypt/MuradBey/Charlemagne_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Egypt/MuradBey/Charlemagne_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

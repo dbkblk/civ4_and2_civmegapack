@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Bayanchur_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BAYANCHUR</Type>
+			<Button>art/Uyghur/Bayanchur/Bayanchur.dds</Button>
+			<NIF>art/Uyghur/Bayanchur/genghis_khan.nif</NIF>
+			<KFM>art/Uyghur/Bayanchur/genghis_khan.kfm</KFM>
+			<NoShaderNIF>art/Uyghur/Bayanchur/genghis_khan_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Uyghur/Bayanchur/genghis_khan_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Hassan_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HASSAN</Type>
+			<Button>art/Maghreb/Hassan/Hassan.dds</Button>
+			<NIF>art/Maghreb/Hassan/napoleon.nif</NIF>
+			<KFM>art/Maghreb/Hassan/napoleon.kfm</KFM>
+			<NoShaderNIF>art/Maghreb/Hassan/napoleon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Maghreb/Hassan/napoleon_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

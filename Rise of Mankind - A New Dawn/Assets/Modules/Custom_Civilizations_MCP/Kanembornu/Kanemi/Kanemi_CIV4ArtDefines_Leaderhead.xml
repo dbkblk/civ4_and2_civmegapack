@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kanemi_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KANEMI</Type>
+			<Button>art/Kanembornu/Kanemi/KanemiBTN.dds</Button>
+			<NIF>art/Kanembornu/Kanemi/Zara Yaqob.nif</NIF>
+			<KFM>art/Kanembornu/Kanemi/Zara Yaqob.kfm</KFM>
+			<NoShaderNIF>art/Kanembornu/Kanemi/Zara Yaqob.nif</NoShaderNIF>
+			<BackgroundKFM>art/Kanembornu/Kanemi/Zara Yaqob_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

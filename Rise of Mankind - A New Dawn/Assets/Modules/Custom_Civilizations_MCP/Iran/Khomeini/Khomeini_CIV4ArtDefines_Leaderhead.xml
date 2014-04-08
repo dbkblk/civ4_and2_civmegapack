@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Khomeini_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KHOMEINI</Type>
+			<Button>art/Iran/Khomeini/Khomeini.dds</Button>
+			<NIF>art/Iran/Khomeini/saladin.nif</NIF>
+			<KFM>art/Iran/Khomeini/saladin.kfm</KFM>
+			<NoShaderNIF>art/Iran/Khomeini/saladin_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Iran/Khomeini/saladin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

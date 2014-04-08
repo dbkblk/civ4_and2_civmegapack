@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Color Vals -->
+<Civ4ColorVals xmlns="x-schema:Ukraine_CIV4InterfaceSchema.xml">
+	<ColorVals>
+		<ColorVal>
+			<Type>COLOR_PLAYER_CORNFLOWER_BLUE</Type>
+			<fRed>0.39</fRed>
+			<fGreen>0.58</fGreen>
+			<fBlue>0.93</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_CORNFLOWER_BLUE_TEXT</Type>
+			<fRed>0.48</fRed>
+			<fGreen>0.54</fGreen>
+			<fBlue>0.93</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_LEMON</Type>
+			<fRed>0.99</fRed>
+			<fGreen>0.91</fGreen>
+			<fBlue>0.06</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+	</ColorVals>
+</Civ4ColorVals>

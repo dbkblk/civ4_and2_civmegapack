@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_APACHE_BUTCHER</Tag>
+		<English>Smoke House</English>
+		<French>Smoke House</French>
+		<German>Smoke House</German>
+		<Italian>Smoke House</Italian>
+		<Spanish>Smoke House</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_APACHE_BUTCHER_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to 
+[COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or
+[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</English>
+		<French>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to 
+[COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or
+[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</French>
+		<German>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to 
+[COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or
+[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</German>
+		<Italian>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to 
+[COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or
+[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to 
+[COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or
+[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_APACHE_BUTCHER_PEDIA</Tag>
+		<English>[TAB]The Western Apache hunted deer and pronghorns mostly in the ideal late fall season. After the meat was smoked into jerky around November, a migration from the farm sites along the stream banks in the mountains to winter camps in the Salt, Black, Gila river and even the Colorado River valleys. Plains Apache hunters pursued primarily buffalo and deer. Other hunted animals were badgers, bears, beavers, fowls, geese, opossums, otters, rabbits and turtles.[PARAGRAPH:1]Eating certain animals was taboo. Although different cultures had different taboos, some common examples of taboo animals included bears, peccaries, turkeys, fish, snakes, insects, owls, and coyotes.</English>
+		<French>[TAB]The Western Apache hunted deer and pronghorns mostly in the ideal late fall season. After the meat was smoked into jerky around November, a migration from the farm sites along the stream banks in the mountains to winter camps in the Salt, Black, Gila river and even the Colorado River valleys. Plains Apache hunters pursued primarily buffalo and deer. Other hunted animals were badgers, bears, beavers, fowls, geese, opossums, otters, rabbits and turtles.[PARAGRAPH:1]Eating certain animals was taboo. Although different cultures had different taboos, some common examples of taboo animals included bears, peccaries, turkeys, fish, snakes, insects, owls, and coyotes.</French>
+		<German>[TAB]The Western Apache hunted deer and pronghorns mostly in the ideal late fall season. After the meat was smoked into jerky around November, a migration from the farm sites along the stream banks in the mountains to winter camps in the Salt, Black, Gila river and even the Colorado River valleys. Plains Apache hunters pursued primarily buffalo and deer. Other hunted animals were badgers, bears, beavers, fowls, geese, opossums, otters, rabbits and turtles.[PARAGRAPH:1]Eating certain animals was taboo. Although different cultures had different taboos, some common examples of taboo animals included bears, peccaries, turkeys, fish, snakes, insects, owls, and coyotes.</German>
+		<Italian>[TAB]The Western Apache hunted deer and pronghorns mostly in the ideal late fall season. After the meat was smoked into jerky around November, a migration from the farm sites along the stream banks in the mountains to winter camps in the Salt, Black, Gila river and even the Colorado River valleys. Plains Apache hunters pursued primarily buffalo and deer. Other hunted animals were badgers, bears, beavers, fowls, geese, opossums, otters, rabbits and turtles.[PARAGRAPH:1]Eating certain animals was taboo. Although different cultures had different taboos, some common examples of taboo animals included bears, peccaries, turkeys, fish, snakes, insects, owls, and coyotes.</Italian>
+		<Spanish>[TAB]The Western Apache hunted deer and pronghorns mostly in the ideal late fall season. After the meat was smoked into jerky around November, a migration from the farm sites along the stream banks in the mountains to winter camps in the Salt, Black, Gila river and even the Colorado River valleys. Plains Apache hunters pursued primarily buffalo and deer. Other hunted animals were badgers, bears, beavers, fowls, geese, opossums, otters, rabbits and turtles.[PARAGRAPH:1]Eating certain animals was taboo. Although different cultures had different taboos, some common examples of taboo animals included bears, peccaries, turkeys, fish, snakes, insects, owls, and coyotes.</Spanish>
+	</TEXT>
+</Civ4GameText>

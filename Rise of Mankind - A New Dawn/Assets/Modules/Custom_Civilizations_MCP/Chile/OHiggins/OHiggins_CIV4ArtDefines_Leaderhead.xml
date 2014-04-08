@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:OHiggins_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OHIGGINS</Type>
+			<Button>art/Chile/OHiggins/OHiggins.dds</Button>
+			<NIF>art/Chile/OHiggins/augustus_caesar.nif</NIF>
+			<KFM>art/Chile/OHiggins/augustus_caesar.kfm</KFM>
+			<NoShaderNIF>art/Chile/OHiggins/augustus_caesar.nif</NoShaderNIF>
+			<BackgroundKFM>art/Chile/OHiggins/washington_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

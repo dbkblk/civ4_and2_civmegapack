@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VAULTED_GRANARY</Tag>
+		<English>Vaulted Granary</English>
+		<French>Grenier sauté</French>
+		<German>Vaulted Getreidespeicher</German>
+		<Italian>Granaio Vaulted</Italian>
+		<Spanish>Granero Saltado</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_VAULTED_GRANARY_PEDIA</Tag>
+		<English>[TAB]The Nubians had their own way of constructing vaults, called the Nubian Vault.  It was used to construct various buildings, such as granaries.  One of the key advantages of the Nubian vault is that it can be built without any support or shuttering.  The bricks were laid leaning at a small slope against the gabble walls in a length-wise vault.  The ancient Nubian technique was later revived by the Egyptian architect Hassan Fathy in the 1940's.</English>
+		<French>[TAB]Le Nubians a eu leur propre manière de construire des chambres fortes, appelée la chambre forte de Nubian. Il a été employé pour construire de divers bâtiments, tels que des greniers. Un des avantages principaux de la chambre forte de Nubian est qu'il peut être construit sans n'importe quel appui ou shuttering. Les briques étaient penchement étendu à une petite pente contre les murs gabble dans une chambre forte en long. La technique antique de Nubian plus tard a été rétablie par l'architecte égyptien Hassan Fathy dans les années 40.</French>
+		<German>[TAB]Das Nubians hatte ihre eigene Weise des Konstruierens der Wölbungen, genannt die Nubian Wölbung. Es wurde verwendet, um verschiedene Gebäude, wie Getreidespeicher zu konstruieren. Einer der Schlüsselvorteile der Nubian Wölbung ist, daß er ohne irgendeine Unterstützung oder Verschalung errichtet werden kann. Die Ziegelsteine waren gelegtes Lehnen an einer kleinen Steigung gegen die gabble Wände in einer Längswölbung. Die alte Nubian Technik wurde später vom ägyptischen Architekten Hassan Fathy in den vierziger Jahren wieder belebt.</German>
+		<Italian>[TAB]Il Nubians ha avuto loro proprio senso di costruzione delle volte, denominato la volta di Nubian. È stato usato per costruire le varie costruzioni, quali i granai. Uno dei vantaggi chiave della volta di Nubian è che può essere costruito senza alcun supporto o shuttering. I mattoni erano inclinzione posta ad un pendio piccolo contro le pareti gabble in una volta longitudinale. La tecnica antica di Nubian più successivamente è stata fatta rivivere dall'architetto egiziano Hassan Fathy nei 1940's.</Italian>
+		<Spanish>[TAB]El Nubians tenía su propia manera de construir cámaras acorazadas, llamada la cámara acorazada de Nubian. Fue utilizado para construir varios edificios, tales como graneros. Una de las ventajas dominantes de la cámara acorazada de Nubian es que puede ser construido sin ninguna ayuda o shuttering. Los ladrillos eran el inclinarse puesto en una cuesta pequeña contra las paredes gabble en una cámara acorazada longitudinal. La técnica antigua de Nubian fue restablecida más adelante por el arquitecto egipcio Hassan Fathy en los años 40.</Spanish>
+	</TEXT>
+</Civ4GameText>

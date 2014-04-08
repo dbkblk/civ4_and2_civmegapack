@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Hasina_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HASINA</Type>
+			<Button>art/Bangladesh/Hasina/Hasina.dds</Button>
+			<NIF>art/Bangladesh/Hasina/victoria2.nif</NIF>
+			<KFM>art/Bangladesh/Hasina/victoria.kfm</KFM>
+			<NoShaderNIF>art/Bangladesh/Hasina/victoria_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Bangladesh/Hasina/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

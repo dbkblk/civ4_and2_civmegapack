@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4PlayerColorInfos xmlns="x-schema:Uyghur_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_UYGHUR</Type>
+			<ColorTypePrimary>COLOR_X_LIGHTCYAN</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PLAYER_WHITE</ColorTypeSecondary>
+			<TextColorType>COLOR_X_LIGHTCYAN</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

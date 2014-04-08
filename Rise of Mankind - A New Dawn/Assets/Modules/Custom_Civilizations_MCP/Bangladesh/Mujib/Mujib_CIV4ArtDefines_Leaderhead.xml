@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mujib_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MUJIB</Type>
+			<Button>art/Bangladesh/Mujib/Mujib.dds</Button>
+			<NIF>art/Bangladesh/Mujib/alexander.nif</NIF>
+			<KFM>art/Bangladesh/Mujib/alexander.kfm</KFM>
+			<NoShaderNIF>art/Bangladesh/Mujib/alexander.nif</NoShaderNIF>
+			<BackgroundKFM>art/Bangladesh/Mujib/alexander_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

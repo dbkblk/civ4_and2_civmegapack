@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ITALY_CARNIVAL</Tag>
+		<English>Carnevale</English>
+		<French>Carnevale</French>
+		<German>Carnevale</German>
+		<Italian>Carnevale</Italian>
+		<Spanish>Carnevale</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ITALY_CARNIVAL_PEDIA</Tag>
+		<English>[TAB]Hundreds of years ago, the followers of the Catholic religion in Italy started the tradition of holding a wild costume festival right before the first day of Lent. Because Catholics are not supposed to eat meat during Lent, they called their festival, carnevale - which means "to put away the meat". As time passed, carnivals in Italy became quite famous; and in fact the practice spread to France, Spain, and all the Catholic countries in Europe. Then as the French, Spanish, and Portuguese began to take control of the Americas and other parts of the world, they brought with them their tradition of celebrating carnival.[PARAGRAPH:1]</English>
+		<French>[TAB]Hundreds of years ago, the followers of the Catholic religion in Italy started the tradition of holding a wild costume festival right before the first day of Lent. Because Catholics are not supposed to eat meat during Lent, they called their festival, carnevale - which means "to put away the meat". As time passed, carnivals in Italy became quite famous; and in fact the practice spread to France, Spain, and all the Catholic countries in Europe. Then as the French, Spanish, and Portuguese began to take control of the Americas and other parts of the world, they brought with them their tradition of celebrating carnival.[PARAGRAPH:1]</French>
+		<German>[TAB]Hundreds of years ago, the followers of the Catholic religion in Italy started the tradition of holding a wild costume festival right before the first day of Lent. Because Catholics are not supposed to eat meat during Lent, they called their festival, carnevale - which means "to put away the meat". As time passed, carnivals in Italy became quite famous; and in fact the practice spread to France, Spain, and all the Catholic countries in Europe. Then as the French, Spanish, and Portuguese began to take control of the Americas and other parts of the world, they brought with them their tradition of celebrating carnival.[PARAGRAPH:1]</German>
+		<Italian>[TAB]Hundreds of years ago, the followers of the Catholic religion in Italy started the tradition of holding a wild costume festival right before the first day of Lent. Because Catholics are not supposed to eat meat during Lent, they called their festival, carnevale - which means "to put away the meat". As time passed, carnivals in Italy became quite famous; and in fact the practice spread to France, Spain, and all the Catholic countries in Europe. Then as the French, Spanish, and Portuguese began to take control of the Americas and other parts of the world, they brought with them their tradition of celebrating carnival.[PARAGRAPH:1]</Italian>
+		<Spanish>[TAB]Hundreds of years ago, the followers of the Catholic religion in Italy started the tradition of holding a wild costume festival right before the first day of Lent. Because Catholics are not supposed to eat meat during Lent, they called their festival, carnevale - which means "to put away the meat". As time passed, carnivals in Italy became quite famous; and in fact the practice spread to France, Spain, and all the Catholic countries in Europe. Then as the French, Spanish, and Portuguese began to take control of the Americas and other parts of the world, they brought with them their tradition of celebrating carnival.[PARAGRAPH:1]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ITALY_CARNIVAL_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Carnevale[COLOR_REVERT] (the Italian replacement for a [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) increases a city's culture and happiness. It is also required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</English>
+		<French>A [COLOR_BUILDING_TEXT]Carnevale[COLOR_REVERT] (the Italian replacement for a [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) increases a city's culture and happiness. It is also required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</French>
+		<German>A [COLOR_BUILDING_TEXT]Carnevale[COLOR_REVERT] (the Italian replacement for a [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) increases a city's culture and happiness. It is also required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</German>
+		<Italian>A [COLOR_BUILDING_TEXT]Carnevale[COLOR_REVERT] (the Italian replacement for a [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) increases a city's culture and happiness. It is also required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</Italian>
+		<Spanish>A [COLOR_BUILDING_TEXT]Carnevale[COLOR_REVERT] (the Italian replacement for a [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) increases a city's culture and happiness. It is also required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Kekkonen_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_KEKKONEN</Type>
+			<Button>art/Finland/Kekkonen/Kekkonen.dds</Button>
+			<NIF>art/Finland/Kekkonen/winston_churchill.nif</NIF>
+			<KFM>art/Finland/Kekkonen/winston_churchill.kfm</KFM>
+			<NoShaderNIF>art/Finland/Kekkonen/winston_churchill_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Finland/Kekkonen/winston_churchill_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

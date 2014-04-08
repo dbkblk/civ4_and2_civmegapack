@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Nampoina_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NAMPOINA</Type>
+			<Button>art/Malagasy/Nampoina/Nampoina.dds</Button>
+			<NIF>art/Malagasy/Nampoina/julius_caesar.nif</NIF>
+			<KFM>art/Malagasy/Nampoina/julius_caesar.kfm</KFM>
+			<NoShaderNIF>art/Malagasy/Nampoina/julius_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Malagasy/Nampoina/julius_caesar_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

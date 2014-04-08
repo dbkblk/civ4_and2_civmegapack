@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Minoa_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOS</Type>
+			<Button>art/Minoa/LH/minos_btn.dds</Button>
+			<NIF>art/Minoa/LH/Hammurabi.nif</NIF>
+			<KFM>art/Minoa/LH/Hammurabi.kfm</KFM>
+			<NoShaderNIF>art/Minoa/LH/Hammurabi_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Minoa/LH/Hammurabi_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

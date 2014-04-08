@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Teuta_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TEUTA</Type>
+			<Button>art/Albania/Teuta/teuta.dds</Button>
+			<NIF>art/Albania/Teuta/teuta.nif</NIF>
+			<KFM>art/Albania/Teuta/teuta.kfm</KFM>
+			<NoShaderNIF>art/Albania/Teuta/teuta_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Albania/Teuta/leader_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

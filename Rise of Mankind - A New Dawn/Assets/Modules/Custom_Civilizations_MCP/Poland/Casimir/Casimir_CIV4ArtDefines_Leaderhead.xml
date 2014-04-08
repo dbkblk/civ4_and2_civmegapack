@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Casimir_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CASIMIR</Type>
+			<Button>art/Poland/Casimir/Casimir.dds</Button>
+			<NIF>art/Poland/Casimir/Casimir.nif</NIF>
+			<KFM>art/Poland/Casimir/Casimir.kfm</KFM>
+			<NoShaderNIF>art/Poland/Casimir/Casimir.nif</NoShaderNIF>
+			<BackgroundKFM>art/Poland/Casimir/Casimir_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

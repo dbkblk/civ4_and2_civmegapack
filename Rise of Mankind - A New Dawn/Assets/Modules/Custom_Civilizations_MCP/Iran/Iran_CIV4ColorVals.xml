@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Created with Dreamweaver CS3 by DWOLF -->
+<!-- Sid Meier's Civilization IV Beyond The Sword -->
+<!-- -->
+<Civ4ColorVals xmlns="x-schema:Iran_CIV4InterfaceSchema.xml">
+	<ColorVals>
+	<ColorVal>
+		<Type>COLOR_X_LIMEGREEN</Type>
+			<fRed>0.20</fRed>
+			<fGreen>0.80</fGreen>
+			<fBlue>0.20</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+	</ColorVals>
+</Civ4ColorVals>

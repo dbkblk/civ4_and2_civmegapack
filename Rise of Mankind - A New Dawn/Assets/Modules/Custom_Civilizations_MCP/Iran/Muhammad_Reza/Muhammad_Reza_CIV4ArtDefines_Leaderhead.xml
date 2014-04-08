@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Bart Muzzin (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Muhammad_Reza_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MUHAMMAD_REZA</Type>
+			<Button>art/Iran/Muhammad_Reza/shah.dds</Button>
+			<NIF>art/Iran/Muhammad_Reza/napoleon.nif</NIF>
+			<KFM>art/Iran/Muhammad_Reza/napoleon.kfm</KFM>
+			<NoShaderNIF>art/Iran/Muhammad_Reza/napoleon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Iran/Muhammad_Reza/napoleon_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

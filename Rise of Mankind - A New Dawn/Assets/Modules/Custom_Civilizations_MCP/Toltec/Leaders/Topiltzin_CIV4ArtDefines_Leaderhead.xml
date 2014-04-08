@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Topiltzin_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TOPILTZIN</Type>
+			<Button>art/Toltec/Leaders/Topiltzin.dds</Button>
+			<NIF>art/Toltec/Leaders/Topiltzin/Pacal.nif</NIF>
+			<KFM>art/Toltec/Leaders/Topiltzin/Pacal.kfm</KFM>
+			<NoShaderNIF>art/Toltec/Leaders/Topiltzin/Pacal_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Toltec/Leaders/Topiltzin/Pacal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

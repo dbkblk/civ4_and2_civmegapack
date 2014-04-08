@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4CivilizationInfos xmlns="x-schema:Australia_CIV4CivilizationsSchema.xml">
+	<CivilizationInfos>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_AUSTRALIA</Type>
+			<Description>TXT_KEY_CIV_AUSTRALIA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_AUSTRALIA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_AUSTRALIA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_AUSTRALIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_AUSTRALIA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_AUSTRALIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ANGLO_AMERICA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Canberra</City>
+				<City>Sydney</City>
+				<City>Melbourne</City>
+				<City>Brisbane</City>
+				<City>Perth</City>
+				<City>Adelaide</City>
+				<City>Gold Coast</City>
+				<City>Newcastle</City>
+				<City>Sunshine Coast</City>
+				<City>Wollongong</City>
+				<City>Hobart</City>
+				<City>Geelong</City>
+				<City>Townsville</City>
+				<City>Cairns</City>
+				<City>Toowoomba</City>
+				<City>Darwin</City>
+				<City>Launceston</City>
+				<City>Albury</City>
+				<City>Ballarat</City>
+				<City>Bendigo</City>
+				<City>Burnie</City>
+				<City>Devonport</City>
+				<City>Latrobe Valley</City>
+				<City>Mackay</City>
+				<City>Rockhampton</City>
+				<City>Mandurah</City>
+				<City>Bundaberg</City>
+				<City>Murray Bridge</City>
+				<City>Alice Springs</City>
+				<City>Wagga Wagga</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
+					<BuildingType>BUILDING_AUSTRALIAN_ATHLETICS_COMPLEX</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+					<UnitType>UNIT_AUSTRALIAN_LIGHT_HORSE</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_HUNTING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_WEAVING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_OLIGARCHY</CivicType>
+				<CivicType>CIVIC_TRIBAL</CivicType>
+				<CivicType>CIVIC_BARTER</CivicType>
+				<CivicType>CIVIC_FOLKLORE</CivicType>
+				<CivicType>CIVIC_SURVIVAL</CivicType>
+				<CivicType>CIVIC_NOTHING</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_CURTIN</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_MENZIES</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ENGLAND_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ENGLAND_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+	</CivilizationInfos>
+</Civ4CivilizationInfos>

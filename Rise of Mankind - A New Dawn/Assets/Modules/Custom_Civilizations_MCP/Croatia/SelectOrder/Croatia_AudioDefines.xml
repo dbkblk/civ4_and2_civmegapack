@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dean Ray Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Croatia_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>SND_CROATIA_SELECT</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Croatia/SelectOrder/CroatSelect</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_CROATIA_ORDER</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Croatia/SelectOrder/CroatOrder</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

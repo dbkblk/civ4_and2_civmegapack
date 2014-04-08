@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Hus_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HUS</Type>
+			<Button>art/Czech/Hus/Hus.dds</Button>
+			<NIF>art/Czech/Hus/cyrus.nif</NIF>
+			<KFM>art/LeaderHeads/Cyrus/Cyrus.kfm</KFM>
+			<NoShaderNIF>art/Czech/Hus/cyrus.nif</NoShaderNIF>
+			<BackgroundKFM>art/Czech/Hus/cyrus_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

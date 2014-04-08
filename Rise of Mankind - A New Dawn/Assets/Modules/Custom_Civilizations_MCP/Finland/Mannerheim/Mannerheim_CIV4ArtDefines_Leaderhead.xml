@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mannerheim_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MANNERHEIM</Type>
+			<Button>art/Finland/Mannerheim/Mannerheim.dds</Button>
+			<NIF>art/Finland/Mannerheim/Pilsudski.nif</NIF>
+			<KFM>art/Finland/Mannerheim/Pilsudski.kfm</KFM>
+			<NoShaderNIF>art/Finland/Mannerheim/Pilsudski.nif</NoShaderNIF>
+			<BackgroundKFM>art/Finland/Mannerheim/Pilsudski_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

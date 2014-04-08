@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Yagan_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_YAGAN</Type>
+			<Button>art/Aborigines/Yagan/Btn_Yagan.dds</Button>
+			<NIF>art/Aborigines/Yagan/gandhi.nif</NIF>
+			<KFM>art/Aborigines/Yagan/gandhi.kfm</KFM>
+			<NoShaderNIF>art/Aborigines/Yagan/gandhi.nif</NoShaderNIF>
+			<BackgroundKFM>art/Aborigines/Yagan/Arawak_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Botha_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BOTHA</Type>
+			<Button>art/SouthAfrica/Botha/Botha.dds</Button>
+			<NIF>art/SouthAfrica/Botha/fdr.nif</NIF>
+			<KFM>art/SouthAfrica/Botha/fdr.kfm</KFM>
+			<NoShaderNIF>art/SouthAfrica/Botha/fdr.nif</NoShaderNIF>
+			<BackgroundKFM>art/SouthAfrica/Botha/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

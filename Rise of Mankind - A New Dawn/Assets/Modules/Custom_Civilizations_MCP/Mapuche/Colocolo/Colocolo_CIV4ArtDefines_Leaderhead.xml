@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Colocolo_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_COLOCOLO</Type>
+			<Button>art/Mapuche/Colocolo/Kopenawa.dds</Button>
+			<NIF>art/Mapuche/Colocolo/shaka.nif</NIF>
+			<KFM>art/Mapuche/Colocolo/shaka.kfm</KFM>
+			<NoShaderNIF>art/Mapuche/Colocolo/shaka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mapuche/Colocolo/shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

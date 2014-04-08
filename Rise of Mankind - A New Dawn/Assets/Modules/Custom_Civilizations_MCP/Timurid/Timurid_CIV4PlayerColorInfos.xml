@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Player Color -->
+<!-- ColorTypePrimary - used to present Team Colors, Borders, Main Flag Color-->
+<!-- ColorTypeSecondary - used to present Symbols on Flags, Name of Cities-->
+<!-- ColorTypeSecondary - used to present punctation-->
+<Civ4PlayerColorInfos xmlns="x-schema:Timurid_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+    <PlayerColorInfo>
+			<Type>PLAYERCOLOR_TIMURID</Type>
+			<ColorTypePrimary>COLOR_X_WHEAT</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_X_DARKSLATEBLUE</ColorTypeSecondary>
+			<TextColorType>COLOR_X_WHEAT</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

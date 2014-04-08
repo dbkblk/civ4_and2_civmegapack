@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR</Tag>
+		<English>Grape Arbor</English>
+		<French>Grape Arbor</French>
+		<German>Grape Arbor</German>
+		<Italian>Grape Arbor</Italian>
+		<Spanish>Grape Arbor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Grape Arbors[COLOR_REVERT] increase a city's culture and commerce, and can increase the happiness output from using the culture slider. A [COLOR_BUILDING_TEXT]Grape Arbor[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</English>
+		<French>[COLOR_BUILDING_TEXT]Grape Arbors[COLOR_REVERT] increase a city's culture and commerce, and can increase the happiness output from using the culture slider. A [COLOR_BUILDING_TEXT]Grape Arbor[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</French>
+		<German>[COLOR_BUILDING_TEXT]Grape Arbors[COLOR_REVERT] increase a city's culture and commerce, and can increase the happiness output from using the culture slider. A [COLOR_BUILDING_TEXT]Grape Arbor[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Grape Arbors[COLOR_REVERT] increase a city's culture and commerce, and can increase the happiness output from using the culture slider. A [COLOR_BUILDING_TEXT]Grape Arbor[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Grape Arbors[COLOR_REVERT] increase a city's culture and commerce, and can increase the happiness output from using the culture slider. A [COLOR_BUILDING_TEXT]Grape Arbor[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR_PEDIA</Tag>
+		<English>[TAB]The Uyghur people are hugely welcoming to guests. The grape arbor provides blissful shelter from the relentless sun, and to sit here in such a comfortable courtyard and enjoy a moment of cool breeze under the grapevine is a real treat in itself. Even if you were a stranger, they would welcome you with whole-hearted hospitality, offering all they have - from tea to fresh fruits to dry fruits to home made yogurt to refresh you.</English>
+		<French>[TAB]The Uyghur people are hugely welcoming to guests. The grape arbor provides blissful shelter from the relentless sun, and to sit here in such a comfortable courtyard and enjoy a moment of cool breeze under the grapevine is a real treat in itself. Even if you were a stranger, they would welcome you with whole-hearted hospitality, offering all they have - from tea to fresh fruits to dry fruits to home made yogurt to refresh you.</French>
+		<German>[TAB]The Uyghur people are hugely welcoming to guests. The grape arbor provides blissful shelter from the relentless sun, and to sit here in such a comfortable courtyard and enjoy a moment of cool breeze under the grapevine is a real treat in itself. Even if you were a stranger, they would welcome you with whole-hearted hospitality, offering all they have - from tea to fresh fruits to dry fruits to home made yogurt to refresh you.</German>
+		<Italian>[TAB]The Uyghur people are hugely welcoming to guests. The grape arbor provides blissful shelter from the relentless sun, and to sit here in such a comfortable courtyard and enjoy a moment of cool breeze under the grapevine is a real treat in itself. Even if you were a stranger, they would welcome you with whole-hearted hospitality, offering all they have - from tea to fresh fruits to dry fruits to home made yogurt to refresh you.</Italian>
+		<Spanish>[TAB]The Uyghur people are hugely welcoming to guests. The grape arbor provides blissful shelter from the relentless sun, and to sit here in such a comfortable courtyard and enjoy a moment of cool breeze under the grapevine is a real treat in itself. Even if you were a stranger, they would welcome you with whole-hearted hospitality, offering all they have - from tea to fresh fruits to dry fruits to home made yogurt to refresh you.</Spanish>
+	</TEXT>
+</Civ4GameText>

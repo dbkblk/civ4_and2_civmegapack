@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOLIVARIAN_LIBERATADOR</Tag>
+		<English>Liberatador</English>
+		<French>Liberatador</French>
+		<German>Liberatador</German>
+		<Italian>Liberatador</Italian>
+		<Spanish>Liberatador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOLIVARIAN_LIBERATADOR_PEDIA</Tag>
+		<English>[TAB]Known as "El Liberatador", Simon Bolivar waged a war against the Spanish in several regions of South America. After his defeat in the Venezuelan War of Independence in 1811-1812. rebel leader Simon Bolivar fled to New Granada. He later returned with a new army, while the war had entered a tremendously violent phase. After much of the local aristocracy had abandoned the cause of independence, blacks and mulattos carried on the struggle. Elites reacted with open distrust and opposition to the efforts of these common people. Bolivar's forces invaded Venezuela from New Granada in 1813, waging a campaign with a ferocity captured perfectly by their motto, "guerra a muerte" ("war to the death"). Bolivar's forces defeated Juan Monteverde's Spanish army in a series of battles, taking Caracas in August 6, 1813 and besieging Monteverde at Puerto Cabello in September 1813.</English>
+		<French>[TAB]Known as "El Liberatador", Simon Bolivar waged a war against the Spanish in several regions of South America. After his defeat in the Venezuelan War of Independence in 1811-1812. rebel leader Simon Bolivar fled to New Granada. He later returned with a new army, while the war had entered a tremendously violent phase. After much of the local aristocracy had abandoned the cause of independence, blacks and mulattos carried on the struggle. Elites reacted with open distrust and opposition to the efforts of these common people. Bolivar's forces invaded Venezuela from New Granada in 1813, waging a campaign with a ferocity captured perfectly by their motto, "guerra a muerte" ("war to the death"). Bolivar's forces defeated Juan Monteverde's Spanish army in a series of battles, taking Caracas in August 6, 1813 and besieging Monteverde at Puerto Cabello in September 1813.</French>
+		<German>[TAB]Known as "El Liberatador", Simon Bolivar waged a war against the Spanish in several regions of South America. After his defeat in the Venezuelan War of Independence in 1811-1812. rebel leader Simon Bolivar fled to New Granada. He later returned with a new army, while the war had entered a tremendously violent phase. After much of the local aristocracy had abandoned the cause of independence, blacks and mulattos carried on the struggle. Elites reacted with open distrust and opposition to the efforts of these common people. Bolivar's forces invaded Venezuela from New Granada in 1813, waging a campaign with a ferocity captured perfectly by their motto, "guerra a muerte" ("war to the death"). Bolivar's forces defeated Juan Monteverde's Spanish army in a series of battles, taking Caracas in August 6, 1813 and besieging Monteverde at Puerto Cabello in September 1813.</German>
+		<Italian>[TAB]Known as "El Liberatador", Simon Bolivar waged a war against the Spanish in several regions of South America. After his defeat in the Venezuelan War of Independence in 1811-1812. rebel leader Simon Bolivar fled to New Granada. He later returned with a new army, while the war had entered a tremendously violent phase. After much of the local aristocracy had abandoned the cause of independence, blacks and mulattos carried on the struggle. Elites reacted with open distrust and opposition to the efforts of these common people. Bolivar's forces invaded Venezuela from New Granada in 1813, waging a campaign with a ferocity captured perfectly by their motto, "guerra a muerte" ("war to the death"). Bolivar's forces defeated Juan Monteverde's Spanish army in a series of battles, taking Caracas in August 6, 1813 and besieging Monteverde at Puerto Cabello in September 1813.</Italian>
+		<Spanish>[TAB]Known as "El Liberatador", Simon Bolivar waged a war against the Spanish in several regions of South America. After his defeat in the Venezuelan War of Independence in 1811-1812. rebel leader Simon Bolivar fled to New Granada. He later returned with a new army, while the war had entered a tremendously violent phase. After much of the local aristocracy had abandoned the cause of independence, blacks and mulattos carried on the struggle. Elites reacted with open distrust and opposition to the efforts of these common people. Bolivar's forces invaded Venezuela from New Granada in 1813, waging a campaign with a ferocity captured perfectly by their motto, "guerra a muerte" ("war to the death"). Bolivar's forces defeated Juan Monteverde's Spanish army in a series of battles, taking Caracas in August 6, 1813 and besieging Monteverde at Puerto Cabello in September 1813.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOLIVARIAN_LIBERATADOR_STRATEGY</Tag>
+		<English>The Bolivarian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is adept at traversing and defending in hills.</English>
+		<French>The Bolivarian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is adept at traversing and defending in hills.</French>
+		<German>The Bolivarian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is adept at traversing and defending in hills.</German>
+		<Italian>The Bolivarian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is adept at traversing and defending in hills.</Italian>
+		<Spanish>The Bolivarian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is adept at traversing and defending in hills.</Spanish>
+	</TEXT>
+</Civ4GameText>	

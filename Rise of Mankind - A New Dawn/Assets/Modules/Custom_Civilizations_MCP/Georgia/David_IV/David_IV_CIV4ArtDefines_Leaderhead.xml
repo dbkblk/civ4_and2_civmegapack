@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:David_IV_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DAVID_IV</Type>
+			<Button>art/Georgia/David_IV/btn_LH_David_IV.dds</Button>
+			<NIF>art/Georgia/David_IV/Cyrus.nif</NIF>
+			<KFM>art/Georgia/David_IV/Cyrus.kfm</KFM>
+			<NoShaderNIF>art/Georgia/David_IV/Cyrus_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Georgia/David_IV/Willem van Oranje_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

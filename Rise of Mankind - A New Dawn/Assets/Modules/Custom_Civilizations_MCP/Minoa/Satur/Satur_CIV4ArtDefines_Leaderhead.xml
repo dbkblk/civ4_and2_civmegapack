@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Satur_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SATUR</Type>
+			<Button>art/Minoa/Satur/Satur.dds</Button>
+			<NIF>art/Minoa/Satur/Julius_Caesar.nif</NIF>
+			<KFM>art/Minoa/Satur/Julius_Caesar.kfm</KFM>
+			<NoShaderNIF>art/Minoa/Satur/julius_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Minoa/Satur/Julius_Caesar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

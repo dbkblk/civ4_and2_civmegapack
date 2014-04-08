@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- ###################################################################################### -->
+<!-- #####					AUSTRALIA					  ##### -->
+<!-- #####													  ##### -->
+<!-- #####   THIS PLUG AND PLAY SYSTEM REQUIRES THE CCCP DLL AVAILABLE HERE:	 	  ##### -->
+<!-- #####   http://forums.civfanatics.com/showthread.php?t=207938			  ##### -->
+<!-- #####												  	  ##### -->
+<!-- #####   Original Author: WyzSub10								  ##### -->
+<!-- #####   Credit also to : Purplexus, CCCP TEAM		 	Date: Apr/17/07	  ##### -->
+<!-- #####													  ##### -->
+<!-- ###################################################################################### -->
+<Civ4PlayerColorInfos xmlns="x-schema:Parthia_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_PARTHIA</Type>
+			<ColorTypePrimary>COLOR_PARTHIA</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PARTHIASEC</ColorTypeSecondary>
+			<TextColorType>COLOR_PARTHIA_TEXT</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

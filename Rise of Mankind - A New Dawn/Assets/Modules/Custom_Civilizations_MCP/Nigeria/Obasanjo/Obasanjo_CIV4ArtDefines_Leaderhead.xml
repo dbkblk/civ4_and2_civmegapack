@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Obasanjo_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OBASANJO</Type>
+			<Button>art/Nigeria/Obasanjo/Obasanjo.dds</Button>
+			<NIF>art/Nigeria/Obasanjo/fdr.nif</NIF>
+			<KFM>art/Nigeria/Obasanjo/fdr.kfm</KFM>
+			<NoShaderNIF>art/Nigeria/Obasanjo/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Nigeria/Obasanjo/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

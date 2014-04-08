@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Collins_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_COLLINS</Type>
+			<Button>art/Ireland/Collins/Collins.dds</Button>
+			<NIF>art/Ireland/Collins/Halis.nif</NIF>
+			<KFM>art/Ireland/Collins/Gilgamesh.kfm</KFM>
+			<NoShaderNIF>art/Ireland/Collins/Halis_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Ireland/Collins/Gilgamesh_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

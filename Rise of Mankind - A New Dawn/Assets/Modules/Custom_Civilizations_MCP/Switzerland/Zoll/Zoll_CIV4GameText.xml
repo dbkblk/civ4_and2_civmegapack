@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SWISS_ZOLL</Tag>
+		<English>Zoll</English>
+		<French>Zoll</French>
+		<German>Zoll</German>
+		<Italian>Zoll</Italian>
+		<Spanish>Zoll</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SWISS_ZOLL_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</English>
+		<French>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</French>
+		<German>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</German>
+		<Italian>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</Italian>
+		<Spanish>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SWISS_ZOLL_PEDIA</Tag>
+		<English>[PARAGRAPH:1][TAB]The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy facilitated management of common interests (free trade) and ensured peace on the important mountain trade routes.</English>
+		<French>[PARAGRAPH:1][TAB]The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy facilitated management of common interests (free trade) and ensured peace on the important mountain trade routes.</French>
+		<German>[PARAGRAPH:1][TAB]The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy facilitated management of common interests (free trade) and ensured peace on the important mountain trade routes.</German>
+		<Italian>[PARAGRAPH:1][TAB]The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy facilitated management of common interests (free trade) and ensured peace on the important mountain trade routes.</Italian>
+		<Spanish>[PARAGRAPH:1][TAB]The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy facilitated management of common interests (free trade) and ensured peace on the important mountain trade routes.</Spanish>
+	</TEXT>
+</Civ4GameText>

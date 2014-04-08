@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Wenceslaus_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_WENCESLAUS</Type>
+			<Button>art/Czech/Wenceslaus/Wenceslaus.dds</Button>
+			<NIF>art/Czech/Wenceslaus/Charlemagne.nif</NIF>
+			<KFM>art/Czech/Wenceslaus/Charlemagne.kfm</KFM>
+			<NoShaderNIF>art/Czech/Wenceslaus/Charlemagne_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Czech/Wenceslaus/Charlemagne_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

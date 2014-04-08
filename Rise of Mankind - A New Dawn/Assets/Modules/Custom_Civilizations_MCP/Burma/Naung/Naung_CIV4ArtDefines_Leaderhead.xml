@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Naung_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NAUNG</Type>
+			<Button>art/Burma/Naung/Naung.dds</Button>
+			<NIF>art/Burma/Naung/tokugawa2.nif</NIF>
+			<KFM>art/Burma/Naung/tokugawa.kfm</KFM>
+			<NoShaderNIF>art/Burma/Naung/tokugawa2.nif</NoShaderNIF>
+			<BackgroundKFM>art/Burma/Naung/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

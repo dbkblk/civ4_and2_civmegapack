@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4PlayerColorInfos xmlns="x-schema:Venezia_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_VENICE</Type>
+			<ColorTypePrimary>COLOR_V_RED</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_V_GOLD</ColorTypeSecondary>
+			<TextColorType>COLOR_V_RED</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

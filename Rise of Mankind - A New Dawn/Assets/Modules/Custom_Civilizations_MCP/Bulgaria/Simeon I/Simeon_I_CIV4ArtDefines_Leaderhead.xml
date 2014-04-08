@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Simeon_I_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SIMEON_I</Type>
+			<Button>,art/Bulgaria/Simeon I/SimeonI.dds,art/Bulgaria/Simeon I/Bulgaria_Atlas.dds,1,1</Button>
+			<NIF>art/Bulgaria/Simeon I/Pericles.nif</NIF>
+			<KFM>art/Bulgaria/Simeon I/Pericles.kfm</KFM>
+			<NoShaderNIF>art/Bulgaria/Simeon I/Pericles_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Bulgaria/Simeon I/Pericles_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

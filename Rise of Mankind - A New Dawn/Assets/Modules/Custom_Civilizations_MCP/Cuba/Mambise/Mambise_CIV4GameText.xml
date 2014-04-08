@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAMBISE</Tag>
+		<English>Mambise</English>
+		<French>Mambise</French>
+		<German>Mambise</German>
+		<Italian>Mambise</Italian>
+		<Spanish>Mambise</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAMBISE_PEDIA</Tag>
+		<English>[TAB]The word "mambises" originated in Santo Domingo, after a brave Negro Spanish officer (Juan Ethninius Mamby) joined the Dominicans in the fight for independence in 1846. The Spanish soldiers referred to the insurgents as "the men of Mamby," and "mambies." When Cuba's first war of independence (known as the Ten Year War) broke out in 1868, some of the same soldiers were assigned to the island, importing what had, by then, become a derogatory Spanish slur. The Cuban rebels adopted the name with pride. The rebels had no choice but to become effective guerrilla-style warriors using the environment, the element of surprise, a fast horse and a machete.</English>
+		<French>[TAB]The word "mambises" originated in Santo Domingo, after a brave Negro Spanish officer (Juan Ethninius Mamby) joined the Dominicans in the fight for independence in 1846. The Spanish soldiers referred to the insurgents as "the men of Mamby," and "mambies." When Cuba's first war of independence (known as the Ten Year War) broke out in 1868, some of the same soldiers were assigned to the island, importing what had, by then, become a derogatory Spanish slur. The Cuban rebels adopted the name with pride. The rebels had no choice but to become effective guerrilla-style warriors using the environment, the element of surprise, a fast horse and a machete.</French>
+		<German>[TAB]The word "mambises" originated in Santo Domingo, after a brave Negro Spanish officer (Juan Ethninius Mamby) joined the Dominicans in the fight for independence in 1846. The Spanish soldiers referred to the insurgents as "the men of Mamby," and "mambies." When Cuba's first war of independence (known as the Ten Year War) broke out in 1868, some of the same soldiers were assigned to the island, importing what had, by then, become a derogatory Spanish slur. The Cuban rebels adopted the name with pride. The rebels had no choice but to become effective guerrilla-style warriors using the environment, the element of surprise, a fast horse and a machete.</German>
+		<Italian>[TAB]The word "mambises" originated in Santo Domingo, after a brave Negro Spanish officer (Juan Ethninius Mamby) joined the Dominicans in the fight for independence in 1846. The Spanish soldiers referred to the insurgents as "the men of Mamby," and "mambies." When Cuba's first war of independence (known as the Ten Year War) broke out in 1868, some of the same soldiers were assigned to the island, importing what had, by then, become a derogatory Spanish slur. The Cuban rebels adopted the name with pride. The rebels had no choice but to become effective guerrilla-style warriors using the environment, the element of surprise, a fast horse and a machete.</Italian>
+		<Spanish>[TAB]The word "mambises" originated in Santo Domingo, after a brave Negro Spanish officer (Juan Ethninius Mamby) joined the Dominicans in the fight for independence in 1846. The Spanish soldiers referred to the insurgents as "the men of Mamby," and "mambies." When Cuba's first war of independence (known as the Ten Year War) broke out in 1868, some of the same soldiers were assigned to the island, importing what had, by then, become a derogatory Spanish slur. The Cuban rebels adopted the name with pride. The rebels had no choice but to become effective guerrilla-style warriors using the environment, the element of surprise, a fast horse and a machete.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAMBISE_STRATEGY</Tag>
+		<English>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</English>
+		<French>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</French>
+		<German>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</German>
+		<Italian>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</Italian>
+		<Spanish>The Cuban [COLOR_UNIT_TEXT]Mambise[COLOR_REVERT] is a unit that has all the advantages of cavalry plus a mobility bonus.</Spanish>
+	</TEXT>
+</Civ4GameText>

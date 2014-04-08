@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Bart Muzzin (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Duvalier_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DUVALIER</Type>
+			<Button>art/WestIndies/Duvalier/Duvalier.dds</Button>
+			<NIF>art/WestIndies/Duvalier/Duvalier.nif</NIF>
+			<KFM>art/WestIndies/Duvalier/shaka.kfm</KFM>
+			<NoShaderNIF>art/WestIndies/Duvalier/Duvalier.nif</NoShaderNIF>
+			<BackgroundKFM>art/WestIndies/Duvalier/winston_churchill_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

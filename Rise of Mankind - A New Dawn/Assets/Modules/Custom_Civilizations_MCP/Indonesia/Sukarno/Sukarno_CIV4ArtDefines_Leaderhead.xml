@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Sukarno_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SUKARNO</Type>
+			<Button>art/Indonesia/Sukarno/Sukarno.dds</Button>
+			<NIF>art/Indonesia/Sukarno/PolPot.nif</NIF>
+			<KFM>art/Indonesia/Sukarno/PolPot.kfm</KFM>
+			<NoShaderNIF>art/Indonesia/Sukarno/PolPot_Nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Indonesia/Sukarno/IbnSaud_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Arpad_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ARPAD</Type>
+			<Button>art/Hungary/Arpad/arpad.dds</Button>
+			<NIF>art/Hungary/Arpad/arpad.nif</NIF>
+			<KFM>Art/LeaderHeads/Hannibal/hannibal.kfm</KFM>
+			<NoShaderNIF>art/Hungary/Arpad/arpad.nif</NoShaderNIF>
+			<BackgroundKFM>art/Hungary/Arpad/hannibal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

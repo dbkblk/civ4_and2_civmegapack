@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Atheas_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ATHEAS</Type>
+			<Button>art/Scythia/Atheas/Atheas.dds</Button>
+			<NIF>art/Scythia/Atheas/saladin.nif</NIF>
+			<KFM>art/Scythia/Atheas/saladin.kfm</KFM>
+			<NoShaderNIF>art/Scythia/Atheas/saladin_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Scythia/Atheas/saladin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

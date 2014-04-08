@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Player Color -->
+<Civ4PlayerColorInfos xmlns="x-schema:Sweden_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_SWEDEN</Type>
+			<ColorTypePrimary>COLOR_PLAYER_DENIM</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PLAYER_LEMON</ColorTypeSecondary>
+			<TextColorType>COLOR_PLAYER_DENIM_TEXT</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

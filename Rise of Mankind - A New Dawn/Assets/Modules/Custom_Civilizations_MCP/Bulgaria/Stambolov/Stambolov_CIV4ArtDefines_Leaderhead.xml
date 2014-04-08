@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Stambolov_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_STAMBOLOV</Type>
+			<Button>art/Bulgaria/Stambolov/Stambolov.dds</Button>
+			<NIF>art/Bulgaria/Stambolov/bismarck.nif</NIF>
+			<KFM>art/Bulgaria/Stambolov/bismarck.kfm</KFM>
+			<NoShaderNIF>art/Bulgaria/Stambolov/bismarck_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Bulgaria/Stambolov/bismarck_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

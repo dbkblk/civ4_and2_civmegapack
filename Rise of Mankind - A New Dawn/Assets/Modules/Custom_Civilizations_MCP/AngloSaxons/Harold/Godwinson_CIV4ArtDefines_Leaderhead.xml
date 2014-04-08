@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Godwinson_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_GODWINSON</Type>
+			<Button>art/AngloSaxons/Harold/godwinson.dds</Button>
+			<NIF>art/AngloSaxons/Harold/ragnar_lodbrok.nif</NIF>
+			<KFM>art/AngloSaxons/Harold/ragnar_lodbrok.kfm</KFM>
+			<NoShaderNIF>art/AngloSaxons/Harold/ragnar_lodbrok.nif</NoShaderNIF>
+			<BackgroundKFM>art/AngloSaxons/Harold/Ragnar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

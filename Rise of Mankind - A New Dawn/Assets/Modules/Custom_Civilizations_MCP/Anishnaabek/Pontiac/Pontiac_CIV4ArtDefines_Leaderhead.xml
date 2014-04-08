@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Pontiac_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PONTIAC</Type>
+			<Button>art/Anishnaabek/Pontiac/Pontiac.dds</Button>
+			<NIF>art/Anishnaabek/Pontiac/asoka.nif</NIF>
+			<KFM>art/Anishnaabek/Pontiac/asoka.kfm</KFM>
+			<NoShaderNIF>art/Anishnaabek/Pontiac/asoka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Anishnaabek/Pontiac/asoka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Sviatoslav_I_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SVIATOSLAV_I</Type>
+			<Button>,art/Ukraine/Sviatoslav I/Sviatoslav.dds,art/Ukraine/Sviatoslav I/Ukraine_Atlas.dds,1,1</Button>
+			<NIF>art/Ukraine/Sviatoslav I/augustus_caesar.nif</NIF>
+			<KFM>art/Ukraine/Sviatoslav I/augustus_caesar.kfm</KFM>
+			<NoShaderNIF>art/Ukraine/Sviatoslav I/augustus_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Ukraine/Sviatoslav I/augustus_caesar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

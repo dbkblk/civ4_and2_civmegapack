@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FINNISH_JAEGER</Tag>
+		<English>Jaeger</English>
+		<French>Jaeger</French>
+		<German>Jaeger</German>
+		<Italian>Jaeger</Italian>
+		<Spanish>Jaeger</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FINNISH_JAEGER_PEDIA</Tag>
+		<English>[TAB]Modern infantry is given the challenging task of taking and holding terrain, which often involves dangerous,close range fighting. Organized into small squads, their strength lies in their training and equipment (rifle, grenades, helmet, and other critical gear). Often individuals in the squad are trained to be specialists, allowing them access to anti-tank weapons or light machine guns. Experienced in concealment and patrolling close to the enemy, these hard-fighting men play an important and versatile role in modern military conflict.</English>
+		<French>[TAB]Modern infantry is given the challenging task of taking and holding terrain, which often involves dangerous,close range fighting. Organized into small squads, their strength lies in their training and equipment (rifle, grenades, helmet, and other critical gear). Often individuals in the squad are trained to be specialists, allowing them access to anti-tank weapons or light machine guns. Experienced in concealment and patrolling close to the enemy, these hard-fighting men play an important and versatile role in modern military conflict.</French>
+		<German>[TAB]Modern infantry is given the challenging task of taking and holding terrain, which often involves dangerous,close range fighting. Organized into small squads, their strength lies in their training and equipment (rifle, grenades, helmet, and other critical gear). Often individuals in the squad are trained to be specialists, allowing them access to anti-tank weapons or light machine guns. Experienced in concealment and patrolling close to the enemy, these hard-fighting men play an important and versatile role in modern military conflict.</German>
+		<Italian>[TAB]Modern infantry is given the challenging task of taking and holding terrain, which often involves dangerous,close range fighting. Organized into small squads, their strength lies in their training and equipment (rifle, grenades, helmet, and other critical gear). Often individuals in the squad are trained to be specialists, allowing them access to anti-tank weapons or light machine guns. Experienced in concealment and patrolling close to the enemy, these hard-fighting men play an important and versatile role in modern military conflict.</Italian>
+		<Spanish>[TAB]Modern infantry is given the challenging task of taking and holding terrain, which often involves dangerous,close range fighting. Organized into small squads, their strength lies in their training and equipment (rifle, grenades, helmet, and other critical gear). Often individuals in the squad are trained to be specialists, allowing them access to anti-tank weapons or light machine guns. Experienced in concealment and patrolling close to the enemy, these hard-fighting men play an important and versatile role in modern military conflict.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FINNISH_JAEGER_STRATEGY</Tag>
+		<English>The Finnish replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is more powerful, has bonuses against Early and Light Tanks, and comes with the Woodsman promotion upon completion.</English>
+		<French>The Finnish replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is more powerful, has bonuses against Early and Light Tanks, and comes with the Woodsman promotion upon completion.</French>
+		<German>The Finnish replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is more powerful, has bonuses against Early and Light Tanks, and comes with the Woodsman promotion upon completion.</German>
+		<Italian>The Finnish replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is more powerful, has bonuses against Early and Light Tanks, and comes with the Woodsman promotion upon completion.</Italian>
+		<Spanish>The Finnish replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT] is more powerful, has bonuses against Early and Light Tanks, and comes with the Woodsman promotion upon completion.</Spanish>
+	</TEXT>
+</Civ4GameText>	

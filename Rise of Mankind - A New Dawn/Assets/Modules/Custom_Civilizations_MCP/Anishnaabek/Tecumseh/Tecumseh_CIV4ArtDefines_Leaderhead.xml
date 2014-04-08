@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Tecumseh_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TECUMSEH</Type>
+			<Button>art/Anishnaabek/Tecumseh/Tecumseh1.dds</Button>
+			<NIF>art/Anishnaabek/Tecumseh/Julius_Caesar.nif</NIF>
+			<KFM>art/Anishnaabek/Tecumseh/Julius_Caesar.kfm</KFM>
+			<NoShaderNIF>art/Anishnaabek/Tecumseh/julius_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Anishnaabek/Tecumseh/Julius_Caesar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

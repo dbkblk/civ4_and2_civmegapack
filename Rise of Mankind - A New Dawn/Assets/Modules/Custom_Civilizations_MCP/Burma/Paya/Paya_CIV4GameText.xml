@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BURMA_PAYA</Tag>
+		<English>Paya</English>
+		<French>Paya</French>
+		<German>Paya</German>
+		<Italian>Paya</Italian>
+		<Spanish>Paya</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BURMA_PAYA_PEDIA</Tag>
+		<English>[TAB]A paya or stupa is a Buddhist structure made up of five constituent parts. Each component is rich in metaphoric content. For example, "the shape of the stupa represents the Buddha, crowned and sitting in meditation posture on a lion throne. His crown is the top of the spire; his head is the square at the spire's base; his body is the vase shape; his legs are the four steps of the lower terrace; and the base is his throne." The components of the stupa are also identified with the five elements - earth, water, fire, air, and space - held to constitute the fabric of manifest existence.</English>
+		<French>[TAB]A paya or stupa is a Buddhist structure made up of five constituent parts. Each component is rich in metaphoric content. For example, "the shape of the stupa represents the Buddha, crowned and sitting in meditation posture on a lion throne. His crown is the top of the spire; his head is the square at the spire's base; his body is the vase shape; his legs are the four steps of the lower terrace; and the base is his throne." The components of the stupa are also identified with the five elements - earth, water, fire, air, and space - held to constitute the fabric of manifest existence.</French>
+		<German>[TAB]A paya or stupa is a Buddhist structure made up of five constituent parts. Each component is rich in metaphoric content. For example, "the shape of the stupa represents the Buddha, crowned and sitting in meditation posture on a lion throne. His crown is the top of the spire; his head is the square at the spire's base; his body is the vase shape; his legs are the four steps of the lower terrace; and the base is his throne." The components of the stupa are also identified with the five elements - earth, water, fire, air, and space - held to constitute the fabric of manifest existence.</German>
+		<Italian>[TAB]A paya or stupa is a Buddhist structure made up of five constituent parts. Each component is rich in metaphoric content. For example, "the shape of the stupa represents the Buddha, crowned and sitting in meditation posture on a lion throne. His crown is the top of the spire; his head is the square at the spire's base; his body is the vase shape; his legs are the four steps of the lower terrace; and the base is his throne." The components of the stupa are also identified with the five elements - earth, water, fire, air, and space - held to constitute the fabric of manifest existence.</Italian>
+		<Spanish>[TAB]A paya or stupa is a Buddhist structure made up of five constituent parts. Each component is rich in metaphoric content. For example, "the shape of the stupa represents the Buddha, crowned and sitting in meditation posture on a lion throne. His crown is the top of the spire; his head is the square at the spire's base; his body is the vase shape; his legs are the four steps of the lower terrace; and the base is his throne." The components of the stupa are also identified with the five elements - earth, water, fire, air, and space - held to constitute the fabric of manifest existence.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</English>
+		<French>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</French>
+		<German>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NEWZEALAND_DIGGER</Tag>
+		<English>Digger</English>
+		<French>Digger</French>
+		<German>Digger</German>
+		<Italian>Digger</Italian>
+		<Spanish>Digger</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NEWZEALAND_DIGGER_PEDIA</Tag>
+		<English>[TAB]Digger is New Zealand and Australian military slang term for soldiers from New Zealand and Australia. It originated during World War I. There are numerous theories about the origin of the term. Before the war, the term "digger" had been widely used in Australasia to mean a miner, or a Kauri gum-digger in New Zealand. On 25 April 1915, General Sir Ian Hamilton sent a message to the commander of the Australian and New Zealand Army Corps (ANZAC), General William Birdwood, following the landing at Gallipoli. It contained the postscript: "P.S.-You have got through the difficult business, now you have only to dig, dig, dig, until you are safe."</English>
+		<French>[TAB]Digger is New Zealand and Australian military slang term for soldiers from New Zealand and Australia. It originated during World War I. There are numerous theories about the origin of the term. Before the war, the term "digger" had been widely used in Australasia to mean a miner, or a Kauri gum-digger in New Zealand. On 25 April 1915, General Sir Ian Hamilton sent a message to the commander of the Australian and New Zealand Army Corps (ANZAC), General William Birdwood, following the landing at Gallipoli. It contained the postscript: "P.S.-You have got through the difficult business, now you have only to dig, dig, dig, until you are safe."</French>
+		<German>[TAB]Digger is New Zealand and Australian military slang term for soldiers from New Zealand and Australia. It originated during World War I. There are numerous theories about the origin of the term. Before the war, the term "digger" had been widely used in Australasia to mean a miner, or a Kauri gum-digger in New Zealand. On 25 April 1915, General Sir Ian Hamilton sent a message to the commander of the Australian and New Zealand Army Corps (ANZAC), General William Birdwood, following the landing at Gallipoli. It contained the postscript: "P.S.-You have got through the difficult business, now you have only to dig, dig, dig, until you are safe."</German>
+		<Italian>[TAB]Digger is New Zealand and Australian military slang term for soldiers from New Zealand and Australia. It originated during World War I. There are numerous theories about the origin of the term. Before the war, the term "digger" had been widely used in Australasia to mean a miner, or a Kauri gum-digger in New Zealand. On 25 April 1915, General Sir Ian Hamilton sent a message to the commander of the Australian and New Zealand Army Corps (ANZAC), General William Birdwood, following the landing at Gallipoli. It contained the postscript: "P.S.-You have got through the difficult business, now you have only to dig, dig, dig, until you are safe."</Italian>
+		<Spanish>[TAB]Digger is New Zealand and Australian military slang term for soldiers from New Zealand and Australia. It originated during World War I. There are numerous theories about the origin of the term. Before the war, the term "digger" had been widely used in Australasia to mean a miner, or a Kauri gum-digger in New Zealand. On 25 April 1915, General Sir Ian Hamilton sent a message to the commander of the Australian and New Zealand Army Corps (ANZAC), General William Birdwood, following the landing at Gallipoli. It contained the postscript: "P.S.-You have got through the difficult business, now you have only to dig, dig, dig, until you are safe."</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NEWZEALAND_DIGGER_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Digger[COLOR_REVERT], New Zealand's replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT], adds additional defense on hills and cities, as well as well as an additional first strike chance.</English>
+		<French>The [COLOR_UNIT_TEXT]Digger[COLOR_REVERT], New Zealand's replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT], adds additional defense on hills and cities, as well as  well as an additional first strike chance.</French>
+		<German>The [COLOR_UNIT_TEXT]Digger[COLOR_REVERT], New Zealand's replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT], adds additional defense on hills and cities, as well as well as an additional first strike chance.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Digger[COLOR_REVERT], New Zealand's replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT], adds additional defense on hills and cities, as well as well as an additional first strike chance.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Digger[COLOR_REVERT], New Zealand's replacement for the [COLOR_UNIT_TEXT]Infantry[COLOR_REVERT], adds additional defense on hills and cities, as well as well as an additional first strike chance.</Spanish>
+	</TEXT>
+</Civ4GameText>

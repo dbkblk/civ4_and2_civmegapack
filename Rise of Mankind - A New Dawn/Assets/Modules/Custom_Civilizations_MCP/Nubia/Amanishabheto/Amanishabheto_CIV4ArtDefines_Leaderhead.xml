@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Amanishabheto_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AMANISHABHETO</Type>
+			<Button>art/Nubia/Amanishabheto/Amanishabheto.dds</Button>
+			<NIF>art/Nubia/Amanishabheto/hatshepsut.nif</NIF>
+			<KFM>art/Nubia/Amanishabheto/hatshepsut.kfm</KFM>
+			<NoShaderNIF>art/Nubia/Amanishabheto/hatshepsut_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Nubia/Amanishabheto/hatshepsut_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

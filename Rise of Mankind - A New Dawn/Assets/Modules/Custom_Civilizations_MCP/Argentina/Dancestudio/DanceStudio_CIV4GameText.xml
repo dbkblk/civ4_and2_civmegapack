@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO</Tag>
+		<English>Dance Studio</English>
+		<French>Dance Studio</French>
+		<German>Dance Studio</German>
+		<Italian>Dance Studio</Italian>
+		<Spanish>Dance Studio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO_PEDIA</Tag>
+		<English>[TAB]Tango is Argentina's musical symbol. The Milonga dance was a predecessor, slowly evolving into mordern tango. By the 1930s, tango had changed from a dance focused music to one of lyric and poetry. The golden age of tango (1930 to mid-1950s) mirrored that of Jazz and Swing in the United States, featuring large orchestral groups.[NEWLINE][NEWLINE]Argentine Tango consists of a variety of styles that developed in different regions and eras, and in response to the crowding of the venue and even the fashions in clothing. Even though they all developed in Argentina and Uruguay, they were also exposed to influences reimported from Europe and North America.</English>
+		<French>[TAB]Tango is Argentina's musical symbol. The Milonga dance was a predecessor, slowly evolving into mordern tango. By the 1930s, tango had changed from a dance focused music to one of lyric and poetry. The golden age of tango (1930 to mid-1950s) mirrored that of Jazz and Swing in the United States, featuring large orchestral groups.[NEWLINE][NEWLINE]Argentine Tango consists of a variety of styles that developed in different regions and eras, and in response to the crowding of the venue and even the fashions in clothing. Even though they all developed in Argentina and Uruguay, they were also exposed to influences reimported from Europe and North America.</French>
+		<German>[TAB]Tango is Argentina's musical symbol. The Milonga dance was a predecessor, slowly evolving into mordern tango. By the 1930s, tango had changed from a dance focused music to one of lyric and poetry. The golden age of tango (1930 to mid-1950s) mirrored that of Jazz and Swing in the United States, featuring large orchestral groups.[NEWLINE][NEWLINE]Argentine Tango consists of a variety of styles that developed in different regions and eras, and in response to the crowding of the venue and even the fashions in clothing. Even though they all developed in Argentina and Uruguay, they were also exposed to influences reimported from Europe and North America.</German>
+		<Italian>[TAB]Tango is Argentina's musical symbol. The Milonga dance was a predecessor, slowly evolving into mordern tango. By the 1930s, tango had changed from a dance focused music to one of lyric and poetry. The golden age of tango (1930 to mid-1950s) mirrored that of Jazz and Swing in the United States, featuring large orchestral groups.[NEWLINE][NEWLINE]Argentine Tango consists of a variety of styles that developed in different regions and eras, and in response to the crowding of the venue and even the fashions in clothing. Even though they all developed in Argentina and Uruguay, they were also exposed to influences reimported from Europe and North America.</Italian>
+		<Spanish>[TAB]Tango is Argentina's musical symbol. The Milonga dance was a predecessor, slowly evolving into mordern tango. By the 1930s, tango had changed from a dance focused music to one of lyric and poetry. The golden age of tango (1930 to mid-1950s) mirrored that of Jazz and Swing in the United States, featuring large orchestral groups.[NEWLINE][NEWLINE]Argentine Tango consists of a variety of styles that developed in different regions and eras, and in response to the crowding of the venue and even the fashions in clothing. Even though they all developed in Argentina and Uruguay, they were also exposed to influences reimported from Europe and North America.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</English>
+		<French>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</French>
+		<German>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</Spanish>
+	</TEXT>
+</Civ4GameText>

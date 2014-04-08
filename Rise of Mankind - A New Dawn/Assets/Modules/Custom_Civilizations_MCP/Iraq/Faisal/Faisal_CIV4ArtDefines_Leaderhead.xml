@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Faisal_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_FAISAL</Type>
+			<Button>art/Iraq/Faisal/Faisal_btn.dds</Button>
+			<NIF>art/Iraq/Faisal/IbnSaud.nif</NIF>
+			<KFM>art/Iraq/Faisal/John II.kfm</KFM>
+			<NoShaderNIF/>
+			<BackgroundKFM>art/Iraq/Faisal/IbnSaud_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

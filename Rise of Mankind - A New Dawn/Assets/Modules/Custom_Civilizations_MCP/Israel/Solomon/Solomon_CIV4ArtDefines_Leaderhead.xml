@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Solomon_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SOLOMON</Type>
+			<Button>art/Israel/Solomon/Btn_Solomon.dds</Button>
+			<NIF>art/Israel/Solomon/Arawak.nif</NIF>
+			<KFM>art/Israel/Solomon/Arawak.kfm</KFM>
+			<NoShaderNIF>art/Israel/Solomon/Arawak.nif</NoShaderNIF>
+			<BackgroundKFM>art/Israel/Solomon/Arawak_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

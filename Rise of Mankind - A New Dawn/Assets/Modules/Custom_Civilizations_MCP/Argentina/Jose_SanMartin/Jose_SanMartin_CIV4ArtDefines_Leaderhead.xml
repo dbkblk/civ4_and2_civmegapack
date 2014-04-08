@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Jose_SanMartin_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SAN_MARTIN</Type>
+			<Button>art/Argentina/Jose_SanMartin/Jose.dds</Button>
+			<NIF>art/Argentina/Jose_SanMartin/Jose_SanMartin.nif</NIF>
+			<KFM>art/Argentina/Jose_SanMartin/Jose_SanMartin.kfm</KFM>
+			<NoShaderNIF>art/Argentina/Jose_SanMartin/Jose_SanMartin.nif</NoShaderNIF>
+			<BackgroundKFM>art/Argentina/Jose_SanMartin/Jose_SanMartin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

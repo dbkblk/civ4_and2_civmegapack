@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:CricketGround_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_WESTINDIES_CRICKETGROUND</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.63</fScale>
+			<fInterfaceScale>2.22</fInterfaceScale>
+			<NIF>art/Westindies/CricketGround/Bloodbowl.nif</NIF>
+			<KFM/>
+			<Button>art/Westindies/CricketGround/CricketGround.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

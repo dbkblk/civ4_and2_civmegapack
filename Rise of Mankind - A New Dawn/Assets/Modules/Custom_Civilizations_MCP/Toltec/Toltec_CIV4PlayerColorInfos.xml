@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4PlayerColorInfos xmlns="x-schema:Toltec_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_TOLTEC</Type>
+			<ColorTypePrimary>COLOR_X_PEACHPUFF</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_X_CORAL</ColorTypeSecondary>
+			<TextColorType>COLOR_X_PEACHPUFF</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

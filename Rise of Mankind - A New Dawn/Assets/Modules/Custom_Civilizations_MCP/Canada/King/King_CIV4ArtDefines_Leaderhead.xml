@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:King_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MACKENZIEKING</Type>
+			<Button>art/Canada/King/King.dds</Button>
+			<NIF>art/Canada/King/syndicate.nif</NIF>
+			<KFM>art/Canada/King/fdr.kfm</KFM>
+			<NoShaderNIF>art/Canada/King/syndicate_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Canada/King/fdr_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

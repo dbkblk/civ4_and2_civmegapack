@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Trung_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TRUNG</Type>
+			<Button>art/Vietnam/Trung/Btn_LH_Trung.dds</Button>
+			<NIF>art/Vietnam/Trung/Trung.nif</NIF>
+			<KFM>art/Vietnam/Trung/Trung.kfm</KFM>
+			<NoShaderNIF>art/Vietnam/Trung/Trung.nif</NoShaderNIF>
+			<BackgroundKFM>art/Vietnam/Trung/Trung_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Alfred_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ALFRED</Type>
+			<Button>art/AngloSaxons/Alfred/alfred.dds</Button>
+			<NIF>art/AngloSaxons/Alfred/brennus.nif</NIF>
+			<KFM>art/AngloSaxons/Alfred/brennus.kfm</KFM>
+			<NoShaderNIF>art/AngloSaxons/Alfred/brennus_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/AngloSaxons/Alfred/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

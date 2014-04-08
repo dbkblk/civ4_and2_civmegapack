@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Vijayalaya_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_VIJAYALAYA</Type>
+			<Button>art/Chola/Vijayalaya/Vijayalaya.dds</Button>
+			<NIF>art/Chola/Vijayalaya/Justinian.nif</NIF>
+			<KFM>art/Chola/Vijayalaya/Justinian.kfm</KFM>
+			<NoShaderNIF>art/Chola/Vijayalaya/Justinian_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Chola/Vijayalaya/Justinian_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

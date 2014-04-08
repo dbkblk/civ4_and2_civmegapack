@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Daar_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DAAR</Type>
+			<Button>art/Somalia/Daar/Daar.dds</Button>
+			<NIF>art/Somalia/Daar/fdr.nif</NIF>
+			<KFM>art/Somalia/Daar/fdr.kfm</KFM>
+			<NoShaderNIF>art/Somalia/Daar/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Somalia/Daar/fdr_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JANYBEK</Tag>
+		<English>Janybek</English>
+		<French>
+			<Text>Janybek</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Janybek</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Janybek</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Janybek</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JANYBEK_PEDIA</Tag>
+		<English>[H1]Janybek Khan[\H1][NEWLINE][BOLD]Co-leader of the Kazakh Khanate[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] c. 1465 - 1480 [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Janybek (or Janibek, Zhanibek, Jani Beg) Khan was a co-leader of a new Kazakh Khanate, following a successful rebellion against the Uzbek Khan Abu'l-Khayr Khan in 1465 and 1466. Janybek's father was Baraq (Khan of Golden Horde) who was poisoned by emirs of the former White Horde. He led the splinter group along with Kerei (or Girei or Keray), who was his relative, and who was also descended from the famous Urus Khan of the White Horde. For his wisdom, he was given the title "Az", meaning "the wise" in the Kazakh language, and so was called Az-Zhanibek. His son, Kasym Khan codified the laws of his people.</English>
+		<French>[H1]Janybek Khan[\H1][NEWLINE][BOLD]Co-leader of the Kazakh Khanate[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] c. 1465 - 1480 [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Janybek (or Janibek, Zhanibek, Jani Beg) Khan was a co-leader of a new Kazakh Khanate, following a successful rebellion against the Uzbek Khan Abu'l-Khayr Khan in 1465 and 1466. Janybek's father was Baraq (Khan of Golden Horde) who was poisoned by emirs of the former White Horde. He led the splinter group along with Kerei (or Girei or Keray), who was his relative, and who was also descended from the famous Urus Khan of the White Horde. For his wisdom, he was given the title "Az", meaning "the wise" in the Kazakh language, and so was called Az-Zhanibek. His son, Kasym Khan codified the laws of his people.</French>
+		<German>[H1]Janybek Khan[\H1][NEWLINE][BOLD]Co-leader of the Kazakh Khanate[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] c. 1465 - 1480 [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Janybek (or Janibek, Zhanibek, Jani Beg) Khan was a co-leader of a new Kazakh Khanate, following a successful rebellion against the Uzbek Khan Abu'l-Khayr Khan in 1465 and 1466. Janybek's father was Baraq (Khan of Golden Horde) who was poisoned by emirs of the former White Horde. He led the splinter group along with Kerei (or Girei or Keray), who was his relative, and who was also descended from the famous Urus Khan of the White Horde. For his wisdom, he was given the title "Az", meaning "the wise" in the Kazakh language, and so was called Az-Zhanibek. His son, Kasym Khan codified the laws of his people.</German>
+		<Italian>[H1]Janybek Khan[\H1][NEWLINE][BOLD]Co-leader of the Kazakh Khanate[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] c. 1465 - 1480 [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Janybek (or Janibek, Zhanibek, Jani Beg) Khan was a co-leader of a new Kazakh Khanate, following a successful rebellion against the Uzbek Khan Abu'l-Khayr Khan in 1465 and 1466. Janybek's father was Baraq (Khan of Golden Horde) who was poisoned by emirs of the former White Horde. He led the splinter group along with Kerei (or Girei or Keray), who was his relative, and who was also descended from the famous Urus Khan of the White Horde. For his wisdom, he was given the title "Az", meaning "the wise" in the Kazakh language, and so was called Az-Zhanibek. His son, Kasym Khan codified the laws of his people.</Italian>
+		<Spanish>[H1]Janybek Khan[\H1][NEWLINE][BOLD]Co-leader of the Kazakh Khanate[\BOLD][NEWLINE][BOLD]Ruled: [\BOLD] c. 1465 - 1480 [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Janybek (or Janibek, Zhanibek, Jani Beg) Khan was a co-leader of a new Kazakh Khanate, following a successful rebellion against the Uzbek Khan Abu'l-Khayr Khan in 1465 and 1466. Janybek's father was Baraq (Khan of Golden Horde) who was poisoned by emirs of the former White Horde. He led the splinter group along with Kerei (or Girei or Keray), who was his relative, and who was also descended from the famous Urus Khan of the White Horde. For his wisdom, he was given the title "Az", meaning "the wise" in the Kazakh language, and so was called Az-Zhanibek. His son, Kasym Khan codified the laws of his people.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JANYBEK_1</Tag>
+		<English>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</English>
+		<French>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</French>
+		<German>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</German>
+		<Italian>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</Italian>
+		<Spanish>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</Spanish>
+	</TEXT>
+</Civ4GameText>

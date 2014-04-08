@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- re-Modified by strategyonly -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Salamasina_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SALAMASINA</Type>
+			<Button>art/Polynesia/Salamasina/btn_salamasina.dds</Button>
+			<NIF>art/Polynesia/Salamasina/salmasinafinal.nif</NIF>
+			<KFM>art/Polynesia/Salamasina/hatshepsut.kfm</KFM>
+			<NoShaderNIF>art/Polynesia/Salamasina/salmasinafinal.nif</NoShaderNIF>
+			<BackgroundKFM>art/Polynesia/Salamasina/winston_churchill_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

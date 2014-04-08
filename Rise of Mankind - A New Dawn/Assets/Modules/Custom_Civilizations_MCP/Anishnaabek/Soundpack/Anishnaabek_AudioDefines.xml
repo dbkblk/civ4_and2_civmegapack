@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dean Ray Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Anishnaabek_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>DIPLO_TECUMSEH_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Anishnaabek/Soundpack/Tecumseh_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_TECUMSEH_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Anishnaabek/Soundpack/Tecumseh_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_PONTIAC_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Anishnaabek/Soundpack/Pontiac_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_PONTIAC_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Anishnaabek/Soundpack/Pontiac_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

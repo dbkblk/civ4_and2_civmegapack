@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Alooma_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ALOOMA</Type>
+			<Button>Art/interface/LeaderHeads/Selassie.dds</Button>
+			<NIF>art/LeaderHeads/Selassie/huayna_capac.nif</NIF>
+			<KFM>art/LeaderHeads/Selassie/huayna_capac.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Selassie/huayna_capac_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/Selassie/huayna_capac_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

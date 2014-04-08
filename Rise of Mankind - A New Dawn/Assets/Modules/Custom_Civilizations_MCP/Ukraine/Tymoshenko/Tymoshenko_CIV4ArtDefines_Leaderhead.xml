@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Tymoshenko_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TYMOSHENKO</Type>
+			<Button>art/Ukraine/Tymoshenko/Tymoshenko.dds</Button>
+			<NIF>art/Ukraine/Tymoshenko/tymoshenko.nif</NIF>
+			<KFM>art/Ukraine/Tymoshenko/catherine.kfm</KFM>
+			<NoShaderNIF>art/Ukraine/Tymoshenko/tymoshenko_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Ukraine/Tymoshenko/tymoshenko_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

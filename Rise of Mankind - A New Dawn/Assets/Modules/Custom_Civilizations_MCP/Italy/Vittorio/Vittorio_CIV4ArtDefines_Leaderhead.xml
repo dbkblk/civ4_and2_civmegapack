@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Vittorio_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_VITTORIO_EMANUELE_II</Type>
+			<Button>art/Italy/Vittorio/Vittorio_Emanuele_II.dds</Button>
+			<NIF>art/Italy/Vittorio/Napoleon.nif</NIF>
+			<KFM>art/Italy/Vittorio/Napoleon.kfm</KFM>
+			<NoShaderNIF>art/Italy/Vittorio/napoleon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Italy/Vittorio/Napoleon_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

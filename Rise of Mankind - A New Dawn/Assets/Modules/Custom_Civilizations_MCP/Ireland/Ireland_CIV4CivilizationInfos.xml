@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4CivilizationInfos xmlns="x-schema:Ireland_CIV4CivilizationsSchema.xml">
+	<CivilizationInfos>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_IRELAND</Type>
+			<Description>TXT_KEY_CIV_IRELAND_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_IRELAND_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_IRELAND_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_IRELAND_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_IRELAND</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_IRELAND</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPE</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Dublin</City>
+				<City>Corcaigh</City>
+				<City>Belfast</City>
+				<City>An Ghaillimh</City>
+				<City>Tallaght</City>
+				<City>Luimneach</City>
+				<City>Derry</City>
+				<City>Lisburn</City>
+				<City>Blanchardstown</City>
+				<City>Port Lairge</City>
+				<City>Clondalkin</City>
+				<City>Lucan</City>
+				<City>Bri Chualann</City>
+				<City>Droichead Atha</City>
+				<City>Newtonabbey</City>
+				<City>Dun Dealgan</City>
+				<City>Cill Choinnigh</City>
+				<City>Traighli</City>
+				<City>Bangor</City>
+				<City>Loch Garman</City>
+				<City>Sligeach</City>
+				<City>An Uaimh</City>
+				<City>Craigavon</City>
+				<City>Inis</City>
+				<City>Castlereagh</City>
+				<City>Mullingar</City>
+				<City>Letterkenny</City>
+				<City>Droichead Nua</City>
+				<City>Cluain Meala</City>
+				<City>Ceatharlach</City>
+				<City>Ath Luain</City>
+				<City>Balbriggan</City>
+				<City>Greystones</City>
+				<City>Naas</City>
+				<City>An Tulach Mhor</City>
+				<City>Malahide</City>
+				<City>Portlaoighise</City>
+				<City>Dun Laoghaire</City>
+				<City>Ballycummin</City>
+				<City>Stillorgan</City>
+				<City>Templeogue</City>
+				<City>Newry</City>
+				<City>Ballymena</City>
+				<City>Coleraine</City>
+				<City>Portadown</City>
+				<City>Carrickfergus</City>
+				<City>Omagh</City>
+				<City>Antrim</City>
+				<City>Newtownards</City>
+				<City>Larne</City>
+				<City>Lurgan</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+					<BuildingType>BUILDING_IRISH_RINGFORT</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_IRISH_FIANNA</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_RITUALISM</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_HUNTING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_OLIGARCHY</CivicType>
+				<CivicType>CIVIC_TRIBAL</CivicType>
+				<CivicType>CIVIC_BARTER</CivicType>
+				<CivicType>CIVIC_FOLKLORE</CivicType>
+				<CivicType>CIVIC_SURVIVAL</CivicType>
+				<CivicType>CIVIC_NOTHING</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_BORU</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_COLLINS</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_NIALL</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_AMERICA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_IRELAND_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_IRELAND_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+	</CivilizationInfos>
+</Civ4CivilizationInfos>

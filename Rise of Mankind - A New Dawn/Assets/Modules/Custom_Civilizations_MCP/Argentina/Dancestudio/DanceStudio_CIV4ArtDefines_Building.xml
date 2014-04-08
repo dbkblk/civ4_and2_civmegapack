@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:DanceStudio_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ARGENTINA_DANCESTUDIO</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.10</fScale>
+			<fInterfaceScale>1.3</fInterfaceScale>
+			<NIF>art/Argentina/Dancestudio/grocery.nif</NIF>
+			<KFM/>
+			<Button>art/Argentina/Dancestudio/ARG_Dance.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

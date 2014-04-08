@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Franz_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_FRANZ</Type>
+			<Button>art/Austria/Franz/Franz.dds</Button>
+			<NIF>art/Austria/Franz/julius_caesar.nif</NIF>
+			<KFM>art/Austria/Franz/julius_caesar.kfm</KFM>
+			<NoShaderNIF>art/Austria/Franz/julius_caesar.nif</NoShaderNIF>
+			<BackgroundKFM>art/Austria/Franz/julius_caesar_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

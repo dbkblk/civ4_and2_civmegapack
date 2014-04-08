@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Pedro_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PEDRO_II</Type>
+			<Button>art/Brazil/Pedro/pedro.dds</Button>
+			<NIF>art/Brazil/Pedro/napoleon.nif</NIF>
+			<KFM>art/Brazil/Pedro/napoleon.kfm</KFM>
+			<NoShaderNIF>art/Brazil/Pedro/napoleon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Brazil/Pedro/napoleon_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

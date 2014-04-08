@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Amina_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AMINA</Type>
+			<Button>art/Nigeria/Amina/Btn_LH_aminah.dds</Button>
+			<NIF>art/Nigeria/Amina/amina_africa.nif</NIF>
+			<KFM>art/Nigeria/Amina/catherine.kfm</KFM>
+			<NoShaderNIF>art/Nigeria/Amina/amina_africa.nif</NoShaderNIF>
+			<BackgroundKFM>art/Nigeria/Amina/catherine_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

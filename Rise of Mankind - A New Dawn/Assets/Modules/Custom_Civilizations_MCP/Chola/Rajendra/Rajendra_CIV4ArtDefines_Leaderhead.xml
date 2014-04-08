@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Rajendra_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_RAJENDRA</Type>
+			<Button>art/Chola/Rajendra/Raja.dds</Button>
+			<NIF>art/Chola/Rajendra/arab.nif</NIF>
+			<KFM>art/Chola/Rajendra/frederick_the_great.kfm</KFM>
+			<NoShaderNIF>art/Chola/Rajendra/arab.nif</NoShaderNIF>
+			<BackgroundKFM>art/Chola/Rajendra/frederick_the_great_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ithobaal_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ITHOBAAL</Type>
+			<Button>art/Phoenicia/Ithobaal/Ithobaal.dds</Button>
+			<NIF>art/Phoenicia/Ithobaal/alexander2.nif</NIF>
+			<KFM>art/Phoenicia/Ithobaal/alexander.kfm</KFM>
+			<NoShaderNIF>art/Phoenicia/Ithobaal/alexander2.nif</NoShaderNIF>
+			<BackgroundKFM>art/Phoenicia/Ithobaal/alexander_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

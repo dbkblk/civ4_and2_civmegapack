@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BANGLADESH_BAHINI</Tag>
+		<English>Sena Bahini</English>
+		<French>Sena Bahini</French>
+		<German>Sena Bahini</German>
+		<Italian>Sena Bahini</Italian>
+		<Spanish>Sena Bahini</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BANGLADESH_BAHINI_STRATEGY</Tag>
+		<English>Bangladesh's [COLOR_UNIT_TEXT]Sena Bahini[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and receives a movement bonus for quick deployment.</English>
+		<French>Bangladesh's [COLOR_UNIT_TEXT]Sena Bahini[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and receives a movement bonus for quick deployment.</French>
+		<German>Bangladesh's [COLOR_UNIT_TEXT]Sena Bahini[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and receives a movement bonus for quick deployment.</German>
+		<Italian>Bangladesh's [COLOR_UNIT_TEXT]Sena Bahini[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and receives a movement bonus for quick deployment.</Italian>
+		<Spanish>Bangladesh's [COLOR_UNIT_TEXT]Sena Bahini[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and receives a movement bonus for quick deployment.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BANGLADESH_BAHINI_PEDIA</Tag>
+		<English>[TAB]The Sena Bahini has specialized its peacekeeping operations capabilities around the world through participation in peacekeeping and nation building. It has created BIPSOT (Bangladesh Institute of Peace Support Operation Training) which is dedicated to training of peacekeepers for employment in all types of UNPSO (UN Peace Support Operations). </English>
+		<French>[TAB]The Sena Bahini has specialized its peacekeeping operations capabilities around the world through participation in peacekeeping and nation building. It has created BIPSOT (Bangladesh Institute of Peace Support Operation Training) which is dedicated to training of peacekeepers for employment in all types of UNPSO (UN Peace Support Operations). </French>
+		<German>[TAB]The Sena Bahini has specialized its peacekeeping operations capabilities around the world through participation in peacekeeping and nation building. It has created BIPSOT (Bangladesh Institute of Peace Support Operation Training) which is dedicated to training of peacekeepers for employment in all types of UNPSO (UN Peace Support Operations). </German>
+		<Italian>[TAB]The Sena Bahini has specialized its peacekeeping operations capabilities around the world through participation in peacekeeping and nation building. It has created BIPSOT (Bangladesh Institute of Peace Support Operation Training) which is dedicated to training of peacekeepers for employment in all types of UNPSO (UN Peace Support Operations). </Italian>
+		<Spanish>[TAB]The Sena Bahini has specialized its peacekeeping operations capabilities around the world through participation in peacekeeping and nation building. It has created BIPSOT (Bangladesh Institute of Peace Support Operation Training) which is dedicated to training of peacekeepers for employment in all types of UNPSO (UN Peace Support Operations). </Spanish>
+	</TEXT>
+</Civ4GameText>	

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+        <TEXT>
+		<Tag>TXT_KEY_UNIT_ABORIGINES_NULLA_NULLA</Tag>
+		<English>Nulla Nulla</English>
+		<French>Nulla Nulla</French>
+		<German>Nulla Nulla</German>
+		<Italian>Nulla Nulla</Italian>
+		<Spanish>Nulla Nulla</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ABORIGINES_NULLA_NULLA_PEDIA</Tag>
+		<English>[TAB]A nulla nulla, also known as as waddy or hunting stick, is an Australian Aboriginal war club.  The nulla nulla is a heavy club made of timber used in hand to hand combat.  Known to have the ability to split a shield, this powerful weapon was used for killing or stunning food.  It could also be used as a projectile or be used to make fire and ochre.  They could also be used as a punishment to those who broke Aboriginal law.  The nulla nulla was made by both men and women and could be painted or left unpainted.  Their construction varied from tribe to ribe, but were generall about one meter in length and sometimes had a stone head attached with bees wax and string.  They were made from where a branch met the tree, or from a young tree pulled up with its roots in the ground. </English>
+		<French>[TAB]Un Nulla Nulla, également connue sous le nom de waddy ou bâton de chasse, est un club de la guerre des Aborigènes d'Australie. Le Nulla Nulla est un club de lourdes faites de bois utilisé dans une main à combattre. On sait qu'ils ont la possibilité de diviser un bouclier, cette puissante arme a été utilisée pour tuer ou de l'étourdissement nourriture. Elle pourrait aussi être utilisée comme un projectile ou être utilisés pour faire du feu et l'ocre. Ils pourraient aussi être utilisé comme un châtiment de ceux qui violent le droit autochtone. Le Nulla Nulla a été faite par les hommes et les femmes et peuvent être peintes ou non peintes gauche. Leur construction variaient d'une tribu à ribe, mais sont généralement, à environ un mètre de long et ont parfois une pierre tête attachée à la cire d'abeilles et de chaîne. Elles sont faites à partir duquel une succursale rencontré l'arbre, ou d'un jeune arbre arrachées avec ses racines dans le sol.</French>
+		<German>[TAB] Ein ... nulla ... nulla, auch bekannt als als waddy oder Jagd halten, ist ein australischer Aborigines Krieg Verein. Die ... nulla ... nulla ist eine schwere Klub aus Holz in der Hand zu Hand bekämpfen. Bekannt, dass die Fähigkeit zur Spaltung ein Schild, dieses mächtige Waffe wurde zur Tötung oder Betäuben Nahrung. Es könnte auch dazu genutzt werden, ein Projektil oder verwendet werden können, um Feuer und Ocker. Sie könnten auch als eine Strafe für jene, die Aborigines Gesetz gebrochen. Die ... nulla ... nulla wurde von Männern und Frauen und könnte bemalt oder unbemalt links. Ihr Bau variierten von Stamm zu ribe, wurden aber generall über einen Meter in der Länge und manchmal hatte einen Stein Kopf befestigt mit Bienen Wachs und String. Sie waren aus, wenn ein Zweig mit dem Baum, oder von einem jungen Baum zog sich mit seinen Wurzeln in den Boden. </German>
+		<Italian>[TAB]A nulla nulla, noto anche come come waddy o bastone di caccia, è una guerra Club aborigeni australiani. Il nulla è un nulla pesanti squadra fatta di legno utilizzato in mano in mano combattere. Noto che hanno la capacità di dividere un scudo, questa potente arma è stato usato per uccidere o di stordimento cibo. Essa potrebbe anche essere usato come un proiettile o essere usato per fare fuoco e ocra. Essi potrebbero anche essere utilizzato come una punizione per coloro che hanno rotto aborigeni legge. Il nulla nulla è stato fatto da uomini e donne e potrebbe essere dipinto o di sinistra non verniciata. La loro costruzione variava da tribù a ribe, ma sono stati generall circa un metro di lunghezza e talvolta aveva una testa di pietra collegata con cera d'api e la stringa. Esse sono state effettuate da una succursale, dove ha incontrato l'albero, o da un giovane albero tirato su con le sue radici nel terreno.</Italian>
+		<Spanish>[TAB]Una de nulla de nulla, también conocido como la caza como waddy o palo, es un club de la guerra de aborígenes de Australia. El de nulla de nulla es un gran club de hecho de la madera utilizada en mano en mano de combate. Sabe que tiene la capacidad de dividir un escudo, esta poderosa arma fue utilizada para matar o aturdimiento alimentos. También podría ser utilizado como proyectil o ser utilizados para hacer fuego y ocre. También podrían ser utilizados como un castigo a aquellos que rompieron la ley aborígenes. El de nulla de nulla fue hecha por los hombres y las mujeres y pueden ser pintados o izquierda unpainted. Su construcción varía de tribu a ribe, pero se generall alrededor de un metro de largo y, a veces, había una piedra jefe adjunto con cera de abejas y de cadena. Ellos se hicieron desde una sucursal, donde se reunió con el árbol, o de un árbol joven se levantó con sus raíces en el terreno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ABORIGINES_NULLA_NULLA_STRATEGY</Tag>
+		<English>This powerful melee unit (the Aboriginal replacement for the [COLOR_UNIT_TEXT]Javelineer[COLOR_REVERT]) is excellent against melee units and has the ability to withdraw.</English>
+		<French>Cette puissante unité de mêlée (le Autochtones remplaçant pour la[COLOR_UNIT_TEXT]Javelineer[COLOR_REVERT]) est excellent contre les unités de mêlée and has the ability to withdraw.</French>
+		<German>ieses leistungsfähige Handgemenge (die Aboriginal Ersatz für die[COLOR_UNIT_TEXT]Javelineer[COLOR_REVERT]) ist hervorragend gegen Handgemenge and has the ability to withdraw.</German>
+		<Italian>Questo potente melee unità (la Aborigeni sostituzione per il[COLOR_UNIT_TEXT]Javelineer[COLOR_REVERT]), è eccellente contro melee unità and has the ability to withdraw.</Italian>
+		<Spanish>Esta potente reyerta (unidad de la Aborígenes reemplazo para el[COLOR_UNIT_TEXT]Javelineer[COLOR_REVERT]) es excelente contra la reyerta unidades and has the ability to withdraw.</Spanish>
+	</TEXT>
+</Civ4GameText>

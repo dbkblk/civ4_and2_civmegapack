@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Aborigines_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>DIPLO_YAGAN_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Aborigines/Soundpack/Yagan_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_YAGAN_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Aborigines/Soundpack/Yagan_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_YUNUPINGU_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Aborigines/Soundpack/Yagan_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_YUNUPINGU_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Aborigines/Soundpack/Yagan_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

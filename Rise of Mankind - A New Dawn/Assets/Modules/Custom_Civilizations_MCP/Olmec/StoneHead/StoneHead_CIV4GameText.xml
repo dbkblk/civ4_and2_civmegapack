@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD</Tag>
+		<English>Stone Head</English>
+		<French>Stone Head</French>
+		<German>Stone Head</German>
+		<Italian>Stone Head</Italian>
+		<Spanish>Stone Head</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</English>
+		<French>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</French>
+		<German>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD_PEDIA</Tag>
+		<English>[TAB]The best-recognized aspect of the Olmec civilzation are the enormous helmeted heads. As no known pre-Columbian text explains these, these impressive monuments have been the subject of much speculation. Once theorized to be ballplayers, it is now generally accepted that these heads are portraits of rulers. According to archaeologist David Grove, the unique elements in the headgear can also be recognized in headdresses of human figures on other Gulf Coast monuments, suggesting that these are personal or group symbols. The heads range in size from the Rancho La Cobata head, at 3.4 m high, to the pair at Tres Zapotes, at 1.47 m. It has been calculated that the largest heads weigh more than 20 tons.</English>
+		<French>[TAB]The best-recognized aspect of the Olmec civilzation are the enormous helmeted heads. As no known pre-Columbian text explains these, these impressive monuments have been the subject of much speculation. Once theorized to be ballplayers, it is now generally accepted that these heads are portraits of rulers. According to archaeologist David Grove, the unique elements in the headgear can also be recognized in headdresses of human figures on other Gulf Coast monuments, suggesting that these are personal or group symbols. The heads range in size from the Rancho La Cobata head, at 3.4 m high, to the pair at Tres Zapotes, at 1.47 m. It has been calculated that the largest heads weigh more than 20 tons.</French>
+		<German>[TAB]The best-recognized aspect of the Olmec civilzation are the enormous helmeted heads. As no known pre-Columbian text explains these, these impressive monuments have been the subject of much speculation. Once theorized to be ballplayers, it is now generally accepted that these heads are portraits of rulers. According to archaeologist David Grove, the unique elements in the headgear can also be recognized in headdresses of human figures on other Gulf Coast monuments, suggesting that these are personal or group symbols. The heads range in size from the Rancho La Cobata head, at 3.4 m high, to the pair at Tres Zapotes, at 1.47 m. It has been calculated that the largest heads weigh more than 20 tons.</German>
+		<Italian>[TAB]The best-recognized aspect of the Olmec civilzation are the enormous helmeted heads. As no known pre-Columbian text explains these, these impressive monuments have been the subject of much speculation. Once theorized to be ballplayers, it is now generally accepted that these heads are portraits of rulers. According to archaeologist David Grove, the unique elements in the headgear can also be recognized in headdresses of human figures on other Gulf Coast monuments, suggesting that these are personal or group symbols. The heads range in size from the Rancho La Cobata head, at 3.4 m high, to the pair at Tres Zapotes, at 1.47 m. It has been calculated that the largest heads weigh more than 20 tons.</Italian>
+		<Spanish>[TAB]The best-recognized aspect of the Olmec civilzation are the enormous helmeted heads. As no known pre-Columbian text explains these, these impressive monuments have been the subject of much speculation. Once theorized to be ballplayers, it is now generally accepted that these heads are portraits of rulers. According to archaeologist David Grove, the unique elements in the headgear can also be recognized in headdresses of human figures on other Gulf Coast monuments, suggesting that these are personal or group symbols. The heads range in size from the Rancho La Cobata head, at 3.4 m high, to the pair at Tres Zapotes, at 1.47 m. It has been calculated that the largest heads weigh more than 20 tons.</Spanish>
+	</TEXT>
+</Civ4GameText>

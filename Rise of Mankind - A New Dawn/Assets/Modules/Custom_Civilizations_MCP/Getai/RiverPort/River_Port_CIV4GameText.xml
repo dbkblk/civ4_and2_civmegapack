@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GETAI_PORT</Tag>
+		<English>Getic River Port</English>
+		<French>Getic River Port</French>
+		<German>Getic River Port</German>
+		<Italian>Getic River Port</Italian>
+		<Spanish>Getic River Port</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GETAI_PORT_PEDIA</Tag>
+		<English>[TAB]The more enterprising tribes amongst the Getai used the rivers strewn throughout their lands to establish great networks of trade. They were able to link the variety of settlements that were found on the rivers with one another. Since the Getai had no remarkable tradition of maritime trade, the rivers were a welcome alternative. Rivers were easier to navigate than the open seas, and were found closer to the familiar settings of the mountains and forests. Trade along the rivers provided an extra source of income, and as a result, both great and small cities alike were able achieve wealth by utilizing the circuitous paths of river merchants.</English>
+		<French>[TAB]The more enterprising tribes amongst the Getai used the rivers strewn throughout their lands to establish great networks of trade. They were able to link the variety of settlements that were found on the rivers with one another. Since the Getai had no remarkable tradition of maritime trade, the rivers were a welcome alternative. Rivers were easier to navigate than the open seas, and were found closer to the familiar settings of the mountains and forests. Trade along the rivers provided an extra source of income, and as a result, both great and small cities alike were able achieve wealth by utilizing the circuitous paths of river merchants.</French>
+		<German>[TAB]The more enterprising tribes amongst the Getai used the rivers strewn throughout their lands to establish great networks of trade. They were able to link the variety of settlements that were found on the rivers with one another. Since the Getai had no remarkable tradition of maritime trade, the rivers were a welcome alternative. Rivers were easier to navigate than the open seas, and were found closer to the familiar settings of the mountains and forests. Trade along the rivers provided an extra source of income, and as a result, both great and small cities alike were able achieve wealth by utilizing the circuitous paths of river merchants.</German>
+		<Italian>[TAB]The more enterprising tribes amongst the Getai used the rivers strewn throughout their lands to establish great networks of trade. They were able to link the variety of settlements that were found on the rivers with one another. Since the Getai had no remarkable tradition of maritime trade, the rivers were a welcome alternative. Rivers were easier to navigate than the open seas, and were found closer to the familiar settings of the mountains and forests. Trade along the rivers provided an extra source of income, and as a result, both great and small cities alike were able achieve wealth by utilizing the circuitous paths of river merchants.</Italian>
+		<Spanish>[TAB]The more enterprising tribes amongst the Getai used the rivers strewn throughout their lands to establish great networks of trade. They were able to link the variety of settlements that were found on the rivers with one another. Since the Getai had no remarkable tradition of maritime trade, the rivers were a welcome alternative. Rivers were easier to navigate than the open seas, and were found closer to the familiar settings of the mountains and forests. Trade along the rivers provided an extra source of income, and as a result, both great and small cities alike were able achieve wealth by utilizing the circuitous paths of river merchants.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GETAI_PORT_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</English>
+		<French>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</French>
+		<German>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</Spanish>
+	</TEXT>
+</Civ4GameText>

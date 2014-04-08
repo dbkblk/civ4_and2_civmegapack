@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Masaryk_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MASARYK</Type>
+			<Button>art/Czech/Masaryk/Masaryk.dds</Button>
+			<NIF>art/Czech/Masaryk/fdr.nif</NIF>
+			<KFM>art/Czech/Masaryk/fdr.kfm</KFM>
+			<NoShaderNIF>art/Czech/Masaryk/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Czech/Masaryk/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

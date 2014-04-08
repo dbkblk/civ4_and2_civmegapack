@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ucupe_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_UCUPE</Type>
+			<Button>art/Moche/Ucupe/Sinchi.dds</Button>
+			<NIF>art/Moche/Ucupe/shaka.nif</NIF>
+			<KFM>art/Moche/Ucupe/shaka.kfm</KFM>
+			<NoShaderNIF>art/Moche/Ucupe/shaka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Moche/Ucupe/shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

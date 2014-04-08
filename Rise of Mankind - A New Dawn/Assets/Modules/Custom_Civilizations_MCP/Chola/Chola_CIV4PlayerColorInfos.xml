@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4PlayerColorInfos xmlns="x-schema:Chola_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_CERULEAN</Type>
+			<ColorTypePrimary>COLOR_PLAYER_CERULEAN</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PLAYER_ORANGE</ColorTypeSecondary>
+			<TextColorType>COLOR_PLAYER_CERULEAN</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

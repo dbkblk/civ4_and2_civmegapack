@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Marcos_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MARCOS</Type>
+			<Button>art/Philippines/Marcos/Btn_LH_Marcos.dds</Button>
+			<NIF>art/Philippines/Marcos/marcos.nif</NIF>
+			<KFM>art/Philippines/Marcos/marcos.kfm</KFM>
+			<NoShaderNIF>art/Philippines/Marcos/marcos.nif</NoShaderNIF>
+			<BackgroundKFM>art/Philippines/Marcos/marcos_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

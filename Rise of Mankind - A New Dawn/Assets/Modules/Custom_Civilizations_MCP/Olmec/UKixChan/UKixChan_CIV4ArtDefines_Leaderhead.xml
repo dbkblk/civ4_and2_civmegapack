@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:UKixChan_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_U_KIX_CHAN</Type>
+			<Button>art/Olmec/UKixChan/UKixChan.dds</Button>
+			<NIF>art/Olmec/UKixChan/montezuma.nif</NIF>
+			<KFM>art/Olmec/UKixChan/montezuma.kfm</KFM>
+			<NoShaderNIF>art/Olmec/UKixChan/montezuma_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Olmec/UKixChan/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

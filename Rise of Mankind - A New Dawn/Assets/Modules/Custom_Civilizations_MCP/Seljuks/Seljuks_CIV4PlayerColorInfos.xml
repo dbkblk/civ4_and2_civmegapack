@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Created with Dreamweaver CS3 by DWOLF -->
+<!-- Sid Meier's Civilization IV Beyond The Sword -->
+<!-- -->
+<Civ4PlayerColorInfos xmlns="x-schema:Seljuks_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_TURKISH_BLUE</Type>
+			<ColorTypePrimary>COLOR_PLAYER_TURKISH_BLUE</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PLAYER_BLACK</ColorTypeSecondary>
+			<TextColorType>COLOR_PLAYER_TURKISH_BLUE</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

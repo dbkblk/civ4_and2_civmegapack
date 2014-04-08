@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:LarsTolumnius_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_LARS_TOLUMNIUS</Type>
+			<Button>art/Etruscans/LarsTolumnius/LarsTolumnius.dds</Button>
+			<NIF>art/Etruscans/LarsTolumnius/Masinissa.nif</NIF>
+			<KFM>art/Etruscans/LarsTolumnius/augustus_caesar.kfm</KFM>
+			<NoShaderNIF>art/Etruscans/LarsTolumnius/Masinissa.nif</NoShaderNIF>
+			<BackgroundKFM>art/Etruscans/LarsTolumnius/augustus_caesar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

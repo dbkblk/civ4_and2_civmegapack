@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ovonramwen_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OVONRAMWEN</Type>
+			<Button>art/Benin/Ovonramwen/Ovonramwen.dds</Button>
+			<NIF>art/Benin/Ovonramwen/montezuma.nif</NIF>
+			<KFM>art/Benin/Ovonramwen/montezuma.kfm</KFM>
+			<NoShaderNIF>art/Benin/Ovonramwen/montezuma.nif</NoShaderNIF>
+			<BackgroundKFM>art/Benin/Ovonramwen/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAJAPAHIT_SILAT</Tag>
+		<English>Silat Adept</English>
+		<French>Silat Adept</French>
+		<German>Silat Adept</German>
+		<Italian>Silat Adept</Italian>
+		<Spanish>Silat Adept</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAJAPAHIT_SILAT_STRATEGY</Tag>
+		<English>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</English>
+		<French>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</French>
+		<German>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</German>
+		<Italian>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</Italian>
+		<Spanish>Build this powerful early melee combat unit (the Majapahit replacement for the [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT]) when you want to attack cities. It is slightly more powerful than the standard unit and receives 1 first strike.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAJAPAHIT_SILAT_PEDIA</Tag>
+		<English>[TAB]Pencak Silat is a Malay word meaning "Self-defense" or "Fighting" and its roots go very far back into the islands of Indonesia in the far east. The exact origins of Pencak Silat are not known but what is known is that it is a Martial tradition that extends to many different regions of the world and that it is an effective form of combative movement.[PARAGRAPH:1]The Hindu Empire of Majapahit created the foundation and systemization of the indigenous fighting techniques of Indonesia. The Majapahit warriors were a steeled group of men and were able to drive back the attacks of ruthless generals like Kau Sing and Kublai Khan with the methods they employed for close combat. It was in this empire that we see the famous Kris sword being truly perfected and becoming part and parcel with Silat.</English>
+		<French>[TAB]Pencak Silat is a Malay word meaning "Self-defense" or "Fighting" and its roots go very far back into the islands of Indonesia in the far east. The exact origins of Pencak Silat are not known but what is known is that it is a Martial tradition that extends to many different regions of the world and that it is an effective form of combative movement.[PARAGRAPH:1]The Hindu Empire of Majapahit created the foundation and systemization of the indigenous fighting techniques of Indonesia. The Majapahit warriors were a steeled group of men and were able to drive back the attacks of ruthless generals like Kau Sing and Kublai Khan with the methods they employed for close combat. It was in this empire that we see the famous Kris sword being truly perfected and becoming part and parcel with Silat.</French>
+		<German>[TAB]Pencak Silat is a Malay word meaning "Self-defense" or "Fighting" and its roots go very far back into the islands of Indonesia in the far east. The exact origins of Pencak Silat are not known but what is known is that it is a Martial tradition that extends to many different regions of the world and that it is an effective form of combative movement.[PARAGRAPH:1]The Hindu Empire of Majapahit created the foundation and systemization of the indigenous fighting techniques of Indonesia. The Majapahit warriors were a steeled group of men and were able to drive back the attacks of ruthless generals like Kau Sing and Kublai Khan with the methods they employed for close combat. It was in this empire that we see the famous Kris sword being truly perfected and becoming part and parcel with Silat.</German>
+		<Italian>[TAB]Pencak Silat is a Malay word meaning "Self-defense" or "Fighting" and its roots go very far back into the islands of Indonesia in the far east. The exact origins of Pencak Silat are not known but what is known is that it is a Martial tradition that extends to many different regions of the world and that it is an effective form of combative movement.[PARAGRAPH:1]The Hindu Empire of Majapahit created the foundation and systemization of the indigenous fighting techniques of Indonesia. The Majapahit warriors were a steeled group of men and were able to drive back the attacks of ruthless generals like Kau Sing and Kublai Khan with the methods they employed for close combat. It was in this empire that we see the famous Kris sword being truly perfected and becoming part and parcel with Silat.</Italian>
+		<Spanish>[TAB]Pencak Silat is a Malay word meaning "Self-defense" or "Fighting" and its roots go very far back into the islands of Indonesia in the far east. The exact origins of Pencak Silat are not known but what is known is that it is a Martial tradition that extends to many different regions of the world and that it is an effective form of combative movement.[PARAGRAPH:1]The Hindu Empire of Majapahit created the foundation and systemization of the indigenous fighting techniques of Indonesia. The Majapahit warriors were a steeled group of men and were able to drive back the attacks of ruthless generals like Kau Sing and Kublai Khan with the methods they employed for close combat. It was in this empire that we see the famous Kris sword being truly perfected and becoming part and parcel with Silat.</Spanish>
+	</TEXT>
+</Civ4GameText>

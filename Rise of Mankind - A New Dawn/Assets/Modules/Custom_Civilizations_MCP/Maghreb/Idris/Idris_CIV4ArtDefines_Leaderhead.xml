@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Idris_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_IDRIS</Type>
+			<Button>art/Maghreb/Idris/Idris.dds</Button>
+			<NIF>art/Maghreb/Idris/suleiman.nif</NIF>
+			<KFM>art/Maghreb/Idris/suleiman.kfm</KFM>
+			<NoShaderNIF>art/Maghreb/Idris/suleiman_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Maghreb/Idris/suleiman_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

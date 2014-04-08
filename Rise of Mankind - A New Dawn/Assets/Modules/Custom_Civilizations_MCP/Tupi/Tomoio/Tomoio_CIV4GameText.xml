@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TUPI_TOMOIO</Tag>
+		<English>Tomoio</English>
+		<French>Tomoio</French>
+		<German>Tomoio</German>
+		<Italian>Tomoio</Italian>
+		<Spanish>Tomoio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TUPI_TOMOIO_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</English>
+		<French>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</French>
+		<German>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Tomoi[COLOR_REVERT] (the Tupi replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are even faster, allowing them to cover more ground each turn.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TUPI_TOMOIO_PEDIA</Tag>
+		<English>[TAB]The Tomoios are one of many tribes that make up the Tupi family. Like other natives from the region, they were assimilated, enslaved or simply exterminated by Portuguese and Spanish settlers, nearly leading to their complete annihilation, with the exception of a few isolated communities. The remnants of these tribes are today confined to indigenous reservations or acculturated to some degree into the dominant society. The Tomoios were a formidable presence within the Amazon rain forests when the Poruguese first arrived in Brazil.</English>
+		<French>[TAB]The Tomoios are one of many tribes that make up the Tupi family. Like other natives from the region, they were assimilated, enslaved or simply exterminated by Portuguese and Spanish settlers, nearly leading to their complete annihilation, with the exception of a few isolated communities. The remnants of these tribes are today confined to indigenous reservations or acculturated to some degree into the dominant society. The Tomoios were a formidable presence within the Amazon rain forests when the Poruguese first arrived in Brazil.</French>
+		<German>[TAB]The Tomoios are one of many tribes that make up the Tupi family. Like other natives from the region, they were assimilated, enslaved or simply exterminated by Portuguese and Spanish settlers, nearly leading to their complete annihilation, with the exception of a few isolated communities. The remnants of these tribes are today confined to indigenous reservations or acculturated to some degree into the dominant society. The Tomoios were a formidable presence within the Amazon rain forests when the Poruguese first arrived in Brazil.</German>
+		<Italian>[TAB]The Tomoios are one of many tribes that make up the Tupi family. Like other natives from the region, they were assimilated, enslaved or simply exterminated by Portuguese and Spanish settlers, nearly leading to their complete annihilation, with the exception of a few isolated communities. The remnants of these tribes are today confined to indigenous reservations or acculturated to some degree into the dominant society. The Tomoios were a formidable presence within the Amazon rain forests when the Poruguese first arrived in Brazil.</Italian>
+		<Spanish>[TAB]The Tomoios are one of many tribes that make up the Tupi family. Like other natives from the region, they were assimilated, enslaved or simply exterminated by Portuguese and Spanish settlers, nearly leading to their complete annihilation, with the exception of a few isolated communities. The remnants of these tribes are today confined to indigenous reservations or acculturated to some degree into the dominant society. The Tomoios were a formidable presence within the Amazon rain forests when the Poruguese first arrived in Brazil.</Spanish>
+	</TEXT>
+</Civ4GameText>	

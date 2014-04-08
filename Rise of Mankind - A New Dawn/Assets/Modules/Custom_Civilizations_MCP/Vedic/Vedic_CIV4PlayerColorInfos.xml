@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4PlayerColorInfos xmlns="x-schema:Vedic_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_VEDIC</Type>
+			<ColorTypePrimary>COLOR_X_OLDLACE</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_X_SADDLEBROWN</ColorTypeSecondary>
+			<TextColorType>COLOR_X_OLDLACE</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

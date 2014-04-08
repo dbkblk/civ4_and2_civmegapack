@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mehai_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MEHAI</Type>
+			<Button>art/Romania/Mehai/Mihai.dds</Button>
+			<NIF>art/Romania/Mehai/alexander.nif</NIF>
+			<KFM>art/Romania/Mehai/alexander.kfm</KFM>
+			<NoShaderNIF>art/Romania/Mehai/alexander.nif</NoShaderNIF>
+			<BackgroundKFM>art/Romania/Mehai/julius_caesar_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

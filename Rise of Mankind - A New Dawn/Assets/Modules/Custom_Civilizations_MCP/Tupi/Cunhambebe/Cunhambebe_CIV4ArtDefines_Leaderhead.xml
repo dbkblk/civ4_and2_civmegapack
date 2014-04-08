@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Cunhambebe_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CUNHAMBEBE</Type>
+			<Button>art/Tupi/Cunhambebe/Cunhambebe.dds</Button>
+			<NIF>art/Tupi/Cunhambebe/montezuma.nif</NIF>
+			<KFM>art/Tupi/Cunhambebe/montezuma.kfm</KFM>
+			<NoShaderNIF>art/Tupi/Cunhambebe/montezuma_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>Modules/Custom_Civilizations_MCP/Tupi/Cunhambebe/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

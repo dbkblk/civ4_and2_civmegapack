@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:PoNgbe_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PO_NGBE</Type>
+			<Button>art/Olmec/PoNgbe/PoNgbe.dds</Button>
+			<NIF>art/Olmec/PoNgbe/huayna_capac.nif</NIF>
+			<KFM>art/Olmec/PoNgbe/huayna_capac.kfm</KFM>
+			<NoShaderNIF>art/Olmec/PoNgbe/huayna_capac_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Olmec/PoNgbe/huayna_capac_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

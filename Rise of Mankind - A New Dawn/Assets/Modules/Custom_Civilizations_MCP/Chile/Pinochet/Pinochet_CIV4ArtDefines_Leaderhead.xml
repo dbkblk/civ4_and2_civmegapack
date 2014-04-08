@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Bart Muzzin (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Pinochet_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PINOCHET</Type>
+			<Button>art/Chile/Pinochet/Pinochet.dds</Button>
+			<NIF>art/Chile/Pinochet/pinochet.nif</NIF>
+			<KFM>art/Chile/Pinochet/Charles De Gaulle.kfm</KFM>
+			<NoShaderNIF>art/Chile/Pinochet/pinochet.nif</NoShaderNIF>
+			<BackgroundKFM>art/Chile/Pinochet/Charles De Gaulle_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

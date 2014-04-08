@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE</Tag>
+		<English>Berber Pasture</English>
+		<French>Berber Pasture</French>
+		<German>Berber Pasture</German>
+		<Italian>Berber Pasture</Italian>
+		<Spanish>Berber Pasture</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE_PEDIA</Tag>
+		<English>[TAB]Although stereotyped in the West as nomads, most Berbers were in fact traditionally farmers, living in the mountains relatively close to the Mediterranean coast, or oasis dwellers; the Tuareg and Zenaga of the southern Sahara, however, were nomadic. Some groups, such as the Chaouis, practiced transhumance. Traditional transhumance is the seasonal movement of livestock, ascending to mountain pastures in summer and descending to relatively warm areas in the valleys or desert fringe in winter. Transhumance is based on the difference of climate between the mountains (where the herds stay during the summer) and the lowlands (where they remain the winter). Its importance to pastoralist societies cannot be overstated. Milk, butter and cheese - the products of transhumance - often form the basis of the local population's diet.</English>
+		<French>[TAB]Although stereotyped in the West as nomads, most Berbers were in fact traditionally farmers, living in the mountains relatively close to the Mediterranean coast, or oasis dwellers; the Tuareg and Zenaga of the southern Sahara, however, were nomadic. Some groups, such as the Chaouis, practiced transhumance. Traditional transhumance is the seasonal movement of livestock, ascending to mountain pastures in summer and descending to relatively warm areas in the valleys or desert fringe in winter. Transhumance is based on the difference of climate between the mountains (where the herds stay during the summer) and the lowlands (where they remain the winter). Its importance to pastoralist societies cannot be overstated. Milk, butter and cheese - the products of transhumance - often form the basis of the local population's diet.</French>
+		<German>[TAB]Although stereotyped in the West as nomads, most Berbers were in fact traditionally farmers, living in the mountains relatively close to the Mediterranean coast, or oasis dwellers; the Tuareg and Zenaga of the southern Sahara, however, were nomadic. Some groups, such as the Chaouis, practiced transhumance. Traditional transhumance is the seasonal movement of livestock, ascending to mountain pastures in summer and descending to relatively warm areas in the valleys or desert fringe in winter. Transhumance is based on the difference of climate between the mountains (where the herds stay during the summer) and the lowlands (where they remain the winter). Its importance to pastoralist societies cannot be overstated. Milk, butter and cheese - the products of transhumance - often form the basis of the local population's diet.</German>
+		<Italian>[TAB]Although stereotyped in the West as nomads, most Berbers were in fact traditionally farmers, living in the mountains relatively close to the Mediterranean coast, or oasis dwellers; the Tuareg and Zenaga of the southern Sahara, however, were nomadic. Some groups, such as the Chaouis, practiced transhumance. Traditional transhumance is the seasonal movement of livestock, ascending to mountain pastures in summer and descending to relatively warm areas in the valleys or desert fringe in winter. Transhumance is based on the difference of climate between the mountains (where the herds stay during the summer) and the lowlands (where they remain the winter). Its importance to pastoralist societies cannot be overstated. Milk, butter and cheese - the products of transhumance - often form the basis of the local population's diet.</Italian>
+		<Spanish>[TAB]Although stereotyped in the West as nomads, most Berbers were in fact traditionally farmers, living in the mountains relatively close to the Mediterranean coast, or oasis dwellers; the Tuareg and Zenaga of the southern Sahara, however, were nomadic. Some groups, such as the Chaouis, practiced transhumance. Traditional transhumance is the seasonal movement of livestock, ascending to mountain pastures in summer and descending to relatively warm areas in the valleys or desert fringe in winter. Transhumance is based on the difference of climate between the mountains (where the herds stay during the summer) and the lowlands (where they remain the winter). Its importance to pastoralist societies cannot be overstated. Milk, butter and cheese - the products of transhumance - often form the basis of the local population's diet.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Berber Pasture[COLOR_REVERT] is the Maghreb replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT] and gives a health boost.</English>
+		<French>The [COLOR_BUILDING_TEXT]Berber Pasture[COLOR_REVERT] is the Maghreb replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT] and gives a health boost.</French>
+		<German>The [COLOR_BUILDING_TEXT]Berber Pasture[COLOR_REVERT] is the Maghreb replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT] and gives a health boost.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Berber Pasture[COLOR_REVERT] is the Maghreb replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT] and gives a health boost.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Berber Pasture[COLOR_REVERT] is the Maghreb replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT] and gives a health boost.</Spanish>
+	</TEXT>
+</Civ4GameText>

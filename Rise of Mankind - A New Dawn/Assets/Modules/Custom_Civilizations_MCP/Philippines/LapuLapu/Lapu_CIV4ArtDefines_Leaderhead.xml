@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Lapu_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_LAPU</Type>
+			<Button>art/Philippines/LapuLapu/LapuLapu.dds</Button>
+			<NIF>art/Philippines/LapuLapu/julius_caesar2.nif</NIF>
+			<KFM>art/Philippines/LapuLapu/julius_caesar.kfm</KFM>
+			<NoShaderNIF>art/Philippines/LapuLapu/julius_caesar_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Philippines/LapuLapu/julius_caesar_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

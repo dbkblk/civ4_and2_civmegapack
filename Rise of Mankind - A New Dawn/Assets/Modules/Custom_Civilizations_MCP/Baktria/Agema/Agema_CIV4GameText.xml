@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	 <TEXT>
+		<Tag>TXT_KEY_UNIT_AGEMA</Tag>
+		<English>Baktrioi Agemata</English>
+		<French>
+			<Text>Baktrioi Agemata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Baktrioi Agemata</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Baktrioi Agemata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Baktrioi Agemata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+      <TEXT>
+		<Tag>TXT_KEY_UNIT_AGEMA_PEDIA</Tag>
+		<English>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</English>
+		<French>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</French>
+		<German>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</German>
+		<Italian>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</Italian>
+		<Spanish>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</Spanish>
+		<Russian>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</Russian>
+		<Japanese>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</Japanese>
+		<Chinese>[TAB]The Baktrian Kingdom had its own elite guard, shown so beautifully in golden statuary throughout their prominent enclaves.  These men are armed with spear and blade, and armored in a tough cuirass and boeotian helmet of a design unique to their corps.  They are the elite infantry of Baktria, and form the bulwark of Baktrias opposition to its rabid enemies.  They are a versatile phalanx, adept at their prescribed task but equally proficient when charging as melee fighters.[NEWLINE][TAB]Historically, the Baktrians had a lack of professional guards, which they tried to rectify by training recent arrivals from independent and semi autonomous Greek settlements outside of their kingdom, seeking a secure region for protection after their succession from the Seleucid kingdom.  These Greeks eventually formed the nucleus of this powerful and feared group of soldiers, which was later supplemented by local Greeks.</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AGEMA_STRATEGY</Tag>
+		<English>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</English>
+		<French>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</French>
+		<German>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</German>
+		<Italian>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</Italian>
+		<Spanish>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</Spanish>
+		<Russian>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</Russian>
+		<Japanese>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</Japanese>
+		<Chinese>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</Chinese>
+	</TEXT>
+</Civ4GameText>

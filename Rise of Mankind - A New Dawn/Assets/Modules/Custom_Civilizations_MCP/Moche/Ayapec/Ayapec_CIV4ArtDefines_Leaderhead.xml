@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ayapec_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AYAPEC</Type>
+			<Button>art/Moche/Ayapec/Ayapec.dds</Button>
+			<NIF>art/Moche/Ayapec/Cunhambebe2.nif</NIF>
+			<KFM>art/Moche/Ayapec/Cunhambebe.kfm</KFM>
+			<NoShaderNIF>art/Moche/Ayapec/Cunhambebe2.nif</NoShaderNIF>
+			<BackgroundKFM>art/Moche/Ayapec/Cunhambebe_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

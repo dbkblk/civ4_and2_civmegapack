@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Cochise_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_COCHISE</Type>
+			<Button>art/Apache/Cochise/Cochise.dds</Button>
+			<NIF>art/Apache/Cochise/Cochise.nif</NIF>
+			<KFM>art/Apache/Cochise/Cochise.kfm</KFM>
+			<NoShaderNIF>art/Apache/Cochise/Cochise.nif</NoShaderNIF>
+			<BackgroundKFM>art/Apache/Cochise/Cochise_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

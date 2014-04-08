@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:NipaHut_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		 <BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PHILIPPINES_NIPA_HUT</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.5</fScale>
+			<fInterfaceScale>2.4</fInterfaceScale>
+			<NIF>art/Philippines/NipaHut/Fish Pond.nif</NIF>
+			<KFM/>
+			<Button>art/Philippines/NipaHut/NipaHut.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Che_Bong_Nga_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CHE_BONG_NGA</Type>
+			<Button>,art/Champa/Che Bong Nga/Che Bong Nga.dds,art/Champa/Che Bong Nga/Champa_Atlas.dds,1,1</Button>
+			<NIF>art/Champa/Che Bong Nga/Suryavarman.nif</NIF>
+			<KFM>art/Champa/Che Bong Nga/Suryavarman.kfm</KFM>
+			<NoShaderNIF>art/Champa/Che Bong Nga/Suryaverman_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Champa/Che Bong Nga/Suryavarman_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

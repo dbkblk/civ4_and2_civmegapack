@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- Created with Notepad by strategyonly -->
+<!-- ###################################################################################### -->
+<Civ4ColorVals xmlns="x-schema:Denmark_CIV4InterfaceSchema.xml">
+	<ColorVals>
+		<ColorVal>
+			<Type>COLOR_PLAYER_VIKINGS_RED</Type>
+			<fRed>1.00</fRed>
+			<fGreen>0.40</fGreen>
+			<fBlue>0.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+		<!-- Is this white? -->
+		<Type>COLOR_PLAYER_NEAR_WHITE</Type>
+		<fRed>0.10</fRed>
+		<fGreen>0.10</fGreen>
+		<fBlue>0.10</fBlue>
+		<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_CYAN_TEXT</Type>
+			<fRed>0.6</fRed>
+			<fGreen>1.0</fGreen>
+			<fBlue>0.973</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+	</ColorVals>
+</Civ4ColorVals>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dean Ray Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Vietnam_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>DIPLO_TRUNG_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Vietnam/Soundpack/trung_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_TRUNG_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Vietnam/Soundpack/trung_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_TRUNG_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Vietnam/Soundpack/trung_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

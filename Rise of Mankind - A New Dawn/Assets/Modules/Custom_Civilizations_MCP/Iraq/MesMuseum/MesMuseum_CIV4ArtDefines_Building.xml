@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- Created with Dreamweaver CS3 by DWOLF -->
+<!-- Sid Meier's Civilization IV Beyond The Sword -->
+<!-- -->
+<!-- Building art path information -->
+<Civ4ArtDefines xmlns="x-schema:MesMuseum_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_IRAQ_MESMUSEUM</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.33</fScale>
+			<fInterfaceScale>0.55</fInterfaceScale>
+			<NIF>art/Iraq/MesMuseum/fortme8.nif</NIF>
+			<KFM/>
+			<Button>art/Iraq/MesMuseum/MesMuseum.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

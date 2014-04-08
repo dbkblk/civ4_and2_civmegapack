@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- -->
+<!-- edited with XML Marker 1.1 -->
+<!-- In The WayBack -->
+<!-- Modified by the Barbarian Graphics Shop (2008 )-->
+<!-- this space available -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Bridei_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BRIDEI</Type>
+			<Button>art/Picts/Bridei/BTN_LH_Celt_Cruithne.dds</Button>
+			<NIF>art/Picts/Bridei/Cruithne.nif</NIF>
+			<KFM>art/Picts/Bridei/Cruithne.kfm</KFM>
+			<NoShaderNIF>art/Picts/Bridei/Cruithne_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Picts/Bridei/Cruithne_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

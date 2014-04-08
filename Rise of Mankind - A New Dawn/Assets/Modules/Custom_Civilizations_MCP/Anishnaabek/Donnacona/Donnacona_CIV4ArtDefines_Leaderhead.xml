@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Donnacona_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DONNACONA</Type>
+			<Button>art/Anishnaabek/Donnacona/Donnacona.dds</Button>
+			<NIF>art/Anishnaabek/Donnacona/montezuma.nif</NIF>
+			<KFM>art/Anishnaabek/Donnacona/montezuma.kfm</KFM>
+			<NoShaderNIF>Art/LeaderHeads/Sid/sid_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Anishnaabek/Donnacona/montezuma_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Shishunaga_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SHISHUNAGA</Type>
+			<Button>art/Vedic/Shishunaga/BUTTON_MIHIRAKULA.dds</Button>
+			<NIF>art/Vedic/Shishunaga/Pacal.nif</NIF>
+			<KFM>art/Vedic/Shishunaga/Pacal.kfm</KFM>
+			<NoShaderNIF>art/Vedic/Shishunaga/Pacal_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Vedic/Shishunaga/Pacal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

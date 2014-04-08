@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Burebista_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BUREBISTA</Type>
+			<Button>art/Getai/Burebista/Burebista.dds</Button>
+			<NIF>art/Getai/Burebista/Pericles.nif</NIF>
+			<KFM>art/Getai/Burebista/Pericles.kfm</KFM>
+			<NoShaderNIF>art/Getai/Burebista/Pericles_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Getai/Burebista/Pericles_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

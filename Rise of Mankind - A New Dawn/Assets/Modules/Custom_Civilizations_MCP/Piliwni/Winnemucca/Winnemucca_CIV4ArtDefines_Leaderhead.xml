@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Winnemucca_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_WINNEMUCCA</Type>
+			<Button>art/Piliwni/Winnemucca/hidalgobbutton.dds</Button>
+			<NIF>art/Piliwni/Winnemucca/astrotech.nif</NIF>
+			<KFM>art/Piliwni/Winnemucca/winston_churchill.kfm</KFM>
+			<NoShaderNIF>art/Piliwni/Winnemucca/astrotech_nonshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Piliwni/Winnemucca/winston_churchill_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

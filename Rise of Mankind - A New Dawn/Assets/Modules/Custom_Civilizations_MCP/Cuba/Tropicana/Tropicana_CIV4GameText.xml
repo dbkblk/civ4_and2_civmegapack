@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TROPICANA</Tag>
+		<English>Club Tropicana</English>
+		<French>Club Tropicana</French>
+		<German>Club Tropicana</German>
+		<Italian>Club Tropicana</Italian>
+		<Spanish>Club Tropicana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TROPICANA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</English>
+		<French>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</French>
+		<German>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TROPICANA_PEDIA</Tag>
+		<English>[TAB]The Club Tropicana is a world known cabaret and club in Havana, Cuba. It was launched in 1939 on a six-acre suburban estate in Havana. Heralded as a "Paradise Under the Stars," the Tropicana became known for its showgirls, conga sounds, domino tournaments and flashy, spectacular productions. When the indoor cabaret at the air-conditioned Arcos de Cristal opened on March 15, 1952, it had a combined total seating capacity of 1,700 for the interior and outside areas.[PARAGRAPH:2]The Tropicana had an impact in spreading Cuban culture internationally. The Tropicana was hardly a sleazy Mob hangout but rather a world-class entertainment venue that discriminating gangsters happened to enjoy frequenting. An excellent resource on Cuban popular culture, lavish entertainment, and everyday life.[NEWLINE]Party all night and free Salsa lessons with a two drink minimum!</English>
+		<French>[TAB]The Club Tropicana is a world known cabaret and club in Havana, Cuba. It was launched in 1939 on a six-acre suburban estate in Havana. Heralded as a "Paradise Under the Stars," the Tropicana became known for its showgirls, conga sounds, domino tournaments and flashy, spectacular productions. When the indoor cabaret at the air-conditioned Arcos de Cristal opened on March 15, 1952, it had a combined total seating capacity of 1,700 for the interior and outside areas.[PARAGRAPH:2]The Tropicana had an impact in spreading Cuban culture internationally. The Tropicana was hardly a sleazy Mob hangout but rather a world-class entertainment venue that discriminating gangsters happened to enjoy frequenting. An excellent resource on Cuban popular culture, lavish entertainment, and everyday life.[NEWLINE]Party all night and free Salsa lessons with a two drink minimum!</French>
+		<German>[TAB]The Club Tropicana is a world known cabaret and club in Havana, Cuba. It was launched in 1939 on a six-acre suburban estate in Havana. Heralded as a "Paradise Under the Stars," the Tropicana became known for its showgirls, conga sounds, domino tournaments and flashy, spectacular productions. When the indoor cabaret at the air-conditioned Arcos de Cristal opened on March 15, 1952, it had a combined total seating capacity of 1,700 for the interior and outside areas.[PARAGRAPH:2]The Tropicana had an impact in spreading Cuban culture internationally. The Tropicana was hardly a sleazy Mob hangout but rather a world-class entertainment venue that discriminating gangsters happened to enjoy frequenting. An excellent resource on Cuban popular culture, lavish entertainment, and everyday life.[NEWLINE]Party all night and free Salsa lessons with a two drink minimum!</German>
+		<Italian>[TAB]The Club Tropicana is a world known cabaret and club in Havana, Cuba. It was launched in 1939 on a six-acre suburban estate in Havana. Heralded as a "Paradise Under the Stars," the Tropicana became known for its showgirls, conga sounds, domino tournaments and flashy, spectacular productions. When the indoor cabaret at the air-conditioned Arcos de Cristal opened on March 15, 1952, it had a combined total seating capacity of 1,700 for the interior and outside areas.[PARAGRAPH:2]The Tropicana had an impact in spreading Cuban culture internationally. The Tropicana was hardly a sleazy Mob hangout but rather a world-class entertainment venue that discriminating gangsters happened to enjoy frequenting. An excellent resource on Cuban popular culture, lavish entertainment, and everyday life.[NEWLINE]Party all night and free Salsa lessons with a two drink minimum!</Italian>
+		<Spanish>[TAB]The Club Tropicana is a world known cabaret and club in Havana, Cuba. It was launched in 1939 on a six-acre suburban estate in Havana. Heralded as a "Paradise Under the Stars," the Tropicana became known for its showgirls, conga sounds, domino tournaments and flashy, spectacular productions. When the indoor cabaret at the air-conditioned Arcos de Cristal opened on March 15, 1952, it had a combined total seating capacity of 1,700 for the interior and outside areas.[PARAGRAPH:2]The Tropicana had an impact in spreading Cuban culture internationally. The Tropicana was hardly a sleazy Mob hangout but rather a world-class entertainment venue that discriminating gangsters happened to enjoy frequenting. An excellent resource on Cuban popular culture, lavish entertainment, and everyday life.[NEWLINE]Party all night and free Salsa lessons with a two drink minimum!</Spanish>
+	</TEXT>
+</Civ4GameText>

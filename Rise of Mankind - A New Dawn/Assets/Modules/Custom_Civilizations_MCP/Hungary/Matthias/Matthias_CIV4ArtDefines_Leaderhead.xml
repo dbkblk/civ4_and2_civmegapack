@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Matthias_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MATTHIAS</Type>
+			<Button>,art/Hungary/Matthias/Matthias.dds</Button>
+			<NIF>art/Hungary/Matthias/Justinian.nif</NIF>
+			<KFM>art/Hungary/Matthias/Justinian.kfm</KFM>
+			<NoShaderNIF>art/Hungary/Matthias/Justinian_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Hungary/Matthias/Justinian_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KANEMBORNU_IRONHELM</Tag>
+		<English>Iron Helm</English>
+		<French>
+			<Text>Iron Helm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Iron Helm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Iron Helm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Iron Helm</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KANEMBORNU_IRONHELM_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</English>
+		<French>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</French>
+		<German>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Iron Helm[COLOR_REVERT] of Kanem-Bornu replaces the traditional Musketman and starts with one first strike and the Drill I promotion, giving them an additional first strike. They are a versatile troops, prepared to stop the enemy before it even gets to fire a single bullet. They are a little weaker than other units of the same type, but they make up this weakness with a much faster recruitment.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KANEMBORNU_IRONHELM_PEDIA</Tag>
+		<English>[TAB]Alooma's innovations for the Kanem-Bornu army included the employment of fixed military camps (with walls); permanent sieges and "scorched earth" tactics, where soldiers burned everything in their path; armored horses and riders; and the use of Berber camelry, Kotoko boatmen, and iron-helmeted musketeers trained by Turkish military advisers.</English>
+		<French>[TAB]Alooma's innovations for the Kanem-Bornu army included the employment of fixed military camps (with walls); permanent sieges and "scorched earth" tactics, where soldiers burned everything in their path; armored horses and riders; and the use of Berber camelry, Kotoko boatmen, and iron-helmeted musketeers trained by Turkish military advisers.</French>
+		<German>[TAB]Alooma's innovations for the Kanem-Bornu army included the employment of fixed military camps (with walls); permanent sieges and "scorched earth" tactics, where soldiers burned everything in their path; armored horses and riders; and the use of Berber camelry, Kotoko boatmen, and iron-helmeted musketeers trained by Turkish military advisers.</German>
+		<Italian>[TAB]Alooma's innovations for the Kanem-Bornu army included the employment of fixed military camps (with walls); permanent sieges and "scorched earth" tactics, where soldiers burned everything in their path; armored horses and riders; and the use of Berber camelry, Kotoko boatmen, and iron-helmeted musketeers trained by Turkish military advisers.</Italian>
+		<Spanish>[TAB]Alooma's innovations for the Kanem-Bornu army included the employment of fixed military camps (with walls); permanent sieges and "scorched earth" tactics, where soldiers burned everything in their path; armored horses and riders; and the use of Berber camelry, Kotoko boatmen, and iron-helmeted musketeers trained by Turkish military advisers.</Spanish>
+	</TEXT>
+</Civ4GameText>

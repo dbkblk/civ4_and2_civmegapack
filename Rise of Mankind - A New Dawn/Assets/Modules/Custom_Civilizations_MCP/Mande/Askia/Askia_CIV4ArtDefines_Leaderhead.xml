@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Askia_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ASKIA</Type>
+			<Button>art/Mande/Askia/Askia.dds</Button>
+			<NIF>art/Mande/Askia/Justinian.nif</NIF>
+			<KFM>art/Mande/Askia/Justinian.kfm</KFM>
+			<NoShaderNIF>art/Mande/Askia/Justinian_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mande/Askia/Justinian_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Seleucus_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SELEUCUS</Type>
+			<Button>art/Seleukia/Seleucus/Seleucus_Button.dds</Button>
+			<NIF>art/Seleukia/Seleucus/Hannibal.nif</NIF>
+			<KFM>art/Seleukia/Seleucus/Hannibal.kfm</KFM>
+			<NoShaderNIF>art/Seleukia/Seleucus/Hannibal_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Seleukia/Seleucus/Hannibal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

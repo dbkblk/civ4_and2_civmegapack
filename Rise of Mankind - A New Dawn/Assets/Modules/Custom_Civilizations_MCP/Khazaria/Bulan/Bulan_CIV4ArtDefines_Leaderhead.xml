@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Bulan_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BULAN</Type>
+			<Button>art/Khazaria/Bulan/Bulan.dds</Button>
+			<NIF>art/Khazaria/Bulan/John II.nif</NIF>
+			<KFM>art/Khazaria/Bulan/John II.kfm</KFM>
+			<NoShaderNIF>art/Khazaria/Bulan/John_II_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Khazaria/Bulan/JohnII_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

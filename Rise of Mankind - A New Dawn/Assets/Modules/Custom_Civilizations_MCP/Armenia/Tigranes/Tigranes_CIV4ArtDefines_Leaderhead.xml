@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Tigranes_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TIGRANES</Type>
+			<Button>art/Armenia/Tigranes/ByzButton.dds</Button>
+			<NIF>art/Armenia/Tigranes/Basil.nif</NIF>
+			<KFM>art/Armenia/Tigranes/josef_stalin.kfm</KFM>
+			<NoShaderNIF>art/Armenia/Tigranes/Basil.nif</NoShaderNIF>
+			<BackgroundKFM>art/Armenia/Tigranes/josef_stalin_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

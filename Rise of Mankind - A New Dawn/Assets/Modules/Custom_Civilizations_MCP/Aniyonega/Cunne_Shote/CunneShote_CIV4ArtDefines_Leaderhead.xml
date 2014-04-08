@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:CunneShote_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CUNNE_SHOTE</Type>
+			<Button>art/Aniyonega/Cunne_Shote/CunneShote.dds</Button>
+			<NIF>art/Aniyonega/Cunne_Shote/Cunne_Shote.nif</NIF>
+			<KFM>art/Aniyonega/Cunne_Shote/Cunne_Shote.kfm</KFM>
+			<NoShaderNIF>art/Aniyonega/Cunne_Shote/Cunne_Shote.nif</NoShaderNIF>
+			<BackgroundKFM>art/Aniyonega/Cunne_Shote/Cunne_Shote_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

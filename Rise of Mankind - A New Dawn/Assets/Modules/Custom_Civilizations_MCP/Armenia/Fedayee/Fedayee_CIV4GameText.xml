@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE</Tag>
+		<English>Fedayee</English>
+		<French>Fedayee</French>
+		<German>Fedayee</German>
+		<Italian>Fedayee</Italian>
+		<Spanish>Fedayee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE_STRATEGY</Tag>
+		<English>This most powerful mounted unit (the Armenian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]) is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT] but receives no terrain bonuses when defending. The [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] also receives the [COLOR_HIGHLIGHT_TEXT]Pinch I[COLOR_REVERT] promotion when built and is able of pillaging enemy territory efficiently.</English>
+		<French>This most powerful mounted unit (the Armenian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]) is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT] but receives no terrain bonuses when defending. The [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] also receives the [COLOR_HIGHLIGHT_TEXT]Pinch I[COLOR_REVERT] promotion when built and is able of pillaging enemy territory efficiently.</French>
+		<German>This most powerful mounted unit (the Armenian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]) is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT] but receives no terrain bonuses when defending. The [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] also receives the [COLOR_HIGHLIGHT_TEXT]Pinch I[COLOR_REVERT] promotion when built and is able of pillaging enemy territory efficiently.</German>
+		<Italian>This most powerful mounted unit (the Armenian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]) is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT] but receives no terrain bonuses when defending. The [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] also receives the [COLOR_HIGHLIGHT_TEXT]Pinch I[COLOR_REVERT] promotion when built and is able of pillaging enemy territory efficiently.</Italian>
+		<Spanish>This most powerful mounted unit (the Armenian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]) is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT] but receives no terrain bonuses when defending. The [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] also receives the [COLOR_HIGHLIGHT_TEXT]Pinch I[COLOR_REVERT] promotion when built and is able of pillaging enemy territory efficiently.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE_PEDIA</Tag>
+		<English>[TAB]Armenian militia better known as Fedayee, is a term referring to Armenian guerrillas who voluntarily leave their families in order to fight for Armenians. The term fedayee was also used by Armenian guerrillas in the Ottoman Empire before and during the First World War, who defended Armenians from persecution. The term was widely used and is still used to describe the volunteers, and can be found in literature and songs.</English>
+		<French>[TAB]Armenian militia better known as Fedayee, is a term referring to Armenian guerrillas who voluntarily leave their families in order to fight for Armenians. The term fedayee was also used by Armenian guerrillas in the Ottoman Empire before and during the First World War, who defended Armenians from persecution. The term was widely used and is still used to describe the volunteers, and can be found in literature and songs.</French>
+		<German>[TAB]Armenian militia better known as Fedayee, is a term referring to Armenian guerrillas who voluntarily leave their families in order to fight for Armenians. The term fedayee was also used by Armenian guerrillas in the Ottoman Empire before and during the First World War, who defended Armenians from persecution. The term was widely used and is still used to describe the volunteers, and can be found in literature and songs.</German>
+		<Italian>[TAB]Armenian militia better known as Fedayee, is a term referring to Armenian guerrillas who voluntarily leave their families in order to fight for Armenians. The term fedayee was also used by Armenian guerrillas in the Ottoman Empire before and during the First World War, who defended Armenians from persecution. The term was widely used and is still used to describe the volunteers, and can be found in literature and songs.</Italian>
+		<Spanish>[TAB]Armenian militia better known as Fedayee, is a term referring to Armenian guerrillas who voluntarily leave their families in order to fight for Armenians. The term fedayee was also used by Armenian guerrillas in the Ottoman Empire before and during the First World War, who defended Armenians from persecution. The term was widely used and is still used to describe the volunteers, and can be found in literature and songs.</Spanish>
+	</TEXT>
+</Civ4GameText>

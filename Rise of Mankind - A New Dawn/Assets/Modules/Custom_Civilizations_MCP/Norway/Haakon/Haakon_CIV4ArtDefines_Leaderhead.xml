@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Haakon_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HAAKON</Type>
+			<Button>art/Norway/Haakon/haakon.dds</Button>
+			<NIF>art/Norway/Haakon/napoleon.nif</NIF>
+			<KFM>art/Norway/Haakon/napoleon.kfm</KFM>
+			<NoShaderNIF>art/Norway/Haakon/napoleon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Norway/Haakon/napoleon_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

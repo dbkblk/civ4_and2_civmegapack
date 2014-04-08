@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- ###################################################################################### -->
+<!-- #####					CIV GOLD 4.0 VIETNAM							  					    ##### -->
+<!-- #####													 								    ##### -->
+<!-- #####   THIS PLUG AND PLAY SYSTEM REQUIRES THE CCCP DLL AVAILABLE HERE:	 	  						    ##### -->
+<!-- #####   http://forums.civfanatics.com/showthread.php?t=207938			  									    ##### -->
+<!-- #####												  	 								    ##### -->
+<!-- #####   Original Author: WYZ_SUB10						  										    ##### -->
+<!-- #####   Credit also to : Purplexus, Impaler[WRG], Chinese American						 			Date: Apr/29/07	    ##### -->
+<!-- #####													 								    ##### -->
+<!-- ###################################################################################### -->
+<Civ4ArtDefines xmlns="x-schema:Chola_CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_CHOLA</Type>
+			<Button>art/Chola/Chola.dds</Button>
+			<Path>art/Chola/FlagDECAL_Chola.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+	</CivilizationArtInfos>
+</Civ4ArtDefines>

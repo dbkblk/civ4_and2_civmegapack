@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Niall_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NIALL</Type>
+			<Button>art/Ireland/Niall/Niall.dds</Button>
+			<NIF>art/Ireland/Niall/alexander.nif</NIF>
+			<KFM>art/Ireland/Niall/alexander.kfm</KFM>
+			<NoShaderNIF>art/Ireland/Niall/alexander_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Ireland/Niall/alexander_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

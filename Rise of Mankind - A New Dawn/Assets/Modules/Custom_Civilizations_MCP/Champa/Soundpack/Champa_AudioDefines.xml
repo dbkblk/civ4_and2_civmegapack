@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dean Ray Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- AudioDefines -->
+<AudioDefines xmlns="x-schema:Champa_AudioDefinesSchema.xml">
+	<SoundDatas>
+		<SoundData>
+			<SoundID>DIPLO_CHE_BONG_NGA_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Champa/Soundpack/Champa_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_CHE_BONG_NGA_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Champa/Soundpack/Champa_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_CHE_BONG_NGA_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Champa/Soundpack/Champa_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BHADRAVARMAN_EARLY</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Champa/Soundpack/Bhadravarman_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BHADRAVARMAN_MIDDLE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Champa/Soundpack/Bhadravarman_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_BHADRAVARMAN_LATE</SoundID>
+			<Filename>Modules/Custom_Civilizations_MCP/Champa/Soundpack/Bhadravarman_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	</SoundDatas>
+</AudioDefines>

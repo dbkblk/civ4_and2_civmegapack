@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Decebalus_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DECEBALUS</Type>
+			<Button>art/Getai/Decebalus/Decebalus.dds</Button>
+			<NIF>art/Getai/Decebalus/hannibal.nif</NIF>
+			<KFM>art/Getai/Decebalus/hannibal.kfm</KFM>
+			<NoShaderNIF>art/Getai/Decebalus/hannibal_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Getai/Decebalus/hannibal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Wovoka_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_WOVOKA</Type>
+			<Button>art/Piliwni/Wovoka/Wovoka.dds</Button>
+			<NIF>art/Piliwni/Wovoka/fdr.nif</NIF>
+			<KFM>art/Piliwni/Wovoka/fdr.kfm</KFM>
+			<NoShaderNIF>art/Piliwni/Wovoka/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Piliwni/Wovoka/fdr_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

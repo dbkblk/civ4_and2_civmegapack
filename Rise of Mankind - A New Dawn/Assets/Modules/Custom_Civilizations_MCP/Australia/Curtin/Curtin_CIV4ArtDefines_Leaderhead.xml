@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Curtin_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CURTIN</Type>
+			<Button>art/Australia/Curtin/Btn_LH_curtin.dds</Button>
+			<NIF>art/Australia/Curtin/curtin.nif</NIF>
+			<KFM>art/Australia/Curtin/curtin.kfm</KFM>
+			<NoShaderNIF>art/Australia/Curtin/curtin.nif</NoShaderNIF>
+			<BackgroundKFM>art/Australia/Curtin/bismarck_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

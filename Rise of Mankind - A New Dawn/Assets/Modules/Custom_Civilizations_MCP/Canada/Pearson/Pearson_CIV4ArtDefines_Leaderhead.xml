@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Pearson_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PEARSON</Type>
+			<Button>Modules/Custom_Civilizations_MCP/Canada/Pearson/Pearson.dds</Button>
+			<NIF>art/Canada/Pearson/fdr.nif</NIF>
+			<KFM>art/Canada/Pearson/fdr.kfm</KFM>
+			<NoShaderNIF>art/Canada/Pearson/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Canada/Pearson/fdr_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

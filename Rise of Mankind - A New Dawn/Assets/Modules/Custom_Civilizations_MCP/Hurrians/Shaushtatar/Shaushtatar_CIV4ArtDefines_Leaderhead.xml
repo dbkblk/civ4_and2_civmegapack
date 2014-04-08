@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Shaushtatar_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SHAUSHTATAR</Type>
+			<Button>,art/Hurrians/Shaushtatar/Shaushtatar.dds,art/Hurrians/Shaushtatar/Hurrians_Atlas.dds,1,1</Button>
+			<NIF>art/Hurrians/Shaushtatar/Gilgamesh.nif</NIF>
+			<KFM>art/Hurrians/Shaushtatar/Gilgamesh.kfm</KFM>
+			<NoShaderNIF>art/Hurrians/Shaushtatar/Gilgamesh_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/Hurrians/Shaushtatar/Gilgamesh_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

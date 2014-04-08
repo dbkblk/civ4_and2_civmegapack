@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NIGERIA_NAARTILLERY</Tag>
+		<English>NA Artillery</English>
+		<French>NA Artillery</French>
+		<German>NA Artillery</German>
+		<Italian>NA Artillery</Italian>
+		<Spanish>NA Artillery</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NIGERIA_NAARTILLERY_STRATEGY</Tag>
+		<English>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</English>
+		<French>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</French>
+		<German>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</German>
+		<Italian>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</Italian>
+		<Spanish>Nigeria's [COLOR_UNIT_TEXT]NA Artillery[COLOR_REVERT] is cheaper than the traditional [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT] unit, and starts with the Ambush promotion, making it especially effective against Armored units.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NIGERIA_NAARTILLERY_PEDIA</Tag>
+		<English>[TAB]The NA Divisions are supported by Combat Support Arms namely; artillery, engineers and signals. The type of support they provide and the sizes of the supported formation determine the size and composition of each support arm. The NA Artillery is divided into field and air defence artillery based on the roles they perform. The artillery acquires targets, coordinates all fire power resources available and delivers such firepower in the battlefield so that the enemy can neither interfere with our operations from air and ground nor develop its own resources effectively.</English>
+		<French>[TAB]The NA Divisions are supported by Combat Support Arms namely; artillery, engineers and signals. The type of support they provide and the sizes of the supported formation determine the size and composition of each support arm. The NA Artillery is divided into field and air defence artillery based on the roles they perform. The artillery acquires targets, coordinates all fire power resources available and delivers such firepower in the battlefield so that the enemy can neither interfere with our operations from air and ground nor develop its own resources effectively.</French>
+		<German>[TAB]The NA Divisions are supported by Combat Support Arms namely; artillery, engineers and signals. The type of support they provide and the sizes of the supported formation determine the size and composition of each support arm. The NA Artillery is divided into field and air defence artillery based on the roles they perform. The artillery acquires targets, coordinates all fire power resources available and delivers such firepower in the battlefield so that the enemy can neither interfere with our operations from air and ground nor develop its own resources effectively.</German>
+		<Italian>[TAB]The NA Divisions are supported by Combat Support Arms namely; artillery, engineers and signals. The type of support they provide and the sizes of the supported formation determine the size and composition of each support arm. The NA Artillery is divided into field and air defence artillery based on the roles they perform. The artillery acquires targets, coordinates all fire power resources available and delivers such firepower in the battlefield so that the enemy can neither interfere with our operations from air and ground nor develop its own resources effectively.</Italian>
+		<Spanish>[TAB]The NA Divisions are supported by Combat Support Arms namely; artillery, engineers and signals. The type of support they provide and the sizes of the supported formation determine the size and composition of each support arm. The NA Artillery is divided into field and air defence artillery based on the roles they perform. The artillery acquires targets, coordinates all fire power resources available and delivers such firepower in the battlefield so that the enemy can neither interfere with our operations from air and ground nor develop its own resources effectively.</Spanish>
+	</TEXT>
+</Civ4GameText>	

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Bart Muzzin (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:Toussaint_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TOUSSAINT</Type>
+			<Button>art/WestIndies/Toussaint/TLOButton.dds</Button>
+			<NIF>art/WestIndies/Toussaint/fdr.nif</NIF>
+			<KFM>art/WestIndies/Toussaint/fdr.kfm</KFM>
+			<NoShaderNIF>art/WestIndies/Toussaint/fdr.nif</NoShaderNIF>
+			<BackgroundKFM>art/WestIndies/Toussaint/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

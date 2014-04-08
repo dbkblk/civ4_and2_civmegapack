@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Taharqa_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TAHARQA</Type>
+			<Button>art/Nubia/Taharqa/Taharqa.dds</Button>
+			<NIF>art/Nubia/Taharqa/huayna_capac.nif</NIF>
+			<KFM>art/Nubia/Taharqa/huayna_capac.kfm</KFM>
+			<NoShaderNIF>art/Nubia/Taharqa/huayna_capac_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Nubia/Taharqa/huayna_capac_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

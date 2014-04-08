@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Bolivar_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+            <Type>ART_DEF_LEADER_BOLIVAR</Type>
+			<Button>art/Colombia/Bolivar/Btn_LH_Bolivar.dds</Button>
+			<NIF>art/Colombia/Bolivar/Bolivar.nif</NIF>
+			<KFM>art/Colombia/Bolivar/Bolivar.kfm</KFM>
+			<NoShaderNIF>art/Colombia/Bolivar/Bolivar.nif</NoShaderNIF>
+			<BackgroundKFM>art/Colombia/Bolivar/Bolivar_BG.kfm</BackgroundKFM>
+          </LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM</Tag>
+		<English>Mesopotamian Museum</English>
+		<French>Mesopotamian Museum</French>
+		<German>Mesopotamian Museum</German>
+		<Italian>Mesopotamian Museum</Italian>
+		<Spanish>Mesopotamian Museum</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM_PEDIA</Tag>
+		<English>[TAB]Because of the archaeological riches of Mesopotamia, its collections are amongst the most important in the world; and it has a fine record of scholarship and display. The British connection with the museum (and with Iraq) means that exhibits have always been displayed bilingually (English and Arabic). It contains important artifacts from the over 5,000 year long history of Mesopotamia in 28 galleries and vaults.</English>
+		<French>[TAB]Because of the archaeological riches of Mesopotamia, its collections are amongst the most important in the world; and it has a fine record of scholarship and display. The British connection with the museum (and with Iraq) means that exhibits have always been displayed bilingually (English and Arabic). It contains important artifacts from the over 5,000 year long history of Mesopotamia in 28 galleries and vaults.</French>
+		<German>[TAB]Because of the archaeological riches of Mesopotamia, its collections are amongst the most important in the world; and it has a fine record of scholarship and display. The British connection with the museum (and with Iraq) means that exhibits have always been displayed bilingually (English and Arabic). It contains important artifacts from the over 5,000 year long history of Mesopotamia in 28 galleries and vaults.</German>
+		<Italian>[TAB]Because of the archaeological riches of Mesopotamia, its collections are amongst the most important in the world; and it has a fine record of scholarship and display. The British connection with the museum (and with Iraq) means that exhibits have always been displayed bilingually (English and Arabic). It contains important artifacts from the over 5,000 year long history of Mesopotamia in 28 galleries and vaults.</Italian>
+		<Spanish>[TAB]Because of the archaeological riches of Mesopotamia, its collections are amongst the most important in the world; and it has a fine record of scholarship and display. The British connection with the museum (and with Iraq) means that exhibits have always been displayed bilingually (English and Arabic). It contains important artifacts from the over 5,000 year long history of Mesopotamia in 28 galleries and vaults.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</English>
+		<French>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</French>
+		<German>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</Spanish>
+	</TEXT>
+</Civ4GameText>

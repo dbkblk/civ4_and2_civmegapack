@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES</Tag>
+		<English>Red Sleeves Warrior</English>
+		<French>Red Sleeves Warrior</French>
+		<German>Red Sleeves Warrior</German>
+		<Italian>Red Sleeves Warrior</Italian>
+		<Spanish>Red Sleeves Warrior</Spanish>
+		<Russian>Red Sleeves Warrior</Russian>
+		<Chinese>Red Sleeves Warrior</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES_PEDIA</Tag>
+		<English>[TAB]In 1837, Mangas Coloradas or Dasoda-hae (Red Sleeves) became principal chief and war leader and began a series of retaliatory raids against the Mexicans. When the United States went to war against Mexico, many Apache bands promised U.S. soldiers safe passage through their lands. When the U.S. claimed former territories of Mexico in 1846, Mangas Coloradas signed a peace treaty, respecting them as conquerors of the Mexican's land. An uneasy peace (a centuries old tradition) between the Apache and the now citizens of the United States held until the 1850s, when an influx of gold miners into the Santa Rita Mountains led to conflict. This period is sometimes called the Apache Wars.</English>
+		<French>[TAB]In 1837, Mangas Coloradas or Dasoda-hae (Red Sleeves) became principal chief and war leader and began a series of retaliatory raids against the Mexicans. When the United States went to war against Mexico, many Apache bands promised U.S. soldiers safe passage through their lands. When the U.S. claimed former territories of Mexico in 1846, Mangas Coloradas signed a peace treaty, respecting them as conquerors of the Mexican's land. An uneasy peace (a centuries old tradition) between the Apache and the now citizens of the United States held until the 1850s, when an influx of gold miners into the Santa Rita Mountains led to conflict. This period is sometimes called the Apache Wars.</French>
+		<German>[TAB]In 1837, Mangas Coloradas or Dasoda-hae (Red Sleeves) became principal chief and war leader and began a series of retaliatory raids against the Mexicans. When the United States went to war against Mexico, many Apache bands promised U.S. soldiers safe passage through their lands. When the U.S. claimed former territories of Mexico in 1846, Mangas Coloradas signed a peace treaty, respecting them as conquerors of the Mexican's land. An uneasy peace (a centuries old tradition) between the Apache and the now citizens of the United States held until the 1850s, when an influx of gold miners into the Santa Rita Mountains led to conflict. This period is sometimes called the Apache Wars.</German>
+		<Italian>[TAB]In 1837, Mangas Coloradas or Dasoda-hae (Red Sleeves) became principal chief and war leader and began a series of retaliatory raids against the Mexicans. When the United States went to war against Mexico, many Apache bands promised U.S. soldiers safe passage through their lands. When the U.S. claimed former territories of Mexico in 1846, Mangas Coloradas signed a peace treaty, respecting them as conquerors of the Mexican's land. An uneasy peace (a centuries old tradition) between the Apache and the now citizens of the United States held until the 1850s, when an influx of gold miners into the Santa Rita Mountains led to conflict. This period is sometimes called the Apache Wars.</Italian>
+		<Spanish>[TAB]In 1837, Mangas Coloradas or Dasoda-hae (Red Sleeves) became principal chief and war leader and began a series of retaliatory raids against the Mexicans. When the United States went to war against Mexico, many Apache bands promised U.S. soldiers safe passage through their lands. When the U.S. claimed former territories of Mexico in 1846, Mangas Coloradas signed a peace treaty, respecting them as conquerors of the Mexican's land. An uneasy peace (a centuries old tradition) between the Apache and the now citizens of the United States held until the 1850s, when an influx of gold miners into the Santa Rita Mountains led to conflict. This period is sometimes called the Apache Wars.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES_STRATEGY</Tag>
+		<English>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</English>
+		<French>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</French>
+		<German>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</German>
+		<Italian>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</Italian>
+		<Spanish>The Apache replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Mounted units.</Spanish>
+	</TEXT>
+</Civ4GameText>	

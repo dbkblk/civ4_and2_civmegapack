@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Lorenzo_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_LORENZO</Type>
+			<Button>art/Italy/Lorenzo/Lorenzo.dds</Button>
+			<NIF>art/Italy/Lorenzo/Brotherhood.nif</NIF>
+			<KFM>art/Italy/Lorenzo/ramassesii.kfm</KFM>
+			<NoShaderNIF>art/Italy/Lorenzo/Brotherhood_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Italy/Lorenzo/ramassesii_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

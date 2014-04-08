@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4CivilizationInfos xmlns="x-schema:Harappa_CIV4CivilizationsSchema.xml">
+	<CivilizationInfos>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_HARAPPA</Type>
+			<Description>TXT_KEY_CIV_HARAPPA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_HARAPPA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_HARAPPA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_HARAPPA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_HARAPPA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_HARAPPA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_INDIA</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Harappa</City>
+				<City>Mohenjo-Daro</City>
+				<City>Lothal</City>
+				<City>Rakhigarhi</City>
+				<City>Mehrgarh</City>
+				<City>Sokhta Koh</City>
+				<City>Kalibangan</City>
+				<City>Dholavira</City>
+				<City>Kot Diji</City>
+				<City>Amri</City>
+				<City>Surkotada</City>
+				<City>Novsharo</City>
+				<City>Meluhha</City>
+				<City>Shortugai</City>
+				<City>Chanhudaro</City>
+				<City>Rupar</City>
+				<City>Ganeriwala</City>
+				<City>Banawali</City>
+				<City>Kot Bala</City>
+				<City>Rehman Dheri</City>
+				<City>Lakhueen-jo-daro</City>
+				<City>Bhagatrav</City>
+				<City>Rangpur</City>
+				<City>Sutkagan Dor</City>
+				<City>Ongar</City>
+				<City>Pirak</City>
+				<City>Rojdi</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_SEWER_SYSTEM</BuildingClassType>
+					<BuildingType>BUILDING_HARAPPAN_SEWER</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_AXEMAN</UnitClassType>
+					<UnitType>UNIT_HARAPPAN_COPPER_AXEMAN</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_AGRICULTURE</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_STONE_TOOLS</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_OLIGARCHY</CivicType>
+				<CivicType>CIVIC_TRIBAL</CivicType>
+				<CivicType>CIVIC_BARTER</CivicType>
+				<CivicType>CIVIC_FOLKLORE</CivicType>
+				<CivicType>CIVIC_SURVIVAL</CivicType>
+				<CivicType>CIVIC_NOTHING</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_SHAMBARA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_RISHI</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_INDIA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_INDIA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_INDIA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+	</CivilizationInfos>
+</Civ4CivilizationInfos>

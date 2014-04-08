@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:RadenWijaya_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_RADEN_WIJAYA</Type>
+			<Button>art/Majapahit/RadenWijaya/Btn_Maurya.dds</Button>
+			<NIF>art/Majapahit/RadenWijaya/Tachnechobrus.nif</NIF>
+			<KFM>art/Majapahit/RadenWijaya/Tachnechobrus.kfm</KFM>
+			<NoShaderNIF>art/Majapahit/RadenWijaya/Tachnechobrus.nif</NoShaderNIF>
+			<BackgroundKFM>art/Majapahit/RadenWijaya/Tachnechobrus_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

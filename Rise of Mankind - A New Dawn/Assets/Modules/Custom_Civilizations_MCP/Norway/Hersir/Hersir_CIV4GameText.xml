@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NORWAY_HERSIR</Tag>
+		<English>Hersir</English>
+		<French>Hersir</French>
+		<German>Hersir</German>
+		<Italian>Hersir</Italian>
+		<Spanish>Hersir</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NORWAY_HERSIR_PEDIA</Tag>
+		<English>[TAB]A hersir was a local military commander of a hundred and owed allegiance to a jarl or king. They were also aspiring landowners, and, like the middle class in many feudal societies, supported the kings in their centralization of power. The hersir was often equipped with a conical helmet and a short mail coat. Most would wield an iron sword, mostly augmented with a wooden shield. They were also known to wield one- or even two-handed axes. The hersir would always fight on foot, usually as part of a shield wall formation. Another formation was also used, the Svinfylking, which was a variation to the shield wall but with several wedge like formations pointing towards the enemy creating a zig zag pattern. Although excellent against other foot troops the Vikings were frequently defeated by mounted troops.</English>
+		<French>[TAB]A hersir was a local military commander of a hundred and owed allegiance to a jarl or king. They were also aspiring landowners, and, like the middle class in many feudal societies, supported the kings in their centralization of power. The hersir was often equipped with a conical helmet and a short mail coat. Most would wield an iron sword, mostly augmented with a wooden shield. They were also known to wield one- or even two-handed axes. The hersir would always fight on foot, usually as part of a shield wall formation. Another formation was also used, the Svinfylking, which was a variation to the shield wall but with several wedge like formations pointing towards the enemy creating a zig zag pattern. Although excellent against other foot troops the Vikings were frequently defeated by mounted troops.</French>
+		<German>[TAB]A hersir was a local military commander of a hundred and owed allegiance to a jarl or king. They were also aspiring landowners, and, like the middle class in many feudal societies, supported the kings in their centralization of power. The hersir was often equipped with a conical helmet and a short mail coat. Most would wield an iron sword, mostly augmented with a wooden shield. They were also known to wield one- or even two-handed axes. The hersir would always fight on foot, usually as part of a shield wall formation. Another formation was also used, the Svinfylking, which was a variation to the shield wall but with several wedge like formations pointing towards the enemy creating a zig zag pattern. Although excellent against other foot troops the Vikings were frequently defeated by mounted troops.</German>
+		<Italian>[TAB]A hersir was a local military commander of a hundred and owed allegiance to a jarl or king. They were also aspiring landowners, and, like the middle class in many feudal societies, supported the kings in their centralization of power. The hersir was often equipped with a conical helmet and a short mail coat. Most would wield an iron sword, mostly augmented with a wooden shield. They were also known to wield one- or even two-handed axes. The hersir would always fight on foot, usually as part of a shield wall formation. Another formation was also used, the Svinfylking, which was a variation to the shield wall but with several wedge like formations pointing towards the enemy creating a zig zag pattern. Although excellent against other foot troops the Vikings were frequently defeated by mounted troops.</Italian>
+		<Spanish>[TAB]A hersir was a local military commander of a hundred and owed allegiance to a jarl or king. They were also aspiring landowners, and, like the middle class in many feudal societies, supported the kings in their centralization of power. The hersir was often equipped with a conical helmet and a short mail coat. Most would wield an iron sword, mostly augmented with a wooden shield. They were also known to wield one- or even two-handed axes. The hersir would always fight on foot, usually as part of a shield wall formation. Another formation was also used, the Svinfylking, which was a variation to the shield wall but with several wedge like formations pointing towards the enemy creating a zig zag pattern. Although excellent against other foot troops the Vikings were frequently defeated by mounted troops.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NORWAY_HERSIR_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Hersir[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], which starts with Looter and March promotions.</English>
+		<French>The [COLOR_UNIT_TEXT]Hersir[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], which starts with Looter and March promotions.</French>
+		<German>The [COLOR_UNIT_TEXT]Hersir[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], which starts with Looter and March promotions.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Hersir[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], which starts with Looter and March promotions.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Hersir[COLOR_REVERT] replaces the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT], which starts with Looter and March promotions.</Spanish>
+	</TEXT>
+</Civ4GameText>

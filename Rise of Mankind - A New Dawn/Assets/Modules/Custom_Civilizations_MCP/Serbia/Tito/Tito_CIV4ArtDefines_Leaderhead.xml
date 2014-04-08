@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Tito_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TITO</Type>
+			<Button>,art/Serbia/Tito/tito_btn.dds</Button>
+			<NIF>art/Serbia/Tito/tito1.nif</NIF>
+			<KFM>art/Serbia/Tito/Charles De Gaulle.kfm</KFM>
+			<NoShaderNIF>art/Serbia/Tito/tito1.nif</NoShaderNIF>
+			<BackgroundKFM>art/Serbia/Tito/Charles De Gaulle_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

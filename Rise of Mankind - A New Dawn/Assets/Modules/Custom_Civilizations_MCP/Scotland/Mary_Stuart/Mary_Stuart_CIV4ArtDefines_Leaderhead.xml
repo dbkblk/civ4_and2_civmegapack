@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mary_Stuart_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MARY_STUART</Type>
+			<Button>art/Scotland/Mary_Stuart/Mary_Stuart.dds</Button>
+			<NIF>art/Scotland/Mary_Stuart/Elizabeth.nif</NIF>
+			<KFM>art/Scotland/Mary_Stuart/elizabeth.kfm</KFM>
+			<NoShaderNIF>art/Scotland/Mary_Stuart/Elizabeth.nif</NoShaderNIF>
+			<BackgroundKFM>art/Scotland/Mary_Stuart/elizabeth_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

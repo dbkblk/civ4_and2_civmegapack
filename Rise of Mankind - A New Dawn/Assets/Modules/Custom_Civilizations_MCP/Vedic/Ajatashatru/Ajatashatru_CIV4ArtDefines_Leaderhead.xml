@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ajatashatru_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AJATASHATRU</Type>
+			<Button>art/Vedic/Ajatashatru/Ajatashatru.dds</Button>
+			<NIF>art/Vedic/Ajatashatru/kublai_khan.nif</NIF>
+			<KFM>art/Vedic/Ajatashatru/kublai_khan.kfm</KFM>
+			<NoShaderNIF>art/Vedic/Ajatashatru/kublai_khan.nif</NoShaderNIF>
+			<BackgroundKFM>art/Vedic/Ajatashatru/kublai_khan_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

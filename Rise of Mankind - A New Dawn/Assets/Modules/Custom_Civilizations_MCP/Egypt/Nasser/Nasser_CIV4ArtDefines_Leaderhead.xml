@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Nasser_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NASSER</Type>
+			<Button>art/Egypt/Nasser/Btn_Nasser.dds</Button>
+			<NIF>art/Egypt/Nasser/Charles De Gaulle.nif</NIF>
+			<KFM>art/Egypt/Nasser/Charles De Gaulle.kfm</KFM>
+			<NoShaderNIF>art/Egypt/Nasser/Charles De Gaulle.nif</NoShaderNIF>
+			<BackgroundKFM>art/Egypt/Nasser/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

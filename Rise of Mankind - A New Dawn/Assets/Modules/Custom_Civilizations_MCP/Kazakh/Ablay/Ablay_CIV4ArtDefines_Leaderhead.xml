@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Ablay_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ABLAY</Type>
+			<Button>art/Kazakh/Ablay/Ablay.dds</Button>
+			<NIF>art/Kazakh/Ablay/qin_shi_huang.nif</NIF>
+			<KFM>art/Kazakh/Ablay/qin_shi_huang.kfm</KFM>
+			<NoShaderNIF>art/Kazakh/Ablay/qin_shi_huang.nif</NoShaderNIF>
+			<BackgroundKFM>art/Kazakh/Ablay/qin_shi_huang_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

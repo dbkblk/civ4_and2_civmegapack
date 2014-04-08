@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Changamire_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CHANGAMIRE</Type>
+			<Button>art/Mutapa/Changamire/Btn_Cetshwayo.dds</Button>
+			<NIF>art/Mutapa/Changamire/Cetshwayo.nif</NIF>
+			<KFM>art/Mutapa/Changamire/Cunhambebe.kfm</KFM>
+			<NoShaderNIF>art/Mutapa/Changamire/Cetshwayo.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mutapa/Changamire/Cunhambebe_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

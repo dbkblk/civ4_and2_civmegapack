@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_THING</Tag>
+		<English>Ting</English>
+		<French>Ting</French>
+		<German>Ting</German>
+		<Italian>Ting</Italian>
+		<Spanish>Ting</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_THING_PEDIA</Tag>
+		<English>[TAB]A ting is a governing assembly in Scandinavian societies, made up of the free people of the area and supervised by judges.  Medieval Scandinavia was dominated by warring clans and tribes, and a body of law was required to settle disputes.  In Sweden, ting is not only used when referring medieval assemblies, but also for sub-national county councils, which are called Landsting.  The name was also used in medieval times for tings that government the historical Landskap provinces.  The name was also found in the names of the first level instances of the Swedish court system.</English>
+		<French>[TAB]Ting est un ensemble régissant dans les sociétés scandinaves, composées des personnes libres du secteur et dirigées par des juges.  La Scandinavie médiévale a été dominée par les clans et les tribus faisants la guerre, et un corps de loi a été exigé pour régler des conflits.  En Suède, ting est non seulement employé en se référant les assemblées médiévales, mais également pour les County Councils sous-nationaux, qui s'appellent Landsting.  Le nom a été également employé dans des périodes médiévales pour des tings ce gouvernement les provinces historiques de Landskap.  Le nom a été également trouvé dans les noms des premiers exemples de niveau du système de cour suédois.</French>
+		<German>[TAB]Ein Ting ist eine regelnversammlung in den skandinavischen Gesellschaften, gebildet von den freien Leuten des Bereichs und von den Richtern überwacht.  Mittelalterliches Skandinavien wurde durch warring Clane und Stämme beherrscht, und ein Körper des Gesetzes wurde angefordert, Debatten zu vereinbaren.  In Schweden wird das Ting nicht nur verwendet, wenn man mittelalterliche Versammlungen, aber auch für sub-national Grafschaftsräte verweist, die Landsting angerufen werden.  Der Name wurde auch in den mittelalterlichen Zeiten für tings diese Regierung die historischen Landskap Provinzen verwendet.  Der Name wurde auch in den Namen der ersten Niveauinstanzen der schwedischen Gerichtsverfassung gefunden.</German>
+		<Italian>[TAB]Ting è un complessivo governante nelle società scandinave, composte della gente libera della zona e sorvegliate dai giudici.  La Scandinavia medioevale è stata dominata dai clan e dalle tribù facenti la guerra e un corpo di legge è stato richiesto depositare le dispute.  In Svezia, ting non solo è usato quando fa riferimento i complessivi medioevali, ma anche per i County Council sub-nazionali, che sono denominati Landsting.  Il nome inoltre è stato usato nei periodi medioevali per i tings quel governo le province storiche di Landskap.  Il nome inoltre è stato trovato nei nomi dei primi casi del livello del sistema di corte svedese.</Italian>
+		<Spanish>[TAB]Ein Ting ist eine regelnversammlung in den skandinavischen Gesellschaften, gebildet von den freien Leuten des Bereichs und von den Richtern überwacht.  Mittelalterliches Skandinavien wurde durch warring Clane und Stämme beherrscht, und ein Körper des Gesetzes wurde angefordert, Debatten zu vereinbaren.  In Schweden wird das Ting nicht nur verwendet, wenn man mittelalterliche Versammlungen, aber auch für sub-national Grafschaftsräte verweist, die Landsting angerufen werden.  Der Name wurde auch in den mittelalterlichen Zeiten für tings diese Regierung die historischen Landskap Provinzen verwendet.  Der Name wurde auch in den Namen der ersten Niveauinstanzen der schwedischen Gerichtsverfassung gefunden.</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_THING_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], the Swedish replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], grants additional health.</English>
+		<French>Le [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], le remplacement de l'Sue&#232;ois [COLOR_BUILDING_TEXT]Tribunal[COLOR_REVERT], les offres de bonus sante.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], die Schwedish Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgeb&#228;ude[COLOR_REVERT], bietet bonus gesundheit.</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], la sostituzione Svedese per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], offre bonus di salute.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], la sustitución de Suevo para el [COLOR_BUILDING_TEXT]Delegaci&#243;[COLOR_REVERT], frece bono de la salud.</Spanish>
+	</TEXT>
+</Civ4GameText>

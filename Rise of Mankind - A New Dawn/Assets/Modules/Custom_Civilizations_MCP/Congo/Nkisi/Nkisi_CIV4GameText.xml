@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONGO_NKISI</Tag>
+		<English>Nkisi</English>
+		<French>Nkisi</French>
+		<German>Nkisi</German>
+		<Italian>Nkisi</Italian>
+		<Spanish>Nkisi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONGO_NKISI_STRATEGY</Tag>
+		<English>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</English>
+		<French>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</French>
+		<German>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</German>
+		<Italian>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</Italian>
+		<Spanish>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CONGO_NKISI_PEDIA</Tag>
+		<English>[TAB]An Nkisi (plural Minkisi, also Nkishi/Minkishi), literally translates as "sacred medicine". The term Nkisi is the general name for a variety of objects used throughout the Congo Basin in Central Africa thought to contain spiritual powers or spirits (called "mpungo"). Minkisi serve many purposes. Some are used in divination practices. Many are used for healing, while others provide success in hunting, trade, or sex. Important minkisi are often credited with powers in multiple domains. Most famously, minkisi may also take the form of anthropomorphic or zoomorphic wooden carvings, and it is these that have principally interested art historians.</English>
+		<French>[TAB]An Nkisi (plural Minkisi, also Nkishi/Minkishi), literally translates as "sacred medicine". The term Nkisi is the general name for a variety of objects used throughout the Congo Basin in Central Africa thought to contain spiritual powers or spirits (called "mpungo"). Minkisi serve many purposes. Some are used in divination practices. Many are used for healing, while others provide success in hunting, trade, or sex. Important minkisi are often credited with powers in multiple domains. Most famously, minkisi may also take the form of anthropomorphic or zoomorphic wooden carvings, and it is these that have principally interested art historians.</French>
+		<German>[TAB]An Nkisi (plural Minkisi, also Nkishi/Minkishi), literally translates as "sacred medicine". The term Nkisi is the general name for a variety of objects used throughout the Congo Basin in Central Africa thought to contain spiritual powers or spirits (called "mpungo"). Minkisi serve many purposes. Some are used in divination practices. Many are used for healing, while others provide success in hunting, trade, or sex. Important minkisi are often credited with powers in multiple domains. Most famously, minkisi may also take the form of anthropomorphic or zoomorphic wooden carvings, and it is these that have principally interested art historians.</German>
+		<Italian>[TAB]An Nkisi (plural Minkisi, also Nkishi/Minkishi), literally translates as "sacred medicine". The term Nkisi is the general name for a variety of objects used throughout the Congo Basin in Central Africa thought to contain spiritual powers or spirits (called "mpungo"). Minkisi serve many purposes. Some are used in divination practices. Many are used for healing, while others provide success in hunting, trade, or sex. Important minkisi are often credited with powers in multiple domains. Most famously, minkisi may also take the form of anthropomorphic or zoomorphic wooden carvings, and it is these that have principally interested art historians.</Italian>
+		<Spanish>[TAB]An Nkisi (plural Minkisi, also Nkishi/Minkishi), literally translates as "sacred medicine". The term Nkisi is the general name for a variety of objects used throughout the Congo Basin in Central Africa thought to contain spiritual powers or spirits (called "mpungo"). Minkisi serve many purposes. Some are used in divination practices. Many are used for healing, while others provide success in hunting, trade, or sex. Important minkisi are often credited with powers in multiple domains. Most famously, minkisi may also take the form of anthropomorphic or zoomorphic wooden carvings, and it is these that have principally interested art historians.</Spanish>
+	</TEXT>
+</Civ4GameText>

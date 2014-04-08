@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Rishi_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_RISHI</Type>
+			<Button>art/Harappa/Rishi/Rishi.dds</Button>
+			<NIF>art/Harappa/Rishi/jamasita.nif</NIF>
+			<KFM>art/LeaderHeads/Qin_Shi_Huang/qin_shi_huang.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Qin_Shi_Huang/qin_shi_huang_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Harappa/Rishi/kublai_khan_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

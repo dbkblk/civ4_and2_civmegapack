@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Tudjman_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TUDJMAN</Type>
+			<Button>art/Croatia/Tudjman/Tudjman.dds</Button>
+			<NIF>art/Croatia/Tudjman/fdr.nif</NIF>
+			<KFM>art/Croatia/Tudjman/fdr.kfm</KFM>
+			<NoShaderNIF>art/Croatia/Tudjman/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Croatia/Tudjman/fdr_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

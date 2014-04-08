@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG</Tag>
+		<English>Viet Cong</English>
+		<French>Viet Cong</French>
+		<German>Viet Cong</German>
+		<Italian>Viet Cong</Italian>
+		<Spanish>Viet Cong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG_PEDIA</Tag>
+		<English>[TAB]The Viet Cong is a special unit for the Vietnamese civilization. Viet Cong were used by the Vietnamese army as a fast-moving military unit that could easily go from place to place in a relatively short amount of time. Their elusiveness (when needed) and their knowledge of the terrain made them extremely difficult fighters. The Viet Cong were also highly motivatived and would endure terrible conditions to keep up the fight against the enemy no matter how long it lasted.</English>
+		<French>[TAB]The Viet Cong is a special unit for the Vietnamese civilization. Viet Cong were used by the Vietnamese army as a fast-moving military unit that could easily go from place to place in a relatively short amount of time. Their elusiveness (when needed) and their knowledge of the terrain made them extremely difficult fighters. The Viet Cong were also highly motivatived and would endure terrible conditions to keep up the fight against the enemy no matter how long it lasted.</French>
+		<German>[TAB]The Viet Cong is a special unit for the Vietnamese civilization. Viet Cong were used by the Vietnamese army as a fast-moving military unit that could easily go from place to place in a relatively short amount of time. Their elusiveness (when needed) and their knowledge of the terrain made them extremely difficult fighters. The Viet Cong were also highly motivatived and would endure terrible conditions to keep up the fight against the enemy no matter how long it lasted.</German>
+		<Italian>[TAB]The Viet Cong is a special unit for the Vietnamese civilization. Viet Cong were used by the Vietnamese army as a fast-moving military unit that could easily go from place to place in a relatively short amount of time. Their elusiveness (when needed) and their knowledge of the terrain made them extremely difficult fighters. The Viet Cong were also highly motivatived and would endure terrible conditions to keep up the fight against the enemy no matter how long it lasted.</Italian>
+		<Spanish>[TAB]The Viet Cong is a special unit for the Vietnamese civilization. Viet Cong were used by the Vietnamese army as a fast-moving military unit that could easily go from place to place in a relatively short amount of time. Their elusiveness (when needed) and their knowledge of the terrain made them extremely difficult fighters. The Viet Cong were also highly motivatived and would endure terrible conditions to keep up the fight against the enemy no matter how long it lasted.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG_STRATEGY</Tag>
+		<English>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Guerrilla[COLOR_REVERT] can withdraw from combat and can better defend in jungles and forests.</English>
+		<French>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Guerrilla[COLOR_REVERT] can withdraw from combat and can better defend in jungles and forests.</French>
+		<German>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Guerrilla[COLOR_REVERT] can withdraw from combat and can better defend in jungles and forests.</German>
+		<Italian>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Guerrilla[COLOR_REVERT] can withdraw from combat and can better defend in jungles and forests.</Italian>
+		<Spanish>This fast moving Vietnamese replacement for the [COLOR_UNIT_TEXT]Guerrilla[COLOR_REVERT] can withdraw from combat and can better defend in jungles and forests.</Spanish>
+	</TEXT>
+</Civ4GameText>	

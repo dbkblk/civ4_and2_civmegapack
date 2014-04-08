@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:MacDonald_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MACDONALD</Type>
+			<Button>art/Canada/MacDonald/Macdonald.dds</Button>
+			<NIF>art/Canada/MacDonald/george_washington.nif</NIF>
+			<KFM>art/Canada/MacDonald/george_washington.kfm</KFM>
+			<NoShaderNIF>art/Canada/MacDonald/george_washington_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Canada/MacDonald/washington_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

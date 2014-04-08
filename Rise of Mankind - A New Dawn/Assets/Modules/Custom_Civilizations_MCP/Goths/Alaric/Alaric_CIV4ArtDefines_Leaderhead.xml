@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Alaric_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ALARIC</Type>
+			<Button>art/Goths/Alaric/Alaric.dds</Button>
+			<NIF>art/Goths/Alaric/charadon.nif</NIF>
+			<KFM>art/Goths/Alaric/brennus.kfm</KFM>
+			<NoShaderNIF>art/Goths/Alaric/charadon_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Goths/Alaric/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

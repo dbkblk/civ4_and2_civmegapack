@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Haakonson_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HAAKONSON</Type>
+			<Button>art/Norway/Haakonson/haakonson.dds</Button>
+			<NIF>art/Norway/Haakonson/Haakonson.nif</NIF>
+			<KFM>art/Norway/Haakonson/peter.kfm</KFM>
+			<NoShaderNIF>art/Norway/Haakonson/Haakonson.nif</NoShaderNIF>
+			<BackgroundKFM>art/Norway/Haakonson/peter_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

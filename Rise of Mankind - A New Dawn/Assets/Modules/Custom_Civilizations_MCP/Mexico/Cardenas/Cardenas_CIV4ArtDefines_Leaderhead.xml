@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Cardenas_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CARDENAS</Type>
+			<Button>art/Mexico/Cardenas/Cardenas.dds</Button>
+			<NIF>art/Mexico/Cardenas/NewEarth.nif</NIF>
+			<KFM>art/Mexico/Cardenas/napoleon.kfm</KFM>
+			<NoShaderNIF>art/Mexico/Cardenas/NewEarth_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Mexico/Cardenas/napoleon_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

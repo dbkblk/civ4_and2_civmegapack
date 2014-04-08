@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Created with Notepad by strategyonly -->
+<!-- ###################################################################################### -->
+<Civ4PlayerColorInfos xmlns="x-schema:Denmark_CIV4InterfaceSchema.xml">
+	<PlayerColorInfos>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_DENMARK</Type>
+			<ColorTypePrimary>COLOR_PLAYER_VIKINGS_RED</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PLAYER_NEAR_WHITE</ColorTypeSecondary>
+			<TextColorType>COLOR_PLAYER_CYAN_TEXT</TextColorType>
+		</PlayerColorInfo>
+	</PlayerColorInfos>
+</Civ4PlayerColorInfos>

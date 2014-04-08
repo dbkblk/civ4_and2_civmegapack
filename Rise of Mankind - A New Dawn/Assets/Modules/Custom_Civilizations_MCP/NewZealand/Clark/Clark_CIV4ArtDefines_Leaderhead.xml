@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Clark_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CLARK</Type>
+			<Button>art/NewZealand/Clark/Clark.dds</Button>
+			<NIF>art/NewZealand/Clark/Boudica.nif</NIF>
+			<KFM>art/NewZealand/Clark/Boudica.kfm</KFM>
+			<NoShaderNIF>art/NewZealand/Clark/Boudica_NONSHADER.nif</NoShaderNIF>
+			<BackgroundKFM>art/NewZealand/Clark/Boudica_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

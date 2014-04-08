@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+        <TEXT>
+		<Tag>TXT_KEY_UNIT_BURMA_MON</Tag>
+		<English>Mon Warrior</English>
+		<French>Mon Warrior</French>
+		<German>Mon Warrior</German>
+		<Italian>Mon Warrior</Italian>
+		<Spanish>Mon Warrior</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BURMA_MON_PEDIA</Tag>
+		<English>[TAB]Humans lived in the region that is now Myanmar as early as 11,000 years ago, but the first identifiable civilisation is that of the Mon. The Mon probably began migrating into the area southward from western China in the period from 3000 BC to 1500 BC and settled in the Chao Phraya River basin of southern Thailand around the 6th century AD. </English>
+		<French>[TAB]Humans lived in the region that is now Myanmar as early as 11,000 years ago, but the first identifiable civilisation is that of the Mon. The Mon probably began migrating into the area southward from western China in the period from 3000 BC to 1500 BC and settled in the Chao Phraya River basin of southern Thailand around the 6th century AD.</French>
+		<German>[TAB]Humans lived in the region that is now Myanmar as early as 11,000 years ago, but the first identifiable civilisation is that of the Mon. The Mon probably began migrating into the area southward from western China in the period from 3000 BC to 1500 BC and settled in the Chao Phraya River basin of southern Thailand around the 6th century AD. </German>
+		<Italian>[TAB]Humans lived in the region that is now Myanmar as early as 11,000 years ago, but the first identifiable civilisation is that of the Mon. The Mon probably began migrating into the area southward from western China in the period from 3000 BC to 1500 BC and settled in the Chao Phraya River basin of southern Thailand around the 6th century AD.</Italian>
+		<Spanish>[TAB]Humans lived in the region that is now Myanmar as early as 11,000 years ago, but the first identifiable civilisation is that of the Mon. The Mon probably began migrating into the area southward from western China in the period from 3000 BC to 1500 BC and settled in the Chao Phraya River basin of southern Thailand around the 6th century AD.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BURMA_MON_STRATEGY</Tag>
+		<English>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</English>
+		<French>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</French>
+		<German>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</German>
+		<Italian>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</Italian>
+		<Spanish>This melee unit (the Burmese replacement for the [COLOR_UNIT_TEXT]Warrior[COLOR_REVERT]) receives bonuses against animals and when defended on hill terrain.</Spanish>
+	</TEXT>
+</Civ4GameText>

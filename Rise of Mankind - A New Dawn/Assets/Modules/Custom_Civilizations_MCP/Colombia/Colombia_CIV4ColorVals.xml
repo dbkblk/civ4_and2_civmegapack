@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- Created with Dreamweaver CS3 by DWOLF -->
+<!-- Sid Meier's Civilization IV Beyond The Sword -->
+<!-- -->
+<Civ4ColorVals xmlns="x-schema:Colombia_CIV4InterfaceSchema.xml">
+	<ColorVals>
+		<ColorVal>
+			<Type>COLOR_PLAYER_IRELAND_YELLOW</Type>
+			<fRed>0.90</fRed>
+			<fGreen>0.90</fGreen>
+			<fBlue>0.17</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_BLUE</Type>
+			<fRed>0.21</fRed>
+			<fGreen>0.40</fGreen>
+			<fBlue>1.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_NAVY_BLUE</Type>
+			<fRed>0.00</fRed>
+			<fGreen>0.20</fGreen>
+			<fBlue>0.50</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+	</ColorVals>
+</Civ4ColorVals>

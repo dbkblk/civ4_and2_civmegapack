@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD</Tag>
+		<English>Republican Guard</English>
+		<French>
+			<Text>Republican Guard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Republican Guard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Republican Guard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Republican Guard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD_STRATEGY</Tag>
+		<English>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</English>
+		<French>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</French>
+		<German>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</German>
+		<Italian>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</Italian>
+		<Spanish>[COLOR_UNIT_TEXT]Republican Guards[COLOR_REVERT] are the Iraqi replacements for  [COLOR_UNIT_TEXT]Marines[COLOR_REVERT]. They receive the City Garrison I promotion and are slightly cheaper to build.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_IRAQ_REPUBLICAN_GUARD_PEDIA</Tag>
+		<English>[TAB]The Republican Guard was charged with protecting the president, Saddam Hussein, and responding to any threat to his power, such as a rebellion or coup, and protecting Baghdad. In 2002 there were reportedly 12,000 members of the Special Republican Guard, drawn primarily from clans loyal to Saddam Hussein and his regime.</English>
+		<French>[TAB]The Republican Guard was charged with protecting the president, Saddam Hussein, and responding to any threat to his power, such as a rebellion or coup, and protecting Baghdad. In 2002 there were reportedly 12,000 members of the Special Republican Guard, drawn primarily from clans loyal to Saddam Hussein and his regime.</French>
+		<German>[TAB]The Republican Guard was charged with protecting the president, Saddam Hussein, and responding to any threat to his power, such as a rebellion or coup, and protecting Baghdad. In 2002 there were reportedly 12,000 members of the Special Republican Guard, drawn primarily from clans loyal to Saddam Hussein and his regime.</German>
+		<Italian>[TAB]The Republican Guard was charged with protecting the president, Saddam Hussein, and responding to any threat to his power, such as a rebellion or coup, and protecting Baghdad. In 2002 there were reportedly 12,000 members of the Special Republican Guard, drawn primarily from clans loyal to Saddam Hussein and his regime.</Italian>
+		<Spanish>[TAB]The Republican Guard was charged with protecting the president, Saddam Hussein, and responding to any threat to his power, such as a rebellion or coup, and protecting Baghdad. In 2002 there were reportedly 12,000 members of the Special Republican Guard, drawn primarily from clans loyal to Saddam Hussein and his regime.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Sejmik Game Text -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARTHIA</Tag>
+		<English>Frahangestan</English>
+		<French>Frahangestan</French>
+		<German>Frahangestan</German>
+		<Italian>Frahangestan</Italian>
+		<Spanish>Frahangestan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARTHIA_PEDIA</Tag>
+		<English>[TAB]The required education for a child of a noble family included writing, religious instruction, physical education, and training in the courtly arts.  A noble child would begin attending school between the ages of five and seven years of age.  The hammozgar, or teacher would instract him in writing and memorization of the Zoroastrian holy scriptures, as well as to recite the yasts and hold the Barsom, or sacred bundle, at a very early age.  As well he would be versed in astrology, literature, writing and the law.  He would also be trained in the etiquette of the court, ceremonies, how to treat women, gardening, and singing.  He would play games such as chess and Backgammon.  He would further be trained in horsemanship, hunting, archery, wrestling, polo, and the military arts, with his training and studies completed by the age of fifteen.</English>
+		<French>[TAB]The required education for a child of a noble family included writing, religious instruction, physical education, and training in the courtly arts.  A noble child would begin attending school between the ages of five and seven years of age.  The hammozgar, or teacher would instract him in writing and memorization of the Zoroastrian holy scriptures, as well as to recite the yasts and hold the Barsom, or sacred bundle, at a very early age.  As well he would be versed in astrology, literature, writing and the law.  He would also be trained in the etiquette of the court, ceremonies, how to treat women, gardening, and singing.  He would play games such as chess and Backgammon.  He would further be trained in horsemanship, hunting, archery, wrestling, polo, and the military arts, with his training and studies completed by the age of fifteen.</French>
+		<German>[TAB]The required education for a child of a noble family included writing, religious instruction, physical education, and training in the courtly arts.  A noble child would begin attending school between the ages of five and seven years of age.  The hammozgar, or teacher would instract him in writing and memorization of the Zoroastrian holy scriptures, as well as to recite the yasts and hold the Barsom, or sacred bundle, at a very early age.  As well he would be versed in astrology, literature, writing and the law.  He would also be trained in the etiquette of the court, ceremonies, how to treat women, gardening, and singing.  He would play games such as chess and Backgammon.  He would further be trained in horsemanship, hunting, archery, wrestling, polo, and the military arts, with his training and studies completed by the age of fifteen.</German>
+		<Italian>[TAB]The required education for a child of a noble family included writing, religious instruction, physical education, and training in the courtly arts.  A noble child would begin attending school between the ages of five and seven years of age.  The hammozgar, or teacher would instract him in writing and memorization of the Zoroastrian holy scriptures, as well as to recite the yasts and hold the Barsom, or sacred bundle, at a very early age.  As well he would be versed in astrology, literature, writing and the law.  He would also be trained in the etiquette of the court, ceremonies, how to treat women, gardening, and singing.  He would play games such as chess and Backgammon.  He would further be trained in horsemanship, hunting, archery, wrestling, polo, and the military arts, with his training and studies completed by the age of fifteen.</Italian>
+		<Spanish>[TAB]The required education for a child of a noble family included writing, religious instruction, physical education, and training in the courtly arts.  A noble child would begin attending school between the ages of five and seven years of age.  The hammozgar, or teacher would instract him in writing and memorization of the Zoroastrian holy scriptures, as well as to recite the yasts and hold the Barsom, or sacred bundle, at a very early age.  As well he would be versed in astrology, literature, writing and the law.  He would also be trained in the etiquette of the court, ceremonies, how to treat women, gardening, and singing.  He would play games such as chess and Backgammon.  He would further be trained in horsemanship, hunting, archery, wrestling, polo, and the military arts, with his training and studies completed by the age of fifteen.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARTHIA_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Frahangestan[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]library[COLOR_REVERT] and provides an additional science boost to the city in which it is built.</English>
+		<French>The [COLOR_BUILDING_TEXT]Frahangestan[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]library[COLOR_REVERT] and provides an additional science boost to the city in which it is built.</French>
+		<German>The [COLOR_BUILDING_TEXT]Frahangestan[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]library[COLOR_REVERT] and provides an additional science boost to the city in which it is built.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Frahangestan[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]library[COLOR_REVERT] and provides an additional science boost to the city in which it is built.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Frahangestan[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]library[COLOR_REVERT] and provides an additional science boost to the city in which it is built.</Spanish>
+	</TEXT>
+</Civ4GameText>

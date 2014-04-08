@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Jinnah_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_JINNAH</Type>
+			<Button>art/Pakistan/Jinnah/quezon.dds</Button>
+			<NIF>art/Pakistan/Jinnah/fdr.nif</NIF>
+			<KFM>art/Pakistan/Jinnah/fdr.kfm</KFM>
+			<NoShaderNIF>art/Pakistan/Jinnah/fdr_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/Pakistan/Jinnah/fdr_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

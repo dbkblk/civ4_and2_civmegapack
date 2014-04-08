@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Mutota_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MUTOTA</Type>
+			<Button>art/Mutapa/Mutota/Mutota.dds</Button>
+			<NIF>art/Mutapa/Mutota/shaka.nif</NIF>
+			<KFM>art/Mutapa/Mutota/shaka.kfm</KFM>
+			<NoShaderNIF>art/Mutapa/Mutota/shaka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>Modules/Custom_Civilizations_MCP/Mutapa/Mutota/shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

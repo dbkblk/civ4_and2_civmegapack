@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Created with Notepad by strategyonly -->
+<!-- ###################################################################################### -->
+<Civ4ArtDefines xmlns="x-schema:Toltec_Empire_CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_TOLTEC</Type>
+			<Button>art/Toltec/Flag/Button.dds</Button>
+			<Path>art/Toltec/Flag/flagdecal_toltecs.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+	</CivilizationArtInfos>
+</Civ4ArtDefines>
