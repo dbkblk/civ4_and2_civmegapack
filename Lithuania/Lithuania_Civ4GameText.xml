@@ -8,7 +8,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_LITHUANIA_DESC</Tag>
 		<English>Lithuanian Empire</English>
-		<French>Lithuanie</French>
+		<French>Lituanie</French>
 		<German>Litauische Reich</German>
 		<Italian>Lituano Impero</Italian>
 		<Spanish>Lituano Imperio</Spanish>
@@ -25,10 +25,10 @@
 		<Tag>TXT_KEY_CIV_LITHUANIA_ADJECTIVE</Tag>
 		<English>Lithuanian</English>
 		<French>
-	    <Text>lithuanien:lithuanienne:lithuaniens:lithuaniennes</Text>
-	    <Gender>Male:Female:Male:Female</Gender>
-	    <Plural>0:0:1:1</Plural>
-    </French>
+			<Text>lituanien:lituanienne:lituaniens:lituaniennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Litauische</German>
 		<Italian>Lituano</Italian>
 		<Spanish>Lituano</Spanish>
