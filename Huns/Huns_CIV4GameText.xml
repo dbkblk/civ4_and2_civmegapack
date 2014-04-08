@@ -219,10 +219,10 @@
 		<Tag>TXT_KEY_CIV_HUNS_ADJECTIVE</Tag>
 		<English>Hunnic</English>
 		<French>
-	    <Text>hun:hunne:huns:hunnes</Text>
-	    <Gender>Male:Female:Male:Female</Gender>
-	    <Plural>0:0:1:1</Plural>
-    </French>
+			<Text>hun:hune:huns:hunes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Hunnic</German>
 		<Italian>Hunnic</Italian>
 		<Spanish>Hunnic</Spanish>

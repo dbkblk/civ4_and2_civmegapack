@@ -16,7 +16,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
 		<English>Norway</English>
-		<French>Norvègiens</French>
+		<French>Norvégiens</French>
 		<German>
 			<Text>Norwegen</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
@@ -28,11 +28,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NORWAY_ADJECTIVE</Tag>
 		<English>Norwegian</English>
-    <French>
-	    <Text>norvègien:norvègienne:norvègiens:norvègiennes</Text>
-	    <Gender>Male:Female:Male:Female</Gender>
-	    <Plural>0:0:1:1</Plural>
-    </French>
+		<French>
+			<Text>norvégien:norvégienne:norvégiens:norvégiennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Norwegian</German>
 		<Italian>Norwegian</Italian>
 		<Spanish>Norwegian</Spanish>
