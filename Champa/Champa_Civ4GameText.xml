@@ -24,11 +24,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHAMPA_ADJECTIVE</Tag>
 		<English>Cham</English>
-    <French>
-      <Text>cham:cham:chams:chams</Text>
-      <Gender>Male:Female:Male:Female</Gender>
-      <Plural>0:0:1:1</Plural>
-    </French>
+		<French>
+			<Text>cham:cham:chams:chams</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
 		<German>Cham</German>
 		<Italian>Cham</Italian>
 		<Spanish>Cham</Spanish>
