@@ -55,12 +55,12 @@ In 1914 the Protectorate was made official, and the title of the head of state, 
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEGYPT_ADJECTIVE</Tag>
 		<English>Mamluk</English>
-    <French>
-      <Text>mamelouk:mamelouk:mamelouks:mamelouks</Text>
-      <Gender>Male:Female:Male:Female</Gender>
-      <Plural>0:0:1:1</Plural>
-    </French>
-    <German>Mamluk</German>
+		<French>
+			<Text>mamelouk:mamelouk:mamelouks:mamelouks</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>Mamluk</German>
 		<Italian>Mamluk</Italian>
 		<Spanish>Mamluk</Spanish>
 	</TEXT>
