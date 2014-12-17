@@ -98,6 +98,10 @@
 					<BuildingType>BUILDING_IRAQ_MESMUSEUM</BuildingType>
 					<bBuilding>1</bBuilding>
 				</Building>
+				<Building>
+					<BuildingType>BUILDING_ROSETTA</BuildingType>
+					<bBuilding>1</bBuilding>
+				</Building>
 			</Buildings>
 			<ForceBuildings/>
 			<HolyCity>NONE</HolyCity>
