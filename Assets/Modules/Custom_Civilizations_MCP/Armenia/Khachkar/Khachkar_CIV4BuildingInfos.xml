@@ -5,14 +5,14 @@
 <Civ4BuildingInfos xmlns="x-schema:Khachkar_CIV4BuildingsSchema.xml">
 	<BuildingInfos>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_HEALERHUT</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_STANDING_STONE</BuildingClass>
 			<Type>BUILDING_ARMENIA_KHACHKAR</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_ARMENIA_KHACHKAR</Description>
 			<Civilopedia>TXT_KEY_BUILDING_ARMENIA_KHACHKAR_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_ARMENIA_KHACHKAR_STRATEGY</Strategy>
 			<Help>TXT_KEY_BUILDING_MONUMENT_HELP</Help>
-			<Advisor>ADVISOR_GROWTH</Advisor>
+			<Advisor>ADVISOR_CULTURE</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ARMENIA_KHACHKAR</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
@@ -25,22 +25,17 @@
 			<GlobalReligionCommerce>NONE</GlobalReligionCommerce>
 			<GlobalCorporationCommerce>NONE</GlobalCorporationCommerce>
 			<VictoryPrereq>NONE</VictoryPrereq>
-			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
+			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
-			<ObsoleteTech>TECH_MEDICINE</ObsoleteTech>
-			<PrereqTech>TECH_NATUROPATHY</PrereqTech>
+			<ObsoleteTech>TECH_ASTRONOMY</ObsoleteTech>
+			<PrereqTech>TECH_RITUALISM</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
-			<ProductionTraits>
-				<ProductionTrait>
-					<ProductionTraitType>TRAIT_HUMANITARIAN</ProductionTraitType>
-					<iProductionTrait>100</iProductionTrait>
-				</ProductionTrait>
-			</ProductionTraits>
+			<ProductionTraits/>
 			<HappinessTraits>
 				<HappinessTrait>
-					<HappinessTraitType>TRAIT_HUMANITARIAN</HappinessTraitType>
+					<HappinessTraitType>TRAIT_CHARISMATIC</HappinessTraitType>
 					<iHappinessTrait>1</iHappinessTrait>
 				</HappinessTrait>
 			</HappinessTraits>
@@ -71,17 +66,17 @@
 			<bNoUnhappiness>0</bNoUnhappiness>
 			<bNoUnhealthyPopulation>0</bNoUnhealthyPopulation>
 			<bBuildingOnlyHealthy>0</bBuildingOnlyHealthy>
-			<bNeverCapture>0</bNeverCapture>
+			<bNeverCapture>1</bNeverCapture>
 			<bNukeImmune>0</bNukeImmune>
 			<bPrereqReligion>0</bPrereqReligion>
-			<bCenterInCity>0</bCenterInCity>
+			<bCenterInCity>1</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>40</iCost>
+			<iCost>30</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<iMinAreaSize>-1</iMinAreaSize>
-			<iConquestProb>75</iConquestProb>
+			<iConquestProb>0</iConquestProb>
 			<iCitiesPrereq>0</iCitiesPrereq>
 			<iTeamsPrereq>0</iTeamsPrereq>
 			<iLevelPrereq>0</iLevelPrereq>
@@ -109,8 +104,8 @@
 			<iWarWearinessModifier>0</iWarWearinessModifier>
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
-			<iHealRateChange>10</iHealRateChange>
-			<iHealth>1</iHealth>
+			<iHealRateChange>0</iHealRateChange>
+			<iHealth>0</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -132,7 +127,7 @@
 			<iBombardDefense>0</iBombardDefense>
 			<iAllCityDefense>0</iAllCityDefense>
 			<iEspionageDefense>0</iEspionageDefense>
-			<iAsset>3</iAsset>
+			<iAsset>2</iAsset>
 			<iPower>0</iPower>
 			<fVisibilityPriority>1.0</fVisibilityPriority>
 			<SeaPlotYieldChanges/>
@@ -140,8 +135,16 @@
 			<GlobalSeaPlotYieldChanges/>
 			<YieldChanges/>
 			<CommerceChanges/>
-			<ObsoleteSafeCommerceChanges/>
-			<CommerceChangeDoubleTimes/>
+			<ObsoleteSafeCommerceChanges>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>1</iCommerce>
+			</ObsoleteSafeCommerceChanges>
+			<CommerceChangeDoubleTimes>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>1000</iCommerce>
+			</CommerceChangeDoubleTimes>
 			<CommerceModifiers>
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
@@ -156,7 +159,7 @@
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
-			<ConstructSound>AS2D_BUILD_HEALERSHUT</ConstructSound>
+			<ConstructSound>AS2D_BUILD_OBELISK</ConstructSound>
 			<BonusHealthChanges/>
 			<BonusHappinessChanges/>
 			<BonusProductionModifiers/>
@@ -171,7 +174,7 @@
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
-					<FlavorType>FLAVOR_GROWTH</FlavorType>
+					<FlavorType>FLAVOR_CULTURE</FlavorType>
 					<iFlavor>10</iFlavor>
 				</Flavor>
 			</Flavors>
@@ -180,14 +183,9 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<iDCMAirbombMission>2</iDCMAirbombMission>
 			<ReplaceBuildings>
 				<ReplaceBuilding>
-					<BuildingClassType>BUILDINGCLASS_DOCTOR</BuildingClassType>
-					<bReplace>1</bReplace>
-				</ReplaceBuilding>
-				<ReplaceBuilding>
-					<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
 					<bReplace>1</bReplace>
 				</ReplaceBuilding>
 			</ReplaceBuildings>

@@ -64,6 +64,10 @@
 					<UnitClassUpgradeType>UNITCLASS_SPEARMAN</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
+				<UnitClassUpgrade>
+					<UnitClassUpgradeType>UNITCLASS_AXEMAN</UnitClassUpgradeType>
+					<bUnitClassUpgrade>1</bUnitClassUpgrade>
+				</UnitClassUpgrade>
 			</UnitClassUpgrades>
 			<UnitClassTargets/>
 			<UnitCombatTargets/>

@@ -57,7 +57,7 @@
 			<bMilitaryTrade>0</bMilitaryTrade>
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
-					<UnitClassUpgradeType>UNITCLASS_LIGHT_TANK</UnitClassUpgradeType>
+					<UnitClassUpgradeType>UNITCLASS_EARLY_TANK</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
 			</UnitClassUpgrades>
@@ -149,7 +149,7 @@
 			<iChanceFirstStrikes>0</iChanceFirstStrikes>
 			<iInterceptionProbability>0</iInterceptionProbability>
 			<iEvasionProbability>0</iEvasionProbability>
-			<iWithdrawalProb>30</iWithdrawalProb>
+			<iWithdrawalProb>10</iWithdrawalProb>
 			<iCollateralDamage>0</iCollateralDamage>
 			<iCollateralDamageLimit>100</iCollateralDamageLimit>
 			<iCollateralDamageMaxUnits>6</iCollateralDamageMaxUnits>
@@ -192,18 +192,10 @@
 			</FeatureAttacks>
 			<FeatureDefenses/>
 			<UnitClassAttackMods>
-				<UnitClassAttackMod>
-					<UnitClassType>UNITCLASS_CANNON</UnitClassType>
-					<iUnitClassMod>50</iUnitClassMod>
-				</UnitClassAttackMod>
 			</UnitClassAttackMods>
 			<UnitClassDefenseMods>
 			</UnitClassDefenseMods>
 			<UnitCombatMods>
-				<UnitCombatMod>
-					<UnitCombatType>UNITCOMBAT_ANIMAL</UnitCombatType>
-					<iUnitCombatMod>50</iUnitCombatMod>
-				</UnitCombatMod>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<iUnitCombatMod>50</iUnitCombatMod>

@@ -56,6 +56,10 @@
 					<UnitClassUpgradeType>UNITCLASS_LONGBOWMAN</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
+				<UnitClassUpgrade>
+					<UnitClassUpgradeType>UNITCLASS_CROSSBOWMAN</UnitClassUpgradeType>
+					<bUnitClassUpgrade>1</bUnitClassUpgrade>
+				</UnitClassUpgrade>
 			</UnitClassUpgrades>
 			<UnitClassTargets/>
 			<UnitCombatTargets/>
@@ -184,6 +188,7 @@
 			</FreePromotions>
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
+			<iDCMBombRange>1</iDCMBombRange>
 			<iDCMBombAccuracy>50</iDCMBombAccuracy>
 		</UnitInfo>
 	</UnitInfos>

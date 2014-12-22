@@ -157,6 +157,10 @@
 					<SpecialistType>SPECIALIST_SPY</SpecialistType>
 					<iSpecialistCount>1</iSpecialistCount>
 				</SpecialistCount>
+				<SpecialistCount>
+					<SpecialistType>SPECIALIST_LAWYER</SpecialistType>
+					<iSpecialistCount>1</iSpecialistCount>
+				</SpecialistCount>
 			</SpecialistCounts>
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>

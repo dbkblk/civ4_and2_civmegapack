@@ -5,13 +5,13 @@
 <Civ4BuildingInfos xmlns="x-schema:Midewiwin_CIV4BuildingsSchema.xml">
 	<BuildingInfos>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_LIBRARY</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_HEALERHUT</BuildingClass>
 			<Type>BUILDING_ANISHNAABEK_MIDEWIWIN</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN</Description>
 			<Civilopedia>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_STRATEGY</Strategy>
-			<Advisor>ADVISOR_SCIENCE</Advisor>
+			<Advisor>ADVISOR_GROWTH</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ANISHNAABEK_MIDEWIWIN</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
@@ -24,22 +24,22 @@
 			<GlobalReligionCommerce>NONE</GlobalReligionCommerce>
 			<GlobalCorporationCommerce>NONE</GlobalCorporationCommerce>
 			<VictoryPrereq>NONE</VictoryPrereq>
-			<FreeStartEra>ERA_MODERN</FreeStartEra>
+			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
-			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>TECH_LITERATURE</PrereqTech>
+			<ObsoleteTech>TECH_MEDICINE</ObsoleteTech>
+			<PrereqTech>TECH_NATUROPATHY</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
 			<ProductionTraits>
 				<ProductionTrait>
-					<ProductionTraitType>TRAIT_CREATIVE</ProductionTraitType>
+					<ProductionTraitType>TRAIT_HUMANITARIAN</ProductionTraitType>
 					<iProductionTrait>100</iProductionTrait>
 				</ProductionTrait>
 			</ProductionTraits>
 			<HappinessTraits>
 				<HappinessTrait>
-					<HappinessTraitType>TRAIT_CREATIVE</HappinessTraitType>
+					<HappinessTraitType>TRAIT_HUMANITARIAN</HappinessTraitType>
 					<iHappinessTrait>1</iHappinessTrait>
 				</HappinessTrait>
 			</HappinessTraits>
@@ -70,17 +70,17 @@
 			<bNoUnhappiness>0</bNoUnhappiness>
 			<bNoUnhealthyPopulation>0</bNoUnhealthyPopulation>
 			<bBuildingOnlyHealthy>0</bBuildingOnlyHealthy>
-			<bNeverCapture>1</bNeverCapture>
+			<bNeverCapture>0</bNeverCapture>
 			<bNukeImmune>0</bNukeImmune>
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>90</iCost>
+			<iCost>40</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<iMinAreaSize>-1</iMinAreaSize>
-			<iConquestProb>0</iConquestProb>
+			<iConquestProb>75</iConquestProb>
 			<iCitiesPrereq>0</iCitiesPrereq>
 			<iTeamsPrereq>0</iTeamsPrereq>
 			<iLevelPrereq>0</iLevelPrereq>
@@ -108,8 +108,8 @@
 			<iWarWearinessModifier>0</iWarWearinessModifier>
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
-			<iHealRateChange>0</iHealRateChange>
-			<iHealth>0</iHealth>
+			<iHealRateChange>10</iHealRateChange>
+			<iHealth>1</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -139,20 +139,9 @@
 			<GlobalSeaPlotYieldChanges/>
 			<YieldChanges/>
 			<CommerceChanges/>
-			<ObsoleteSafeCommerceChanges>
-				<iCommerce>0</iCommerce>
-				<iCommerce>0</iCommerce>
-				<iCommerce>2</iCommerce>
-			</ObsoleteSafeCommerceChanges>
-			<CommerceChangeDoubleTimes>
-				<iCommerce>0</iCommerce>
-				<iCommerce>0</iCommerce>
-				<iCommerce>1000</iCommerce>
-			</CommerceChangeDoubleTimes>
-			<CommerceModifiers>
-				<iCommerce>0</iCommerce>
-				<iCommerce>20</iCommerce>
-			</CommerceModifiers>
+			<ObsoleteSafeCommerceChanges/>
+			<CommerceChangeDoubleTimes/>
+			<CommerceModifiers/>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
 			<StateReligionCommerces/>
@@ -161,21 +150,16 @@
 			<SpecialistCounts>
 				<SpecialistCount>
 					<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
-					<iSpecialistCount>3</iSpecialistCount>
+					<iSpecialistCount>1</iSpecialistCount>
 				</SpecialistCount>
 			</SpecialistCounts>
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
-			<ConstructSound>AS2D_BUILD_LIBRARY</ConstructSound>
+			<ConstructSound>AS2D_BUILD_HEALERSHUT</ConstructSound>
 			<BonusHealthChanges/>
 			<BonusHappinessChanges/>
-			<BonusProductionModifiers>
-				<BonusProductionModifier>
-					<BonusType>BONUS_PAPER</BonusType>
-					<iProductonModifier>50</iProductonModifier>
-				</BonusProductionModifier>
-			</BonusProductionModifiers>
+			<BonusProductionModifiers/>
 			<UnitCombatFreeExperiences/>
 			<DomainFreeExperiences/>
 			<DomainProductionModifiers/>
@@ -187,8 +171,8 @@
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
-					<FlavorType>FLAVOR_SCIENCE</FlavorType>
-					<iFlavor>15</iFlavor>
+					<FlavorType>FLAVOR_GROWTH</FlavorType>
+					<iFlavor>10</iFlavor>
 				</Flavor>
 			</Flavors>
 			<HotKey/>
@@ -197,6 +181,20 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<iDCMAirbombMission>2</iDCMAirbombMission>
+			<ReplaceBuildings>
+				<ReplaceBuilding>
+					<BuildingClassType>BUILDINGCLASS_DOCTOR</BuildingClassType>
+					<bReplace>1</bReplace>
+				</ReplaceBuilding>
+				<ReplaceBuilding>
+					<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+					<bReplace>1</bReplace>
+				</ReplaceBuilding>
+				<ReplaceBuilding>
+					<BuildingClassType>BUILDINGCLASS_REGENERATOR</BuildingClassType>
+					<bReplace>1</bReplace>
+				</ReplaceBuilding>
+			</ReplaceBuildings>
 		</BuildingInfo>
 	</BuildingInfos>
 </Civ4BuildingInfos>

@@ -153,19 +153,11 @@
 			<UnitCombatFreeExperiences>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
-					<iExperience>4</iExperience>
-				</UnitCombatFreeExperience>
-				<UnitCombatFreeExperience>
-					<UnitCombatType>UNITCOMBAT_WHEELED</UnitCombatType>
-					<iExperience>2</iExperience>
-				</UnitCombatFreeExperience>
-				<UnitCombatFreeExperience>
-					<UnitCombatType>UNITCOMBAT_TRACKED</UnitCombatType>
 					<iExperience>2</iExperience>
 				</UnitCombatFreeExperience>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
-					<iExperience>2</iExperience>
+					<iExperience>3</iExperience>
 				</UnitCombatFreeExperience>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
