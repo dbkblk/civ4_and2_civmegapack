@@ -13,11 +13,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BANGLADESH_KABADDI_STRATEGY</Tag>
-		<English>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and provides a small tax benefit.</English>
-		<French>Le [COLOR_BUILDING_TEXT]centre kabbadi[COLOR_REVERT] (équivalent bangladais du [COLOR_BUILDING_TEXT]colisée[COLOR_REVERT]) augmente le bonheur et procure des taxes supplémentaires.</French>
-		<German>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and provides a small tax benefit.</German>
-		<Italian>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and provides a small tax benefit.</Italian>
-		<Spanish>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and provides a small tax benefit.</Spanish>
+		<English>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness.</English>
+		<French>Le [COLOR_BUILDING_TEXT]centre kabbadi[COLOR_REVERT] (équivalent bangladais du [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) augmente le bonheur.</French>
+		<German>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness.</German>
+		<Italian>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness.</Italian>
+		<Spanish>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BANGLADESH_KABADDI_PEDIA</Tag>

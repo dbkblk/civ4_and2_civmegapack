@@ -23,10 +23,10 @@
 	</TEXT>
         <TEXT>
 		<Tag>TXT_KEY_BUILDING_ATHLETICS_COMPLEX_STRATEGY</Tag>
-		<English>The [COLOR_BUILDING_TEXT]Athletics Complex[COLOR_REVERT], the Australian replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT], never obsoletes.</English>
-		<French>Le [COLOR_BUILDING_TEXT]complexe athlétique[COLOR_REVERT] remplace le [COLOR_BUILDING_TEXT]colisée[COLOR_REVERT] pour l'Australie. Il ne devient jamais obsolète.</French>
-		<German>Die [COLOR_BUILDING_TEXT]Leichtathletik-Komplex[COLOR_REVERT], die Australisch Ersatz für die [COLOR_BUILDING_TEXT]Kolosseum[COLOR_REVERT], never obsoletes.</German>
-		<Italian>L'[COLOR_BUILDING_TEXT]Atletica Complex[COLOR_REVERT], la sostituzione Australiano per il [COLOR_BUILDING_TEXT]Colosseo[COLOR_REVERT], never obsoletes.</Italian>
-		<Spanish>El [COLOR_BUILDING_TEXT]Complejo de Atletismo[COLOR_REVERT], la sustitución de Australiano para el [COLOR_BUILDING_TEXT]Coliseo[COLOR_REVERT], never obsoletes.</Spanish>
+		<English>The [COLOR_BUILDING_TEXT]Athletics Complex[COLOR_REVERT], the Australian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</English>
+		<French>Le [COLOR_BUILDING_TEXT]complexe athlétique[COLOR_REVERT] remplace le [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] pour l'Australie.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Leichtathletik-Komplex[COLOR_REVERT], die Australisch Ersatz für die [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Atletica Complex[COLOR_REVERT], la sostituzione Australiano per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], la sustitución de Australiano para el [COLOR_BUILDING_TEXT]Coliseo[COLOR_REVERT]</Spanish>
 	</TEXT>
 </Civ4GameText>
