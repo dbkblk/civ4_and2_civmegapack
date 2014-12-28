@@ -128,11 +128,6 @@
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
 			<YieldChanges/>
-			<YieldModifiers>
-				<iYield>0</iYield>
-				<iYield>5</iYield>
-				<iYield>0</iYield>
-			</YieldModifiers>
 			<CommerceChanges/>
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>

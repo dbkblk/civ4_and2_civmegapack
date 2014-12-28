@@ -185,6 +185,10 @@
 					<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
 					<bReplace>1</bReplace>
 				</ReplaceBuilding>
+				<ReplaceBuilding>
+					<BuildingClassType>BUILDINGCLASS_REGENERATOR</BuildingClassType>
+					<bReplace>1</bReplace>
+				</ReplaceBuilding>
 			</ReplaceBuildings>
 		</BuildingInfo>
 	</BuildingInfos>

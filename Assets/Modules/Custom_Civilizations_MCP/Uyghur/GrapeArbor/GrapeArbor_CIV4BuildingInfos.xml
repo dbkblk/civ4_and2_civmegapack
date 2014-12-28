@@ -128,7 +128,6 @@
 			<iEspionageDefense>0</iEspionageDefense>
 			<iAsset>3</iAsset>
 			<iPower>0</iPower>
-			<iNumUnitFullHeal>1</iNumUnitFullHeal>
 			<fVisibilityPriority>1.0</fVisibilityPriority>
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>

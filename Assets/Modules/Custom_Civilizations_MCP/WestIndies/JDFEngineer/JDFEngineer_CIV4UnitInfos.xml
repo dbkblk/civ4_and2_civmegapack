@@ -195,7 +195,7 @@
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<FreePromotions>
 				<FreePromotion>
-					<PromotionType>PROMOTION_FLANKING1</PromotionType>
+					<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
 					<bFreePromotion>1</bFreePromotion>
 				</FreePromotion>
 			</FreePromotions>

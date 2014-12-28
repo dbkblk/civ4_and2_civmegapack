@@ -62,8 +62,12 @@
 					<UnitClassUpgradeType>UNITCLASS_RIFLEMAN</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
-			<UnitClassUpgrade>
+				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_GRENADIER</UnitClassUpgradeType>
+					<bUnitClassUpgrade>1</bUnitClassUpgrade>
+				</UnitClassUpgrade>
+				<UnitClassUpgrade>
+					<UnitClassUpgradeType>UNITCLASS_MOUNTED_RIFLEMAN</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
 			</UnitClassUpgrades>
@@ -101,12 +105,13 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_FLINTLOCK</PrereqTech>
 			<TechTypes/>
+			<ForceObsoleteTech>TECH_AUTOMATIC_WEAPONS</ForceObsoleteTech>			
 			<BonusType>NONE</BonusType>
 			<PrereqBonuses/>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>180</iCost>
+			<iCost>200</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
