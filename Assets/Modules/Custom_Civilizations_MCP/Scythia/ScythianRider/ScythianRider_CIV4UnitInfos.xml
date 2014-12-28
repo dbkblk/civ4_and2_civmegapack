@@ -45,7 +45,7 @@
 			<bCanMoveImpassable>0</bCanMoveImpassable>
 			<bCanMoveAllTerrain>0</bCanMoveAllTerrain>
 			<bFlatMovementCost>0</bFlatMovementCost>
-			<bIgnoreTerrainCost>0</bIgnoreTerrainCost>
+			<bIgnoreTerrainCost>1</bIgnoreTerrainCost>
 			<bNukeImmune>0</bNukeImmune>
 			<bPrereqBonuses>0</bPrereqBonuses>
 			<bPrereqReligion>0</bPrereqReligion>
@@ -57,7 +57,7 @@
 			<bMilitaryTrade>0</bMilitaryTrade>
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
-					<UnitClassUpgradeType>UNITCLASS_CHIVALRY</UnitClassUpgradeType>
+					<UnitClassUpgradeType>UNITCLASS_HEAVY_CAVALRY</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
 			</UnitClassUpgrades>
@@ -67,12 +67,16 @@
 			<UnitCombatDefenders/>
 			<FlankingStrikes>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
-					<iFlankingStrength>100</iFlankingStrength>
+					<FlankingStrikeUnitClass>UNITCLASS_ARCHER</FlankingStrikeUnitClass>
+					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>100</iFlankingStrength>
+					<FlankingStrikeUnitClass>UNITCLASS_LONGBOWMAN</FlankingStrikeUnitClass>
+					<iFlankingStrength>50</iFlankingStrength>
+				</FlankingStrike>
+				<FlankingStrike>
+					<FlankingStrikeUnitClass>UNITCLASS_CROSSBOWMAN</FlankingStrikeUnitClass>
+					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
@@ -105,7 +109,7 @@
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>60</iCost>
+			<iCost>65</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -192,7 +196,12 @@
 				</UnitClassAttackMod>
 			</UnitClassAttackMods>
 			<UnitClassDefenseMods/>
-			<UnitCombatMods/>
+			<UnitCombatMods>
+				<UnitCombatMod>
+					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+					<iUnitCombatMod>25</iUnitCombatMod>
+				</UnitCombatMod>
+			</UnitCombatMods>
 			<UnitCombatCollateralImmunes/>
 			<DomainMods/>
 			<BonusProductionModifiers/>

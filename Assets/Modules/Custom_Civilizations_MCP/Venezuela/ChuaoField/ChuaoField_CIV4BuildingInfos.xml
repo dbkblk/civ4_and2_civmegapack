@@ -127,7 +127,11 @@
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
-			<YieldChanges/>
+			<YieldChanges>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+				<iYield>2</iYield>
+			</YieldChanges>
 			<CommerceChanges/>
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>

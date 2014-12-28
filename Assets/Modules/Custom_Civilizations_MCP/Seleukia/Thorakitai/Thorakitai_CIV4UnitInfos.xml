@@ -161,7 +161,7 @@
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<iUnitCombatMod>100</iUnitCombatMod>
+					<iUnitCombatMod>50</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
 			<UnitCombatCollateralImmunes/>

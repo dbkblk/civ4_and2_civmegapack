@@ -21,10 +21,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SELJUK_NIZAM_STRATEGY</Tag>
-		<English>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</English>
-		<French>[TAB]Équivalent seldjouk de l'[COLOR_BUILDING_TEXT]université[COLOR_REVERT] procure 2 de santé supplémentaire.</French>
-		<German>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</German>
-		<Italian>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</Italian>
-		<Spanish>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 2 health.</Spanish>
+		<English>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 1 health.</English>
+		<French>[TAB]Équivalent seldjouk de l'[COLOR_BUILDING_TEXT]université[COLOR_REVERT] procure 1 de santé supplémentaire.</French>
+		<German>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 1 health.</German>
+		<Italian>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 1 health.</Italian>
+		<Spanish>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 1 health.</Spanish>
 	</TEXT>
 </Civ4GameText>

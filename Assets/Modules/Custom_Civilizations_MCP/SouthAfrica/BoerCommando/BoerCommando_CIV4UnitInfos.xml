@@ -39,7 +39,7 @@
 			<bFound>0</bFound>
 			<bGoldenAge>0</bGoldenAge>
 			<bInvisible>0</bInvisible>
-			<bFirstStrikeImmune>0</bFirstStrikeImmune>
+			<bFirstStrikeImmune>1</bFirstStrikeImmune>
 			<bNoDefensiveBonus>1</bNoDefensiveBonus>
 			<bIgnoreBuildingDefense>0</bIgnoreBuildingDefense>
 			<bCanMoveImpassable>0</bCanMoveImpassable>
@@ -57,7 +57,7 @@
 			<bMilitaryTrade>0</bMilitaryTrade>
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
-					<UnitClassUpgradeType>UNITCLASS_LIGHT_TANK</UnitClassUpgradeType>
+					<UnitClassUpgradeType>UNITCLASS_EARLY_TANK</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
 			</UnitClassUpgrades>
@@ -241,12 +241,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<FreePromotions>
-				<FreePromotion>
-					<PromotionType>PROMOTION_COMMANDO</PromotionType>
-					<bFreePromotion>1</bFreePromotion>
-				</FreePromotion>
-			</FreePromotions>
+			<FreePromotions/>
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
 		</UnitInfo>

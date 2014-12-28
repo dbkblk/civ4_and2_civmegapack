@@ -134,7 +134,11 @@
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
-			<YieldChanges/>
+			<YieldChanges>
+				<iYield>2</iYield>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+			</YieldChanges>
 			<CommerceChanges>
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
