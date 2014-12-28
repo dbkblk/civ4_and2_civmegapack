@@ -50,7 +50,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STANDING_STONE</BuildingClassType>
 					<BuildingType>BUILDING_XIONGNU_KURGAN</BuildingType>
 				</Building>
 			</Buildings>

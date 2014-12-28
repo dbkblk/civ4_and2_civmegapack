@@ -70,7 +70,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>235</iCost>
+			<iCost>255</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -172,8 +172,8 @@
 				</UnitCombatFreeExperience>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
-					<iExperience>2</iExperience>
-				</UnitCombatFreeExperience>
+					<iExperience>1</iExperience>
+				</UnitCombatFreeExperience>				
 			</UnitCombatFreeExperiences>
 			<DomainFreeExperiences/>
 			<DomainProductionModifiers/>

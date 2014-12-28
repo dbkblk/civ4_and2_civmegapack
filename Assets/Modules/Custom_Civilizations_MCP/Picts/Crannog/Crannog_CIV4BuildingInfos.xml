@@ -122,7 +122,7 @@
 			<iForeignTradeRouteModifier>0</iForeignTradeRouteModifier>
 			<iGlobalPopulationChange>0</iGlobalPopulationChange>
 			<iFreeTechs>0</iFreeTechs>
-			<iDefense>25</iDefense>
+			<iDefense>10</iDefense>
 			<iBombardDefense>0</iBombardDefense>
 			<iAllCityDefense>0</iAllCityDefense>
 			<iEspionageDefense>0</iEspionageDefense>
@@ -207,6 +207,9 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<iDCMAirbombMission>2</iDCMAirbombMission>
+			<iDomesticConnectedCommerce>1</iDomesticConnectedCommerce>
+			<iCitiesRequiredPerDomesticConnectedCity>1</iCitiesRequiredPerDomesticConnectedCity>
+			<iMaxDomesticConnectedCommerce>5</iMaxDomesticConnectedCommerce>			
 		</BuildingInfo>
 	</BuildingInfos>
 </Civ4BuildingInfos>

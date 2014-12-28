@@ -15,11 +15,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CLOISTER_STRATEGY</Tag>
-		<English>The [COLOR_BUILDING_TEXT]Cloister[COLOR_REVERT], the Lombard replacement for the [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT], adds a free priest.</English>
-		<French>Le [COLOR_BUILDING_TEXT]cloître[COLOR_REVERT], équivalent lombard du [COLOR_BUILDING_TEXT]colisée[COLOR_REVERT], ajoute un prêtre gratuit.</French>
-		<German>Das [COLOR_BUILDING_TEXT]Kreuzgang[COLOR_REVERT], der Lombard Wiedereinbau für das [COLOR_BUILDING_TEXT] Colosseum [COLOR_REVERT], adds a free priest.</German>
-		<Italian>Il [COLOR_BUILDING_TEXT]Chiostro[COLOR_REVERT], il rimontaggio del Lombard per [COLOR_BUILDING_TEXT] il Colosseum [COLOR_REVERT], adds a free priest.</Italian>
-		<Spanish>El [COLOR_BUILDING_TEXT]Claustro[COLOR_REVERT], el reemplazo de Lombard para [COLOR_BUILDING_TEXT] el Colosseum [COLOR_REVERT], adds a free priest.</Spanish>
+		<English>The [COLOR_BUILDING_TEXT]Cloister[COLOR_REVERT], the Lombard replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT], adds a free priest.</English>
+		<French>Le [COLOR_BUILDING_TEXT]cloître[COLOR_REVERT], équivalent lombard du [COLOR_BUILDING_TEXT]arena[COLOR_REVERT], ajoute un prêtre gratuit.</French>
+		<German>Das [COLOR_BUILDING_TEXT]Kreuzgang[COLOR_REVERT], der Lombard Wiedereinbau für das [COLOR_BUILDING_TEXT] Arena[COLOR_REVERT], adds a free priest.</German>
+		<Italian>Il [COLOR_BUILDING_TEXT]Chiostro[COLOR_REVERT], il sostituto Lombardo per [COLOR_BUILDING_TEXT] l'Arena [COLOR_REVERT], aggiunge un prete gratis.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Claustro[COLOR_REVERT], el reemplazo de Lombard para [COLOR_BUILDING_TEXT] el Arena[COLOR_REVERT], adds a free priest.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CLOISTER_PEDIA</Tag>

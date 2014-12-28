@@ -416,7 +416,7 @@ class DynamicCivNames :
 
     eGovCivic = pPlayer.getCivics(gc.getInfoTypeForString("CIVICOPTION_GOVERNMENT"))
     ePowerCivic = pPlayer.getCivics(gc.getInfoTypeForString("CIVICOPTION_POWER"))
-    bNoRealElections = (gc.getInfoTypeForString("CIVIC_HEREDITARY_RULE") == eGovCivic or gc.getInfoTypeForString("CIVIC_HEREDITARY_RULE") == eGovCivic or gc.getInfoTypeForString("CIVIC_DESPOTISM") == eGovCivic or gc.getInfoTypeForString("CIVIC_FASCIST") == eGovCivic)
+    bNoRealElections = (gc.getInfoTypeForString("CIVIC_HEREDITARY_RULE") == eGovCivic or gc.getInfoTypeForString("CIVIC_HEREDITARY_RULE") == eGovCivic or gc.getInfoTypeForString("CIVIC_DESPOTISM") == eGovCivic)
     
     bFederal = (gc.getInfoTypeForString("CIVIC_FEDERAL") == eGovCivic and (ePowerCivic == gc.getInfoTypeForString("CIVIC_SENATE") or ePowerCivic == gc.getInfoTypeForString("CIVIC_PARLIAMENT") or ePowerCivic == gc.getInfoTypeForString("CIVIC_PRESIDENT")))
     bConfederation = (not bFederal and (gc.getInfoTypeForString("CIVIC_FEDERAL") == eGovCivic))

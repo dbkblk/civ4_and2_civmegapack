@@ -190,6 +190,7 @@
 			<FreePromotions/>
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
+			<iDCMBombRange>1</iDCMBombRange>			
 			<iDCMBombAccuracy>50</iDCMBombAccuracy>
 		</UnitInfo>
 	</UnitInfos>

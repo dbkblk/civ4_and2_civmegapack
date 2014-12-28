@@ -27,7 +27,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>TECH_GUILDS</PrereqTech>
+			<PrereqTech>TECH_CROP_ROTATION</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_CURRENCY</PrereqTech>
 			</TechTypes>

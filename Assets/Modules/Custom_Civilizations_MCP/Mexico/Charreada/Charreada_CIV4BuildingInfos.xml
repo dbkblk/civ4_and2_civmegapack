@@ -5,7 +5,7 @@
 <Civ4BuildingInfos xmlns="x-schema:Charreada_CIV4BuildingsSchema.xml">
 	<BuildingInfos>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_COLOSSEUM</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_ARENA</BuildingClass>
 			<Type>BUILDING_MEXICO_CHARREADA</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_MEXICO_CHARREADA</Description>
@@ -27,7 +27,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>TECH_MASS_MEDIA</ObsoleteTech>
-			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<PrereqTech>TECH_ATHLETICS</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>

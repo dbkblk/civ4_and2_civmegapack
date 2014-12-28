@@ -74,7 +74,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STANDING_STONE</BuildingClassType>
 					<BuildingType>BUILDING_NATIVE_AMERICA_TOTEM</BuildingType>
 				</Building>
 			</Buildings>

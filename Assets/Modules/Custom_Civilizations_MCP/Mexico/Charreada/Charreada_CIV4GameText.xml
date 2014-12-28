@@ -13,11 +13,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MEXICO_CHARREADA_STRATEGY</Tag>
-		<English>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</English>
-		<French>Une [COLOR_BUILDING_TEXT]charrería[COLOR_REVERT] (équivalent mexicain du [COLOR_BUILDING_TEXT]colisée[COLOR_REVERT]) augmente le bonheur de la ville et la génération en fonction du taux de culture. Elle procure aussi de l'expérience supplémentaire aux unités montées.</French>
-		<German>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</German>
-		<Italian>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</Italian>
-		<Spanish>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Colosseum[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</Spanish>
+		<English>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</English>
+		<French>Une [COLOR_BUILDING_TEXT]charrería[COLOR_REVERT] (équivalent mexicain du [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) augmente le bonheur de la ville et la génération en fonction du taux de culture. Elle procure aussi de l'expérience supplémentaire aux unités montées.</French>
+		<German>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</German>
+		<Italian>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</Italian>
+		<Spanish>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MEXICO_CHARREADA_PEDIA</Tag>

@@ -5,7 +5,7 @@
 <Civ4BuildingInfos xmlns="x-schema:StoneHead_CIV4BuildingsSchema.xml">
 	<BuildingInfos>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_OBELISK</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_STANDING_STONE</BuildingClass>
 			<Type>BUILDING_OLMEC_STONEHEAD</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_OLMEC_STONEHEAD</Description>

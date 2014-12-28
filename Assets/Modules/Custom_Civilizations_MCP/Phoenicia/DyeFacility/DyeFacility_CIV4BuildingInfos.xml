@@ -137,7 +137,12 @@
 			<StateReligionCommerces/>
 			<CommerceHappinesses/>
 			<ReligionChanges/>
-			<SpecialistCounts/>
+			<SpecialistCounts>
+				<SpecialistCount>
+					<SpecialistType>SPECIALIST_LAWYER</SpecialistType>
+					<iSpecialistCount>1</iSpecialistCount>
+				</SpecialistCount>
+			</SpecialistCounts>
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
@@ -185,6 +190,9 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<iDCMAirbombMission>2</iDCMAirbombMission>
+			<iForeignConnectedCommerce>1</iForeignConnectedCommerce>
+			<iCitiesRequiredPerForeignConnectedCity>3</iCitiesRequiredPerForeignConnectedCity>
+			<iMaxForeignConnectedCommerce>10</iMaxForeignConnectedCommerce>			
 		</BuildingInfo>
 	</BuildingInfos>
 </Civ4BuildingInfos>

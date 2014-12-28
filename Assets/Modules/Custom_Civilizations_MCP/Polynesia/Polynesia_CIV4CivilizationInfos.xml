@@ -80,7 +80,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
 					<BuildingType>BUILDING_POLYNESIAN_MARAE</BuildingType>
 				</Building>
 			</Buildings>

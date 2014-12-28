@@ -102,6 +102,7 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>NONE</PrereqTech>
 			<TechTypes/>
+			<ForceObsoleteTech>TECH_ARCHERY</ForceObsoleteTech>			
 			<BonusType>NONE</BonusType>
 			<PrereqBonuses/>
 			<ProductionTraits/>

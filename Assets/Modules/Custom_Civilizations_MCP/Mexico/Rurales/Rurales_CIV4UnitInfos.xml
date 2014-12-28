@@ -115,7 +115,7 @@
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>160</iCost>
+			<iCost>190</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>90</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -242,7 +242,7 @@
 					<PromotionType>PROMOTION_COMMANDO</PromotionType>
 					<bFreePromotion>1</bFreePromotion>
 				</FreePromotion>-->
-                		<FreePromotion>
+                <FreePromotion>
 					<PromotionType>PROMOTION_COMBAT1</PromotionType>
 					<bFreePromotion>1</bFreePromotion>
 				</FreePromotion>

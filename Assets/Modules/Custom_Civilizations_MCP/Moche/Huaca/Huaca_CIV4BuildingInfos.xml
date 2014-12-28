@@ -5,7 +5,7 @@
 <Civ4BuildingInfos xmlns="x-schema:Huaca_CIV4BuildingsSchema.xml">
 	<BuildingInfos>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_OBELISK</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_STANDING_STONE</BuildingClass>
 			<Type>BUILDING_MOCHE_HUACA</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_MOCHE_HUACA</Description>
