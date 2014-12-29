@@ -156,18 +156,6 @@
 					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
 					<iUnitCombatMod>50</iUnitCombatMod>
 				</UnitCombatMod>
-				<UnitCombatMod>
-					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-					<iUnitCombatMod>75</iUnitCombatMod>
-				</UnitCombatMod>
-				<UnitCombatMod>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<iUnitCombatMod>100</iUnitCombatMod>
-				</UnitCombatMod>
-				<UnitCombatMod>
-					<UnitCombatType>UNITCOMBAT_ANIMAL</UnitCombatType>
-					<iUnitCombatMod>100</iUnitCombatMod>
-				</UnitCombatMod>
 			</UnitCombatMods>
 			<UnitCombatCollateralImmunes/>
 			<DomainMods/>

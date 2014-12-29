@@ -97,7 +97,7 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
 			<TechTypes>
-				<PrereqTech>TECH_ELEPHANT_RIDING</PrereqTech>
+				<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
 			</TechTypes>
 			<BonusType>BONUS_IVORY</BonusType>
 			<PrereqBonuses/>

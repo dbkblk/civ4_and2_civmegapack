@@ -23,10 +23,10 @@
 	</TEXT>
         <TEXT>
 		<Tag>TXT_KEY_BUILDING_HOCKEY_RINK_STRATEGY</Tag>
-		<English>The [COLOR_BUILDING_TEXT]Hockey Rink[COLOR_REVERT], the Canadian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace and no Artist specialists.</English>
-		<French>La [COLOR_BUILDING_TEXT]patinoire de hockey[COLOR_REVERT], le remplacement canadien de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT], offre une célébrité gratuite en échange d'un coût d'entretien et à la place d'un spécialiste artiste.</French>
-		<German>Die [COLOR_BUILDING_TEXT]Hockeyeisbahnen[COLOR_REVERT], die Kanadisch Ersatz für die [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace and no Artist specialists.</German>
-		<Italian>L'[COLOR_BUILDING_TEXT]Rinks del hockey[COLOR_REVERT], la sostituzione Canadese per il [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace and no Artist specialists.</Italian>
-		<Spanish>El [COLOR_BUILDING_TEXT]Pista del hockey[COLOR_REVERT], la sustitución de Canadiense para el [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace and no Artist specialists.</Spanish>
+		<English>The [COLOR_BUILDING_TEXT]Hockey Rink[COLOR_REVERT], the Canadian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</English>
+		<French>La [COLOR_BUILDING_TEXT]patinoire de hockey[COLOR_REVERT], le remplacement canadien de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT], offre une célébrité gratuite en échange d'un coût d'entretien.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Hockeyeisbahnen[COLOR_REVERT], die Kanadisch Ersatz für die [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Rinks del hockey[COLOR_REVERT], la sostituzione Canadese per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Pista del hockey[COLOR_REVERT], la sustitución de Canadiense para el [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</Spanish>
 	</TEXT>
 </Civ4GameText>

@@ -48,7 +48,7 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitClassType>UNITCLASS_HORSEMAN</UnitClassType>
 					<UnitType>UNIT_BULGARIAN_KONNIK</UnitType>
 				</Unit>
 			</Units>

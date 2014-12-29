@@ -57,13 +57,13 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
 					<BuildingType>BUILDING_CANADIAN_HOCKEY_RINK</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+					<UnitClassType>UNITCLASS_MOUNTED_RIFLEMAN</UnitClassType>
 					<UnitType>UNIT_CANADIAN_MOUNTIE</UnitType>
 				</Unit>
 			</Units>

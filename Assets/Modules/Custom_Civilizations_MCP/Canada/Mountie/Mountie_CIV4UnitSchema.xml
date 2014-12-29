@@ -272,6 +272,11 @@
 	<ElementType name="bSabotage" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bDestroy" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bStealPlans" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bBribeBarbarian" content="textOnly" dt:type="boolean"/>	
+	<ElementType name="bBarbariansColonisator" content="textOnly" dt:type="boolean"/>	
+	<ElementType name="bGoodwill" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bUpgradeImprovements" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bForcePeace" content="textOnly" dt:type="boolean"/>	
 	<ElementType name="bInvestigate" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bCounterSpy" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bFound" content="textOnly" dt:type="boolean"/>
@@ -515,6 +520,7 @@
 	<ElementType name="iDiscoverMultiplier" content="textOnly" dt:type="int"/>
 	<ElementType name="iBaseHurry" content="textOnly" dt:type="int"/>
 	<ElementType name="iHurryMultiplier" content="textOnly" dt:type="int"/>
+	<ElementType name="iBaseFoodChange" content="textOnly" dt:type="int"/>
 	<ElementType name="iBaseTrade" content="textOnly" dt:type="int"/>
 	<ElementType name="iTradeMultiplier" content="textOnly" dt:type="int"/>
 	<ElementType name="iGreatWorkCulture" content="textOnly" dt:type="int"/>
@@ -848,6 +854,11 @@
 		<element type="bSabotage" minOccurs="0"/>
 		<element type="bDestroy" minOccurs="0"/>
 		<element type="bStealPlans" minOccurs="0"/>
+		<element type="bBribeBarbarian" minOccurs="0"/>
+		<element type="bBarbariansColonisator" minOccurs="0"/>
+		<element type="bGoodwill" minOccurs="0"/>
+		<element type="bUpgradeImprovements" minOccurs="0"/>
+		<element type="bForcePeace" minOccurs="0"/>		
 		<element type="bInvestigate" minOccurs="0"/>
 		<element type="bCounterSpy" minOccurs="0"/>
 		<element type="bFound" minOccurs="0"/>
@@ -935,6 +946,7 @@
 		<element type="iDiscoverMultiplier" minOccurs="0"/>
 		<element type="iBaseHurry" minOccurs="0"/>
 		<element type="iHurryMultiplier" minOccurs="0"/>
+		<element type="iBaseFoodChange" minOccurs="0"/>
 		<element type="iBaseTrade" minOccurs="0"/>
 		<element type="iTradeMultiplier" minOccurs="0"/>
 		<element type="iGreatWorkCulture" minOccurs="0"/>
@@ -1080,6 +1092,14 @@
 	<ElementType name="bConfirmCommand" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bVisible" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bAll" content="textOnly" dt:type="boolean"/>
+	<ElementType name="iRate" content="textOnly" dt:type="int"/>
+	<ElementType name="UpgradeImprovementRate" content="eltOnly">
+		<element type="ImprovementType"/>
+		<element type="iRate"/>
+	</ElementType>
+	<ElementType name="UpgradeImprovementRates" content="eltOnly">
+		<element type="UpgradeImprovementRate" minOccurs="0" maxOccurs="*"/>
+	</ElementType>	
 	<ElementType name="CommandInfo" content="eltOnly">
 		<element type="Type"/>
 <!-- XMLCOPY				02/20/2008			MRGENIE		-->
@@ -1105,6 +1125,7 @@
 		<element type="bConfirmCommand" minOccurs="0"/>
 		<element type="bVisible" minOccurs="0"/>
 		<element type="bAll" minOccurs="0"/>
+		<element type="UpgradeImprovementRates" minOccurs="0"/>
 		<element type="Button" minOccurs="0"/>
 	</ElementType>
 	<ElementType name="CommandInfos" content="eltOnly">
@@ -1157,6 +1178,7 @@
 	</ElementType>
 	<!--Afforess-->
 	<ElementType name="bImmuneToFirstStrikes" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bIsPirate" content="textOnly" dt:type="boolean"/>	
 	<ElementType name="iVisibilityChange" content="textOnly" dt:type="int"/>
 	<ElementType name="iMovesChange" content="textOnly" dt:type="int"/>
 	<ElementType name="iMoveDiscountChange" content="textOnly" dt:type="int"/>
@@ -1233,6 +1255,7 @@
 		<element type="IgnoreTerrainDamage" minOccurs="0"/>
 		<!--Afforess-->
 		<element type="bImmuneToFirstStrikes" minOccurs="0"/>
+		<element type="bIsPirate" minOccurs="0"/>		
 		<element type="iVisibilityChange" minOccurs="0"/>
 		<element type="iMovesChange" minOccurs="0"/>
 		<element type="iMoveDiscountChange" minOccurs="0"/>
