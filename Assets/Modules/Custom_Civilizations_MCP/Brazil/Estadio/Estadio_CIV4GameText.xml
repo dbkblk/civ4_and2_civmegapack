@@ -21,10 +21,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO_STRATEGY</Tag>
-		<English>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</English>
-		<French>L'équivalent brésilien de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]stade de football[COLOR_REVERT], procure une célébrité gratuite mais est plus cher.</French>
-		<German>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</German>
-		<Italian>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</Italian>
-		<Spanish>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity, but is more expensive.</Spanish>
+		<English>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity.</English>
+		<French>L'équivalent brésilien de l'[COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]stade de football[COLOR_REVERT], procure une célébrité.</French>
+		<German>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity.</German>
+		<Italian>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity.</Italian>
+		<Spanish>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity.</Spanish>
 	</TEXT>
 </Civ4GameText>
