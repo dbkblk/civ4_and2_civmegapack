@@ -1,0 +1,14 @@
+<Civ4ArtDefines xmlns="x-schema:Hungary_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_HUNG_VEGVAR</Type>
+			<LSystem>LSYSTEM_3x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>3.35</fScale>
+			<fInterfaceScale>0.4</fInterfaceScale>
+			<NIF>Modules/Custom_Civilizations_MCP/Hungary/Vegvar/vegvar.nif</NIF>
+			<KFM/>
+			<Button>Modules/Custom_Civilizations_MCP/Hungary/Vegvar/btn_vegvar.dds</Button>
+		</BuildingArtInfo>	
+	</BuildingArtInfos>
+</Civ4ArtDefines>

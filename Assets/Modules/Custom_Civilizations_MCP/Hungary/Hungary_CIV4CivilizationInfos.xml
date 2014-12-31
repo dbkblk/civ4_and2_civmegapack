@@ -52,8 +52,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_BATH_HOUSE</BuildingClassType>
-					<BuildingType>BUILDING_HUNGARIAN_FURDO</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+					<BuildingType>BUILDING_HUNG_VEGVAR</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
