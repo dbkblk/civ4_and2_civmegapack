@@ -5,7 +5,7 @@ Civilization Mega Pack
 The civilization Mega Pack add 102 new civilizations to the game. These civilizations can be installed separately or all together. Each civilization has at least 2 Leaders, one UU (unique unit) and one UB (unique building), them balanced for use with Revolutions. If they are all installed, the mod will load very slowly at starting, but there will be a diversity of civilizations incredible in the game.
 
 Installation instructions:
-- Get a copy of this repository
+- Get a copy of this repository: https://github.com/dbkblk/civ4_and2_civmegapack/archive/master.zip
 - Download the graphic package here: http://sourceforge.net/projects/and2mirrors/files/AND2_MCP_BASE_V1.0.7z/download
 
 *to be improved*
