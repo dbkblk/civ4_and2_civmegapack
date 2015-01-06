@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -491,7 +491,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CITY_NAME_DEMETROPLIS</Tag>
+		<Tag>TXT_KEY_CITY_NAME_DEMETROPOLIS</Tag>
 		<English>Demetropolis</English>
 		<French>
 			<Text>Demetropolis</Text>

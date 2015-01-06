@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
 <!-- -->
@@ -564,7 +564,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CITY_NAME_Buur Hakaba</Tag>
+		<Tag>TXT_KEY_CITY_NAME_BUUR_HAKABA</Tag>
 		<English>Buur Hakaba</English>
 		<French>
 			<Text>Buur Hakaba</Text>

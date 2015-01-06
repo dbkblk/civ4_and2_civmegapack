@@ -1,4 +1,4 @@
-
+﻿
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!-- Sid Meier's Civilization 4 Beyond the Sword -->
 <!-- Modified by the Civ Gold Team -->
@@ -497,7 +497,7 @@
 		</Spanish>
 	</TEXT>	
     <TEXT>
-		<Tag>TXT_KEY_CITY_NAME_ROESELARE</Tag>
+		<Tag>TXT_KEY_CITY_NAME_ROSELARE</Tag>
 		<English>Roeselare</English>
 		<French>
 		<Text>Roeselare</Text>

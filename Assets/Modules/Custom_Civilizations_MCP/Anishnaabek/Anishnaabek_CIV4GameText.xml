@@ -256,7 +256,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CITY_HOCHELAGA</Tag>
+		<Tag>TXT_KEY_CITY_NAME_HOCHELAGA</Tag>
 		<English>Hochelaga</English>
 		<French>
 			<Text>Hochelaga</Text>
@@ -520,7 +520,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CITY_NAME_LENNI_MOONIYAANG</Tag>
+		<Tag>TXT_KEY_CITY_NAME_MOONIYAANG</Tag>
 		<English>Mooniyaang</English>
 		<French>
 			<Text>Mooniyaang</Text>
