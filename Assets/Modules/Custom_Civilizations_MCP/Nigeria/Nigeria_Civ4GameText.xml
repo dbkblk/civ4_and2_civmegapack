@@ -14,7 +14,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NIGERIA_ADJECTIVE</Tag>
 		<English>Nigeria</English>
-		<French>Nigerians</French>
+        <French>
+            <Text>nigérian:nigérianne:nigérians:nigériannes</Text>
+            <Gender>Male:Female:Male:Female</Gender>
+            <Plural>0:0:1:1</Plural>
+        </French>
 		<German>Nigeria</German>
 		<Italian>Nigeria</Italian>
 		<Spanish>Nigeria</Spanish>
@@ -22,11 +26,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NIGERIA_SHORT_DESC</Tag>
 		<English>Nigerian</English>
-    <French>
-	    <Text>nigérian:nigérianne:nigérians:nigériannes</Text>
-	    <Gender>Male:Female:Male:Female</Gender>
-	    <Plural>0:0:1:1</Plural>
-    </French>
+        <French>Nigerians</French>
 		<German>Nigerian</German>
 		<Italian>Nigerian</Italian>
 		<Spanish>Nigerian</Spanish>
