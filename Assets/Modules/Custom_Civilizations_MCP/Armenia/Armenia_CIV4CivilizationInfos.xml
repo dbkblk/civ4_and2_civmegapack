@@ -70,7 +70,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_HEALERHUT</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STANDING_STONE</BuildingClassType>
 					<BuildingType>BUILDING_ARMENIA_KHACHKAR</BuildingType>
 				</Building>
 			</Buildings>

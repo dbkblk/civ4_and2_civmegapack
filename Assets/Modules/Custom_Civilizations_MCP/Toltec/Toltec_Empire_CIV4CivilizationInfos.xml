@@ -56,7 +56,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_SACRIFICIAL_ALTAR</BuildingClassType>
 					<BuildingType>BUILDING_GREAT_TEMPLE</BuildingType>
 				</Building>
 			</Buildings>

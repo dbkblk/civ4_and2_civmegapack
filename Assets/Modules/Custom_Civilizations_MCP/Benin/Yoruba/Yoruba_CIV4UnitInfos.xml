@@ -5,7 +5,7 @@
 <Civ4UnitInfos xmlns="x-schema:Yoruba_CIV4UnitSchema.xml">
 	<UnitInfos>
 		<UnitInfo>
-			<Class>UNITCLASS_KNIGHT</Class>
+			<Class>UNITCLASS_HORSEMAN</Class>
 			<Type>UNIT_YORUBA</Type>
 			<UniqueNames/>
 			<Special>NONE</Special>

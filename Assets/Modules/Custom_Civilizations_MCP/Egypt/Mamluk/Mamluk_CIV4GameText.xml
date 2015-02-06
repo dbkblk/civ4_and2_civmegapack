@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -7,11 +7,11 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
         <TEXT>
 		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK</Tag>
-		<English>Mamluk</English>
+		<English>Mamluk Warrior</English>
 		<French>Mamelouk</French>
-		<German>Mamluk</German>
-		<Italian>Mamluk</Italian>
-		<Spanish>Mamluk</Spanish>
+		<German>Mamluk Warrior</German>
+		<Italian>Mamluk Warrior</Italian>
+		<Spanish>Mamluk Warrior</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK_PEDIA</Tag>

@@ -23,10 +23,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_STRATEGY</Tag>
-		<English>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</English>
-		<French>Le [COLOR_BUILDING_TEXT]temple de Venus[COLOR_REVERT], équivalent toltèque du [COLOR_BUILDING_TEXT]théâtre[COLOR_REVERT], procure aux unités de combat rapproché trois bonus d'expérience en plus du bonus de culture habituel.</French>
-		<German>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</German>
-		<Italian>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</Italian>
-		<Spanish>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT], grants melee units three bonus experience in addition to the usual culture bonus.</Spanish>
+		<English>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], grants melee units one bonus experience in addition to the usual culture bonus.</English>
+		<French>Le [COLOR_BUILDING_TEXT]temple de Venus[COLOR_REVERT], équivalent toltèque du [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], procure aux unités de combat rapproché 1 bonus d'expérience en plus du bonus de culture habituel.</French>
+		<German>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], grants melee units one bonus experience in addition to the usual culture bonus.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], grants melee units one bonus experience in addition to the usual culture bonus.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], grants melee units one bonus experience in addition to the usual culture bonus.</Spanish>
 	</TEXT>
 </Civ4GameText>

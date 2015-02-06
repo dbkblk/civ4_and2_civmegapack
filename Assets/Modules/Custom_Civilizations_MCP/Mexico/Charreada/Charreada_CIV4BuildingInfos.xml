@@ -162,7 +162,11 @@
 			<UnitCombatFreeExperiences>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<iExperience>2</iExperience>
+					<iExperience>1</iExperience>
+				</UnitCombatFreeExperience>
+				<UnitCombatFreeExperience>
+					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+					<iExperience>1</iExperience>
 				</UnitCombatFreeExperience>
 			</UnitCombatFreeExperiences>
 			<DomainFreeExperiences/>

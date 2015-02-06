@@ -100,7 +100,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
 					<BuildingType>BUILDING_MYCENAEAN_MEGARON</BuildingType>
 				</Building>
 			</Buildings>

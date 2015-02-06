@@ -43,7 +43,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_BUTCHERY</BuildingClassType>
 					<BuildingType>BUILDING_HUNS_CATTLE</BuildingType>
 				</Building>
 			</Buildings>

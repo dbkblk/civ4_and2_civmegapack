@@ -13,11 +13,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_YORUBA_STRATEGY</Tag>
-		<English>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</English>
-		<French>Le [COLOR_UNIT_TEXT]cavalier yoruba[COLOR_REVERT] (équivalent béninois du [COLOR_UNIT_TEXT]chevalier[COLOR_REVERT]) reçoit les promotions 'choc I' et 'attaque de flanc I'.</French>
-		<German>Der [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (bei Benin Ersatz für den [COLOR_UNIT_TEXT]Ritter[COLOR_REVERT]) erhält zu Beginn zwei Beförderungen, nämlich Schock und Flanke I.</German>
-		<Italian>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</Italian>
-		<Spanish>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</Spanish>
+		<English>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</English>
+		<French>Le [COLOR_UNIT_TEXT]cavalier yoruba[COLOR_REVERT] (équivalent béninois du [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) reçoit les promotions 'choc I' et 'attaque de flanc I'.</French>
+		<German>Der [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (bei Benin Ersatz für den [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) erhält zu Beginn zwei Beförderungen, nämlich Schock und Flanke I.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Yoruba[COLOR_REVERT] (the Benin replacement for the [COLOR_UNIT_TEXT]Horseman[COLOR_REVERT]) receive the shock-promotion and the flanking I-promotion.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_YORUBA_PEDIA</Tag>

@@ -46,7 +46,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_HEALERHUT</BuildingClassType>
 					<BuildingType>BUILDING_ANISHNAABEK_MIDEWIWIN</BuildingType>
 				</Building>
 			</Buildings>

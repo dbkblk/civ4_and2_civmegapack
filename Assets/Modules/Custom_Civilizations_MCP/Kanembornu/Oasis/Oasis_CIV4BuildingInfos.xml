@@ -5,7 +5,7 @@
 <Civ4BuildingInfos xmlns="x-schema:Oasis_CIV4BuildingsSchema.xml">
 	<BuildingInfos>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_BANK</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_MEETING_HALL</BuildingClass>
 			<Type>BUILDING_KANEMBORNU_OASIS</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_KANEMBORNU_OASIS</Description>
@@ -27,23 +27,18 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>TECH_BANKING</PrereqTech>
+			<PrereqTech>TECH_MONARCHY</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
-			<ProductionTraits>
-				<ProductionTrait>
-					<ProductionTraitType>TRAIT_FINANCIAL</ProductionTraitType>
-					<iProductionTrait>100</iProductionTrait>
-				</ProductionTrait>
-			</ProductionTraits>			
+			<ProductionTraits/>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
 			<PowerBonus>NONE</PowerBonus>
 			<FreeBonus>NONE</FreeBonus>
 			<iNumFreeBonuses>0</iNumFreeBonuses>
 			<FreeBuilding>NONE</FreeBuilding>
-			<FreePromotion>NONE</FreePromotion>
+			<FreePromotion>PROMOTION_WARMTH1</FreePromotion>
 			<CivicOption>NONE</CivicOption>
 			<GreatPeopleUnitClass>NONE</GreatPeopleUnitClass>
 			<iGreatPeopleRateChange>0</iGreatPeopleRateChange>
@@ -70,12 +65,12 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>220</iCost>
+			<iCost>50</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<iMinAreaSize>-1</iMinAreaSize>
-			<iConquestProb>75</iConquestProb>
+			<iConquestProb>0</iConquestProb>
 			<iCitiesPrereq>0</iCitiesPrereq>
 			<iTeamsPrereq>0</iTeamsPrereq>
 			<iLevelPrereq>0</iLevelPrereq>
@@ -126,8 +121,8 @@
 			<iBombardDefense>0</iBombardDefense>
 			<iAllCityDefense>0</iAllCityDefense>
 			<iEspionageDefense>0</iEspionageDefense>
-			<iAsset>5</iAsset>
-			<iPower>0</iPower>
+			<iAsset>2</iAsset>
+			<iPower>3</iPower>
 			<fVisibilityPriority>1.0</fVisibilityPriority>
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>
@@ -136,21 +131,29 @@
 			<CommerceChanges/>
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
-			<CommerceModifiers>
-				<iCommerce>30</iCommerce>
-			</CommerceModifiers>
+			<CommerceModifiers/>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
 			<StateReligionCommerces/>
 			<CommerceHappinesses/>
 			<ReligionChanges/>
-			<SpecialistCounts/>
+			<SpecialistCounts>
+				<SpecialistCount>
+					<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+					<iSpecialistCount>1</iSpecialistCount>
+				</SpecialistCount>
+			</SpecialistCounts>
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
 			<ConstructSound>AS2D_BUILD_BANK</ConstructSound>
 			<BonusHealthChanges/>
-			<BonusHappinessChanges/>
+			<BonusHappinessChanges>
+					<BonusHappinessChange>
+						<BonusType>BONUS_ALCOHOL</BonusType>
+						<iHappinessChange>1</iHappinessChange>
+					</BonusHappinessChange>
+			</BonusHappinessChanges>
 			<BonusProductionModifiers/>
 			<UnitCombatFreeExperiences/>
 			<DomainFreeExperiences/>
@@ -173,6 +176,20 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<iDCMAirbombMission>2</iDCMAirbombMission>
+			<ReplaceBuildings>
+				<ReplaceBuilding>
+					<BuildingClassType>BUILDINGCLASS_HOTEL</BuildingClassType>
+					<bReplace>1</bReplace>
+				</ReplaceBuilding>
+				<ReplaceBuilding>
+					<BuildingClassType>BUILDINGCLASS_VACATION_RESORT</BuildingClassType>
+					<bReplace>1</bReplace>
+				</ReplaceBuilding>
+			</ReplaceBuildings>
+			<iCapitalExtraCommerce>1</iCapitalExtraCommerce>
+			<iDomesticConnectedCommerce>1</iDomesticConnectedCommerce>
+			<iCitiesRequiredPerDomesticConnectedCity>3</iCitiesRequiredPerDomesticConnectedCity>
+			<iMaxDomesticConnectedCommerce>1</iMaxDomesticConnectedCommerce>
 		</BuildingInfo>
 	</BuildingInfos>
 </Civ4BuildingInfos>

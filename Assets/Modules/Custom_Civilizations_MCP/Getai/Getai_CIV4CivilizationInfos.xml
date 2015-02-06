@@ -47,7 +47,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LEVEE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_RIVER_PORT</BuildingClassType>
 					<BuildingType>BUILDING_GETAI_PORT</BuildingType>
 				</Building>
 			</Buildings>

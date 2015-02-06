@@ -60,7 +60,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_SCRIPTORIUM</BuildingClassType>
 					<BuildingType>BUILDING_LOMBARD_CLOISTER</BuildingType>
 				</Building>
 			</Buildings>

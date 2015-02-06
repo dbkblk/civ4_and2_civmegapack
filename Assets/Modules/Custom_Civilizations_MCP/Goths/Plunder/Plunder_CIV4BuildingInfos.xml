@@ -43,7 +43,7 @@
 			<FreeBonus>NONE</FreeBonus>
 			<iNumFreeBonuses>0</iNumFreeBonuses>
 			<FreeBuilding>NONE</FreeBuilding>
-			<FreePromotion>NONE</FreePromotion>
+			<FreePromotion>PROMOTION_LOOTER</FreePromotion>
 			<CivicOption>NONE</CivicOption>
 			<GreatPeopleUnitClass>NONE</GreatPeopleUnitClass>
 			<iGreatPeopleRateChange>0</iGreatPeopleRateChange>
@@ -142,7 +142,7 @@
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
 			<CommerceModifiers>
-				<iCommerce>15</iCommerce>
+				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
 				<iCommerce>25</iCommerce>
@@ -157,6 +157,10 @@
 					<SpecialistType>SPECIALIST_SPY</SpecialistType>
 					<iSpecialistCount>2</iSpecialistCount>
 				</SpecialistCount>
+				<SpecialistCount>
+					<SpecialistType>SPECIALIST_LAWYER</SpecialistType>
+					<iSpecialistCount>1</iSpecialistCount>
+				</SpecialistCount>				
 			</SpecialistCounts>
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>

@@ -52,7 +52,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
 					<BuildingType>BUILDING_AUSTRALIAN_ATHLETICS_COMPLEX</BuildingType>
 				</Building>
 			</Buildings>

@@ -23,7 +23,7 @@
 		<Tag>TXT_KEY_CIV_GOTHS_ADJECTIVE</Tag>
 		<English>Gothic</English>
     <French>
-	    <Text>goth:goth:goths:goths</Text>
+	    <Text>gothique:gothique:gothiques:gothiques</Text>
 	    <Gender>Male:Female:Male:Female</Gender>
 	    <Plural>0:0:1:1</Plural>
     </French>

@@ -50,7 +50,7 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+					<UnitClassType>UNITCLASS_HEAVY_CAVALRY</UnitClassType>
 					<UnitType>UNIT_MANDE_SONGHAICAVALRY</UnitType>
 				</Unit>
 			</Units>

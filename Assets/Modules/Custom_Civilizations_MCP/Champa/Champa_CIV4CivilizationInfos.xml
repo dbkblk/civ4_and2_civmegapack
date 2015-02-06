@@ -48,7 +48,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_SCRIPTORIUM</BuildingClassType>
 					<BuildingType>BUILDING_CHAM_MENARA</BuildingType>
 				</Building>
 			</Buildings>

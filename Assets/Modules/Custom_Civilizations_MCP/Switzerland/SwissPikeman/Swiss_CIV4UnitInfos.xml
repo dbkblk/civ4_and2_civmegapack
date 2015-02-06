@@ -173,7 +173,7 @@
 			<iTotalCargo>0</iTotalCargo>
 			<iConscription>6</iConscription>
 			<iCultureGarrison>6</iCultureGarrison>
-			<iExtraCost>1</iExtraCost>
+			<iExtraCost>0</iExtraCost>
 			<iAsset>3</iAsset>
 			<iPower>17</iPower>
 			<UnitMeshGroups>

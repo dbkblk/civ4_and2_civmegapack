@@ -5,7 +5,7 @@
 <Civ4UnitInfos xmlns="x-schema:SonghaiCavalry_CIV4UnitSchema.xml">
 	<UnitInfos>
 		<UnitInfo>
-			<Class>UNITCLASS_KNIGHT</Class>
+			<Class>UNITCLASS_HEAVY_CAVALRY</Class>
 			<Type>UNIT_MANDE_SONGHAICAVALRY</Type>
 			<UniqueNames/>
 			<Special>NONE</Special>
@@ -45,7 +45,7 @@
 			<bCanMoveImpassable>0</bCanMoveImpassable>
 			<bCanMoveAllTerrain>0</bCanMoveAllTerrain>
 			<bFlatMovementCost>0</bFlatMovementCost>
-			<bIgnoreTerrainCost>0</bIgnoreTerrainCost>
+			<bIgnoreTerrainCost>1</bIgnoreTerrainCost>
 			<bNukeImmune>0</bNukeImmune>
 			<bPrereqBonuses>0</bPrereqBonuses>
 			<bPrereqReligion>0</bPrereqReligion>
@@ -57,7 +57,7 @@
 			<bMilitaryTrade>0</bMilitaryTrade>
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
-					<UnitClassUpgradeType>UNITCLASS_CUIRASSIER</UnitClassUpgradeType>
+					<UnitClassUpgradeType>UNITCLASS_LANCER</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
 			</UnitClassUpgrades>
@@ -67,12 +67,16 @@
 			<UnitCombatDefenders/>
 			<FlankingStrikes>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
-					<iFlankingStrength>100</iFlankingStrength>
+					<FlankingStrikeUnitClass>UNITCLASS_ARCHER</FlankingStrikeUnitClass>
+					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>100</iFlankingStrength>
+					<FlankingStrikeUnitClass>UNITCLASS_LONGBOWMAN</FlankingStrikeUnitClass>
+					<iFlankingStrength>50</iFlankingStrength>
+				</FlankingStrike>
+				<FlankingStrike>
+					<FlankingStrikeUnitClass>UNITCLASS_CROSSBOWMAN</FlankingStrikeUnitClass>
+					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
@@ -82,6 +86,10 @@
 				</UnitAI>
 				<UnitAI>
 					<UnitAIType>UNITAI_PILLAGE</UnitAIType>
+					<bUnitAI>1</bUnitAI>
+				</UnitAI>
+				<UnitAI>
+					<UnitAIType>UNITAI_COUNTER</UnitAIType>
 					<bUnitAI>1</bUnitAI>
 				</UnitAI>
 			</UnitAIs>
@@ -98,9 +106,10 @@
 			<PrereqReligion>NONE</PrereqReligion>
 			<PrereqCorporation>NONE</PrereqCorporation>
 			<PrereqBuilding>NONE</PrereqBuilding>
-			<PrereqTech>TECH_ARMORED_CAVALRY</PrereqTech>
+			<PrereqTech>TECH_INVENTION</PrereqTech>
 			<TechTypes>
-				<PrereqTech>NONE</PrereqTech>
+				<PrereqTech>TECH_STIRRUP</PrereqTech>
+				<PrereqTech>TECH_HERALDRY</PrereqTech>
 			</TechTypes>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses>
@@ -109,7 +118,7 @@
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>90</iCost>
+			<iCost>100</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -133,7 +142,7 @@
 			<FeatureImpassables/>
 			<TerrainPassableTechs/>
 			<FeaturePassableTechs/>
-			<iCombat>11</iCombat>
+			<iCombat>10</iCombat>
 			<iCombatLimit>100</iCombatLimit>
 			<iAirCombat>0</iAirCombat>
 			<iAirCombatLimit>0</iAirCombatLimit>
@@ -143,10 +152,10 @@
 			<iChanceFirstStrikes>0</iChanceFirstStrikes>
 			<iInterceptionProbability>0</iInterceptionProbability>
 			<iEvasionProbability>0</iEvasionProbability>
-			<iWithdrawalProb>0</iWithdrawalProb>
+			<iWithdrawalProb>10</iWithdrawalProb>
 			<iCollateralDamage>0</iCollateralDamage>
 			<iCollateralDamageLimit>100</iCollateralDamageLimit>
-			<iCollateralDamageMaxUnits>6</iCollateralDamageMaxUnits>
+			<iCollateralDamageMaxUnits>5</iCollateralDamageMaxUnits>
 			<iCityAttack>-25</iCityAttack>
 			<iCityDefense>0</iCityDefense>
 			<iAnimalCombat>0</iAnimalCombat>
@@ -200,7 +209,12 @@
 				</UnitClassAttackMod>
 			</UnitClassAttackMods>
 			<UnitClassDefenseMods/>
-			<UnitCombatMods/>
+			<UnitCombatMods>
+				<UnitCombatMod>
+					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+					<iUnitCombatMod>25</iUnitCombatMod>
+				</UnitCombatMod>
+			</UnitCombatMods>
 			<UnitCombatCollateralImmunes/>
 			<DomainMods/>
 			<BonusProductionModifiers/>
@@ -215,7 +229,7 @@
 			<iCultureGarrison>6</iCultureGarrison>
 			<iExtraCost>0</iExtraCost>
 			<iAsset>3</iAsset>
-			<iPower>22</iPower>
+			<iPower>25</iPower>
 			<UnitMeshGroups>
 				<iGroupSize>3</iGroupSize>
 				<fMaxSpeed>1.75</fMaxSpeed>

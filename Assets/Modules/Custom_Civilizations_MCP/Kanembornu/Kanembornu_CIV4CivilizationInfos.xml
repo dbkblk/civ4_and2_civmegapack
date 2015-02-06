@@ -45,7 +45,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_MEETING_HALL</BuildingClassType>
 					<BuildingType>BUILDING_KANEMBORNU_OASIS</BuildingType>
 				</Building>
 			</Buildings>

@@ -122,7 +122,7 @@
 			<iMilitaryProductionModifier>0</iMilitaryProductionModifier>
 			<iSpaceProductionModifier>0</iSpaceProductionModifier>
 			<iGlobalSpaceProductionModifier>0</iGlobalSpaceProductionModifier>
-			<iTradeRoutes>1</iTradeRoutes>
+			<iTradeRoutes>0</iTradeRoutes>
 			<iCoastalTradeRoutes>0</iCoastalTradeRoutes>
 			<iGlobalTradeRoutes>0</iGlobalTradeRoutes>
 			<iTradeRouteModifier>0</iTradeRouteModifier>
@@ -204,6 +204,17 @@
 				</Flavor>
 			</Flavors>
 			<HotKey/>
+			<TechCommerceModifiers>
+				<TechCommerceModifier>
+					<PrereqTech>TECH_ARCHEOLOGY</PrereqTech>
+					<TechCommerce>
+						<iCommerce>0</iCommerce>
+						<iCommerce>10</iCommerce>
+						<iCommerce>0</iCommerce>
+						<iCommerce>0</iCommerce>
+					</TechCommerce>
+				</TechCommerceModifier>
+			</TechCommerceModifiers>
 			<bAltDown>0</bAltDown>
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>

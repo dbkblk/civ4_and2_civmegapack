@@ -62,6 +62,10 @@
 					<UnitClassUpgradeType>UNITCLASS_LONGBOWMAN</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
 				</UnitClassUpgrade>
+				<UnitClassUpgrade>
+					<UnitClassUpgradeType>UNITCLASS_CROSSBOWMAN</UnitClassUpgradeType>
+					<bUnitClassUpgrade>1</bUnitClassUpgrade>
+				</UnitClassUpgrade>
 			</UnitClassUpgrades>
 			<UnitClassTargets/>
 			<UnitCombatTargets/>
@@ -93,6 +97,7 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_ARCHERY</PrereqTech>
 			<TechTypes/>
+			<ForceObsoleteTech>TECH_FEUDALISM</ForceObsoleteTech>
 			<BonusType>NONE</BonusType>
 			<PrereqBonuses/>
 			<ProductionTraits/>

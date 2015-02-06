@@ -107,7 +107,7 @@
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>60</iCost>
+			<iCost>65</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -176,9 +176,9 @@
 			<iTotalCargo>0</iTotalCargo>
 			<iConscription>0</iConscription>
 			<iCultureGarrison>5</iCultureGarrison>
-			<iExtraCost>1</iExtraCost>
+			<iExtraCost>0</iExtraCost>
 			<iAsset>2</iAsset>
-			<iPower>12</iPower>
+			<iPower>13</iPower>
 			<UnitMeshGroups>
 				<iGroupSize>3</iGroupSize>
 				<fMaxSpeed>1.75</fMaxSpeed>

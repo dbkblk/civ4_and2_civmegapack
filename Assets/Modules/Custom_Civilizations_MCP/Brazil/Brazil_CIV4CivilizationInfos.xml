@@ -75,7 +75,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
 					<BuildingType>BUILDING_BRAZIL_ESTADIO</BuildingType>
 				</Building>
 			</Buildings>

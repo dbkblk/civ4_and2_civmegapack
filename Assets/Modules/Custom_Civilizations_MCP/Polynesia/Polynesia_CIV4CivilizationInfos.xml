@@ -80,7 +80,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_SACRIFICIAL_ALTAR</BuildingClassType>
 					<BuildingType>BUILDING_POLYNESIAN_MARAE</BuildingType>
 				</Building>
 			</Buildings>

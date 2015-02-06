@@ -51,7 +51,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_STANDING_STONE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_SCRIPTORIUM</BuildingClassType>
 					<BuildingType>BUILDING_TIBETAN_CHORTEN</BuildingType>
 				</Building>
 			</Buildings>

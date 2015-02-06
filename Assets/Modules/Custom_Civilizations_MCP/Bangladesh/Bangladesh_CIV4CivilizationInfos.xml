@@ -53,7 +53,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
 					<BuildingType>BUILDING_BANGLADESH_KABADDI</BuildingType>
 				</Building>
 			</Buildings>
