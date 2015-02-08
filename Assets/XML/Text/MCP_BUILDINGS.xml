@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Civ4GameText>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING</Tag>
+      <English>Bora Ring</English>
+      <French>Cercle bora</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING_STRATEGY</Tag>
+      <English>The Aborigines replace the [COLOR_BUILDING_TEXT]Standing stone[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</English>
+      <French>Le [COLOR_BUILDING_TEXT]Standing stone[COLOR_REVERT] est remplacé par le [COLOR_BUILDING_TEXT]cercle bora[COLOR_REVERT] chez les aborigènes, qui est moins cher à construire.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR</Tag>
+      <English>Temple of Ishtar</English>
+      <French>Temple d'Ishtar</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</English>
+      <French>Un [COLOR_BUILDING_TEXT]temple d'Ishtar[COLOR_REVERT] est un [COLOR_BUILDING_TEXT]bordel[COLOR_REVERT] qui permet deux prêtres.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR</Tag>
+      <English>Llogor</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Garrison[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in the Albanian civilization. It gives Gunpowder units extra experience.</English>
+      <French>La [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT] est remplacée par le [COLOR_BUILDING_TEXT]llogor[COLOR_REVERT] dans la civilisation albanais. Il procure de l'expérience supplémentaire aux unités à poudre à canon.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL</Tag>
+      <English>Moot Hill</English>
+      <French>Concile collinaire</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL_STRATEGY</Tag>
+      <English>The Moot Hill is the Anglo-Saxon replacement for the courthouse. It gives extra Defense.</English>
+      <French>Le concile collinaire ('Moot hill') est l'équivalent du tribunal. Il procure de la défense supplémentaire.</French>
+      <German>in German</German>
+      <Italian>in Italian</Italian>
+      <Spanish>in Spanish</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN</Tag>
+      <English>Midewiwin</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Healer's hut[COLOR_REVERT]) allow you to turn 1 extra citizen in the city into a Scientist.</English>
+      <French>Les [COLOR_BUILDING_TEXT]midewiwins[COLOR_REVERT] (équivalent algonquin de la [COLOR_BUILDING_TEXT]Healer's hut[COLOR_REVERT]). Ces bâtiment offrent 1 scientifiques gratuits.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI</Tag>
+      <English>Didanawisgi</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] replacement for the Aniyonega civilization is the [COLOR_BUILDING_TEXT]Didanawisgi[COLOR_REVERT] and it heals one unit fully per turn in addition.</English>
+      <French>Le remplacement de la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT] pour la civilisation cherokee est le [COLOR_BUILDING_TEXT]didanawisgi[COLOR_REVERT]. Il soigne une unité supplémentaire par tour.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_APACHE_BUTCHER</Tag>
+      <English>Smoke House</English>
+      <French>Atelier de fumage</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_APACHE_BUTCHER_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</English>
+      <French>L'[COLOR_BUILDING_TEXT]atelier de fumage[COLOR_REVERT] augmente la richesse de la ville. Il augmente aussi le bonheur grâce à l'accès à la [COLOR_HIGHLIGHT_TEXT]fourrure[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT],  aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]chevaux[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO</Tag>
+      <English>Dance Studio</English>
+      <French>Studio de danse</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Dance Studio[COLOR_REVERT] for Argentina, and it provides a medium culture boost.</English>
+      <French>L'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT] est remplacée par le [COLOR_BUILDING_TEXT]studio de danse[COLOR_REVERT] pour les argentins, qui procure un bonus modéré de culture.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARMENIA_KHACHKAR</Tag>
+      <English>Khachkar</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARMENIA_KHACHKAR_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Khachkar[COLOR_REVERT] (the Armenian replacement for a [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT]) provides Culture.</English>
+      <French>Le [COLOR_BUILDING_TEXT]khachkar[COLOR_REVERT] (équivalent arménien de la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT]) procure de la culture.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARMUARIE</Tag>
+      <English>Armuarie</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARMUARIE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Armuarie[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Armourer[COLOR_REVERT] and provides additional military production to the city in which it is built.</English>
+      <French>L'[COLOR_BUILDING_TEXT]armuarie[COLOR_REVERT] remplace l'[COLOR_BUILDING_TEXT]armurier[COLOR_REVERT] et améliore la production militaire de la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ARSENAL</Tag>
+      <English>Arsenal</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ASHANTI_DRUMMING_STATION</Tag>
+      <English>Drumming Station</English>
+      <French>Salle des tambours</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ASHANTI_DRUMMING_STATION_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Drumming Station[COLOR_REVERT], the Ashanti replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT],provides an additional bonus to espionage.</English>
+      <French>La [COLOR_BUILDING_TEXT]salle des tambours[COLOR_REVERT], l'équivalent ashanti du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure un bonus supplémentaire d'espionnage.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ATHLETICS_COMPLEX</Tag>
+      <English>Athletics Complex</English>
+      <French>Complexe athlétique</French>
+      <German>Leichtathletik-Komplex</German>
+      <Italian>Atletica Complex</Italian>
+      <Spanish>Complejo de Atletismo</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ATHLETICS_COMPLEX_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Athletics Complex[COLOR_REVERT], the Australian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</English>
+      <French>Le [COLOR_BUILDING_TEXT]complexe athlétique[COLOR_REVERT] remplace le [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] pour l'Australie.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Leichtathletik-Komplex[COLOR_REVERT], die Australisch Ersatz für die [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Atletica Complex[COLOR_REVERT], la sostituzione Australiano per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], la sustitución de Australiano para el [COLOR_BUILDING_TEXT]Coliseo[COLOR_REVERT]</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_AUSTRIAN_HOFMUSEEN</Tag>
+      <English>Hofmuseen</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_AUSTRIAN_HOFMUSEEN_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Hofmuseen[COLOR_REVERT], the Austrian replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers more Culture and Science.</English>
+      <French>Le [COLOR_BUILDING_TEXT]hofmuseen[COLOR_REVERT], l'équivalent autrichien du [COLOR_BUILDING_TEXT]musée[COLOR_REVERT], offre plus de culture et de science.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BAKTRIA_MINT</Tag>
+      <English>Baktrian Mint</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BAKTRIA_MINT_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT] which is available earlier, and slightly cheaper.</English>
+      <French>Le [COLOR_BUILDING_TEXT]Baktrian Mint[COLOR_REVERT] remplace la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT]. Il est disponible plus tôt et pour moins cher.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BANGLADESH_KABADDI</Tag>
+      <English>Kabaddi Centre</English>
+      <French>Centre kabbadi</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BANGLADESH_KABADDI_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Kabaddi Centre[COLOR_REVERT] (the Bangladeshi replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness.</English>
+      <French>Le [COLOR_BUILDING_TEXT]centre kabbadi[COLOR_REVERT] (équivalent bangladais du [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) augmente le bonheur.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BATAVII_STABLE</Tag>
+      <English>Batavian Stables</English>
+      <French>Écuries bataves</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BATAVII_STABLE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built.</English>
+      <French>L'[COLOR_BUILDING_TEXT]écurie batave[COLOR_REVERT] remplace l'[COLOR_BUILDING_TEXT]écurie des chevaliers[COLOR_REVERT] et procure +5 EXP supplémentaires à toutes les unités montées dans la ville où elle est construite.</French>
+      <German>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</German>
+      <Italian>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</Italian>
+      <Spanish>The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight's Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT</Tag>
+      <English>Fritkot</English>
+      <French>Friterie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BELGIUM_FRITKOT_STRATEGY</Tag>
+      <English>Belgium replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Fritkot[COLOR_REVERT], which is cheaper to build and provides extra happiness, but has an associated health reduction.</English>
+      <French>La Belgique remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] avec la [COLOR_BUILDING_TEXT]friterie[COLOR_REVERT], qui est moins chère et procure du bonheur supplémentaire, mais dispose d'une réduction de la santé.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BOLIVARIAN_CHUAOFIELD</Tag>
+      <English>Chuao Field</English>
+      <French>Plantation de Chuao</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BOLIVARIAN_CHUAOFIELD_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Chuao Fields[COLOR_REVERT] increase a city's wealth with an additional commerce bonus. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</English>
+      <French>La [COLOR_BUILDING_TEXT]plantation de Chuao[COLOR_REVERT] augmente la richesse de la ville et procure du commerce supplémentaire. Ils augmentent également le bonheur de la ville ayant accès aux [COLOR_HIGHLIGHT_TEXT]fourrures[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BOULEVARD_CIRCLE</Tag>
+      <English>Boulevard Circle</English>
+      <French>Parc du boulevard</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO</Tag>
+      <English>Estadio de Futebol</English>
+      <French>Stade de football</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO_STRATEGY</Tag>
+      <English>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity.</English>
+      <French>L'équivalent brésilien de l'[COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]stade de football[COLOR_REVERT], procure une célébrité.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BROCH</Tag>
+      <English>Broch</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BROCH_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], the Scottish replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</English>
+      <French>Le [COLOR_BUILDING_TEXT]broch[COLOR_REVERT], équivalent écossais du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], empêche les ennemis d'envahir vos villes avant d'avoir de les avoir bombardées.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], die Schotten Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], la sostituzione Scozzese per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</Italian>
+      <Spanish> El [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], la sustitución de Escocés para el [COLOR_BUILDING_TEXT]Castillo[COLOR_REVERT], prevents enemies from invading, unless they bombard your city. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BURMA_PAYA</Tag>
+      <English>Paya</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT]. It provides a gold bonus within the city it is built.</English>
+      <French>Le [COLOR_BUILDING_TEXT]paya[COLOR_REVERT] est l'équivalent birman de l'[COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT]. Il procure une route commerciale supplémentaire dans la ville où il est construit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CAER</Tag>
+      <English>Caer</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHILE_COPPERWORKS</Tag>
+      <English>Copperworks</English>
+      <French>Usine de cuivre</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHILE_COPPERWORKS_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</English>
+      <French>L'[COLOR_BUILDING_TEXT]usine de cuivre[COLOR_REVERT] (équivalent chilien de l'[COLOR_BUILDING_TEXT]usine[COLOR_REVERT]) augmente la production et la richesse de la ville au détriment d'un peu d'insalubrité. Le bonus est amélioré avec le [COLOR_HIGHLIGHT_TEXT]cuivre[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHITALISHTE</Tag>
+      <English>Chitalishte</English>
+      <German>Tschitalischte</German>
+      <Italian>Citalište</Italian>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHITALISHTE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Chitalishte[COLOR_REVERT], the Bulgarian replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT], can turn two citizens into artists.</English>
+      <French>Le [COLOR_BUILDING_TEXT]chitalishte[COLOR_REVERT], l'équivalent Bulgare de la [COLOR_BUILDING_TEXT]bibliothèque[COLOR_REVERT], peut transformer deux citoyens en artistes.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Tschitalischte[COLOR_REVERT], die Bulgarisch Ersatz für die [COLOR_BUILDING_TEXT]Bibliothek[COLOR_REVERT], kann zwei Bürger zu Künstler machen.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Citalište[COLOR_REVERT], la sostituzione Bulgaro per il [COLOR_BUILDING_TEXT]Biblioteca[COLOR_REVERT], può trasformare in due cittadini gli artisti.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Chitalishte[COLOR_REVERT], la sustitución de Búlgaro para el [COLOR_BUILDING_TEXT]Biblioteca[COLOR_REVERT], puede dar vuelta a dos ciudadanos en artistas.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHOLA_TRADE_GUILD</Tag>
+      <English>Trade Workshop</English>
+      <French>Atelier de commerce</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHOLA_TRADE_GUILD_STRATEGY</Tag>
+      <English>[TAB]The [COLOR_BUILDING_TEXT]Trade Workshop[COLOR_REVERT] is the Chola replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] and gives every unit built in a city the Amphibious Promotion.</English>
+      <French>L'[COLOR_BUILDING_TEXT]atelier de commerce[COLOR_REVERT] est l'équivalent chola du [COLOR_BUILDING_TEXT]marché[COLOR_REVERT] et procure la promotion 'amphibie' à toutes unités recrutées dans la ville.</French>
+      <German>[TAB]The [COLOR_BUILDING_TEXT]Trade Workshop[COLOR_REVERT] is the Chola replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]and gives every unit built in a city the Amphibious Promotion.</German>
+      <Italian>[TAB]The [COLOR_BUILDING_TEXT]Trade Workshop[COLOR_REVERT] is the Chola replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]and gives every unit built in a city the Amphibious Promotion.</Italian>
+      <Spanish>[TAB]The [COLOR_BUILDING_TEXT]Trade Workshop[COLOR_REVERT] is the Chola replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]and gives every unit built in a city the Amphibious Promotion.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHORTEN</Tag>
+      <English>Chorten</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CHORTEN_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], the Tibetan replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], offers bonus happiness.</English>
+      <French>Le [COLOR_BUILDING_TEXT]chorten[COLOR_REVERT], équivalent tibétain du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT], offre un supplément de bonheur.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], der Tibetische Ersatz für die [COLOR_BUILDING_TEXT]Denkmal[COLOR_REVERT], bietet bonus Glück.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], il Tibetana sostituzione per il [COLOR_BUILDING_TEXT]Monumento[COLOR_REVERT], offre bonus di felicità.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], el Tibetano reemplazo para el [COLOR_BUILDING_TEXT]Monumento[COLOR_REVERT], ofrece bono de la felicidad.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CLOISTER</Tag>
+      <English>Cloister</English>
+      <French>Cloître</French>
+      <German>Kreuzgang</German>
+      <Italian>Chiostro</Italian>
+      <Spanish>Claustro</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CLOISTER_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Cloister[COLOR_REVERT], the Lombard replacement for the [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT], adds a free priest.</English>
+      <French>Le [COLOR_BUILDING_TEXT]cloître[COLOR_REVERT], équivalent lombard du [COLOR_BUILDING_TEXT]arena[COLOR_REVERT], ajoute un prêtre gratuit.</French>
+      <German>Das [COLOR_BUILDING_TEXT]Kreuzgang[COLOR_REVERT], der Lombard Wiedereinbau für das [COLOR_BUILDING_TEXT] Arena[COLOR_REVERT], adds a free priest.</German>
+      <Italian>Il [COLOR_BUILDING_TEXT]Chiostro[COLOR_REVERT], il sostituto Lombardo per [COLOR_BUILDING_TEXT] l'Arena [COLOR_REVERT], aggiunge un prete gratis.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Claustro[COLOR_REVERT], el reemplazo de Lombard para [COLOR_BUILDING_TEXT] el Arena[COLOR_REVERT], adds a free priest.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE</Tag>
+      <English>Coffee Estate</English>
+      <French>Commerce de café</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE_STRATEGY</Tag>
+      <English>Colombia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Coffee Estate[COLOR_REVERT], which provides massive bonuses with Coffee.</English>
+      <French>La colombie remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] par le [COLOR_BUILDING_TEXT]commerce de café[COLOR_REVERT], qui procure d'importants bonus avec la ressource 'café'.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CONGO_NKISI</Tag>
+      <English>Nkisi</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CONGO_NKISI_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Nkisi[COLOR_REVERT] (the Congo replacement for the [COLOR_BUILDING_TEXT]Healer Hut[COLOR_REVERT]) are an inexpensive way to help units heal damage more quickly and add health to a city.</English>
+      <French>Un [COLOR_BUILDING_TEXT]nkisi[COLOR_REVERT] (équivalent congolais de la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT]) est un moyen bon marché de soigner des unités plus rapidement et d'ajouter de la santé à la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CORTEGIANE_ONESTE</Tag>
+      <English>Cortegiane Oneste</English>
+      <French>Cortegiane oneste</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CORTEGIANE_ONESTE_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Cortigiane Oneste[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that gives a free Artist.</English>
+      <French>Le [COLOR_BUILDING_TEXT]cortigiane oneste[COLOR_REVERT] est un [COLOR_BUILDING_TEXT]bordel[COLOR_REVERT] qui procure un artiste gratuit.</French>
+      <German>A [COLOR_BUILDING_TEXT]Cortigiane Oneste[COLOR_REVERT]is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that gives a free Artist.</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CROATIA_KINGSTOWER</Tag>
+      <English>King's Tower</English>
+      <French>Tour du roi</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CROATIA_KINGSTOWER_STRATEGY</Tag>
+      <English>Croatia replaces [COLOR_BUILDING_TEXT]High Walls[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]King's Tower[COLOR_REVERT]. It gives units built in the city a free Guerrilla promotion.</English>
+      <French>La croatie remplace les [COLOR_BUILDING_TEXT]hauts remparts[COLOR_REVERT] par la [COLOR_BUILDING_TEXT]tour du roi[COLOR_REVERT]. Elle procure la promotion 'guérilla' aux unités recrutées dans la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CZECH_VYSILAC</Tag>
+      <English>Vysilac</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_CZECH_VYSILAC_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Vysilacs[COLOR_REVERT] greatly increase a city's cultural output and are less expensive than the standard [COLOR_BUILDING_TEXT]Broadcast Tower[COLOR_REVERT]. They also provide two happy citizens for Hit Singles, Movies or Musicals.</English>
+      <French>Les [COLOR_BUILDING_TEXT]vysilacs[COLOR_REVERT] augmentent la culture de la ville et sont moins coûteux que les [COLOR_BUILDING_TEXT]tours de radiodiffusion[COLOR_REVERT]. Elles procurent +2 bonheur pour les tubes, les films et les comédies musicales.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_DENMARK_MANOR</Tag>
+      <English>Manor House</English>
+      <French>Manoir</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_DENMARK_MANOR_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Manor Houses[COLOR_REVERT] (the Danish replacement for [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT]) increase your city's defenses against pre-gunpowder units, increase espionage output, gold, and generate a small amount of culture. Build them in cities near enemy civilizations.</English>
+      <French>Le [COLOR_BUILDING_TEXT]manoir[COLOR_REVERT] (équivalent danois du [COLOR_BUILDING_TEXT]château[COLOR_REVERT]) augmente les défenses de la ville contre les unités avant la poudre à canon, augmente l'espionnage, l'or, et génère un peu de culture. Construisez le dans les villes près des civilisations ennemis.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_DINNEHIH_HOGAN</Tag>
+      <English>Hogan</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_DINNEHIH_HOGAN_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Hogans[COLOR_REVERT] increase a city's wealth and culture. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</English>
+      <French>Les [COLOR_BUILDING_TEXT]hogans[COLOR_REVERT] augmentent la richesse et la culture. Ils augmentent également le bonheur de la ville ayant accès aux [COLOR_HIGHLIGHT_TEXT]fourrures[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ETRURIA_FANUM</Tag>
+      <English>Fanum</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ETRURIA_FANUM_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Fanum[COLOR_REVERT] (the Etruscan replacement for a [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT]) lowers city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. A [COLOR_BUILDING_TEXT]Fanum[COLOR_REVERT] also allows you to convert two citizens to a Priest.</English>
+      <French>Le [COLOR_BUILDING_TEXT]fanum[COLOR_REVERT] (équivalent étrusque du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT]) diminue le coût d'entretien de la ville et est requis pour construire la [COLOR_BUILDING_TEXT]cité interdite[COLOR_REVERT] (merveille national). Un [COLOR_BUILDING_TEXT]Fanum[COLOR_REVERT] permet de convertir deux citoyens en prêtres.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_FINLAND_SAUNA</Tag>
+      <English>Sauna</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_FINLAND_SAUNA_STRATEGY</Tag>
+      <English>Finland's replacement for the [COLOR_BUILDING_TEXT]Bath House[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Sauna[COLOR_REVERT], which provides extra happiness and has no resource requirement.</English>
+      <French>L'équivalent finlandais de la [COLOR_BUILDING_TEXT]maison des bains[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]sauna[COLOR_REVERT], qui procure du bonheur supplémentaire et ne nécessite pas de ressource.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_FOLWARK</Tag>
+      <English>Folwark</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_FOLWARK_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Folwark[COLOR_REVERT], the Polish replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT], offers bonus food.</English>
+      <French>Le [COLOR_BUILDING_TEXT]folwark[COLOR_REVERT], équivalent polonais du [COLOR_BUILDING_TEXT]grenier[COLOR_REVERT], génère un bonus de nourriture.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Folwark[COLOR_REVERT], die polnisch Ersatz für die [COLOR_BUILDING_TEXT]Kornkammer[COLOR_REVERT], bietet bonus lebensmittel</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Folwark[COLOR_REVERT], la sostituzione polacco per il [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], offre bonus di alimentare.</Italian>
+      <Spanish> El [COLOR_BUILDING_TEXT]Folwark[COLOR_REVERT], la sustitución de polaco para el [COLOR_BUILDING_TEXT]Granero[COLOR_REVERT], ofrece bono de la alimentos. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_FURDO</Tag>
+      <English>Fürdo</English>
+      <French>Thermes</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_FURDO_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], the Hungarian replacement for the [COLOR_BUILDING_TEXT]Bath House[COLOR_REVERT], offers bonus health.</English>
+      <French>Les [COLOR_BUILDING_TEXT]thermes[COLOR_REVERT], l'équivalent hongrois de la [COLOR_BUILDING_TEXT]maison des bains[COLOR_REVERT], offrent des bonus de santé.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], die Ungarische Ersatz für die [COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], bietet bonus gesundheit</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sostituzione unherese per il[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], offre des bonus de santé.</Italian>
+      <Spanish> El [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sustitución de Hungría para el[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], ofrece bono de la salud. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GEORGIA_SENAKI</Tag>
+      <English>Sakhioba</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GEORGIA_SENAKI_STRATEGY</Tag>
+      <English>Build the [COLOR_BUILDING_TEXT]Sakhioba Theatre[COLOR_REVERT] to receive happiness, and turn 4 citizens into artist. It replaces the normal theatre for the Georgian people.</English>
+      <French>Construire le théâtre [COLOR_BUILDING_TEXT]sakhioba[COLOR_REVERT] pour recevoir du bonheur et transformer 4 citoyens en artiste. Il remplace le théâtre classique pour le peuple géorgien.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GETAI_PORT</Tag>
+      <English>Getic River Port</English>
+      <French>Port de rivière gète</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GETAI_PORT_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Getic River Port[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] and provides an additional trade bonus and health bonus the city in which it is built.</English>
+      <French>Le [COLOR_BUILDING_TEXT]port de rivière gète[COLOR_REVERT] remplace la [COLOR_BUILDING_TEXT]digue[COLOR_REVERT] et procure une route de commerce additionnelle et un bonus de santé dans la ville dans laquelle il est construit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GOTHS_PLUNDER</Tag>
+      <English>Plunder</English>
+      <French>Pillage</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GOTHS_PLUNDER_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Plunder[COLOR_REVERT] (the Goth replacement for a [COLOR_BUILDING_TEXT]Jail[COLOR_REVERT]) lowers a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increases gold. Build this if you are involved in a long war and your citizens are starting to complain.</English>
+      <French>Le [COLOR_BUILDING_TEXT]pillage[COLOR_REVERT] (équivalent goth de la [COLOR_BUILDING_TEXT]prison[COLOR_REVERT]) diminue la lassitude de guerre et augmente l'or. Construisez ceci si vous êtes impliqué dans une longue guerre et que vos citoyens commencent à se plaindre.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GREAT_TEMPLE</Tag>
+      <English>Venus Temple</English>
+      <French>Temple de Venus</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Venus Temple[COLOR_REVERT], the Toltec replacement for the [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], grants melee units one bonus experience in addition to the usual culture bonus.</English>
+      <French>Le [COLOR_BUILDING_TEXT]temple de Venus[COLOR_REVERT], équivalent toltèque du [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], procure aux unités de combat rapproché 1 bonus d'expérience en plus du bonus de culture habituel.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HAMBAR</Tag>
+      <English>Hambar</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HAMBAR_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], the Serbian replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT], grants additional food and health with corn.</English>
+      <French>Le [COLOR_BUILDING_TEXT]hambar[COLOR_REVERT], équivalent serbe du [COLOR_BUILDING_TEXT]grenier[COLOR_REVERT], procure de la nourriture supplémentaire et de la santé grâce au maïs.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], die Serbisch Ersatz für die [COLOR_BUILDING_TEXT]Kornkammer[COLOR_REVERT], grants additional food  with corn.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sostituzione Serba per il [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], grants additional food with and health corn.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sustitución de Serbio para el [COLOR_BUILDING_TEXT]Granero[COLOR_REVERT], grants additional food and health with corn.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER</Tag>
+      <English>Indus Sewer</English>
+      <French>Égoûts de l'Indus</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Sewer[COLOR_REVERT], the Harappan replacement for the [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</English>
+      <French>Les [COLOR_BUILDING_TEXT]égouts de l'Indus[COLOR_REVERT], l'équivalent harappéen du [COLOR_BUILDING_TEXT]système d'égoûts[COLOR_REVERT] sont disponibles plus tôt et possèdes une pénaltie d'espionnage inférieure.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Kanalisation[COLOR_REVERT], die Harappan Ersatz für die [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</German>
+      <Italian>La [COLOR_BUILDING_TEXT]Fognatura[COLOR_REVERT], la sostituzione Harappan per l'[COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Alcantarillado[COLOR_REVERT], la sustitución de la Harappan [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HOCKEY_RINK</Tag>
+      <English>Hockey Rink</English>
+      <French>Patinoire de hockey</French>
+      <German>Hockeyeisbahnen</German>
+      <Italian>Rinks del hockey</Italian>
+      <Spanish>Pista del hockey</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HOCKEY_RINK_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Hockey Rink[COLOR_REVERT], the Canadian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</English>
+      <French>La [COLOR_BUILDING_TEXT]patinoire de hockey[COLOR_REVERT], le remplacement canadien de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT], offre une célébrité gratuite en échange d'un coût d'entretien.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Hockeyeisbahnen[COLOR_REVERT], die Kanadisch Ersatz für die [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Rinks del hockey[COLOR_REVERT], la sostituzione Canadese per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Pista del hockey[COLOR_REVERT], la sustitución de Canadiense para el [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HUNG_VEGVAR</Tag>
+      <English>Végvár</English>
+      <French>
+         <Text>Végvár</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Végvár</Text>
+         <Gender>Female</Gender>
+         <Plural>1</Plural>
+      </German>
+      <Italian>
+         <Text>Végvár</Text>
+         <Gender>Female</Gender>
+         <Plural>0:1</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Végvár</Text>
+         <Gender>Female</Gender>
+         <Plural>0:1</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HUNG_VEGVAR_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Végvárs[COLOR_REVERT] replace [COLOR_BUILDING_TEXT]castles[COLOR_REVERT]; they increase city defense, espionage, science and culture. It also exerts a zone of control around your city to guard your borders. Happiness also rises if wine is available. Build végvárs near your empire's borders where your cities are in danger of attack by your enemies.</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HUNS_CATTLE</Tag>
+      <English>Cattle Herd</English>
+      <French>Cheptel de bétail</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_HUNS_CATTLE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Cattle Herd[COLOR_REVERT] is the Hunnic replacement for the [COLOR_BUILDING_TEXT]Butchery[COLOR_REVERT]. It provides units built in the city with the Formation I promotion.</English>
+      <French>Le [COLOR_BUILDING_TEXT]cheptel de bétail[COLOR_REVERT] est le remplaçant hun du [COLOR_BUILDING_TEXT]Butchery[COLOR_REVERT]. Il procure la promotion 'formation I' aux unités recrutées dans la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS</Tag>
+      <English>Spice Stocks</English>
+      <French>Marché aux épices</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS_STRATEGY</Tag>
+      <English>Indonesia replaces the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Spice Stocks[COLOR_REVERT], which give a gold boost.</English>
+      <French>L'indonésie remplace l'[COLOR_BUILDING_TEXT]épicerie[COLOR_REVERT] par le [COLOR_BUILDING_TEXT]marché aux épices[COLOR_REVERT], qui procure un bonus d'or.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_IRAN_SCIENCE</Tag>
+      <English>IMIDRO</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_IRAN_SCIENCE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]IMIDRO[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Laboratory[COLOR_REVERT] and adds production.</English>
+      <French>[COLOR_BUILDING_TEXT]IMIDRO[COLOR_REVERT] remplace le [COLOR_BUILDING_TEXT]laboratoire[COLOR_REVERT] et améliore la production.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM</Tag>
+      <English>Mesopotamian Museum</English>
+      <French>Musée mésopotamien</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Mesopotamian Museum[COLOR_REVERT], the Iraqi replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], offers additional gold in the city in which it's built.</English>
+      <French>Le [COLOR_BUILDING_TEXT]musée mésopotamien[COLOR_REVERT], équivalent irakien du [COLOR_BUILDING_TEXT]musée[COLOR_REVERT], offre un bonus d'or dans la ville où il est construit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ITALY_CARNIVAL</Tag>
+      <English>Carnevale</English>
+      <French>Carnaval</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_ITALY_CARNIVAL_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Carnevale[COLOR_REVERT] (the Italian replacement for a [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT]) increases a city's culture and happiness. It is also required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</English>
+      <French>Le [COLOR_BUILDING_TEXT]carnaval[COLOR_REVERT] (équivalent italien du [COLOR_BUILDING_TEXT]théâtre[COLOR_REVERT]) augmente la culture et le bonheur. Il est également requis pour construire le [COLOR_BUILDING_TEXT]théâtre du globe[COLOR_REVERT] (merveille nationale).</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KANEMBORNU_OASIS</Tag>
+      <English>Oasis</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KANEMBORNU_OASIS_STRATEGY</Tag>
+      <English>An [COLOR_BUILDING_TEXT]Oasis[COLOR_REVERT] (the Kanem-Bornu replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's Health.</English>
+      <French>L'[COLOR_BUILDING_TEXT]oasis[COLOR_REVERT] (équivalent kanembou de la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT]) augmente la santé des villes.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KAZAKH_HORSE_FARM</Tag>
+      <English>Horse Farm</English>
+      <French>Ferme de chevaux</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KAZAKH_HORSE_FARM_STRATEGY</Tag>
+      <English>The Kazakh Horse Farm replaces the stable and provides abonus to Health and Happiness with horses.</English>
+      <French>La ferme de chevaux kazakh remplace l'écurie et procure un bonus de santé et de bonheur avec la ressource 'cheval'.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KOTEL</Tag>
+      <English>Kotel</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KURGAN</Tag>
+      <English>Kurgan</English>
+      <French>Kourgane</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_KURGAN_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Kurgan[COLOR_REVERT], the Khazar replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], offers reduced War Weariness.</English>
+      <French>Les [COLOR_BUILDING_TEXT]monuments[COLOR_REVERT] fournissent une petite quantité de culture, et sont utiles pour agrandir vos frontières culturelles au début du jeu.</French>
+      <German>[COLOR_BUILDING_TEXT]Monumente[COLOR_REVERT] erhöhen den kulturellen Wert einer Stadt und ermöglichen die frühzeitige Ausdehnung der Stadtgrenzen. </German>
+      <Italian>I [COLOR_BUILDING_TEXT]monumenti[COLOR_REVERT] forniscono una piccola quantità di cultura e servono a espandere velocemente i confini della città nelle fasi iniziali della partita. </Italian>
+      <Spanish>Los [COLOR_BUILDING_TEXT]Monumentos[COLOR_REVERT] proporcionan una pequeña cantidad de cultura y son una buena manera de ampliar las fronteras de una ciudad en los primeros tiempos. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE</Tag>
+      <English>Berber Pasture</English>
+      <French>Pâturage berbere</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Berber Pasture[COLOR_REVERT] is the Maghreb replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT] and gives a health boost.</English>
+      <French>Le [COLOR_BUILDING_TEXT]pâturage berbere[COLOR_REVERT] est l'équivalent marocain du [COLOR_BUILDING_TEXT]grenier[COLOR_REVERT] et procure un bonus de santé.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA</Tag>
+      <English>Caitra Tribute</English>
+      <French>Hommage à Caitra</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Caitra Tribute[COLOR_REVERT] (the Majapahit replacement for [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT]) provides a free Merchant.</English>
+      <French>L'[COLOR_BUILDING_TEXT]hommage à Caitra[COLOR_REVERT] (équivalent majapahit du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT]) procure un marchand gratuit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MALAGASY_SALEGYHALL</Tag>
+      <English>Salegy Hall</English>
+      <French>Halle de salegy</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MALAGASY_SALEGYHALL_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Salegy Hall[COLOR_REVERT] in the Malagasy civilization. It provides a percentage-based culture boost.</English>
+      <French>L'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT] est remplacée par la [COLOR_BUILDING_TEXT]halle de salegy[COLOR_REVERT] chez les malgaches. Elle procure un bonus de culture basé sur le pourcentage.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MANDE_PORO</Tag>
+      <English>Poro</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MANDE_PORO_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Poro[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as reduce War Weariness.</English>
+      <French>Le [COLOR_BUILDING_TEXT]Poro[COLOR_REVERT] va diminuer le coût de maintenance et est requis pour construire la [COLOR_BUILDING_TEXT]cité interdite[COLOR_REVERT]. Il permet également de mieux gérer l'entretien des grands empires et de diminuer la lassitude de guerre.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MAPUCHE_MOHEDAN</Tag>
+      <English>Toqui Hut</English>
+      <French>Hutte du Toqui</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MAPUCHE_MOHEDAN_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT] replacement for the Mapuche civilization is the [COLOR_BUILDING_TEXT]Toqui Hut[COLOR_REVERT] and it gives a free Shock promotion.</English>
+      <French>L'équivalent de la [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT] pour les mapuches est la [COLOR_BUILDING_TEXT]hutte du Toqui[COLOR_REVERT], qui procure la promotion gratuite 'choc'.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MARAE</Tag>
+      <English>Marae</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MARAE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], the Polynesian replacement for the [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], offers bonus culture.</English>
+      <French>Le [COLOR_BUILDING_TEXT]marae[COLOR_REVERT], équivalent polynésien du [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], offre un bonus de culture.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], die Polynesische Ersatz für die [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], bietet bonus kultur.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], la sostituzione polinesiana per il [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], offre bonus di cultura.</Italian>
+      <Spanish> El [COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], la sustitución de polinesiano para el [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], ofrece bono de la cultura. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MEGARON</Tag>
+      <English>Megaron</English>
+      <French>Mégaron</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MEGYPT_EXHIBITION</Tag>
+      <English>Exhibition</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MEGYPT_EXHIBITION_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Exhibition[COLOR_REVERT], the Egyptian replacement for the [COLOR_BUILDING_TEXT]Museum[COLOR_REVERT], grants an additional trade route.</English>
+      <French>L'[COLOR_BUILDING_TEXT]Exhibition[COLOR_REVERT], équivalent egyptien du [COLOR_BUILDING_TEXT]musée[COLOR_REVERT], procure une route commerciale additionnelle.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MENARA</Tag>
+      <English>Menara</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MENARA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Menara[COLOR_REVERT], the Cham replacement for the [COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT], provides your city with a defense bonus.</English>
+      <French>Le [COLOR_BUILDING_TEXT]menara[COLOR_REVERT], l'équivalent cham du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], procure un prêtre gratuit dans la ville.</French>
+      <German>Das [COLOR_BUILDING_TEXT]Menara [COLOR_REVERT], der Chamwiedereinbau für das [COLOR_BUILDING_TEXT]Schloß[COLOR_REVERT], liefert ein Hauptglück in deiner Stadt</German>
+      <Italian>Il[COLOR_BUILDING_TEXT]Menara [COLOR_REVERT], il rimontaggio del Cham per il castillo [COLOR_BUILDING_TEXT] castillo  [COLOR_REVERT], fornisce una felicità importante nella vostra città</Italian>
+      <Spanish>El[COLOR_BUILDING_TEXT]Menara [COLOR_REVERT], el reemplazo del Cham para el[COLOR_BUILDING_TEXT]castillo  [COLOR_REVERT], proporciona una felicidad importante en tu ciudad</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MEXICO_CHARREADA</Tag>
+      <English>Charreada Arena</English>
+      <French>Charrería</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MEXICO_CHARREADA_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Charreada Arena[COLOR_REVERT] (the Mexican replacement for a [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) increases a city's happiness and its happiness output from using the culture slider. It will also provide extra experience to your mounted units.</English>
+      <French>Une [COLOR_BUILDING_TEXT]charrería[COLOR_REVERT] (équivalent mexicain du [COLOR_BUILDING_TEXT]Arena[COLOR_REVERT]) augmente le bonheur de la ville et la génération en fonction du taux de culture. Elle procure aussi de l'expérience supplémentaire aux unités montées.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MINOA_ANAKTORA</Tag>
+      <English>Anaktora</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MINOA_ANAKTORA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Anaktora[COLOR_REVERT] is the Minoan replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and add extra culture and trade routes.</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MOCHE_HUACA</Tag>
+      <English>Huaca</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MOCHE_HUACA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Huaca[COLOR_REVERT], the Moche replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], grants an additional trade route in the city in which it is built.</English>
+      <French>Le [COLOR_BUILDING_TEXT]huaca[COLOR_REVERT], équivalent moche du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT], procure une route commerciale supplémentaire dans la ville où il est construit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MUTAPA_ZIMBA</Tag>
+      <English>Zimba</English>
+      <French>Simba</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_MUTAPA_ZIMBA_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Zimba[COLOR_REVERT] increases your city's defenses aganst pre-gunpowder units and generates a small amount of culture. They are more expensive than the standard [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT] but will reduce city maintenace by 20 percent.</English>
+      <French>Une [COLOR_BUILDING_TEXT]simba[COLOR_REVERT] augmente la défense des villes contre les unités avant la poudre à canon, et génère un peu de culture. Elles sont plus chères que les [COLOR_BUILDING_TEXT]châteaux[COLOR_REVERT] mais réduise l'entretien de ville de 20%.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_NEWZEALAND_WOOLSHED</Tag>
+      <English>Woolshed</English>
+      <French>Hangar à laine</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_NEWZEALAND_WOOLSHED_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Woolsheds[COLOR_REVERT] increase a city's wealth. They also increase the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT]. Additional culture is provided if the city has access to [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</English>
+      <French>Les [COLOR_BUILDING_TEXT]hangars à laine[COLOR_REVERT] améliore la santé de la ville. Ce bonus est encore plus important en disposant d'[COLOR_HIGHLIGHT_TEXT]épices[COLOR_REVERT], de [COLOR_HIGHLIGHT_TEXT]sucre[COLOR_REVERT], de [COLOR_HIGHLIGHT_TEXT]vin[COLOR_REVERT], ou de [COLOR_HIGHLIGHT_TEXT]bananes[COLOR_REVERT]. Un surplus de culture est acquis en possession de [COLOR_HIGHLIGHT_TEXT]moutons[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_NIGERIA_JUJUHALL</Tag>
+      <English>JuJu Hall</English>
+      <French>Salle de jùjú</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_NIGERIA_JUJUHALL_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Juju Hall[COLOR_REVERT] increases a city's culture and increases the happiness output from using the culture slider. They also provide culture and are required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder. The Nigerian replacement for the [COLOR_BUILDING_TEXT]Theatre[COLOR_REVERT] allows provides one free Priest specialist.</English>
+      <French>La [COLOR_BUILDING_TEXT]salle de jùjú[COLOR_REVERT] améliore la culture de la ville et augmente le bonheur lié au taux de culture. Ils sont requis pour construire le [COLOR_BUILDING_TEXT]théâtre du monde[COLOR_REVERT]. L'équivalent nigérian du [COLOR_BUILDING_TEXT]théâtre[COLOR_REVERT] procure également un prêtre gratuit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_NORWAY_FISHMARKET</Tag>
+      <English>Stockfish</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_NORWAY_FISHMARKET_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Stockfish[COLOR_REVERT] is great for growth, if you have the resources.</English>
+      <French>Le [COLOR_BUILDING_TEXT]stockfish[COLOR_REVERT] est bon pour la croissance, si vous disposez des ressources.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD</Tag>
+      <English>Stone Head</English>
+      <French>Tête en pierre</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Stone Heads[COLOR_REVERT] (the Olmec replacement for [COLOR_BUILDING_TEXT]Monuments[COLOR_REVERT]) provide lower maintenance, and are a good way to expand city borders early on.</English>
+      <French>La [COLOR_BUILDING_TEXT]tête en pierre[COLOR_REVERT] (équivalent olmèque du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT]) diminue l'entretien et permet d'étendre les frontières de ville plus tôt.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PAKISTAN_ISI</Tag>
+      <English>ISI</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PAKISTAN_ISI_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]ISI[COLOR_REVERT] are the Pakistani replacement for the [COLOR_BUILDING_TEXT]Intelligence Agency[COLOR_REVERT]. It provides extra EXP for Gunpowder Units.</English>
+      <French>L'[COLOR_BUILDING_TEXT]ISI[COLOR_REVERT] est l'équivalent pakistanais de l'[COLOR_BUILDING_TEXT]agence de renseignements[COLOR_REVERT]. Elle procure de l'expérience supplémentaire aux unités à poudre à canon.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PARTHIA</Tag>
+      <English>Frahangestan</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PARTHIA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Frahangestan[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]library[COLOR_REVERT] and provides an additional science boost to the city in which it is built.</English>
+      <French>La [COLOR_BUILDING_TEXT]frahangestan[COLOR_REVERT] remplace la [COLOR_BUILDING_TEXT]bibliothèque[COLOR_REVERT] et procure un bonus de science à la ville où elle est construite.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PHILIPPINES_NIPA_HUT</Tag>
+      <English>Nipa Hut</English>
+      <French>Hutte Nipa</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PHILIPPINES_NIPA_HUT_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Nipa Hut[COLOR_REVERT] (the Flippino replacement for a [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT]) increases the production generated within a city.</English>
+      <French>Une [COLOR_BUILDING_TEXT]hutte Nipa[COLOR_REVERT] (équivalent philippin du [COLOR_BUILDING_TEXT]grenier[COLOR_REVERT]) augmente la production générée dans une ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PHOENICIA_DYE_FACILITY</Tag>
+      <English>Dye Facility</English>
+      <French>Teinturier</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PHOENICIA_DYE_FACILITY_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Dye Facility[COLOR_REVERT] (the Phoenician replacement for a [COLOR_BUILDING_TEXT]Custom House[COLOR_REVERT]) increases the commerce generated by a city's Foreign Intercontinental Trade Routes. Consider using it in conjunction with the [COLOR_HIGHLIGHT_TEXT]Free Market[COLOR_REVERT] Civic.  Commerce bonus with Dye.</English>
+      <French>Un [COLOR_BUILDING_TEXT]teinturier[COLOR_REVERT] (équivalent phénicien de la [COLOR_BUILDING_TEXT]maison des douanes[COLOR_REVERT]) améliore le commerce généré par les routes intercontinentales étrangères des villes. Il est conseillé de l'utiliser en conjonction avec la doctrine [COLOR_HIGHLIGHT_TEXT]libre marché[COLOR_REVERT]. Bonus commercial avec la ressource teinture.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PICTS_CRANNOG</Tag>
+      <English>Crannog</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PICTS_CRANNOG_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Crannog[COLOR_REVERT] (the Pictish replacement for a [COLOR_BUILDING_TEXT]Harbor[COLOR_REVERT]) increases that city's income from trade routes and extra defense. It increases a city's health from access to [COLOR_HIGHLIGHT_TEXT]Clam[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Crab[COLOR_REVERT], and [COLOR_HIGHLIGHT_TEXT]Fish[COLOR_REVERT] resources.</English>
+      <French>Un [COLOR_BUILDING_TEXT]crannog[COLOR_REVERT] (équivalent picte du [COLOR_BUILDING_TEXT]port[COLOR_REVERT]) augmente les revenus de route commerciale de la ville et améliore la défense. Cela augmente la santé de la ville qui a accès aux [COLOR_HIGHLIGHT_TEXT]crevettes[COLOR_REVERT], au [COLOR_HIGHLIGHT_TEXT]crabe[COLOR_REVERT], et au  [COLOR_HIGHLIGHT_TEXT]poisson[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PILIAKALNIS</Tag>
+      <English>Piliakalnis</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PILIAKALNIS_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], the Lithuanian replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], offers bonus health.</English>
+      <French>Le [COLOR_BUILDING_TEXT]piliakalnis[COLOR_REVERT], équivalent lituanien du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], procure un bonus de santé.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], die Litauische Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], bietet bonus gesundheit.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], la sostituzione Lituano per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di salute.</Italian>
+      <Spanish> El [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], la sustitución de Lituano para el [COLOR_BUILDING_TEXT]Castillo[COLOR_REVERT], ofrece bono de la salud. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PILIWNI_PEYOTE</Tag>
+      <English>Sweat Lodge</English>
+      <French>Hutte à sudation</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_PILIWNI_PEYOTE_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Sweat Lodge[COLOR_REVERT] helps units heal damage more quickly and adds health and Happiness to a city. They are required to build the [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] national wonder.</English>
+      <French>Une [COLOR_BUILDING_TEXT]hutte à sudation[COLOR_REVERT] aide les unités à récupérer de leurs blessures et ajoute de la santé et du bonheur à la ville. Elles sont requises pour construire la merveille nationale de la [COLOR_BUILDING_TEXT]Croix Rouge[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_RING</Tag>
+      <English>Kurash Ring</English>
+      <French>Club de kourash</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_RING_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Kurash[COLOR_REVERT] is a cheaper replacement for the [COLOR_BUILDING_TEXT]Barracks[COLOR_REVERT].</English>
+      <French>Le [COLOR_BUILDING_TEXT]club de kourash[COLOR_REVERT] est un équivalent bon marché de la [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_RINGFORT</Tag>
+      <English>Ringfort</English>
+      <French>Fort circulaire</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_RINGFORT_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], the Irish replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], offers bonus defense.</English>
+      <French>Le [COLOR_BUILDING_TEXT]fort circulaire[COLOR_REVERT], équivalent irlandais du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], apporte un bonus de défense.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], die Irische Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], bietet bonus verteidigung.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], la sostituzione irlandas per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di difesa.</Italian>
+      <Spanish> El [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], la sustitución de irlandas para el [COLOR_BUILDING_TEXT]Castillo[COLOR_REVERT], ofrece bono de la defensa. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES</Tag>
+      <English>Scythian Stables</English>
+      <French>Écuries scythes</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES_STRATEGY</Tag>
+      <English>Scythia replaces the [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] with [COLOR_BUILDING_TEXT]Scythian Stables[COLOR_REVERT], which give units built in the city a free March promotion.</English>
+      <French>La Scythie remplace les [COLOR_BUILDING_TEXT]écuries[COLOR_REVERT] par les [COLOR_BUILDING_TEXT]écuries scythes[COLOR_REVERT], qui procure la promotion 'marche' aux unités construites dans la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SELEUKEION</Tag>
+      <English>Seleukeion</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SELEUKEION_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Seleukeion[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT] and provides additional gold in the city it is built.</English>
+      <French>Le [COLOR_BUILDING_TEXT]seleukeion[COLOR_REVERT] remplace le [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT] et procure de l'or supplémentaire dans la ville où il est construit.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SELJUK_NIZAM</Tag>
+      <English>Nizamiyya</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SELJUK_NIZAM_STRATEGY</Tag>
+      <English>[TAB]The Seljuk replacement for the [COLOR_BUILDING_TEXT]University[COLOR_REVERT] gives an extra 1 health.</English>
+      <French>[TAB]Équivalent seldjouk de l'[COLOR_BUILDING_TEXT]université[COLOR_REVERT] procure 1 de santé supplémentaire.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SOMALIA_MOGADISHU</Tag>
+      <English>Ajuuraan Market</English>
+      <French>Marché ajuuraan</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SOMALIA_MOGADISHU_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Ajuuraan Markets[COLOR_REVERT] act like regular [COLOR_BUILDING_TEXT]Markets[COLOR_REVERT], except they provide +2 Food.</English>
+      <French>Les [COLOR_BUILDING_TEXT]marchés ajuuraan[COLOR_REVERT] fonctionne comme les autres [COLOR_BUILDING_TEXT]marchés[COLOR_REVERT] mais procurent +2 de nourriture.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SOUTHAFRICA_BRAAI</Tag>
+      <English>Braai</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SOUTHAFRICA_BRAAI_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Braai[COLOR_REVERT] increases the health and happiness of cities, if they have access to [COLOR_HIGHLIGHT_TEXT]Deer[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Cows[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Pigs[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Sheep[COLOR_REVERT].</English>
+      <French>Un [COLOR_BUILDING_TEXT]braai[COLOR_REVERT] augmente la santé et le bonheur des villes qui ont accès aux [COLOR_HIGHLIGHT_TEXT]cerfs[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]bovins[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]cochons[COLOR_REVERT], ou [COLOR_HIGHLIGHT_TEXT]moutons[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SWISS_ZOLL</Tag>
+      <English>Zoll</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_SWISS_ZOLL_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Zoll[COLOR_REVERT] (the Swiss replacement for the [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT]) increases a city's gold.</English>
+      <French>Un [COLOR_BUILDING_TEXT]zoll[COLOR_REVERT] (équivalent suisse d'une [COLOR_BUILDING_TEXT]banque[COLOR_REVERT]) augmente la richesse de la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_THING</Tag>
+      <English>Ting</English>
+      <French>Thing</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_THING_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], the Swedish replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], grants additional health.</English>
+      <French>Le [COLOR_BUILDING_TEXT]thing[COLOR_REVERT], équivalent suédois du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure de la santé supplémentaire.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], die Schwedish Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgebäude[COLOR_REVERT], bietet bonus gesundheit.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], la sostituzione Svedese per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], offre bonus di salute.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], la sustitución de Suevo para el [COLOR_BUILDING_TEXT]Delegació[COLOR_REVERT], frece bono de la salud.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_TROPICANA</Tag>
+      <English>Club Tropicana</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_TROPICANA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] has a greater Gold and Culture bonus than the Casino.</English>
+      <French>Le [COLOR_BUILDING_TEXT]Club Tropicana[COLOR_REVERT] fournit plus d'or et de culture que le casino.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_TROY_AGORA</Tag>
+      <English>Trojan Agora</English>
+      <French>Agora troyenne</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_TROY_AGORA_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Trojan Agora[COLOR_REVERT] (the Trojan replacement for a [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]) increases a city's wealth and can convert an extra citizen in merchant. It also increases a city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT].</English>
+      <French>L'[COLOR_BUILDING_TEXT]agora troyenne[COLOR_REVERT] (équivalent troyen du [COLOR_BUILDING_TEXT]marché[COLOR_REVERT]) augment la richesse de la ville et permet de convertir un citoyen supplémentaire en marchand. Cela augmente aussi le bonheur de la ville ayant accès aux [COLOR_HIGHLIGHT_TEXT]fourrures[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_TUPI_MALOCA</Tag>
+      <English>Maloca</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_TUPI_MALOCA_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Maloca[COLOR_REVERT] will lower city maintenance costs and is required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. It also helps manage the cost of controlling large empires as well as increase culture in the city.</English>
+      <French>Une [COLOR_BUILDING_TEXT]maloca[COLOR_REVERT] va diminuer le coût d'entretien de la ville et est requise pour construire la [COLOR_BUILDING_TEXT]cité interdite[COLOR_REVERT]. Elle permet d'également de mieux gérer le coût d'entretien des grands empires et d'augmenter la culture dans la ville.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_URHOKPOTA</Tag>
+      <English>Urhokpota</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_URHOKPOTA_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist.</English>
+      <French>Le [COLOR_BUILDING_TEXT]urhokpota[COLOR_REVERT] remplace le tribunal et procure un artiste.</French>
+      <German>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist</German>
+      <Spanish>The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR</Tag>
+      <English>Grape Arbor</English>
+      <French>Tonelle de vin</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Grape Arbors[COLOR_REVERT] increase a city's culture and commerce, and can increase the happiness output from using the culture slider. A [COLOR_BUILDING_TEXT]Grape Arbor[COLOR_REVERT] also provides culture and is required to build the [COLOR_BUILDING_TEXT]Globe Theatre[COLOR_REVERT] national wonder.</English>
+      <French>La [COLOR_BUILDING_TEXT]tonelle de vin[COLOR_REVERT] augmente la culture et le commerce de la ville et peut augmenter le bonheur davantage avec le curseur de culture. Il procure aussi de la culture et permet de construire le [COLOR_BUILDING_TEXT]théâtre du globe[COLOR_REVERT] (merveille nationale).</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VAULTED_GRANARY</Tag>
+      <English>Vaulted Granary</English>
+      <French>Grenier voûté</French>
+      <German>Vaulted Getreidespeicher</German>
+      <Italian>Granaio Vaulted</Italian>
+      <Spanish>Granero Saltado</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VECHE</Tag>
+      <English>Veche Hall</English>
+      <French>Assemblée vétché</French>
+      <German>Wetsche Saal</German>
+      <Italian>Veche Femminile</Italian>
+      <Spanish>Veche Feminino</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VECHE_STRATEGY</Tag>
+      <English>[TAB]The [COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], the Ukrainian replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], offers additional food.</English>
+      <French>[TAB]L'[COLOR_BUILDING_TEXT]assemblée vétché[COLOR_REVERT], équivalent ukrainien du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure davantage de nourriture.</French>
+      <German>[TAB]Die [COLOR_BUILDING_TEXT]Wetsche[COLOR_REVERT], die Ukrainisch Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgebäude[COLOR_REVERT], bietet Bonus Food.</German>
+      <Italian>[TAB]L'[COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], la sostituzione Ucraino per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], offre bonus di food.</Italian>
+      <Spanish>[TAB]El [COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], la sustitución de Ucraniano para el [COLOR_BUILDING_TEXT]Delegació[COLOR_REVERT], ofrece bonificación de la food. </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VEDIC_VEDAS</Tag>
+      <English>Vedas</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VEDIC_VEDAS_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Vedas[COLOR_REVERT] will boost your city's research, provide culture and one free Priest. They are required to build [COLOR_BUILDING_TEXT]Universities[COLOR_REVERT], the [COLOR_BUILDING_TEXT]Great Library[COLOR_REVERT] wonder, and the [COLOR_BUILDING_TEXT]National Epic[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Heroic Epic[COLOR_REVERT] national wonders.</English>
+      <French>Un [COLOR_BUILDING_TEXT]védas[COLOR_REVERT] va améliorer la recherche de votre ville, procurer de la culture et un prêtre gratuit. Ils sont requis pour construire des  [COLOR_BUILDING_TEXT]universités[COLOR_REVERT], la merveille de la [COLOR_BUILDING_TEXT]grande bibliothèque[COLOR_REVERT] et les merveilles nationales de l'[COLOR_BUILDING_TEXT]épopée nationale[COLOR_REVERT] et de l'[COLOR_BUILDING_TEXT]épopée héroïque[COLOR_REVERT].</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VIETNAM_OPENMARKET</Tag>
+      <English>Open Market</English>
+      <French>Marché libre</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VIETNAM_OPENMARKET_STRATEGY</Tag>
+      <English>The Vietnamese replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Open Market[COLOR_REVERT], which gives a minor production boost and is cheaper to build.</English>
+      <French>L'équivalent vietnamien du [COLOR_BUILDING_TEXT]marché[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]marché libre[COLOR_REVERT], qui procure un bonus de production et est moins cher à construire.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VILLU_STATUE</Tag>
+      <English>Villu Statue</English>
+      <French>Statue de Villu</French>
+      <Italian>Statua di Villu</Italian>
+      <Spanish>Estatua de la Villu</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_VILLU_STATUE_STRATEGY</Tag>
+      <English>The [COLOR_BUILDING_TEXT]Villu Statue[COLOR_REVERT], the Hurrian replacement for the [COLOR_BUILDING_TEXT]Courthouse[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</English>
+      <French>La [COLOR_BUILDING_TEXT]statue de Villu[COLOR_REVERT], équivalent hourrite du [COLOR_BUILDING_TEXT]tribunal[COLOR_REVERT], procure un prêtre gratuit, mais ne peut pas convertir un citoyen en espion.</French>
+      <German>Die [COLOR_BUILDING_TEXT]Villu Statue[COLOR_REVERT], der Hurriter Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgebäude[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</German>
+      <Italian>L'[COLOR_BUILDING_TEXT]Statua di Villu[COLOR_REVERT], il Hurriti sostituzione per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</Italian>
+      <Spanish>El [COLOR_BUILDING_TEXT]Estatua de la Villu[COLOR_REVERT], el Hurrita reemplazo para el [COLOR_BUILDING_TEXT]Delegació[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND</Tag>
+      <English>Cricket Ground</English>
+      <French>Terrain de criquet</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND_STRATEGY</Tag>
+      <English>[COLOR_BUILDING_TEXT]Cricket Grounds[COLOR_REVERT] (the West Indies replacement for the [COLOR_BUILDING_TEXT]Opera House[COLOR_REVERT]) has Merchant specialists instead of Artists, a slight gold bonus, and additional happiness bonus.</English>
+      <French>Un [COLOR_BUILDING_TEXT]terrain de criquet[COLOR_REVERT] (équivalent caribéen de l'[COLOR_BUILDING_TEXT]opéra[COLOR_REVERT]) obtient un spécialiste marchand au lieu d'un artiste, un petit bonus d'or et un bonus de bonheur supplémentaire.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_XIONGNU_KURGAN</Tag>
+      <English>Noin-Ula Kurgan</English>
+      <French>Noin-Ula kurgan</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_XIONGNU_KURGAN_STRATEGY</Tag>
+      <English>A [COLOR_BUILDING_TEXT]Noin-Ula Kurgan[COLOR_REVERT] (the Xiongnu replacement for a [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT]) gives a boost to culture and allows you to turn one citizen into an [COLOR_HIGHLIGHT_TEXT]Artist[COLOR_REVERT]. It is a good way to expand city borders early on.</English>
+      <French>Un [COLOR_BUILDING_TEXT]noin-ula kurgan[COLOR_REVERT] (équivalent xiongnu du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT]) procure un bonus de culture et permet de transformer un citoyen en [COLOR_HIGHLIGHT_TEXT]artiste[COLOR_REVERT]. C'est un bon moyen d'étendre les frontières des villes dans les premières époques.</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_YEMEN_QATFIELD</Tag>
+      <English>Qat Field</English>
+      <French>Champ de qat</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_BUILDING_YEMEN_QATFIELD_STRATEGY</Tag>
+      <English>Yemen replaces the [COLOR_BUILDING_TEXT]Healer's Hut[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Qat Field[COLOR_REVERT], which provides extra happiness and has a slight maintenance reduction.</English>
+      <French>Le Yémen remplace la [COLOR_BUILDING_TEXT]hutte du guérisseur[COLOR_REVERT] par le [COLOR_BUILDING_TEXT]champ de qat[COLOR_REVERT], qui procure du bonheur supplémentaire et dispose d'un coût d'entretien réduit.</French>
+   </TEXT>
+</Civ4GameText>

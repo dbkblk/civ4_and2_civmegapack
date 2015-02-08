@@ -1,0 +1,2608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Civ4GameText>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ABORIGINES_ADJECTIVE</Tag>
+      <English>Aboriginal</English>
+      <French>
+         <Text>aborigène:aborigène:aborigènes:aborigènes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ABORIGINES_DESC</Tag>
+      <English>Aboriginal Empire</English>
+      <French>Peuple aborigène</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ABORIGINES_SHORT_DESC</Tag>
+      <English>Aborigines</English>
+      <French>Aborigènes</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ADJECTIVE_MINOA</Tag>
+      <English>Minoan</English>
+      <French>
+         <Text>minoen:minoenne:minoens:minoennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AKKADIAN_ADJECTIVE</Tag>
+      <English>Akkadian</English>
+      <French>
+         <Text>akkadien:akkadienne:akkadiens:akkadiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AKKADIAN_DESC</Tag>
+      <English>Akkadian Empire</English>
+      <French>Empire d'Akkad</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AKKADIAN_SHORT_DESC</Tag>
+      <English>Akkad</English>
+      <French>Akkadiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ALBANIA_ADJECTIVE</Tag>
+      <English>Albanian</English>
+      <French>
+         <Text>albanais:albanaise:albanais:albanaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ALBANIA_DESC</Tag>
+      <English>Albania</English>
+      <French>Albanie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ALBANIA_SHORT_DESC</Tag>
+      <English>Albania</English>
+      <French>Albanais</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANGLO_SAXON_ADJECTIVE</Tag>
+      <English>Anglo-Saxon</English>
+      <French>
+         <Text>anglo-saxon:anglo-saxonne:anglo-saxons:anglo-saxonnes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANGLO_SAXON_DESC</Tag>
+      <English>Anglo-Saxon Empire</English>
+      <French>Peuple anglo-saxon</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC</Tag>
+      <English>Anglo-Saxons</English>
+      <French>Anglo-saxons</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANISHNAABEK_ADJECTIVE</Tag>
+      <English>Algonquian</English>
+      <French>
+         <Text>algonquin:algonquine:algonquins:algonquines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANISHNAABEK_DESC</Tag>
+      <English>Algonquin Empire</English>
+      <French>Peuple algonquin</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANISHNAABEK_SHORT_DESC</Tag>
+      <English>Algonquin</English>
+      <French>Algonquins</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANIYONEGA_ADJECTIVE</Tag>
+      <English>Cherokee</English>
+      <French>
+         <Text>cherokee:cherokee:cherokees:cherokees</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANIYONEGA_DESC</Tag>
+      <English>Cherokee indians</English>
+      <French>Indiens Cherokee</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ANIYONEGA_SHORT_DESC</Tag>
+      <English>Cherokee</English>
+      <French>Cherokees</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_APACHE_ADJECTIVE</Tag>
+      <English>Apache</English>
+      <French>
+         <Text>apache:apache:apaches:apaches</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_APACHE_DESC</Tag>
+      <English>Apache Empire</English>
+      <French>Indiens Apache</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_APACHE_SHORT_DESC</Tag>
+      <English>Apache</English>
+      <French>Apaches</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ARGENTINA_ADJECTIVE</Tag>
+      <English>Argentinian</English>
+      <French>
+         <Text>argentin:argentine:argentins:argentines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ARGENTINA_DESC</Tag>
+      <English>Argentinian Empire</English>
+      <French>Argentine</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ARGENTINA_SHORT_DESC</Tag>
+      <English>Argentina</English>
+      <French>Argentins</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ARMENIA_ADJECTIVE</Tag>
+      <English>Armenian</English>
+      <French>
+         <Text>armenien:armenienne:armeniens:armeniennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ARMENIA_DESC</Tag>
+      <English>Armenian Empire</English>
+      <French>Armenie</French>
+      <Italian>Imperio Armeni</Italian>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ARMENIA_SHORT_DESC</Tag>
+      <English>Armenia</English>
+      <French>Armeniens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ASHANTI_ADJECTIVE</Tag>
+      <English>Ashanti</English>
+      <French>
+         <Text>ashanti:ashanti:ashantis:ashantis</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ASHANTI_DESC</Tag>
+      <English>Ashanti Empire</English>
+      <French>Peuple ashanti</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ASHANTI_SHORT_DESC</Tag>
+      <English>Asanteman</English>
+      <French>Ashantis</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AUSTRALIA_ADJECTIVE</Tag>
+      <English>Australian</English>
+      <French>
+         <Text>australien:australienne:australiens:australiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Australisch</German>
+      <Italian>Australiano</Italian>
+      <Spanish>Australiano</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AUSTRALIA_DESC</Tag>
+      <English>Australian Empire</English>
+      <French>Australie</French>
+      <German>Australisch Reich</German>
+      <Italian>Australiano Impero</Italian>
+      <Spanish>Australiano Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AUSTRALIA_SHORT_DESC</Tag>
+      <English>Australia</English>
+      <French>Australiens</French>
+      <German>Australien</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
+      <English>Austrian</English>
+      <French>
+         <Text>autrichien:autrichienne:autrichiens:autrichiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Osterreichische</German>
+      <Italian>Austriaco</Italian>
+      <Spanish>Austriaco</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AUSTRIA_DESC</Tag>
+      <English>Austrian Empire</English>
+      <French>Autriche</French>
+      <German>Kaisertum Osterreich</German>
+      <Italian>Impero Austriaco</Italian>
+      <Spanish>Imperio Austriaco</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_AUSTRIA_SHORT_DESC</Tag>
+      <English>Austria</English>
+      <French>Autrichiens</French>
+      <German>Osterre</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BAKTRIA_ADJECTIVE</Tag>
+      <English>Baktrian</English>
+      <French>
+         <Text>bactrien:bactrienne:bactriens:bactriennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Baktrian</Text>
+         <Gender>Neuter</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Baktrian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Baktrian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BAKTRIA_DESC</Tag>
+      <English>Baktrian Empire</English>
+      <French>
+         <Text>Royaume greco-bactrien</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BAKTRIA_SHORT_DESC</Tag>
+      <English>Baktria</English>
+      <French>Greco-bactriens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BANGLADESH_ADJECTIVE</Tag>
+      <English>Bangladeshi</English>
+      <French>
+         <Text>bangladais:bangladaise:bangladais:bangladaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BANGLADESH_DESC</Tag>
+      <English>Bangladeshi Empire</English>
+      <French>Bangladesh</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BANGLADESH_SHORT_DESC</Tag>
+      <English>Bangladesh</English>
+      <French>Bangladais</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BATAVII_ADJECTIVE</Tag>
+      <English>Batavian</English>
+      <French>
+         <Text>batave:batave:bataves:bataves</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Batavian</Text>
+         <Gender>Neuter</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Batavian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Batavian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BATAVII_DESC</Tag>
+      <English>Batavian Empire</English>
+      <French>
+         <Text>Batavie</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Batavian Empire</Text>
+         <Gender>Neuter:Neuter:Neuter</Gender>
+         <Plural>0:0:0</Plural>
+      </German>
+      <Italian>
+         <Text>Batavian Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Batavian Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BATAVII_SHORT_DESC</Tag>
+      <English>Batavii</English>
+      <French>
+         <Text>Bataves</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Batavii</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Batavii</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Batavii</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BELGIUM_ADJECTIVE</Tag>
+      <English>Belgian</English>
+      <French>
+         <Text>belge:belge:belges:belges</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BELGIUM_DESC</Tag>
+      <English>Belgian Empire</English>
+      <French>Belgique</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BELGIUM_SHORT_DESC</Tag>
+      <English>Belgium</English>
+      <French>Belges</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BENIN_ADJECTIVE</Tag>
+      <English>Beni</English>
+      <French>
+         <Text>béninois:béninoise:béninois:béninoises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BENIN_DESC</Tag>
+      <English>Benin Empire</English>
+      <French>Bénin</French>
+      <German>Reich von Benin</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BENIN_SHORT_DESC</Tag>
+      <English>Benin</English>
+      <French>Béninois</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BRAZIL_ADJECTIVE</Tag>
+      <English>Brazilian</English>
+      <French>
+         <Text>brésilien:brésilienne:brésiliens:brésiliennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BRAZIL_DESC</Tag>
+      <English>Brazilian Empire</English>
+      <French>Erésil</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BRAZIL_SHORT_DESC</Tag>
+      <English>Brazil</English>
+      <French>Brésiliens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BULGARIA_ADJECTIVE</Tag>
+      <English>Bulgarian</English>
+      <French>
+         <Text>bulgare:bulgare:bulgares:bulgares</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Bulgarisch</German>
+      <Italian>Bulgaro</Italian>
+      <Spanish>Búlgaro</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BULGARIA_DESC</Tag>
+      <English>Bulgarian Empire</English>
+      <French>Bulgarie</French>
+      <German>Bulgarisch Reich</German>
+      <Italian>Bulgaro Impero</Italian>
+      <Spanish>Búlgaro Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BULGARIA_SHORT_DESC</Tag>
+      <English>Bulgaria</English>
+      <French>Bulgares</French>
+      <German>Bulgarien</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BURMA_ADJECTIVE</Tag>
+      <English>Burmese</English>
+      <French>
+         <Text>birman:birmane:birmans:birmanes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BURMA_DESC</Tag>
+      <English>Burmese Empire</English>
+      <French>Union de Birmanie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_BURMA_SHORT_DESC</Tag>
+      <English>Burma</English>
+      <French>Birmans</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CANADA_ADJECTIVE</Tag>
+      <English>Canadian</English>
+      <French>
+         <Text>canadien:canadienne:canadiens:canadiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Kanadisch</German>
+      <Italian>Canadese</Italian>
+      <Spanish>Canadiense</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CANADA_DESC</Tag>
+      <English>Canadian Empire</English>
+      <French>Canada</French>
+      <German>Kanadisch Reich</German>
+      <Italian>Canadese Impero</Italian>
+      <Spanish>Canadiense Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CANADA_SHORT_DESC</Tag>
+      <English>Canada</English>
+      <French>Canadiens</French>
+      <German>Kanada</German>
+      <Spanish>Canadá</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHAMPA_ADJECTIVE</Tag>
+      <English>Cham</English>
+      <French>
+         <Text>cham:cham:chams:chams</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHAMPA_DESC</Tag>
+      <English>Cham Empire</English>
+      <French>Champã</French>
+      <German>Cham Reich</German>
+      <Italian>Impero cham</Italian>
+      <Spanish>Imperio cham</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHAMPA_SHORT_DESC</Tag>
+      <English>Champa</English>
+      <French>Chams</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHILE_ADJECTIVE</Tag>
+      <English>Chilean</English>
+      <French>
+         <Text>chilien:chilienne:chiliens:chiliennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHILE_DESC</Tag>
+      <English>Chilean Empire</English>
+      <French>Chili</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHILE_SHORT_DESC</Tag>
+      <English>Chile</English>
+      <French>Chiliens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHOLA_ADJECTIVE</Tag>
+      <English>Chola</English>
+      <French>
+         <Text>chola:chola:cholas:cholas</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHOLA_DESC</Tag>
+      <English>Chola Empire</English>
+      <French>Dynastie Chola</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CHOLA_SHORT_DESC</Tag>
+      <English>Chola</English>
+      <French>Cholas</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_COLOMBIA_ADJECTIVE</Tag>
+      <English>Colombian</English>
+      <French>
+         <Text>colombien:colombienne:colombiens:colombiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_COLOMBIA_DESC</Tag>
+      <English>Colombian Empire</English>
+      <French>Colombie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>
+      <English>Colombia</English>
+      <French>Colombiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CONGO_ADJECTIVE</Tag>
+      <English>Congolese</English>
+      <French>
+         <Text>congolais:congolaise:congolais:congolaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CONGO_DESC</Tag>
+      <English>Congolese Empire</English>
+      <French>Congo</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CONGO_SHORT_DESC</Tag>
+      <English>Congo</English>
+      <French>Congolais</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CROATIA_ADJECTIVE</Tag>
+      <English>Croatian</English>
+      <French>
+         <Text>croate:croate:croates:croates</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CROATIA_DESC</Tag>
+      <English>Croatian Empire</English>
+      <French>Croatie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CROATIA_SHORT_DESC</Tag>
+      <English>Croatia</English>
+      <French>Croates</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CUBA_ADJECTIVE</Tag>
+      <English>Cuban</English>
+      <French>
+         <Text>cubain:cubaine:cubains:cubaines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CUBA_DESC</Tag>
+      <English>Cuban Empire</English>
+      <French>Cuba</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CUBA_SHORT_DESC</Tag>
+      <English>Cuba</English>
+      <French>Cubains</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CZECH_ADJECTIVE</Tag>
+      <English>Czech</English>
+      <French>
+         <Text>tchècoslovaque:tchècoslovaque:tchècoslovaques:tchècoslovaques</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CZECH_DESC</Tag>
+      <English>Czech Empire</English>
+      <French>République tchèque</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_CZECH_SHORT_DESC</Tag>
+      <English>Czech</English>
+      <French>Tchècoslovaques</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_DENMARK_ADJECTIVE</Tag>
+      <English>Danish</English>
+      <French>
+         <Text>danois:danoise:danois:danoises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_DENMARK_DESC</Tag>
+      <English>Danish Empire</English>
+      <French>Danemark</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC</Tag>
+      <English>Denmark</English>
+      <French>Danois</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_DINNEHIH_ADJECTIVE</Tag>
+      <English>Dinnehih</English>
+      <French>
+         <Text>dinnehih:dinnehih:dinnehihs:dinnehihs</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_DINNEHIH_DESC</Tag>
+      <English>Dinnehih Empire</English>
+      <French>Indiens dinnehihs</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_DINNEHIH_SHORT_DESC</Tag>
+      <English>Dinnehih</English>
+      <French>Dinnehihs</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ETRUSCANS_ADJECTIVE</Tag>
+      <English>Etruscan</English>
+      <French>
+         <Text>etrusque:etrusque:etrusques:etrusques</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ETRUSCANS_DESC</Tag>
+      <English>Etruscan Empire</English>
+      <French>Peuple etrusque</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ETRUSCANS_SHORT_DESC</Tag>
+      <English>Etruscans</English>
+      <French>Etrusques</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_FINLAND_ADJECTIVE</Tag>
+      <English>Finnish</English>
+      <French>
+         <Text>finlandais:finlandaise:finlandais:finlandaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_FINLAND_DESC</Tag>
+      <English>Finnish Empire</English>
+      <French>Finlande</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_FINLAND_SHORT_DESC</Tag>
+      <English>Finland</English>
+      <French>Finlandais</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GEORGIA_ADJECTIVE</Tag>
+      <English>Georgian</English>
+      <French>
+         <Text>géorgien:géorgienne:géorgiens:géorgiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GEORGIA_DESC</Tag>
+      <English>Georgian Empire</English>
+      <French>Géorgie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GEORGIA_SHORT_DESC</Tag>
+      <English>Georgia</English>
+      <French>Géorgiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GETAI_ADJECTIVE</Tag>
+      <English>Geton</English>
+      <French>
+         <Text>gète:gète:gètes:gètes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Geton</Text>
+         <Gender>Neuter</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Geton</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Geton</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GETAI_DESC</Tag>
+      <English>Getic Empire</English>
+      <French>
+         <Text>Peuple gète</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Getic Empire</Text>
+         <Gender>Neuter:Neuter:Neuter</Gender>
+         <Plural>0:0:0</Plural>
+      </German>
+      <Italian>
+         <Text>Getic Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Getic Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GETAI_SHORT_DESC</Tag>
+      <English>Getai</English>
+      <French>
+         <Text>Gètes</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Getai</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Getai</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Getai</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GOTHS_ADJECTIVE</Tag>
+      <English>Gothic</English>
+      <French>
+         <Text>gothique:gothique:gothiques:gothiques</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <Spanish>Godo</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GOTHS_DESC</Tag>
+      <English>Gothic Empire</English>
+      <French>Goths</French>
+      <Spanish>Imperio Godo</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_GOTHS_SHORT_DESC</Tag>
+      <English>Goths</English>
+      <Spanish>Godo</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HARAPPA_ADJECTIVE</Tag>
+      <English>Harappan</English>
+      <French>
+         <Text>harapéen:harapéenne:harapéens:harapéennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HARAPPA_DESC</Tag>
+      <English>Harappan Empire</English>
+      <French>Harappa</French>
+      <German>Harappan Reich</German>
+      <Italian>Harappan Impero</Italian>
+      <Spanish>Harappan Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HARAPPA_SHORT_DESC</Tag>
+      <English>Harappa</English>
+      <French>Harappéens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HUNGARY_ADJECTIVE</Tag>
+      <English>Hungarian</English>
+      <French>
+         <Text>hongrois:hongroise:hongrois:hongroises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Ungarische</German>
+      <Italian>Ungherese</Italian>
+      <Spanish>Húngaro</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HUNGARY_DESC</Tag>
+      <English>Hungarian Empire</English>
+      <French>Hongrie</French>
+      <German>Ungarische Reich</German>
+      <Italian>Ungherese Impero</Italian>
+      <Spanish>Húngaro Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HUNGARY_SHORT_DESC</Tag>
+      <English>Hungary</English>
+      <French>Hongrois</French>
+      <German>Ungarn</German>
+      <Italian>Ungheria</Italian>
+      <Spanish>Hungría</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HUNS_ADJECTIVE</Tag>
+      <English>Hunnic</English>
+      <French>
+         <Text>hun:hune:huns:hunes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <Hungarian>Hun</Hungarian>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HUNS_DESC</Tag>
+      <English>Hunnic Empire</English>
+      <French>Peuple des Huns</French>
+      <German>Hunnisches Reich</German>
+      <Hungarian>Hun birodalom</Hungarian>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HUNS_SHORT_DESC</Tag>
+      <English>Hunnia</English>
+      <French>Huns</French>
+      <German>Hunnien</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HURRIANS_ADJECTIVE</Tag>
+      <English>Hurrian</English>
+      <French>
+         <Text>hourrite:hourrite:hourrites:hourrites</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Hurriter</German>
+      <Italian>Hurriti</Italian>
+      <Spanish>Hurrita</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HURRIANS_DESC</Tag>
+      <English>Hurrian Empire</English>
+      <French>Peuple hourrite</French>
+      <German>Hurriter Reich</German>
+      <Italian>Hurriti Impero</Italian>
+      <Spanish>Hurrita Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_HURRIANS_SHORT_DESC</Tag>
+      <English>Hurri</English>
+      <French>Hourrites</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_INDONESIA_ADJECTIVE</Tag>
+      <English>Indonesian</English>
+      <French>
+         <Text>indonésien:indonésienne:indonésiens:indonésiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_INDONESIA_DESC</Tag>
+      <English>Indonesian Empire</English>
+      <French>Indonésie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_INDONESIA_SHORT_DESC</Tag>
+      <English>Indonesia</English>
+      <French>Indonésiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRAN_ADJECTIVE</Tag>
+      <English>Iranian</English>
+      <French>
+         <Text>iranien:iranienne:iraniens:iraniennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRAN_DESC</Tag>
+      <English>Iranian Empire</English>
+      <French>Iran</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRAN_SHORT_DESC</Tag>
+      <English>Iran</English>
+      <French>Iraniens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRAQ_ADJECTIVE</Tag>
+      <English>Iraqi</English>
+      <French>
+         <Text>irakien:irakienne:irakiens:irakiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Iraqi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Iraqi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Iraqi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRAQ_DESC</Tag>
+      <English>Iraqi Empire</English>
+      <French>Irak</French>
+      <German>
+         <Text>Iraqi Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Iraqi Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Iraqi Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRAQ_SHORT_DESC</Tag>
+      <English>Iraq</English>
+      <French>Irakiens</French>
+      <German>
+         <Text>Iraq</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Iraq</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Iraq</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRELAND_ADJECTIVE</Tag>
+      <English>Irish</English>
+      <French>
+         <Text>irlandais:irlandaise:irlandais:irlandaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Irische</German>
+      <Italian>Irlandese</Italian>
+      <Spanish>Irlandas</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRELAND_DESC</Tag>
+      <English>Irish Empire</English>
+      <French>Irlande</French>
+      <German>Irische Reich</German>
+      <Italian>Irlandese Impero</Italian>
+      <Spanish>Irlandas Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_IRELAND_SHORT_DESC</Tag>
+      <English>Ireland</English>
+      <French>Irlandais</French>
+      <German>Irland</German>
+      <Italian>Irlanda</Italian>
+      <Spanish>Irlanda</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ISRAEL_ADJECTIVE</Tag>
+      <English>Israeli</English>
+      <French>
+         <Text>israëlien:israëlienne:israëliens:israëliennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Israelischer</German>
+      <Italian>Israelo</Italian>
+      <Spanish>Israelí</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ISRAEL_DESC</Tag>
+      <English>Israeli Empire</English>
+      <French>Israël</French>
+      <German>Israelischer Reich</German>
+      <Italian>Israelo Impero</Italian>
+      <Spanish>Imperio Israelí</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ISRAEL_SHORT_DESC</Tag>
+      <English>Israel</English>
+      <French>Israëliens</French>
+      <Italian>Israele</Italian>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ITALY_ADJECTIVE</Tag>
+      <English>Italian</English>
+      <French>
+         <Text>italien:italienne:italiens:italiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ITALY_DESC</Tag>
+      <English>Italian Empire</English>
+      <French>Italie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ITALY_SHORT_DESC</Tag>
+      <English>Italy</English>
+      <French>Italiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KANEMBORNU_ADJECTIVE</Tag>
+      <English>Kanem-Bornu</English>
+      <French>
+         <Text>kanembou:kanemboue:kanembous:kanemboues</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KANEMBORNU_DESC</Tag>
+      <English>Kanem-Bornu Empire</English>
+      <French>Royaume du Kanem-Bornou</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KANEMBORNU_SHORT_DESC</Tag>
+      <English>Kanem-Bornu</English>
+      <French>Kanembous</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KAZAKH_ADJECTIVE</Tag>
+      <English>Kazakh</English>
+      <French>
+         <Text>kazakh:kazakhe:kazakhs:kazakhes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KAZAKH_DESC</Tag>
+      <English>Kazakh Empire</English>
+      <French>Kazakhstan</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KAZAKH_SHORT_DESC</Tag>
+      <English>Kazakhstan</English>
+      <French>Kazakhs</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KHAZARIA_ADJECTIVE</Tag>
+      <English>Khazar</English>
+      <French>
+         <Text>khazar:khazare:khazars:khazares</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Chasar</German>
+      <Italian>Cazar</Italian>
+      <Spanish>Jazar</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KHAZARIA_DESC</Tag>
+      <English>Khazar Empire</English>
+      <French>Peuple khazar</French>
+      <German>Chasar Reich</German>
+      <Italian>Cazar Impero</Italian>
+      <Spanish>Jazar Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_KHAZARIA_SHORT_DESC</Tag>
+      <English>Khazaria</English>
+      <French>Khazars</French>
+      <German>Chasaria</German>
+      <Italian>Cazaria</Italian>
+      <Spanish>Jazaria</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LATVIA_ADJECTIVE</Tag>
+      <English>Latvian</English>
+      <French>
+         <Text>letton:lettone:lettons:lettones</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LATVIA_DESC</Tag>
+      <English>Latvian Empire</English>
+      <French>Lettonie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LATVIA_SHORT_DESC</Tag>
+      <English>Latvia</English>
+      <French>Lettons</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LITHUANIA_ADJECTIVE</Tag>
+      <English>Lithuanian</English>
+      <French>
+         <Text>lituanien:lituanienne:lituaniens:lituaniennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Litauische</German>
+      <Italian>Lituano</Italian>
+      <Spanish>Lituano</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LITHUANIA_DESC</Tag>
+      <English>Lithuanian Empire</English>
+      <French>Lituanie</French>
+      <German>Litauische Reich</German>
+      <Italian>Lituano Impero</Italian>
+      <Spanish>Lituano Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LITHUANIA_SHORT_DESC</Tag>
+      <English>Lithuania</English>
+      <French>Lituaniens</French>
+      <German>Litauen</German>
+      <Italian>Lituania</Italian>
+      <Spanish>Lituania</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LOMBARD_ADJECTIVE</Tag>
+      <English>Langobard</English>
+      <French>
+         <Text>lombard:lombarde:lombards:lombardes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LOMBARD_DESC</Tag>
+      <English>Langobard Empire</English>
+      <French>Royaume de Lombardie</French>
+      <German>Langobard Reich</German>
+      <Italian>Langobard Impero</Italian>
+      <Spanish>Impero Langobard</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_LOMBARD_SHORT_DESC</Tag>
+      <English>Langobardia</English>
+      <French>Lombards</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAGHREB_ADJECTIVE</Tag>
+      <English>Moroccan</English>
+      <French>
+         <Text>marocain:marocaine:marocains:marocaines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAGHREB_DESC</Tag>
+      <English>Moroccan Empire</English>
+      <French>Royaume du Maroc</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAGHREB_SHORT_DESC</Tag>
+      <English>Morocco</English>
+      <French>Marocains</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAJAPAHIT_ADJECTIVE</Tag>
+      <English>Majapahit</English>
+      <French>
+         <Text>majapahit:majapahite:majapahits:majapahites</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAJAPAHIT_DESC</Tag>
+      <English>Majapahit Empire</English>
+      <French>Royaume de Majapahit</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAJAPAHIT_SHORT_DESC</Tag>
+      <English>Majapahit</English>
+      <French>Majapahits</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MALAGASY_ADJECTIVE</Tag>
+      <English>Malagasy</English>
+      <French>
+         <Text>malgache:malgache:malgaches:malgaches</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Malagasy</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Malagasy</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Malagasy</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MALAGASY_DESC</Tag>
+      <English>Malagasy Empire</English>
+      <French>
+         <Text>Madagascar</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Malagasy Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Malagasy Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Malagasy Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MALAGASY_SHORT_DESC</Tag>
+      <English>Madagascar</English>
+      <French>
+         <Text>Malgaches</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Madagascar</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Madagascar</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Madagascar</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MANDE_ADJECTIVE</Tag>
+      <English>Songhai</English>
+      <French>
+         <Text>songhaï:songhaïe:songhaïs:songhaïes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MANDE_DESC</Tag>
+      <English>Songhai Empire</English>
+      <French>Empire songhaï</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MANDE_SHORT_DESC</Tag>
+      <English>Songhai</English>
+      <French>Songhaïs</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAPUCHE_ADJECTIVE</Tag>
+      <English>Mapuche</English>
+      <French>
+         <Text>mapuche:mapuche:mapuches:mapuches</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAPUCHE_DESC</Tag>
+      <English>Mapuche Empire</English>
+      <French>Peuple mapuche</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MAPUCHE_SHORT_DESC</Tag>
+      <English>Mapuche</English>
+      <French>Mapuches</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MEGYPT_ADJECTIVE</Tag>
+      <English>Mamluk</English>
+      <French>
+         <Text>mamelouk:mamelouk:mamelouks:mamelouks</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MEGYPT_DESC</Tag>
+      <English>Mamluk Empire</English>
+      <French>Empire Mamelouk</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MEGYPT_SHORT_DESC</Tag>
+      <English>Mamluks</English>
+      <French>Mamelouks</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MEXICO_ADJECTIVE</Tag>
+      <English>Mexican</English>
+      <French>
+         <Text>mexicain:mexicaine:mexicains:mexicaines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MEXICO_DESC</Tag>
+      <English>Mexican Empire</English>
+      <French>Mexique</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
+      <English>Mexico</English>
+      <French>Mexicains</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MINOA</Tag>
+      <English>Minoan Empire</English>
+      <French>Peuple minoen</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MOCHE_ADJECTIVE</Tag>
+      <English>Moche</English>
+      <French>
+         <Text>moche:moche:moches:moches</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MOCHE_DESC</Tag>
+      <English>Moche Empire</English>
+      <French>Indiens moches</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MOCHE_SHORT_DESC</Tag>
+      <English>Moche</English>
+      <French>Moches</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MUTAPA_ADJECTIVE</Tag>
+      <English>Mutapa</English>
+      <French>
+         <Text>monomatapa:monomatapa:monomatapas:monomatapas</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MUTAPA_DESC</Tag>
+      <English>Mutapa Empire</English>
+      <French>Empire monomotapa</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MUTAPA_SHORT_DESC</Tag>
+      <English>Mutapa</English>
+      <French>Monomatapas</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MYCENAE_ADJECTIVE</Tag>
+      <English>Mycenaean</English>
+      <French>
+         <Text>mycénien:mycénienne:mycéniens:mycéniennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Mykenische</German>
+      <Italian>Micenea</Italian>
+      <Spanish>Micénica</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MYCENAE_DESC</Tag>
+      <English>Mycenaean Empire</English>
+      <French>Mycènes</French>
+      <German>Mykenische Reich</German>
+      <Italian>Impero di Micenea</Italian>
+      <Spanish>Imperio de Micénica</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_MYCENAE_SHORT_DESC</Tag>
+      <English>Mycenae</English>
+      <French>Mycènes</French>
+      <German>Mykene</German>
+      <Italian>Micene</Italian>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NEWZEALAND_ADJECTIVE</Tag>
+      <English>New Zealand</English>
+      <French>
+         <Text>néo-zélandais:néo-zélandaise:néo-zélandais:néo-zélandaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NEWZEALAND_DESC</Tag>
+      <English>New Zealand Empire</English>
+      <French>Nouvelle-Zélande</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NEWZEALAND_SHORT_DESC</Tag>
+      <English>New Zealand</English>
+      <French>Néo-zélandais</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NIGERIA_ADJECTIVE</Tag>
+      <English>Nigeria</English>
+      <French>Nigerians</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NIGERIA_DESC</Tag>
+      <English>Nigerian Empire</English>
+      <French>Nigeria</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NIGERIA_SHORT_DESC</Tag>
+      <English>Nigerian</English>
+      <French>
+         <Text>nigérian:nigérianne:nigérians:nigériannes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NORWAY_ADJECTIVE</Tag>
+      <English>Norwegian</English>
+      <French>
+         <Text>norvégien:norvégienne:norvégiens:norvégiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NORWAY_DESC</Tag>
+      <English>Norwegian Empire</English>
+      <French>Norvège</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
+      <English>Norway</English>
+      <French>Norvégiens</French>
+      <German>
+         <Text>Norwegen</Text>
+         <Gender>Neuter:Neuter:Neuter</Gender>
+         <Plural>0:0:0</Plural>
+      </German>
+      <Italian>Norvegia</Italian>
+      <Spanish>Noruega</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NUBIA_ADJECTIVE</Tag>
+      <English>Nubian</English>
+      <French>
+         <Text>nubien:nubienne:nubiens:nubiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NUBIA_DESC</Tag>
+      <English>Nubian Empire</English>
+      <French>Royaume de Nubie</French>
+      <German>Nubian Reich</German>
+      <Italian>Impero di Nubian</Italian>
+      <Spanish>Imperio de Nubian</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_NUBIA_SHORT_DESC</Tag>
+      <English>Nubia</English>
+      <French>Nubiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_OLMEC_ADJECTIVE</Tag>
+      <English>Olmec</English>
+      <French>
+         <Text>olmèque:olmèque:olmèques:olmèques</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_OLMEC_DESC</Tag>
+      <English>Olmec Empire</English>
+      <French>Peuple olmèque</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_OLMEC_SHORT_DESC</Tag>
+      <English>Olmec</English>
+      <French>Olmèques</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PAKISTAN_ADJECTIVE</Tag>
+      <English>Pakistani</English>
+      <French>
+         <Text>pakistanais:pakistanaise:pakistanais:pakistanaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PAKISTAN_DESC</Tag>
+      <English>Pakistani Empire</English>
+      <French>Pakistan</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PAKISTAN_SHORT_DESC</Tag>
+      <English>Pakistan</English>
+      <French>Pakistanais</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PARTHIA_ADJECTIVE</Tag>
+      <English>Parthian</English>
+      <French>
+         <Text>parthe:parthe:parthes:parthes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Parthian</Text>
+         <Gender>Neuter</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Parthian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Parthian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PARTHIA_DESC</Tag>
+      <English>Parthian Empire</English>
+      <French>
+         <Text>Parthie</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Parthian Empire</Text>
+         <Gender>Neuter:Neuter:Neuter</Gender>
+         <Plural>0:0:0</Plural>
+      </German>
+      <Italian>
+         <Text>Parthian Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Parthian Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PARTHIA_SHORT_DESC</Tag>
+      <English>Parthia</English>
+      <French>
+         <Text>Parthes</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Parthia</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Parthia</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Parthia</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PHILIPPINES_ADJECTIVE</Tag>
+      <English>Filipino</English>
+      <French>
+         <Text>philippin:philippine:philippins:philippines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PHILIPPINES_DESC</Tag>
+      <English>Filipino Empire</English>
+      <French>Philippines</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PHILIPPINES_SHORT_DESC</Tag>
+      <English>Philippines</English>
+      <French>Philippins</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PHOENICIA_ADJECTIVE</Tag>
+      <English>Phoenician</English>
+      <French>
+         <Text>phénicien:phénicienne:phéniciens:phéniciennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PHOENICIA_DESC</Tag>
+      <English>Phoenician Empire</English>
+      <French>Phénicie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PHOENICIA_SHORT_DESC</Tag>
+      <English>Phoenicia</English>
+      <French>Phéniciens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PICTS_ADJECTIVE</Tag>
+      <English>Pictish</English>
+      <French>
+         <Text>picte:picte:pictes:pictes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PICTS_DESC</Tag>
+      <English>Pictish Empire</English>
+      <French>Tribu picte</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PICTS_SHORT_DESC</Tag>
+      <English>Pictland</English>
+      <French>Pictes</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PILIWNI_ADJECTIVE</Tag>
+      <English>Piliwni</English>
+      <French>
+         <Text>piliwni:piliwnie:piliwnis:piliwnies</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PILIWNI_DESC</Tag>
+      <English>Piliwni Empire</English>
+      <French>Indiens piliwnis</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_PILIWNI_SHORT_DESC</Tag>
+      <English>Piliwni</English>
+      <French>Piliwnis</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_POLAND_ADJECTIVE</Tag>
+      <English>Polish</English>
+      <French>
+         <Text>polonais:polonaise:polonais:polonaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Polnisch</German>
+      <Italian>Polacco</Italian>
+      <Spanish>Polaco</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_POLAND_DESC</Tag>
+      <English>Polish Empire</English>
+      <French>Pologne</French>
+      <German>Polnisch Reich</German>
+      <Italian>Polacco Impero</Italian>
+      <Spanish>Polaco Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_POLAND_SHORT_DESC</Tag>
+      <English>Poland</English>
+      <French>Polonais</French>
+      <German>Polen</German>
+      <Italian>Polonia</Italian>
+      <Spanish>Polonia</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_POLYNESIA_ADJECTIVE</Tag>
+      <English>Polynesian</English>
+      <French>
+         <Text>polynésien:polynésienne:polynésiens:polynésiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Polynesische</German>
+      <Italian>Polinesiana</Italian>
+      <Spanish>Polinesiano</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_POLYNESIA_DESC</Tag>
+      <English>Polynesian Empire</English>
+      <French>Polynésie</French>
+      <German>Polynesische Reich</German>
+      <Italian>Polinesiana Impero</Italian>
+      <Spanish>Polinesiano Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_POLYNESIA_SHORT_DESC</Tag>
+      <English>Polynesia</English>
+      <French>Polynésiens</French>
+      <German>Polynesien</German>
+      <Italian>Polinesia</Italian>
+      <Spanish>Polinesia</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ROMANIA_ADJECTIVE</Tag>
+      <English>Romanian</English>
+      <French>
+         <Text>roumain:roumaine:roumains:roumaines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Romanian</Text>
+         <Gender>Neuter</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Romanian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Romanian</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ROMANIA_DESC</Tag>
+      <English>Romanian Empire</English>
+      <French>
+         <Text>Roumanie</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Romanian Empire</Text>
+         <Gender>Neuter:Neuter:Neuter</Gender>
+         <Plural>0:0:0</Plural>
+      </German>
+      <Italian>
+         <Text>Romanian Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Romanian Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_ROMANIA_SHORT_DESC</Tag>
+      <English>Romania</English>
+      <French>
+         <Text>Roumains</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Romania</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Romania</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Romania</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SCOTLAND_ADJECTIVE</Tag>
+      <English>Scottish</English>
+      <French>
+         <Text>écossais:écossaise:écossais:écossaises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Schotten</German>
+      <Italian>Scozzese</Italian>
+      <Spanish>Escocés</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SCOTLAND_DESC</Tag>
+      <English>Scottish Empire</English>
+      <French>Écosse</French>
+      <German>Schotten Reich</German>
+      <Italian>Scozzese Impero</Italian>
+      <Spanish>Escocés Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SCOTLAND_SHORT_DESC</Tag>
+      <English>Scotland</English>
+      <French>Écossais</French>
+      <German>Schottland</German>
+      <Italian>Scozia</Italian>
+      <Spanish>Escocia</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SCYTHIA_ADJECTIVE</Tag>
+      <English>Scythian</English>
+      <French>
+         <Text>scythe:scythe:scythes:scythes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SCYTHIA_DESC</Tag>
+      <English>Scythian Empire</English>
+      <French>Scythie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SCYTHIA_SHORT_DESC</Tag>
+      <English>Scythia</English>
+      <French>Scythes</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SELEUKIA_ADJECTIVE</Tag>
+      <English>Seleukid</English>
+      <French>
+         <Text>séleucide:séleucide:séleucides:séleucides</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Seleukid</Text>
+         <Gender>Neuter</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Seleukid</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Seleukid</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SELEUKIA_DESC</Tag>
+      <English>Seleukid Empire</English>
+      <French>
+         <Text>Empire Séleucide</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Seleukid Empire</Text>
+         <Gender>Neuter:Neuter:Neuter</Gender>
+         <Plural>0:0:0</Plural>
+      </German>
+      <Italian>
+         <Text>Seleukid Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Seleukid Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SELEUKIA_SHORT_DESC</Tag>
+      <English>Seleukeia</English>
+      <French>
+         <Text>Séleucides</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Seleukeia</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Seleukeia</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Seleukeia</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SELJUK_ADJECTIVE</Tag>
+      <English>Seljuk</English>
+      <French>
+         <Text>seldjoukide:seldjoukide:seldjoukides:seldjoukides</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SELJUK_DESC</Tag>
+      <English>Seljuk Empire</English>
+      <French>Dynastie Seldjouk</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SELJUK_SHORT_DESC</Tag>
+      <English>Seljuks</English>
+      <French>Seldjoukides</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SERBIA_ADJECTIVE</Tag>
+      <English>Serbian</English>
+      <French>
+         <Text>serbe:serbe:serbes:serbes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Serbisch</German>
+      <Italian>Serba</Italian>
+      <Spanish>Serbio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SERBIA_DESC</Tag>
+      <English>Serbian Empire</English>
+      <French>Serbie</French>
+      <German>Serbisch Reich</German>
+      <Italian>Serba Impero</Italian>
+      <Spanish>Serbio Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SERBIA_SHORT_DESC</Tag>
+      <English>Serbia</English>
+      <French>Serbes</French>
+      <German>Serbien</German>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SHORT_MINOA</Tag>
+      <English>Minoa</English>
+      <French>Minoens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SIOUX_ADJECTIVE</Tag>
+      <English>Sioux</English>
+      <French>
+         <Text>sioux:sioux:sioux:sioux</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
+      <English>Sioux Empire</English>
+      <French>Indiens Sioux</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SIOUX_SHORT_DESC</Tag>
+      <English>Sioux</English>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SOMALIA_ADJECTIVE</Tag>
+      <English>Somali</English>
+      <French>
+         <Text>somalien:somalienne:somaliens:somaliennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Somali</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Somali</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Somali</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SOMALIA_DESC</Tag>
+      <English>Somali Empire</English>
+      <French>
+         <Text>Somalie</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Somali Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Somali Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Somali Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SOMALIA_SHORT_DESC</Tag>
+      <English>Somalia</English>
+      <French>
+         <Text>Somaliens</Text>
+         <Gender>Female</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Somalia</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Somalia</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Somalia</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SOUTH_AFRICA_ADJECTIVE</Tag>
+      <English>South African</English>
+      <French>
+         <Text>sud-africain:sud-africaine:sud-africains:sud-africaines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SOUTH_AFRICA_DESC</Tag>
+      <English>South African Empire</English>
+      <French>Afrique du Sud</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SOUTH_AFRICA_SHORT_DESC</Tag>
+      <English>South Africa</English>
+      <French>Sud-africains</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SWEDEN_ADJECTIVE</Tag>
+      <English>Swedish</English>
+      <French>
+         <Text>suèdois:suèdoise:suèdois:suèdoises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Schwedish</German>
+      <Italian>Svedese</Italian>
+      <Spanish>Suevo</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SWEDEN_DESC</Tag>
+      <English>Swedish Empire</English>
+      <French>Royaume de Suède</French>
+      <German>Schwedish Reich</German>
+      <Italian>Svedese Impero</Italian>
+      <Spanish>Suevo Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SWEDEN_SHORT_DESC</Tag>
+      <English>Sweden</English>
+      <French>Suèdois</French>
+      <German>Schweden</German>
+      <Italian>Svezia</Italian>
+      <Spanish>Suecia</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SWITZERLAND_ADJECTIVE</Tag>
+      <English>Swiss</English>
+      <French>
+         <Text>suisse:suisse:suisses:suisses</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SWITZERLAND_DESC</Tag>
+      <English>Swiss Empire</English>
+      <French>Confédération suisse</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_SWITZERLAND_SHORT_DESC</Tag>
+      <English>Switzerland</English>
+      <French>Suisses</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TIBET_ADJECTIVE</Tag>
+      <English>Tibetan</English>
+      <French>
+         <Text>tibétain:tibétaine:tibétains:tibétaines</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Tibetische</German>
+      <Italian>Tibetana</Italian>
+      <Spanish>Tibetano</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TIBET_DESC</Tag>
+      <English>Tibetan Empire</English>
+      <French>Tibet</French>
+      <German>Tibetische Reich</German>
+      <Italian>Tibetana Impero</Italian>
+      <Spanish>Tibetano Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TIBET_SHORT_DESC</Tag>
+      <English>Tibet</English>
+      <French>Tibétains</French>
+      <Spanish>Tíbet</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TIMURID_ADJECTIVE</Tag>
+      <English>Timurid</English>
+      <French>
+         <Text>timouride:timouride:timourides:timourides</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TIMURID_DESC</Tag>
+      <English>Timurid Empire</English>
+      <French>Empire timouride</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TIMURID_SHORT_DESC</Tag>
+      <English>Timurids</English>
+      <French>Timourides</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TOLTEC_ADJECTIVE</Tag>
+      <English>Toltec</English>
+      <French>
+         <Text>toltèque:toltèque:toltèques:toltèques</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TOLTEC_DESC</Tag>
+      <English>Toltec Empire</English>
+      <French>Peuple toltèque</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TOLTEC_SHORT_DESC</Tag>
+      <English>Toltecs</English>
+      <French>Toltèques</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TROY_ADJECTIVE</Tag>
+      <English>Trojan</English>
+      <French>
+         <Text>troyen:troyenne:troyens:troyennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TROY_DESC</Tag>
+      <English>Trojan Empire</English>
+      <French>Peuple de Troie</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TROY_SHORT_DESC</Tag>
+      <English>Troy</English>
+      <French>Troyens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TUPI_ADJECTIVE</Tag>
+      <English>Tupi</English>
+      <French>
+         <Text>tupi:tupie:tupis:tupies</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TUPI_DESC</Tag>
+      <English>Tupi Empire</English>
+      <French>Peuple tupi</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_TUPI_SHORT_DESC</Tag>
+      <English>Tupi</English>
+      <French>Tupis</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_UKRAINE_ADJECTIVE</Tag>
+      <English>Ukrainian</English>
+      <French>
+         <Text>ukrainien:ukrainienne:ukrainiens:ukrainiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Ukrainisch</German>
+      <Italian>Ucraino</Italian>
+      <Spanish>Ucraniano</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_UKRAINE_DESC</Tag>
+      <English>Ukrainian Empire</English>
+      <French>Nation d'Ukraine</French>
+      <German>Ukrainisch Reich</German>
+      <Italian>Ucraino Impero</Italian>
+      <Spanish>Ucraniano Imperio</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_UKRAINE_SHORT_DESC</Tag>
+      <English>Ukraine</English>
+      <French>Ukrainiens</French>
+      <Italian>Ucraina</Italian>
+      <Spanish>Ucrania</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_UYGHUR_ADJECTIVE</Tag>
+      <English>Uyghur</English>
+      <French>
+         <Text>ouïghour:ouïghoure:ouïghours:ouïghoures</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_UYGHUR_DESC</Tag>
+      <English>Uyghur Empire</English>
+      <French>Peuple ouïghour</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_UYGHUR_SHORT_DESC</Tag>
+      <English>Uyghur</English>
+      <French>Ouïghours</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VEDIC_ADJECTIVE</Tag>
+      <English>Vedic</English>
+      <French>
+         <Text>védique:védique:védiques:védiques</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VEDIC_DESC</Tag>
+      <English>Vedic Empire</English>
+      <French>Véda</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VEDIC_SHORT_DESC</Tag>
+      <English>Vedic</English>
+      <French>Védiques</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VENEZIA_ADJECTIVE</Tag>
+      <English>Venetian</English>
+      <French>
+         <Text>vénétien:vénétienne:vénétiens:vénétiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VENEZIA_DESC</Tag>
+      <English>Venetian Empire</English>
+      <French>Venise</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VENEZIA_SHORT_DESC</Tag>
+      <English>Venice</English>
+      <French>Vénétiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VENEZUELA_ADJECTIVE</Tag>
+      <English>Venezuelan</English>
+      <French>
+         <Text>vénézuélien:vénézuélienne:vénézuéliens:vénézuéliennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VENEZUELA_DESC</Tag>
+      <English>Venezuelan Empire</English>
+      <French>Vénézuéla</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VENEZUELA_SHORT_DESC</Tag>
+      <English>Venezuela</English>
+      <French>Vénézuéliens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VIETNAM_ADJECTIVE</Tag>
+      <English>Vietnamese </English>
+      <French>
+         <Text>vietnamien:vietnamienne:vietnamiens:vietnamiennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VIETNAM_DESC</Tag>
+      <English>Vietnamese Empire</English>
+      <French>Vietnam</French>
+      <Spanish>Vietnam Empire</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_VIETNAM_SHORT_DESC</Tag>
+      <English>Vietnam</English>
+      <French>Vietnamiens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_WALES_ADJECTIVE</Tag>
+      <English>Welsh</English>
+      <French>
+         <Text>gallois:galloise:gallois:galloises</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>Waliser</German>
+      <Italian>Gallese</Italian>
+      <Spanish>Galés</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_WALES_DESC</Tag>
+      <English>Welsh Empire</English>
+      <French>Pays de Galles</French>
+      <German>Waliser Reich</German>
+      <Italian>Impero di Gallese</Italian>
+      <Spanish>Imperio Galés</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_WALES_SHORT_DESC</Tag>
+      <English>Wales</English>
+      <French>Gallois</French>
+      <Italian>Galles</Italian>
+      <Spanish>País de Gales</Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_WESTINDIES_ADJECTIVE</Tag>
+      <English>West Indian</English>
+      <French>
+         <Text>caribéen:caribéenne:caribéens:caribéennes</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_WESTINDIES_DESC</Tag>
+      <English>West Indies Empire</English>
+      <French>Espace des Caraïbes</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_WESTINDIES_SHORT_DESC</Tag>
+      <English>West Indies</English>
+      <French>Caribéens</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_XIONGNU_ADJECTIVE</Tag>
+      <English>Xiongnu</English>
+      <French>
+         <Text>xiongnu:xiongnue:xiongnus:xiongnues</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_XIONGNU_DESC</Tag>
+      <English>Xiongnu Empire</English>
+      <French>Peuple xiongnu</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_XIONGNU_SHORT_DESC</Tag>
+      <English>Xiongnu</English>
+      <French>Xiongnus</French>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_YEMEN_ADJECTIVE</Tag>
+      <English>Yemeni</English>
+      <French>
+         <Text>yéménite:yéménite:yéménites:yéménéites</Text>
+         <Gender>Male:Female:Male:Female</Gender>
+         <Plural>0:0:1:1</Plural>
+      </French>
+      <German>
+         <Text>Yemeni</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Yemeni</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Yemeni</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_YEMEN_DESC</Tag>
+      <English>Yemeni Empire</English>
+      <French>
+         <Text>Yémen</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Yemeni Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Yemeni Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Yemeni Empire</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_CIV_YEMEN_SHORT_DESC</Tag>
+      <English>Yemen</English>
+      <French>
+         <Text>Yémenites</Text>
+         <Gender>Male</Gender>
+         <Plural>1</Plural>
+      </French>
+      <German>
+         <Text>Yemen</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Yemen</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Yemen</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+</Civ4GameText>

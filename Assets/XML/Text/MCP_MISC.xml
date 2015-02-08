@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Civ4GameText>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_101ST</Tag>
+      <English>101st Battalion</English>
+      <French>
+         <Text>101st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>101st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>101st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>101st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_102ND</Tag>
+      <English>102nd Battalion</English>
+      <French>
+         <Text>102nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>102nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>102nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>102nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_103RD</Tag>
+      <English>103rd Battalion</English>
+      <French>
+         <Text>103rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>103rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>103rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>103rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_104TH</Tag>
+      <English>104th Battalion</English>
+      <French>
+         <Text>104th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>104th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>104th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>104th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_105TH</Tag>
+      <English>105th Battalion</English>
+      <French>
+         <Text>105th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>105th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>105th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>105th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_106TH</Tag>
+      <English>106th Battalion</English>
+      <French>
+         <Text>106th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>106th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>106th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>106th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_107TH</Tag>
+      <English>107th Battalion</English>
+      <French>
+         <Text>107th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>107th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>107th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>107th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_108TH</Tag>
+      <English>108th Battalion</English>
+      <French>
+         <Text>108th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>108th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>108th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>108th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_109TH</Tag>
+      <English>109th Battalion</English>
+      <French>
+         <Text>109th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>109th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>109th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>109th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_110TH</Tag>
+      <English>110th Battalion</English>
+      <French>
+         <Text>110th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>110th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>110th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>110th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_111TH</Tag>
+      <English>111th Battalion</English>
+      <French>
+         <Text>111th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>111th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>111th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>111th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_112TH</Tag>
+      <English>112th Battalion</English>
+      <French>
+         <Text>112th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>112th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>112th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>112th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_113TH</Tag>
+      <English>113th Battalion</English>
+      <French>
+         <Text>113th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>113th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>113th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>113th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_114TH</Tag>
+      <English>114th Battalion</English>
+      <French>
+         <Text>114th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>114th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>114th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>114th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_115TH</Tag>
+      <English>115th Battalion</English>
+      <French>
+         <Text>115th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>115th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>115th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>115th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_116TH</Tag>
+      <English>116th Battalion</English>
+      <French>
+         <Text>116th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>116th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>116th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>116th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_117TH</Tag>
+      <English>117th Battalion</English>
+      <French>
+         <Text>117th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>117th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>117th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>117th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_118TH</Tag>
+      <English>118th Battalion</English>
+      <French>
+         <Text>118th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>118th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>118th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>118th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_119TH</Tag>
+      <English>119th Battalion</English>
+      <French>
+         <Text>119th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>119th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>119th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>119th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_120TH</Tag>
+      <English>120th Battalion</English>
+      <French>
+         <Text>120th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>120th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>120th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>120th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_121ST</Tag>
+      <English>121st Battalion</English>
+      <French>
+         <Text>121st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>121st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>121st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>121st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_122ND</Tag>
+      <English>122nd Battalion</English>
+      <French>
+         <Text>122nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>122nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>122nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>122nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_123RD</Tag>
+      <English>123rd Battalion</English>
+      <French>
+         <Text>123rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>123rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>123rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>123rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_124TH</Tag>
+      <English>124th Battalion</English>
+      <French>
+         <Text>124th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>124th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>124th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>124th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_125TH</Tag>
+      <English>125th Battalion</English>
+      <French>
+         <Text>125th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>125th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>125th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>125th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_126TH</Tag>
+      <English>126th Battalion</English>
+      <French>
+         <Text>126th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>126th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>126th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>126th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_127TH</Tag>
+      <English>127th Battalion</English>
+      <French>
+         <Text>127th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>127th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>127th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>127th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_129TH</Tag>
+      <English>129th Battalion</English>
+      <French>
+         <Text>129th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>129th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>129th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>129th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_131ST</Tag>
+      <English>131st Battalion</English>
+      <French>
+         <Text>131st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>131st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>131st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>131st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_132ND</Tag>
+      <English>132nd Battalion</English>
+      <French>
+         <Text>132nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>132nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>132nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>132nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_133RD</Tag>
+      <English>133rd Battalion</English>
+      <French>
+         <Text>133rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>133rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>133rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>133rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_134TH</Tag>
+      <English>134th Battalion</English>
+      <French>
+         <Text>134th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>134th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>134th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>134th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_135TH</Tag>
+      <English>135th Battalion</English>
+      <French>
+         <Text>135th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>135th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>135th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>135th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_137TH</Tag>
+      <English>137th Battalion</English>
+      <French>
+         <Text>137th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>137th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>137th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>137th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_138TH</Tag>
+      <English>138th Battalion</English>
+      <French>
+         <Text>138th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>138th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>138th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>138th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_140TH</Tag>
+      <English>140th Battalion</English>
+      <French>
+         <Text>140th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>140th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>140th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>140th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_141ST</Tag>
+      <English>141st Battalion</English>
+      <French>
+         <Text>141st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>141st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>141st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>141st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_142ND</Tag>
+      <English>142nd Battalion</English>
+      <French>
+         <Text>142nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>142nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>142nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>142nd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_145TH</Tag>
+      <English>145th Battalion</English>
+      <French>
+         <Text>145th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>145th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>145th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>145th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_148TH</Tag>
+      <English>148th Battalion</English>
+      <French>
+         <Text>148th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>148th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>148th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>148th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_149TH</Tag>
+      <English>149th Battalion</English>
+      <French>
+         <Text>149th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>149th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>149th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>149th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_151ST</Tag>
+      <English>151st Battalion</English>
+      <French>
+         <Text>151st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>151st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>151st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>151st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_153RD</Tag>
+      <English>153rd Battalion</English>
+      <French>
+         <Text>153rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>153rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>153rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>153rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_154TH</Tag>
+      <English>154th Battalion</English>
+      <French>
+         <Text>154th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>154th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>154th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>154th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_155TH</Tag>
+      <English>155th Battalion</English>
+      <French>
+         <Text>155th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>155th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>155th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>155th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_158TH</Tag>
+      <English>158th Battalion</English>
+      <French>
+         <Text>158th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>158th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>158th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>158th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_161ST</Tag>
+      <English>161st Battalion</English>
+      <French>
+         <Text>161st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>161st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>161st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>161st Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_163RD</Tag>
+      <English>163rd Battalion</English>
+      <French>
+         <Text>163rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>163rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>163rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>163rd Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_204TH</Tag>
+      <English>204th Battalion</English>
+      <French>
+         <Text>204th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>204th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>204th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>204th Battalion</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A0</Tag>
+      <English>JJ</English>
+      <French>
+         <Text>JJ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>JJ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>JJ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>JJ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A1</Tag>
+      <English>AA</English>
+      <French>
+         <Text>AA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>AA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>AA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>AA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A2</Tag>
+      <English>BB</English>
+      <French>
+         <Text>BB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>BB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>BB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>BB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A3</Tag>
+      <English>CC</English>
+      <French>
+         <Text>CC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>CC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>CC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>CC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A4</Tag>
+      <English>DD</English>
+      <French>
+         <Text>DD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>DD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>DD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>DD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A5</Tag>
+      <English>EE</English>
+      <French>
+         <Text>EE</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>EE</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>EE</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>EE</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A6</Tag>
+      <English>FF</English>
+      <French>
+         <Text>FF</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>FF</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>FF</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>FF</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A7</Tag>
+      <English>GG</English>
+      <French>
+         <Text>GG</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>GG</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>GG</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>GG</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A8</Tag>
+      <English>HH</English>
+      <French>
+         <Text>HH</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>HH</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>HH</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>HH</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_A9</Tag>
+      <English>II</English>
+      <French>
+         <Text>II</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>II</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>II</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>II</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALAOUITE_GUARD_1</Tag>
+      <English>Alaouite Guard 1</English>
+      <French>
+         <Text>Garde alaouite 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Alaouite Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Alaouite Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Alaouite Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALAOUITE_GUARD_2</Tag>
+      <English>Alaouite Guard 2</English>
+      <French>
+         <Text>Garde alaouite 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Alaouite Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Alaouite Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Alaouite Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALAOUITE_GUARD_3</Tag>
+      <English>Alaouite Guard 3</English>
+      <French>
+         <Text>Garde alaouite 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Alaouite Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Alaouite Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Alaouite Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALMOHAD_GUARD_1</Tag>
+      <English>Almohad Guard 1</English>
+      <French>
+         <Text>Garde almohade 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Almohad Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Almohad Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Almohad Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALMOHAD_GUARD_2</Tag>
+      <English>Almohad Guard 2</English>
+      <French>
+         <Text>Garde almohade 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Almohad Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Almohad Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Almohad Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALMOHAD_GUARD_3</Tag>
+      <English>Almohad Guard 3</English>
+      <French>
+         <Text>Garde almohade 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Almohad Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Almohad Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Almohad Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALMORAVID_GUARD_1</Tag>
+      <English>Almoravid Guard 1</English>
+      <French>
+         <Text>Garde almoravide 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Almoravid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Almoravid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Almoravid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALMORAVID_GUARD_2</Tag>
+      <English>Almoravid Guard 2</English>
+      <French>
+         <Text>Garde almoravide 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Almoravid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Almoravid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Almoravid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_ALMORAVID_GUARD_3</Tag>
+      <English>Almoravid Guard 3</English>
+      <French>
+         <Text>Garde almoravide 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Almoravid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Almoravid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Almoravid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_AMENOKAL_GUARD_1</Tag>
+      <English>Amenokal Guard 1</English>
+      <French>
+         <Text>Garde amenokal 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Amenokal Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Amenokal Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Amenokal Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_AMENOKAL_GUARD_2</Tag>
+      <English>Amenokal Guard 2</English>
+      <French>
+         <Text>Garde amenokal 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Amenokal Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Amenokal Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Amenokal Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_AMENOKAL_GUARD_3</Tag>
+      <English>Amenokal Guard 3</English>
+      <French>
+         <Text>Garde amenokal 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Amenokal Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Amenokal Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Amenokal Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B0</Tag>
+      <English>TT</English>
+      <French>
+         <Text>TT</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>TT</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>TT</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>TT</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B1</Tag>
+      <English>KK</English>
+      <French>
+         <Text>KK</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>KK</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>KK</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>KK</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B2</Tag>
+      <English>LL</English>
+      <French>
+         <Text>LL</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>LL</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>LL</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>LL</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B3</Tag>
+      <English>MM</English>
+      <French>
+         <Text>MM</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>MM</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>MM</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>MM</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B4</Tag>
+      <English>NN</English>
+      <French>
+         <Text>NN</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>NN</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>NN</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>NN</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B5</Tag>
+      <English>OO</English>
+      <French>
+         <Text>OO</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>OO</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>OO</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>OO</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B6</Tag>
+      <English>PP</English>
+      <French>
+         <Text>PP</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>PP</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>PP</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>PP</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B7</Tag>
+      <English>QQ</English>
+      <French>
+         <Text>QQ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>QQ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>QQ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>QQ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B8</Tag>
+      <English>RR</English>
+      <French>
+         <Text>RR</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>RR</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>RR</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>RR</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_B9</Tag>
+      <English>SS</English>
+      <French>
+         <Text>SS</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>SS</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>SS</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>SS</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C0</Tag>
+      <English>DDD</English>
+      <French>
+         <Text>DDD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>DDD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>DDD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>DDD</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C1</Tag>
+      <English>UU</English>
+      <French>
+         <Text>UU</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>UU</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>UU</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>UU</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C2</Tag>
+      <English>VV</English>
+      <French>
+         <Text>VV</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>VV</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>VV</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>VV</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C3</Tag>
+      <English>WW</English>
+      <French>
+         <Text>WW</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>WW</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>WW</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>WW</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C4</Tag>
+      <English>XX</English>
+      <French>
+         <Text>XX</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>XX</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>XX</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>XX</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C5</Tag>
+      <English>YY</English>
+      <French>
+         <Text>YY</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>YY</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>YY</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>YY</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C6</Tag>
+      <English>ZZ</English>
+      <French>
+         <Text>ZZ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>ZZ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>ZZ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>ZZ</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C7</Tag>
+      <English>AAA</English>
+      <French>
+         <Text>AAA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>AAA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>AAA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>AAA</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C8</Tag>
+      <English>BBB</English>
+      <French>
+         <Text>BBB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>BBB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>BBB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>BBB</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_C9</Tag>
+      <English>CCC</English>
+      <French>
+         <Text>CCC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>CCC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>CCC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>CCC</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_DABROVI</Tag>
+      <English>Dabrovi</English>
+      <French>
+         <Text>Dabrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Dabrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Dabrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Dabrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_FATIMID_GUARD_1</Tag>
+      <English>Fatimid Guard 1</English>
+      <French>
+         <Text>Garde fatimide 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Fatimid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Fatimid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Fatimid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_FATIMID_GUARD_2</Tag>
+      <English>Fatimid Guard 2</English>
+      <French>
+         <Text>Garde fatimide 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Fatimid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Fatimid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Fatimid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_FATIMIDI_GUARD_3</Tag>
+      <English>Fatimid Guard 3</English>
+      <French>
+         <Text>Garde fatimide 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Fatimid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Fatimid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Fatimid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_GROMOVI</Tag>
+      <English>Gromovi</English>
+      <French>
+         <Text>Gromovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Gromovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Gromovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Gromovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_IDRISID_GUARD_1</Tag>
+      <English>Idrisid Guard 1</English>
+      <French>
+         <Text>Garde iriside 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Idrisid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Idrisid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Idrisid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_IDRISID_GUARD_2</Tag>
+      <English>Idrisid Guard 2</English>
+      <French>
+         <Text>Garde iriside 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Idrisid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Idrisid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Idrisid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_IDRISID_GUARD_3</Tag>
+      <English>Idrisid Guard 3</English>
+      <French>
+         <Text>Garde iriside 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Idrisid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Idrisid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Idrisid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_KOBRE</Tag>
+      <English>Kobre</English>
+      <French>
+         <Text>Kobre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Kobre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Kobre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Kobre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_KUNE</Tag>
+      <English>Kune</English>
+      <French>
+         <Text>Kune</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Kune</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Kune</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Kune</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_LUCKO</Tag>
+      <English>Lucko</English>
+      <French>
+         <Text>Lucko</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Lucko</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Lucko</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Lucko</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_MERINID_GUARD_1</Tag>
+      <English>Merinid Guard 1</English>
+      <French>
+         <Text>Garde merinide 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Merinid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Merinid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Merinid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_MERINID_GUARD_2</Tag>
+      <English>Merinid Guard 2</English>
+      <French>
+         <Text>Garde merinide 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Merinid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Merinid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Merinid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_MERINID_GUARD_3</Tag>
+      <English>Merinid Guard 3</English>
+      <French>
+         <Text>Garde merinide 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Merinid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Merinid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Merinid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_NASRID_GUARD_1</Tag>
+      <English>Nasrid Guard 1</English>
+      <French>
+         <Text>Garde nasride 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Nasrid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Nasrid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Nasrid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_NASRID_GUARD_2</Tag>
+      <English>Nasrid Guard 2</English>
+      <French>
+         <Text>Garde nasride 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Nasrid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Nasrid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Nasrid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_NASRID_GUARD_3</Tag>
+      <English>Nasrid Guard 3</English>
+      <French>
+         <Text>Garde nasride 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Nasrid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Nasrid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Nasrid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_PAUKOVI</Tag>
+      <English>Paukovi</English>
+      <French>
+         <Text>Paukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Paukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Paukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Paukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_PUME</Tag>
+      <English>Pume</English>
+      <French>
+         <Text>Pume</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Pume</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Pume</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Pume</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_RUSTAMID_GUARD_1</Tag>
+      <English>Rustamid Guard 1</English>
+      <French>
+         <Text>Garde rustamide 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Rustamid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Rustamid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Rustamid Guard 1</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_RUSTAMID_GUARD_2</Tag>
+      <English>Rustamid Guard 2</English>
+      <French>
+         <Text>Garde rustamide 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Rustamid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Rustamid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Rustamid Guard 2</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_RUSTAMID_GUARD_3</Tag>
+      <English>Rustamid Guard 3</English>
+      <French>
+         <Text>Garde rustamide 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Rustamid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Rustamid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Rustamid Guard 3</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_SOKOLOVI</Tag>
+      <English>Sokolovi</English>
+      <French>
+         <Text>Sokolovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Sokolovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Sokolovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Sokolovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_TIGROVI</Tag>
+      <English>Tigrovi</English>
+      <French>
+         <Text>Tigrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Tigrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Tigrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Tigrovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_VIDRE</Tag>
+      <English>Vidre</English>
+      <French>
+         <Text>Vidre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Vidre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Vidre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Vidre</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+   <TEXT>
+      <Tag>TXT_KEY_UNIQUE_NAME_VUKOVI</Tag>
+      <English>Vukovi</English>
+      <French>
+         <Text>Vukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </French>
+      <German>
+         <Text>Vukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </German>
+      <Italian>
+         <Text>Vukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Italian>
+      <Spanish>
+         <Text>Vukovi</Text>
+         <Gender>Male</Gender>
+         <Plural>0</Plural>
+      </Spanish>
+   </TEXT>
+</Civ4GameText>
