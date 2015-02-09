@@ -106,7 +106,7 @@ class DynamicCivNames :
       if (pPlayer.isAnarchy()):
         self.setNewNameByCivics(iPlayer)
         return
-        
+
       if( pPlayer.isAlive() and SDTK.sdObjectExists( "Revolution", pPlayer ) ) :
         #CvUtil.pyPrint("  Name - Object exists %d"%(iPlayer))
         prevCivics = SDTK.sdObjectGetVal( "Revolution", pPlayer, 'CivicList' )
@@ -115,7 +115,18 @@ class DynamicCivNames :
             if( not prevCivics[i] == pPlayer.getCivics(i) ) :
               self.setNewNameByCivics(iPlayer)
               return
-              
+
+        #check for golden age
+        if (pPlayer.isGoldenAge()):
+          bGoldenAge = SDTK.sdObjectGetVal( "Revolution", pPlayer, 'bGoldenAge' )
+          if ( bGoldenAge == None or not bGoldenAge ):
+            self.setNewNameByCivics(iPlayer)
+            SDTK.sdObjectSetVal( "Revolution", pPlayer, 'bGoldenAge', True)
+            return
+
+        else:
+          SDTK.sdObjectSetVal( "Revolution", pPlayer, 'bGoldenAge', False)
+
         revTurn = SDTK.sdObjectGetVal( "Revolution", pPlayer, 'RevolutionTurn' )
         if( not revTurn == None and game.getGameTurn() - revTurn == 30 and pPlayer.getNumCities() > 0 ) :
           # "Graduate" from rebel name
@@ -185,17 +196,21 @@ class DynamicCivNames :
         #CvUtil.pyPrint("  Name - Changing name for human player!")
         pass
 
-    newDesc  = CvUtil.convertToStr(newCivDesc)
-    newShort = CvUtil.convertToStr(newCivShort)
-    newAdj   = CvUtil.convertToStr(newCivAdj)
+    # newDesc  = CvUtil.convertToStr(newCivDesc)
+    # newShort = CvUtil.convertToStr(newCivShort)
+    # newAdj   = CvUtil.convertToStr(newCivAdj)
 
-    newDesc = remove_diacriticals(newDesc)
-    newShort = remove_diacriticals(newShort)
-    newAdj = remove_diacriticals(newAdj)
+    # newDesc = remove_diacriticals(newDesc)
+    # newShort = remove_diacriticals(newShort)
+    # newAdj = remove_diacriticals(newAdj)
+    
+    newDesc  = newCivDesc
+    newShort = newCivShort
+    newAdj   = newCivAdj
     
     if( not newDesc == gc.getPlayer(iPlayer).getCivilizationDescription(0) ) :
       szMessage = BugUtil.getText("TXT_KEY_MOD_DCN_NEWCIV_NAME_DESC", newDesc)
-      CyInterface().addMessage(iPlayer, false, gc.getDefineINT("EVENT_MESSAGE_TIME"), szMessage, None, InterfaceMessageTypes.MESSAGE_TYPE_INFO, None, gc.getInfoTypeForString("COLOR_HIGHLIGHT_TEXT"), -1, -1, False, False)
+      CyInterface().addMessage(iPlayer, False, gc.getDefineINT("EVENT_MESSAGE_TIME"), szMessage, None, InterfaceMessageTypes.MESSAGE_TYPE_INFO, None, gc.getInfoTypeForString("COLOR_HIGHLIGHT_TEXT"), -1, -1, False, False)
       if( self.LOG_DEBUG ) :
         CvUtil.pyPrint("  Name - Setting civ name due to civics to %s"%(newDesc))
     
@@ -217,13 +232,17 @@ class DynamicCivNames :
        
       [newCivDesc, newCivShort, newCivAdj] = self.nameForNewPlayer( iPlayerID )
       
-      newDesc  = CvUtil.convertToStr(newCivDesc)
-      newShort = CvUtil.convertToStr(newCivShort)
-      newAdj   = CvUtil.convertToStr(newCivAdj)
+      # newDesc  = CvUtil.convertToStr(newCivDesc)
+      # newShort = CvUtil.convertToStr(newCivShort)
+      # newAdj   = CvUtil.convertToStr(newCivAdj)
 
-      newDesc = remove_diacriticals(newDesc)
-      newShort = remove_diacriticals(newShort)
-      newAdj = remove_diacriticals(newAdj)
+      # newDesc = remove_diacriticals(newDesc)
+      # newShort = remove_diacriticals(newShort)
+      # newAdj = remove_diacriticals(newAdj)
+      
+      newDesc  = newCivDesc
+      newShort = newCivShort
+      newAdj   = newCivAdj
 
       if( self.LOG_DEBUG ) :
         CvUtil.pyPrint("  Name - Setting civ name for new civ to %s"%(newDesc))
@@ -273,10 +292,16 @@ class DynamicCivNames :
 
     curDesc = pPlayer.getCivilizationDescription(0)
     curShort = pPlayer.getCivilizationShortDescription(0)
-    curAdj = pPlayer.getCivilizationAdjective(0)
+    curAdj = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(0)
+    curAdj1 = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(1)
+    curAdj2 = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(2)
+    curAdj3 = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(3)
 
     civInfo = gc.getCivilizationInfo(pPlayer.getCivilizationType())
     origDesc  = civInfo.getDescription()
+    
+    iLanguage = gc.getGame().getCurrentLanguage()
+    bFrench = iLanguage == 1 #0 - English, 1 - French, 2 - German, 3 - Italian, 4 - Spanish
     
     if( not game.isOption(GameOptionTypes.GAMEOPTION_LEAD_ANY_CIV) ) :
       if( pPlayer.getLeaderType() in LeaderCivNames.LeaderCivNames.keys() ) :
@@ -294,7 +319,10 @@ class DynamicCivNames :
       barbTurn = None
 
     if( not pPlayer.isAlive() ) :
-      newName = localText.getText("TXT_KEY_MOD_DCN_REFUGEES", ())%(curAdj)
+      if (bFrench):
+        newName = localText.getText("TXT_KEY_MOD_DCN_REFUGEES", ())%(curAdj2)
+      else:
+        newName = localText.getText("TXT_KEY_MOD_DCN_REFUGEES", ())%(curAdj)
     elif( pPlayer.isRebel() ) :
       # To name rebels in Revolution mod
       cityString = SDTK.sdObjectGetVal( "Revolution", pPlayer, 'CapitalName' )
@@ -310,18 +338,30 @@ class DynamicCivNames :
         if( currentEra > 5 and 30 > game.getSorenRandNum(100,'Rev: Naming')) :
           newName = localText.getText("TXT_KEY_MOD_DCN_LIBERATION_FRONT", ())%(curAdj)
         elif( currentEra > 4 and 30 > game.getSorenRandNum(100,'Rev: Naming') ) :
-          newName = localText.getText("TXT_KEY_MOD_DCN_GUERILLAS", ())%(curAdj)
+          if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_GUERILLAS", ())%(curAdj3)
+          else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_GUERILLAS", ())%(curAdj)
         else :
           if( not cityString == None and len(cityString) < 10 ) :
             try :
               if( cityString in curAdj or cityString in curShort ) :
                 newName = localText.getText("TXT_KEY_MOD_DCN_THE_REBELS_OF", ())%(CvUtil.convertToStr(cityString))
               else :
-                newName = localText.getText("TXT_KEY_MOD_DCN_REBELS_OF", ())%(curAdj,CvUtil.convertToStr(cityString))
+                if (bFrench):
+                  newName = localText.getText("TXT_KEY_MOD_DCN_REBELS_OF", ())%(curAdj2,CvUtil.convertToStr(cityString))
+                else:
+                  newName = localText.getText("TXT_KEY_MOD_DCN_REBELS_OF", ())%(curAdj,CvUtil.convertToStr(cityString))
             except :
-              newName = localText.getText("TXT_KEY_MOD_DCN_REBELS", ())%(curAdj)
+                if (bFrench):
+                  newName = localText.getText("TXT_KEY_MOD_DCN_REBELS", ())%(curAdj2)
+                else:
+                  newName = localText.getText("TXT_KEY_MOD_DCN_REBELS", ())%(curAdj)
           else :
-            newName = localText.getText("TXT_KEY_MOD_DCN_REBELS", ())%(curAdj)
+            if (bFrench):
+              newName = localText.getText("TXT_KEY_MOD_DCN_REBELS", ())%(curAdj2)
+            else:
+              newName = localText.getText("TXT_KEY_MOD_DCN_REBELS", ())%(curAdj)
     elif( not barbTurn == None and game.getGameTurn() - barbTurn < 20 ) :
       # To name BarbarianCiv created civs
       numCities = SDTK.sdObjectGetVal( "BarbarianCiv", pPlayer, 'NumCities' )
@@ -331,34 +371,59 @@ class DynamicCivNames :
       if( pPlayer.isMinorCiv() ) :
         if( currentEra < 2 ) :
           if( 70 - 40*currentEra > game.getSorenRandNum(100,"Naming") ) : 
-            newName = localText.getText("TXT_KEY_MOD_DCN_TRIBE", ())%(curAdj)
+            if (bFrench):
+              newName = localText.getText("TXT_KEY_MOD_DCN_TRIBE", ())%(curAdj1)
+            else:
+              newName = localText.getText("TXT_KEY_MOD_DCN_TRIBE", ())%(curAdj)
           else :
-            newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj)
+            if (bFrench):
+              newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj1)
+            else:
+              newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj)
         elif( currentEra < 3 ) :
-          newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj)
+          if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj1)
+          else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj)
         else :
-          newName = localText.getText("TXT_KEY_MOD_DCN_NATION", ())%(curAdj)
+          if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_NATION", ())%(curAdj1)
+          else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_NATION", ())%(curAdj)
       elif( currentEra < 4 ) :
         # Early era barbs
         if( SDTK.sdObjectGetVal( 'BarbarianCiv', pPlayer, 'BarbStyle' ) == 'Military' ) :
           if( pPlayer.getNumMilitaryUnits() > 7*numCities ) :
-            newName = localText.getText("TXT_KEY_MOD_DCN_HORDE", ())%(curAdj)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_HORDE", ())%(curAdj1)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_HORDE", ())%(curAdj)
           else :
             if( not cityString == None and len(cityString) < 10 ) :
               if( cityString in curAdj or cityString in curShort ) :
                 newName = localText.getText("TXT_KEY_MOD_DCN_THE_WARRIORS_OF", ())%(cityString)
               else :
-                newName = localText.getText("TXT_KEY_MOD_DCN_WARRIORS_OF", ())%(curAdj,cityString)
+                if (bFrench):
+                    newName = localText.getText("TXT_KEY_MOD_DCN_WARRIORS_OF", ())%(curAdj2,cityString)
+                else:
+                    newName = localText.getText("TXT_KEY_MOD_DCN_WARRIORS_OF", ())%(curAdj,cityString)
             else :
-              newName = localText.getText("TXT_KEY_MOD_DCN_WARRIOR_STATE", ())%(curAdj)
+              if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_WARRIOR_STATE", ())%(curAdj2)
+              else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_WARRIOR_STATE", ())%(curAdj)
         else :
           if( numCities == 1 ) :
-            newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj1)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_CITY_STATE", ())%(curAdj)
           else :
             newName = localText.getText("TXT_KEY_MOD_DCN_EMPIRE", ())%(curAdj)
           
           if( numCities < 3 ) :
             if( not cityString == None and len(cityString) < 10) :
+              newName += ' '
               newName += localText.getText("TXT_KEY_MOD_DCN_OF_CITY", ())%(cityString)
 
       else :
@@ -371,7 +436,10 @@ class DynamicCivNames :
       if( game.getGameTurn() == game.getStartTurn() and game.getCurrentEra() < 1 ) :
         # Name civs at beginning of game
         if( self.LOG_DEBUG ) : CvUtil.pyPrint("Names - Giving game start name")
-        newName = localText.getText("TXT_KEY_MOD_DCN_TRIBE", ())%(curAdj)
+        if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_TRIBE", ())%(curAdj1)
+        else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_TRIBE", ())%(curAdj)
         return [newName, curShort, curAdj]
       
       if( self.LOG_DEBUG ) : CvUtil.pyPrint("Names - player not of special type, naming by civics")
@@ -400,7 +468,10 @@ class DynamicCivNames :
 
     curDesc  = pPlayer.getCivilizationDescription(0)
     curShort = pPlayer.getCivilizationShortDescription(0)
-    curAdj   = pPlayer.getCivilizationAdjective(0)
+    curAdj   = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(0)
+    curAdj1 = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(1)
+    curAdj2 = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(2)
+    curAdj3 = gc.getCivilizationInfo(pPlayer.getCivilizationType()).getAdjective(3)
 
     origDesc  = ""
     if (pPlayer.getCivilizationType() >= 0):
@@ -440,7 +511,10 @@ class DynamicCivNames :
 
     if( not pPlayer.isAlive() ) :
       if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - player is not alive")
-      newName = localText.getText("TXT_KEY_MOD_DCN_REFUGEES", ())%(curAdj)
+      if (bFrench):
+          newName = localText.getText("TXT_KEY_MOD_DCN_REFUGEES", ())%(curAdj2)
+      else:
+          newName = localText.getText("TXT_KEY_MOD_DCN_REFUGEES", ())%(curAdj)
       return [newName, curShort, curAdj]
     
     if( pPlayer.isRebel() ) :
@@ -496,7 +570,10 @@ class DynamicCivNames :
       if( 75 > game.getSorenRandNum(100,'Rev: Naming') ) :
         newName = localText.getText("TXT_KEY_MOD_DCN_PROVISIONAL_GOV", ())%(curAdj)
       else:
-        newName = localText.getText("TXT_KEY_MOD_DCN_PROVISIONAL_AUTH", ())%(curAdj)
+        if (bFrench):
+          newName = localText.getText("TXT_KEY_MOD_DCN_PROVISIONAL_AUTH", ())%(curAdj1)
+        else:
+          newName = localText.getText("TXT_KEY_MOD_DCN_PROVISIONAL_AUTH", ())%(curAdj)
       return [newName, curShort, curAdj]
     
     # AIAndy: New XML based Civ naming  
@@ -513,15 +590,24 @@ class DynamicCivNames :
           if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - keeping prior name")
           newName = curDesc
         elif( 50 > game.getSorenRandNum(100,'Rev: Naming') ) :
-          newName = localText.getText("TXT_KEY_MOD_DCN_SOC_REP", ())%(curShort)
+          if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_SOC_REP", ())%(curAdj1)
+          else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_SOC_REP", ())%(curShort)
         else :
-          newName = localText.getText("TXT_KEY_MOD_DCN_PEOPLES_REP", ())%(curShort)
+          if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_PEOPLES_REP", ())%(curAdj2)
+          else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_PEOPLES_REP", ())%(curShort)
       elif( RevUtils.getDemocracyLevel(iPlayer)[0] == -8 ) :
         if( localText.getText("TXT_KEY_MOD_DCN_RUSSIAN_MATCH", ()) in curAdj ) :
           curAdj = localText.getText("TXT_KEY_MOD_DCN_SOVIET", ())
         newName = localText.getText("TXT_KEY_MOD_DCN_UNION", ())%(curAdj)
       else :
-        newName = localText.getText("TXT_KEY_MOD_DCN_PEOPLES_REP", ())%(curShort)
+        if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_PEOPLES_REP", ())%(curAdj2)
+        else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_PEOPLES_REP", ())%(curShort)
     elif( RevUtils.isCanDoElections(iPlayer) and not bNoRealElections) :
       if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - player can do elections")
       sRepOf = localText.getText("TXT_KEY_MOD_DCN_REPUBLIC_OF", ()).replace('%s','').strip()
@@ -538,34 +624,61 @@ class DynamicCivNames :
             if( cityString in curAdj or cityString in curShort ) :
               newName = localText.getText("TXT_KEY_MOD_DCN_THE_REPUBLIC_OF_CITY", ())%(cityString)
             else :
-              newName = localText.getText("TXT_KEY_MOD_DCN_REPUBLIC_OF_CITY", ())%(curAdj,cityString)
+              newName = localText.getText("TXT_KEY_MOD_DCN_REPUBLIC_OF_CITY", ())%(curAdj1,cityString)
           else :
-            newName = localText.getText("TXT_KEY_MOD_DCN_FREE_REPUBLIC", ())%(curAdj)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_FREE_REPUBLIC", ())%(curAdj1)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_FREE_REPUBLIC", ())%(curAdj)
       else :
-        if( not bFederal and not bConfederation and not bForceUpdate and (sRepublic in curDesc and not sPeoplesRep in curDesc and not sSocRep in curDesc and curDesc.startswith(localText.getText("TXT_KEY_MOD_DCN_FREE", ()))) ) :
-          if( len(curDesc) < 17 and 20 > game.getSorenRandNum(100,'Rev: Naming') and not localText.getText("TXT_KEY_MOD_DCN_NEW", ()) in curDesc ) :
+        if( not bFederal and not bConfederation and not bForceUpdate and (sRepublic in curDesc and not sPeoplesRep in curDesc and not sSocRep in curDesc and curDesc.startswith(localText.getText("TXT_KEY_MOD_DCN_FREE", ()))) and not bFrench ) :
+          if( len(curDesc) < 17 and 20 > game.getSorenRandNum(100,'Rev: Naming') and not localText.getText("TXT_KEY_MOD_DCN_NEW", ()) in curDesc) :
             newName = localText.getText("TXT_KEY_MOD_DCN_NEW", ()) + curDesc
           else :
             if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - keeping prior name")
             newName = curDesc
         elif (bFederal):
           if (pPlayer.getCivilizationType() == gc.getInfoTypeForString("CIVILIZATION_AMERICA")):
-            newName = localText.getText("TXT_KEY_MOD_DCN_UNITED_STATES", ())%(curShort)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_UNITED_STATES", ())%(curAdj2)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_UNITED_STATES", ())%(curShort)
           elif ( 50 > game.getSorenRandNum(100,'Rev: Naming') ):
-            newName = localText.getText("TXT_KEY_MOD_DCN_FEDERATED_STATES", ())%(curShort)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_FEDERATED_STATES", ())%(curAdj2)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_FEDERATED_STATES", ())%(curShort)
           else:
-            newName = localText.getText("TXT_KEY_MOD_DCN_FEDERATION", ())%(curAdj)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_FEDERATION", ())%(curAdj1)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_FEDERATION", ())%(curAdj)
         elif (bConfederation):
           if (50 > game.getSorenRandNum(100,'Rev: Naming')):
-            newName = localText.getText("TXT_KEY_MOD_DCN_CONFEDERATION", ())%(curAdj)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_CONFEDERATION", ())%(curAdj1)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_CONFEDERATION", ())%(curAdj)
           else:
-            newName = localText.getText("TXT_KEY_MOD_DCN_CONFEDERATION_STATES", ())%(curShort)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_CONFEDERATION_STATES", ())%(curAdj2)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_CONFEDERATION_STATES", ())%(curShort)
         elif( 50 > game.getSorenRandNum(100,'Rev: Naming') ) :
-          newName = localText.getText("TXT_KEY_MOD_DCN_REPUBLIC", ())%(curAdj)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_REPUBLIC", ())%(curAdj1)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_REPUBLIC", ())%(curAdj)
         elif( 33 > game.getSorenRandNum(100,'Rev: Naming') ) :
-          newName = localText.getText("TXT_KEY_MOD_DCN_THE_COMMONWEALTH_OF", ())%(curShort)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_THE_COMMONWEALTH_OF", ())%(curAdj2)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_THE_COMMONWEALTH_OF", ())%(curShort)
         else :
-          newName = localText.getText("TXT_KEY_MOD_DCN_THE_REPUBLIC_OF", ())%(curShort)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_THE_REPUBLIC_OF", ())%(curAdj2)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_THE_REPUBLIC_OF", ())%(curShort)
 
       if( RevUtils.isFreeSpeech(iPlayer) and RevUtils.getLaborFreedom(iPlayer)[0] > 9 ) :
         if( len(newName) < 16 and not localText.getText("TXT_KEY_MOD_DCN_FREE", ()) in newName and not localText.getText("TXT_KEY_MOD_DCN_NEW", ()) in newName ) :
@@ -580,9 +693,11 @@ class DynamicCivNames :
         if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - keeping prior name")
         newName = curDesc
       elif( 70 > game.getSorenRandNum(100,'Rev: Naming') and not localText.getText("TXT_KEY_MOD_DCN_REICH", ()) in empString ) :
-        newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(empString,curShort)
+        if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(empString,curAdj2)
+        else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(empString,curShort)
       else :
-
         if (bFrench):
           newName = empString + ' ' + curAdj
         else:
@@ -623,12 +738,12 @@ class DynamicCivNames :
                 newName = localText.getText("TXT_KEY_MOD_DCN_BLANK_OF_CITY", ())%(curAdj,sKingdom,cityString)
           else :
             if (bFrench):
-              newName = sKingdom + ' ' + curAdj
+                newName = sKingdom + ' ' + curAdj
             else:
               newName = curAdj + ' ' + sKingdom
         elif( game.getPlayerRank(iPlayer) < game.countCivPlayersAlive()/7 and not pTeam.isAVassal() and (sGreat in curDesc or 40 > game.getSorenRandNum(100,'Rev: Naming')) ) :
           if (bFrench):
-            newName = localText.getText("TXT_KEY_MOD_DCN_GREAT_KINGDOM", ())%(sKingdom,curAdj)
+            newName = localText.getText("TXT_KEY_MOD_DCN_GREAT_KINGDOM", ())%(sKingdom,curAdj2)
           else:
             newName = localText.getText("TXT_KEY_MOD_DCN_GREAT_KINGDOM", ())%(curAdj,sKingdom)
         else :
@@ -642,7 +757,10 @@ class DynamicCivNames :
             else:
               newName = curAdj + ' ' + sKingdom
           else :
-            newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(sKingdom,curShort)
+            if (bFrench):
+                newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(sKingdom,curAdj2)
+            else:
+                newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(sKingdom,curShort)
       
       elif( RevUtils.getDemocracyLevel(iPlayer)[0] == -10 or playerEra == 0 ) :
         
@@ -650,6 +768,7 @@ class DynamicCivNames :
         if( playerEra < 2 and pPlayer.getNumCities() < 3 ) :
           if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - player has one city in early era")
           empString = localText.getText("TXT_KEY_MOD_DCN_PLAIN_CITY_STATE", ())
+
         if( pTeam.isAVassal() ) :
           if( self.LOG_DEBUG and bVerbose ) : CvUtil.pyPrint("Names - player is a vassal")
           
@@ -666,11 +785,17 @@ class DynamicCivNames :
           newName = curDesc
         elif( 50 > game.getSorenRandNum(100,'Rev: Naming') ) :
           if (bFrench):
-            newName = empString + ' ' + curAdj
+            if(empString == localText.getText("TXT_KEY_MOD_DCN_PLAIN_CITY_STATE", ())):
+                newName = empString + ' ' + curAdj1
+            else:
+                newName = empString + ' ' + curAdj
           else:
             newName = curAdj + ' ' + empString
         else :
-          newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(empString,curShort)
+          if (bFrench):
+            newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(empString,curAdj2)
+          else:
+            newName = localText.getText("TXT_KEY_MOD_DCN_THE_BLANK_OF", ())%(empString,curShort)
       
       else :
         if( self.LOG_DEBUG and bVerbose ) : 
@@ -713,13 +838,17 @@ class DynamicCivNames :
         if( pPlayer.getLeaderType() in LeaderCivNames.LeaderCivNames.keys() ) :
           [origDesc,origShort,origAdj] = LeaderCivNames.LeaderCivNames[pPlayer.getLeaderType()]
 
-    newDesc  = CvUtil.convertToStr(origDesc)
-    newShort = CvUtil.convertToStr(origShort)
-    newAdj   = CvUtil.convertToStr(origAdj)
+    # newDesc  = CvUtil.convertToStr(origDesc)
+    # newShort = CvUtil.convertToStr(origShort)
+    # newAdj   = CvUtil.convertToStr(origAdj)
       
-    newDesc = remove_diacriticals(newDesc)
-    newShort = remove_diacriticals(newShort)
-    newAdj = remove_diacriticals(newAdj)
+    # newDesc = remove_diacriticals(newDesc)
+    # newShort = remove_diacriticals(newShort)
+    # newAdj = remove_diacriticals(newAdj)
+    
+    newDesc  = origDesc
+    newShort = origShort
+    newAdj   = origAdj
 
     if( self.LOG_DEBUG ) :
       CvUtil.pyPrint("  Name - Re-setting civ name for player %d to %s"%(iPlayer,newDesc))
