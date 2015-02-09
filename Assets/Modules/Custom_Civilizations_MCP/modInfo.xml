@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<root>
+    <name>Mega. Civ. Pack</name>
+    <version>1.3.5</version>
+    <extrafiles>
+    <!-- Add here all the files located outsite the mod Modules/ folder which are part of the mod. This will allow mod uninstallation. The parameter "default" should be set to 1 if the listed file replace a default mod file (= can't remove it without causing bug). Set it to 0 if this is safe to remove it. -->
+        <file default="0">Assets/MCP0.FPK</file>
+        <file default="1">Assets/Python/Revolution/Gameready/DynamicCivNames.py</file>
+        <file default="0">Assets/XML/Text/MCP_BUILDINGS.xml</file>
+        <file default="0">Assets/XML/Text/MCP_BUILDINGS_PEDIA.xml</file>
+        <file default="0">Assets/XML/Text/MCP_CITIES.xml</file>
+        <file default="0">Assets/XML/Text/MCP_CIVILIZATIONS.xml</file>
+        <file default="0">Assets/XML/Text/MCP_CIVILIZATIONS_PEDIA.xml</file>
+        <file default="0">Assets/XML/Text/MCP_DIPLOMACY.xml</file>
+        <file default="0">Assets/XML/Text/MCP_LEADERS.xml</file>
+        <file default="0">Assets/XML/Text/MCP_LEADERS_PEDIA.xml</file>
+        <file default="0">Assets/XML/Text/MCP_MISC.xml</file>
+        <file default="0">Assets/XML/Text/MCP_UNITS.xml</file>
+        <file default="0">Assets/XML/Text/MCP_UNITS_PEDIA.xml</file>
+    </extrafiles>
+</root>
