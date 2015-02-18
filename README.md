@@ -1,6 +1,4 @@
-## Civilization IV : Rise of Mankind - A New Dawn
-=====================
-
+# Civilization IV : Rise of Mankind - A New Dawn
 ## Mega Civilization Pack
 
 **Description** 
