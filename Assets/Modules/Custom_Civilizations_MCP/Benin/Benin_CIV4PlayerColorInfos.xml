@@ -6,9 +6,9 @@
 	<PlayerColorInfos>
 		<PlayerColorInfo>
 			<Type>PLAYERCOLOR_BENIN</Type>
-			<ColorTypePrimary>COLOR_X_MISTYROSE</ColorTypePrimary>
+			<ColorTypePrimary>COLOR_PLAYER_BROWN</ColorTypePrimary>
 			<ColorTypeSecondary>COLOR_PLAYER_WHITE</ColorTypeSecondary>
-			<TextColorType>COLOR_X_MISTYROSE</TextColorType>
+			<TextColorType>COLOR_PLAYER_BROWN_TEXT</TextColorType>
 		</PlayerColorInfo>
 	</PlayerColorInfos>
 </Civ4PlayerColorInfos>
