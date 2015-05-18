@@ -8,7 +8,7 @@
 	<CivilizationArtInfos>
 		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_AUSTRALIA</Type>
-			<Button>,art/Australia/Australia.dds,art/Australia/Australia_Atlas.dds,4,1</Button>
+			<Button>art/Australia/Australia.dds</Button>
 			<Path>art/Australia/FlagDECAL_Australia.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>

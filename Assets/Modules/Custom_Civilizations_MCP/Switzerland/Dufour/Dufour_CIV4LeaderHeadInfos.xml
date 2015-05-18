@@ -94,7 +94,7 @@
 			<FavoriteReligion>RELIGION_CHRISTIANITY</FavoriteReligion>
 			<Traits>
 				<Trait>
-					<TraitType>TRAIT_SEAFARING</TraitType>
+					<TraitType>TRAIT_SCIENTIFIC</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 				<Trait>

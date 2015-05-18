@@ -9,7 +9,7 @@
 		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_HUNS</Type>
 			<Button>art/Huns/Huns.dds</Button>
-			<Path>art/Huns/TeamDECAL_Huns.dds</Path>
+			<Path>art/Huns/flagDECAL_Huns.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 	</CivilizationArtInfos>
