@@ -3,114 +3,194 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA1</Tag>
         <English>Knossos</English>
+        <Arabic>كنوسوس</Arabic>
+        <Catalan>Cnossos</Catalan>
+        <Greek>Κνωσσός</Greek>
+        <Spanish>Cnosos</Spanish>
+        <Hungarian>Knósszosz</Hungarian>
+        <Italian>Cnosso</Italian>
+        <Japanese>クノッソス</Japanese>
+        <Korean>크노소스</Korean>
+        <Portuguese>Cnossos</Portuguese>
+        <Brazilian>Cnossos</Brazilian>
+        <Russian>Кносс</Russian>
+        <ChineseSimp>克诺索斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA10</Tag>
         <English>Arkalochori</English>
+        <Arabic>أركالوتشوري</Arabic>
+        <Greek>Αρκαλοχώρι</Greek>
+        <ChineseSimp>阿卡洛科里</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA11</Tag>
         <English>Akrotiri</English>
+        <Arabic>أكروتيري</Arabic>
+        <Greek>Ακρωτίρι</Greek>
+        <ChineseSimp>阿科罗提利</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA12</Tag>
         <English>Zominthos</English>
+        <Arabic>زومينثوس</Arabic>
+        <Greek>Ζώμινθος</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA13</Tag>
         <English>Pseira</English>
+        <Arabic>بسيرا</Arabic>
+        <Greek>Ψείρα Λασιθίου</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA14</Tag>
         <English>Vasiliki</English>
+        <Arabic>فاسيليكي</Arabic>
+        <Greek>Βασιλική</Greek>
+        <ChineseSimp>瓦西利基</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA15</Tag>
         <English>Karfi</English>
+        <Arabic>كارفي</Arabic>
+        <Greek>Καρφί</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA16</Tag>
         <English>Pyrgos</English>
+        <Arabic>بيرغوس</Arabic>
+        <Greek>Πύργος</Greek>
+        <ChineseSimp>皮尔戈斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA17</Tag>
         <English>Fournu Korfi</English>
+        <Greek>Κορφή Φούρνου</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA18</Tag>
         <English>Agia Pelagia</English>
+        <Greek>Αγία Πελαγία</Greek>
+        <ChineseSimp>格亚.匹拉格亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA19</Tag>
         <English>Archanes</English>
+        <Arabic>أرتشانيس</Arabic>
+        <Greek>Αρχάνες</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA2</Tag>
         <English>Phaistos</English>
+        <Arabic>فستوس</Arabic>
+        <Greek>Φαιστός</Greek>
+        <Italian>Festo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA20</Tag>
         <English>Kommos</English>
+        <Arabic>كوموس</Arabic>
+        <Greek>Κομμός</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA21</Tag>
         <English>Platanos</English>
+        <Arabic>بلاتانوس</Arabic>
+        <Greek>Πλάτανος</Greek>
+        <ChineseSimp>普拉塔诺斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA22</Tag>
         <English>Lebana</English>
+        <Arabic>لیبانى</Arabic>
+        <Greek>Λεβάνα</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA23</Tag>
         <English>Palaikastro</English>
+        <Arabic>باليكاسترو</Arabic>
+        <Greek>Παλαίκαστρο</Greek>
+        <Italian>Paleocastro</Italian>
+        <ChineseSimp>帕莱卡斯特罗</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA24</Tag>
         <English>Praisos</English>
+        <Arabic>بريسوس</Arabic>
+        <Greek>Πραισός</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA25</Tag>
         <English>Mochlos</English>
+        <Arabic>مخلص</Arabic>
+        <Greek>Μόχλος</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA26</Tag>
         <English>Armenoi</English>
+        <Arabic>أرمينوي</Arabic>
+        <Greek>Αρμένοι</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA27</Tag>
         <English>Kamaizi</English>
+        <Arabic>كاميزي</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA28</Tag>
         <English>Monastiraki</English>
+        <Arabic>موناستيراكي</Arabic>
+        <Greek>Μοναστηράκι</Greek>
+        <ChineseSimp>莫纳斯蒂拉基</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA29</Tag>
         <English>Stylos</English>
+        <Arabic>ستايلس</Arabic>
+        <Greek>Στύλος</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA3</Tag>
         <English>Malia</English>
+        <Greek>Μάλια</Greek>
+        <ChineseSimp>马利亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA30</Tag>
         <English>Kalami</English>
+        <Arabic>كلامي</Arabic>
+        <Greek>Καλάμι</Greek>
+        <ChineseSimp>卡拉迈</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA31</Tag>
         <English>Khania</English>
+        <Arabic>خانية</Arabic>
+        <Greek>Χανιά</Greek>
+        <French>La Canée</French>
+        <Italian>La Canea</Italian>
+        <ChineseSimp>干尼亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA32</Tag>
         <English>Maleme</English>
+        <Arabic>ماليم</Arabic>
+        <Greek>Μάλεμε</Greek>
+        <Italian>Maléme</Italian>
+        <ChineseSimp>马莱迈</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA33</Tag>
         <English>Platyvola</English>
+        <Arabic>بلاتيفولا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA34</Tag>
         <English>Tylissos</English>
+        <Arabic>تيليسوس</Arabic>
+        <Greek>Τυλισός</Greek>
+        <Italian>Tylisos</Italian>
+        <ChineseSimp>蒂里索斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA35</Tag>
@@ -119,26 +199,44 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA4</Tag>
         <English>Kato Zakros</English>
+        <Greek>Κάτω Ζάκρος</Greek>
+        <Italian>Zakros</Italian>
+        <ChineseSimp>加藤扎克罗斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA5</Tag>
         <English>Agia Triada</English>
+        <Greek>Αγία Τριάδα</Greek>
+        <Italian>Agía Triáda</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA6</Tag>
         <English>Gournia</English>
+        <Arabic>جورنيا</Arabic>
+        <Greek>Γουρνιά</Greek>
+        <ChineseSimp>谷尼亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA7</Tag>
         <English>Kydonia</English>
+        <Arabic>كيدونيا</Arabic>
+        <Greek>Κυδωνία</Greek>
+        <Italian>Cidonia</Italian>
+        <ChineseSimp>基多尼亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA8</Tag>
         <English>Galatas</English>
+        <Arabic>جالاتاس</Arabic>
+        <Greek>Γαλατάς</Greek>
+        <ChineseSimp>加拉塔斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA9</Tag>
         <English>Iouktas</English>
+        <Arabic>إيوكتاس</Arabic>
+        <Italian>Juktas</Italian>
+        <ChineseSimp>爱奥克塔斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AALBORG</Tag>
@@ -163,6 +261,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>البورغ</Arabic>
+        <ChineseSimp>奥尔堡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AALST</Tag>
@@ -187,6 +287,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الوست</Arabic>
+        <ChineseSimp>阿尔斯特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AARHUS</Tag>
@@ -211,6 +313,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>آرهوس</Arabic>
+        <Japanese>アールフス</Japanese>
+        <Korean>오르후스</Korean>
+        <Russian>Аархус</Russian>
+        <ChineseSimp>阿尔胡斯</ChineseSimp>
+        <ChineseTrad>奥胡斯</ChineseTrad>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABA</Tag>
@@ -235,6 +343,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أبا</Arabic>
+        <ChineseSimp>阿伯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABAJ_TAKALIK</Tag>
@@ -259,6 +369,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تاكاليك اباج</Arabic>
+        <ChineseSimp>阿巴赫·塔卡里克</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABBOTTABAD</Tag>
@@ -283,6 +395,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أبوت آباد</Arabic>
+        <ChineseSimp>阿伯塔巴德</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABECHE</Tag>
@@ -307,6 +421,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أبشي</Arabic>
+        <Polish>Abéché</Polish>
+        <ChineseSimp>阿贝歇</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABEOKUTA</Tag>
@@ -331,10 +448,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أبيوكوتا</Arabic>
+        <ChineseSimp>阿贝奥库塔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABOVIAN</Tag>
         <English>Abovian</English>
+        <Arabic>أبوبيان</Arabic>
+        <Italian>Abovyan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABS</Tag>
@@ -383,6 +504,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أبوجا</Arabic>
+        <Polish>Abudża</Polish>
+        <ChineseSimp>阿布贾</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACAPULCO</Tag>
@@ -407,6 +531,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكابولكو</Arabic>
+        <ChineseSimp>阿卡普尔科</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACARIGUA</Tag>
@@ -431,6 +557,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكاريجوا</Arabic>
+        <Polish>Acarígua</Polish>
+        <ChineseSimp>阿卡里瓜</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACATLAN</Tag>
@@ -455,6 +584,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكاتلان</Arabic>
+        <ChineseSimp>阿卡特兰</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACCO</Tag>
@@ -503,6 +634,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكرا</Arabic>
+        <ChineseSimp>阿克拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACHOLLA</Tag>
@@ -527,6 +660,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكولا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACHOMAWI</Tag>
@@ -551,6 +685,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أشوماوي</Arabic>
+        <ChineseSimp>艾可玛维</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACHRA</Tag>
@@ -575,6 +711,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكرا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACIDAVA</Tag>
@@ -599,6 +736,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أسيدافا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACOMA</Tag>
@@ -623,6 +761,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>اكوما</Arabic>
+        <Japanese>アコマ</Japanese>
+        <Russian>Акома</Russian>
+        <ChineseSimp>阿科马</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AD_DAHI</Tag>
@@ -695,6 +837,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>عدن</Arabic>
+        <Hungarian>Áden</Hungarian>
+        <Japanese>アデン</Japanese>
+        <Korean>아덴</Korean>
+        <Brazilian>Áden</Brazilian>
+        <Russian>Аден</Russian>
+        <ChineseSimp>亚丁</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADHICHHATRA</Tag>
@@ -719,6 +868,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أدهيكهاترا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADO_EKITI</Tag>
@@ -743,6 +893,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿多埃基蒂</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADOGIT</Tag>
@@ -767,6 +918,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أدوجيت</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADRESTEIA</Tag>
@@ -791,6 +943,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أدريستيا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADRIA</Tag>
@@ -815,6 +968,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ادريا</Arabic>
+        <ChineseSimp>阿德里亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AETHIOPIA</Tag>
@@ -863,6 +1018,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>عفك</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AFLAO</Tag>
@@ -887,10 +1043,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أفﻻو</Arabic>
+        <ChineseSimp>阿夫劳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGADE</Tag>
         <English>Agade</English>
+        <Arabic>أجادي</Arabic>
+        <Italian>Akkad</Italian>
+        <ChineseSimp>阿卡得</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGADIR</Tag>
@@ -915,6 +1076,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أغادير</Arabic>
+        <ChineseSimp>阿加迪尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGBATANA</Tag>
@@ -939,6 +1102,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic> أجباتانا</Arabic>
+        <ChineseSimp>埃克巴坦那</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGONA_SWEDRU</Tag>
@@ -963,12 +1128,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>سويدرو</Arabic>
+        <ChineseSimp>斯韦德鲁</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGRIGENTO</Tag>
         <English>Agrigento</English>
         <French>
-            <Text>Agrigento</Text>
+            <Text>Agrigente</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -987,6 +1154,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أغريجنتو</Arabic>
+        <ChineseSimp>阿格里琴托</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGUASCALIENTES</Tag>
@@ -1011,6 +1180,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>اغواسكالينتس</Arabic>
+        <ChineseSimp>阿瓜斯卡连特斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AHELMIL</Tag>
@@ -1035,12 +1206,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أهيلميل</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AHMADPUR</Tag>
         <English>Ahmadpur</English>
         <French>
-            <Text>Ahmadpur</Text>
+            <Text>Angel</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -1059,6 +1231,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أهمادبور</Arabic>
+        <ChineseSimp>艾哈迈德布尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AHVAZ</Tag>
@@ -1083,6 +1257,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أهواز</Arabic>
+        <ChineseSimp>阿瓦士</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AITAPE</Tag>
@@ -1107,6 +1283,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ايتاب</Arabic>
+        <ChineseSimp>艾塔佩</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AIZIS</Tag>
@@ -1131,6 +1309,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أيزيس</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AJDABIYA</Tag>
@@ -1155,6 +1334,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>إجدابيا</Arabic>
+        <Polish>Adżdabija</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKCHIN</Tag>
@@ -1203,6 +1384,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أخالتسيخي</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKIM_ODA</Tag>
@@ -1227,6 +1409,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿克木小田</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKRA</Tag>
@@ -1251,6 +1434,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>عقرا</Arabic>
+        <ChineseSimp>阿克拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKRAGAS</Tag>
@@ -1275,6 +1460,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكراجاس</Arabic>
+        <ChineseSimp>阿克拉加斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKSU</Tag>
@@ -1299,14 +1486,21 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكسو</Arabic>
+        <ChineseSimp>阿克苏</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKTAU</Tag>
         <English>Aktau</English>
+        <Arabic>أكتاو</Arabic>
+        <ChineseSimp>阿克套</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKTOBE</Tag>
         <English>Aktobe</English>
+        <Arabic>أكتوبي</Arabic>
+        <Italian>Aqtöbe</Italian>
+        <ChineseSimp>阿克托别</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKUARWA</Tag>
@@ -1331,6 +1525,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أكواروا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKURE</Tag>
@@ -1355,6 +1550,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>اكوري</Arabic>
+        <ChineseSimp>阿库雷</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_BAYDA</Tag>
@@ -1379,6 +1576,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>البيضاء</Arabic>
+        <Polish>Al Bajda</Polish>
+        <ChineseSimp>这是个村子的名字啊。。。。。。</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_DIWANIYAH</Tag>
@@ -1403,10 +1603,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الديوانية</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_FAYYUM</Tag>
         <English>Al Fayyum</English>
+        <Arabic>الفيوم</Arabic>
+        <French>Fayoum</French>
+        <Italian>Fayyum</Italian>
+        <ChineseSimp>阿法尤姆</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_GHAYDAH</Tag>
@@ -1431,14 +1636,21 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الغيضة</Arabic>
+        <Polish>Al Ghajda</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_GHURDAGAH</Tag>
         <English>Al Ghurdagah</English>
+        <Arabic>الغردقة</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_GIZA</Tag>
         <English>Al Giza</English>
+        <Arabic>الجيزة</Arabic>
+        <French>Gizeh</French>
+        <Italian>Giza</Italian>
+        <ChineseSimp>阿尔吉萨</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_HILLAH</Tag>
@@ -1463,6 +1675,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الحلة</Arabic>
+        <Polish>Al-Hilla</Polish>
+        <ChineseSimp>希拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_HUDAYDAH</Tag>
@@ -1487,6 +1702,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الحديدة</Arabic>
+        <Polish>Al Hudaydah</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_JABAR_AL_AKHDAR</Tag>
@@ -1511,6 +1728,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Al-Dżabal al-Akhdar</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_JIFARAH</Tag>
@@ -1539,6 +1757,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_JIZAH</Tag>
         <English>Al Jizah</English>
+        <Arabic>الجيزة</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_KENITRA</Tag>
@@ -1563,6 +1782,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿盖尼特拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MAHABISHAH</Tag>
@@ -1591,6 +1811,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MAHALLAH_AL_KUBRA</Tag>
         <English>Al Mahallah al Kubra</English>
+        <Italian>El-Mahalla El-Kubra</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MAHWIT</Tag>
@@ -1615,10 +1836,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>迈赫维特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MANSURA</Tag>
         <English>Al Mansura</English>
+        <French>Al Mansourah</French>
+        <Italian>Mansura</Italian>
+        <Polish>Al-Mansura</Polish>
+        <ChineseSimp>阿曼苏拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MARAWIAH</Tag>
@@ -1671,6 +1897,9 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MINYA</Tag>
         <English>Al Minya</English>
+        <Italian>Al-Minya</Italian>
+        <Polish>Al-Minya</Polish>
+        <ChineseSimp>阿明亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MUKALLA</Tag>
@@ -1719,12 +1948,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>穆哈</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_QAIM</Tag>
         <English>Al-Qa'im</English>
         <French>
-            <Text>Al-Qa'im</Text>
+            <Text>Al-Qa ' im</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -1743,14 +1973,18 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Al Kaim</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_QUSAYR</Tag>
         <English>Al Qusayr</English>
+        <Italian>Al-Qusayr</Italian>
+        <ChineseSimp>阿古赛尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_UQSUR</Tag>
         <English>Al Uqsur</English>
+        <Italian>Luxor</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALALIA</Tag>
@@ -1799,12 +2033,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿拉莫斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALANIA</Tag>
         <English>Alania</English>
         <French>
-            <Text>Alania</Text>
+            <Text>Alanie</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -1823,10 +2058,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>北奥塞梯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALAVERDI</Tag>
         <English>Alaverdi</English>
+        <Polish>Alawerdi</Polish>
+        <ChineseSimp>阿拉韦尔迪</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALBANIANIS</Tag>
@@ -1875,6 +2113,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>艾伯顿</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALBULENA</Tag>
@@ -1923,6 +2162,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>亚历山德里亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDREIAARIANA</Tag>
@@ -1947,16 +2187,27 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Aleksandria - Ariana</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA</Tag>
         <English>Alexandria</English>
+        <Arabic>الإسكندرية</Arabic>
+        <Czech>Alexandrie</Czech>
+        <Spanish>Alejandría</Spanish>
+        <French>Alexandrie</French>
+        <Italian>Alessandria</Italian>
+        <Japanese>アレクサンドリア</Japanese>
+        <Korean>알렉산드리아</Korean>
+        <Polish>Aleksandria</Polish>
+        <Russian>Александрия</Russian>
+        <ChineseSimp>亚历山大</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA_ARACHOSIA</Tag>
         <English>Alexandria Arachosia</English>
         <French>
-            <Text>Alexandria Arachosia</Text>
+            <Text>Alexandrie Arachosie</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -1975,12 +2226,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Aleksandria Arachosia</Polish>
+        <ChineseSimp>亚历山大·汤斯曼</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA_ESCHATE</Tag>
         <English>Alexandria Eschate</English>
         <French>
-            <Text>Alexandria Eschate</Text>
+            <Text>Alexandrie Eschate</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -1999,14 +2252,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Aleksandria Eschate</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDROPOL</Tag>
         <English>Alexandropol</English>
+        <Italian>Gyumri</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALGA</Tag>
         <English>Alga</English>
+        <ChineseSimp>阿尔加</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALKHANOUM</Tag>
@@ -2031,10 +2287,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ai Chanoum</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALMATY</Tag>
         <English>Almaty</English>
+        <Polish>Ałma-Ata</Polish>
+        <ChineseSimp>阿拉木图</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALMENDARES</Tag>
@@ -2063,6 +2322,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿尔泰</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALYAWARRE</Tag>
@@ -2164,7 +2424,7 @@
         <Tag>TXT_KEY_CITY_NAME_AMARAH</Tag>
         <English>Amarah</English>
         <French>
-            <Text>Amarah</Text>
+            <Text>Imara</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -2183,6 +2443,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Amara</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBATONDRAZAKA</Tag>
@@ -2207,6 +2468,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安巴通德拉扎卡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBOASARY</Tag>
@@ -2231,6 +2493,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安布阿萨里</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBOHIMANGA</Tag>
@@ -2255,6 +2518,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安布希曼加</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBON</Tag>
@@ -2279,6 +2543,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安汶岛</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBOVOMBE</Tag>
@@ -2303,6 +2568,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安布文贝</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMECA</Tag>
@@ -2327,6 +2593,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿梅卡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMPARAFARAVOLA</Tag>
@@ -2351,6 +2618,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安帕拉法拉武拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AN_NUQAT_AL_KHAMS</Tag>
@@ -2375,6 +2643,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安努加特海姆斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANACO</Tag>
@@ -2399,6 +2668,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿纳科</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANAPOLIS</Tag>
@@ -2423,6 +2693,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Anápolis</Polish>
+        <ChineseSimp>安纳波利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANCHIACOS</Tag>
@@ -2471,6 +2743,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安科纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANDERLECHT</Tag>
@@ -2495,6 +2768,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安德来特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANGELES</Tag>
@@ -2519,6 +2793,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp> 安杰利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANGOCHE</Tag>
@@ -2543,10 +2818,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安戈谢</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANI</Tag>
         <English>Ani</English>
+        <ChineseSimp>阿尼</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANMATYERRE</Tag>
@@ -2595,10 +2872,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安纳巴</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANSHAN</Tag>
         <English>Anshan</English>
+        <ChineseSimp>鞍山</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTAKARINJA</Tag>
@@ -2647,6 +2926,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安塔那那利佛</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTANIFOTSY</Tag>
@@ -2671,6 +2951,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安塔尼富齐</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTIOCHEIA</Tag>
@@ -2743,6 +3024,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安蒂波洛</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTOFAGASTA</Tag>
@@ -2767,6 +3049,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安托法加斯塔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTSIRABE</Tag>
@@ -2791,6 +3074,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安齐拉贝</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTSIRANANA</Tag>
@@ -2815,6 +3099,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安齐拉纳纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTWERPEN</Tag>
@@ -2839,6 +3124,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>安特卫普</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AORNOS</Tag>
@@ -2868,7 +3154,7 @@
         <Tag>TXT_KEY_CITY_NAME_APAMEIA</Tag>
         <English>Apameia</English>
         <French>
-            <Text>Apameia</Text>
+            <Text>Apamée</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -3007,6 +3293,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿拉贝拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARACAJU</Tag>
@@ -3031,6 +3318,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿拉卡茹</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAD</Tag>
@@ -3055,6 +3343,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿拉德</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAK</Tag>
@@ -3079,6 +3368,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿拉克</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAL</Tag>
@@ -3087,12 +3377,13 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARARAT</Tag>
         <English>Ararat</English>
+        <ChineseSimp>阿勒山</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAWETE</Tag>
         <English>Arawete</English>
         <French>
-            <Text>Arawete</Text>
+            <Text>Arawetes</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -3135,6 +3426,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿比尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARCINNA</Tag>
@@ -3207,10 +3499,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿尔达比勒</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARDAHAN</Tag>
         <English>Ardahan</English>
+        <ChineseSimp>阿尔达汉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AREIA</Tag>
@@ -3235,6 +3529,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>沙</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARGEDAUON</Tag>
@@ -3283,6 +3578,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>有马</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARITA</Tag>
@@ -3307,6 +3603,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>有田</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARLON</Tag>
@@ -3331,10 +3628,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿尔隆</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARMANT</Tag>
         <English>Armant</English>
+        <Arabic>أرمنت</Arabic>
+        <Italian>Ermonti</Italian>
+        <Japanese>アルマント</Japanese>
+        <Korean>아르만트</Korean>
+        <Russian>Армант</Russian>
+        <ChineseSimp>阿尔曼特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARMANUM</Tag>
@@ -3343,6 +3647,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARMAVIR</Tag>
         <English>Armavir</English>
+        <ChineseSimp>阿尔马维尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AROCHER</Tag>
@@ -3391,6 +3696,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿伦特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARRETIUM</Tag>
@@ -3415,6 +3721,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أريتيوم</Arabic>
+        <Japanese>アレティウム</Japanese>
+        <Korean>아레티움</Korean>
+        <Russian>Ареццо</Russian>
+        <ChineseSimp>阿雷提姆</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARROYO_SONSO</Tag>
@@ -3439,6 +3750,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿罗约松索</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARSAKIA</Tag>
@@ -3463,10 +3775,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿萨基亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTASHAT</Tag>
         <English>Artashat</English>
+        <ChineseSimp>阿尔塔沙特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTAXATA</Tag>
@@ -3491,10 +3805,16 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أرتاكساتا</Arabic>
+        <Japanese>アルタクサタ</Japanese>
+        <Korean>아트라사타</Korean>
+        <Russian>Арташат</Russian>
+        <ChineseSimp>阿尔塔萨塔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTEMISA</Tag>
         <English>Artemisa</English>
+        <ChineseSimp>阿特米萨</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTUX</Tag>
@@ -3519,6 +3839,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿图什</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARVAD</Tag>
@@ -3543,12 +3864,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿瓦德</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARYANAH</Tag>
         <English>Aryanah</English>
         <French>
-            <Text>Aryanah</Text>
+            <Text>Ariana</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -3567,6 +3889,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ariana</Polish>
+        <ChineseSimp>艾尔亚奈</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARZNI</Tag>
@@ -3619,6 +3943,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿萨曼凯塞</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASH_SHIHR</Tag>
@@ -3691,16 +4016,18 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿什伯顿</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASHTARAK</Tag>
         <English>Ashtarak</English>
+        <ChineseSimp>阿什塔拉克</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASHUR</Tag>
         <English>Ashur</English>
         <French>
-            <Text>Ashur</Text>
+            <Text>Assur</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -3719,6 +4046,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>آشور</Arabic>
+        <Japanese>アッシュール</Japanese>
+        <Polish>Aszur</Polish>
+        <Russian>Ашшур</Russian>
+        <ChineseSimp>亚述</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASIOPOLIS</Tag>
@@ -3771,14 +4103,29 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASTANA</Tag>
         <English>Astana</English>
+        <ChineseSimp>阿斯塔纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASWAN</Tag>
         <English>Aswan</English>
+        <French>Assouan</French>
+        <Italian>Assuan</Italian>
+        <Polish>Asuan</Polish>
+        <ChineseSimp>阿斯旺</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASYUT</Tag>
         <English>Asyut</English>
+        <Arabic>أسيوط</Arabic>
+        <Catalan>Asiut</Catalan>
+        <Spanish>Asiut</Spanish>
+        <French>Assiout</French>
+        <Hungarian>Aszjút</Hungarian>
+        <Japanese>アシュート</Japanese>
+        <Korean>아시우트</Korean>
+        <Polish>Asjut</Polish>
+        <Russian>Асьют</Russian>
+        <ChineseSimp>阿斯犹特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATAQ</Tag>
@@ -3831,6 +4178,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATBASAR</Tag>
         <English>Atbasar</English>
+        <ChineseSimp>阿特巴萨尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATINA</Tag>
@@ -3855,6 +4203,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿蒂纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATLACOMULCO</Tag>
@@ -3879,6 +4228,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿特拉科穆尔科</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATTAWAPISKAT</Tag>
@@ -3903,6 +4253,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>阿塔瓦皮斯基特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATUONA</Tag>
@@ -3927,10 +4278,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp> 阿图奥纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATYRAU</Tag>
         <English>Atyrau</English>
+        <ChineseSimp>阿特劳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AUCHI</Tag>
@@ -3955,6 +4308,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>奥奇</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AUCKLAND</Tag>
@@ -3979,6 +4333,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>奥克兰</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AUGANDZER</Tag>
@@ -4027,6 +4382,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp> 阿韦利诺</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AWABAKAL</Tag>
@@ -4075,10 +4431,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ايوديا</Arabic>
+        <Japanese>アヨーディヤ</Japanese>
+        <Russian>Айютия</Russian>
+        <ChineseSimp>阿尤德亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AZ_ZAQAZIQ</Tag>
         <English>Az Zaqaziq</English>
+        <ChineseSimp>阿斯宰加济格</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AZ_ZAWIYAH</Tag>
@@ -4103,6 +4464,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>扎维耶</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AZ_ZAYDIYAH</Tag>
@@ -4179,6 +4541,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <ChineseSimp>薄寮</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAC_NINH</Tag>
@@ -4376,7 +4739,7 @@
         <Tag>TXT_KEY_CITY_NAME_BAGHDAD</Tag>
         <English>Baghdad</English>
         <French>
-            <Text>Baghdad</Text>
+            <Text>Bagdad</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -4395,6 +4758,18 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بغداد</Arabic>
+        <Catalan>Bagdad</Catalan>
+        <Czech>Bagdád</Czech>
+        <Finnish>Bagdad</Finnish>
+        <Hungarian>Bagdad</Hungarian>
+        <Japanese>バグダッド</Japanese>
+        <Korean>바그다드</Korean>
+        <Polish>Bagdad</Polish>
+        <Portuguese>Bagdá</Portuguese>
+        <Brazilian>Bagdá</Brazilian>
+        <Russian>Багдад</Russian>
+        <ChineseSimp>巴格达</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAGO</Tag>
@@ -4563,6 +4938,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Baydhabo</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAIJI</Tag>
@@ -4759,6 +5135,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بلخ</Arabic>
+        <Czech>Balch</Czech>
+        <Hungarian>Baktra</Hungarian>
+        <Japanese>バルフ</Japanese>
+        <Korean>발흐</Korean>
+        <Russian>Балх</Russian>
+        <ChineseSimp>巴尔克</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAMA</Tag>
@@ -4931,6 +5314,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANI_SUWAYF</Tag>
         <English>Bani Suwayf</English>
+        <French>Bani Sowayf</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANJARMASIN</Tag>
@@ -5008,7 +5392,7 @@
         <Tag>TXT_KEY_CITY_NAME_BAQUBAH</Tag>
         <English>Baqubah</English>
         <French>
-            <Text>Baqubah</Text>
+            <Text>Bakouba</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -5027,6 +5411,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Bakuba</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARACOA</Tag>
@@ -5055,12 +5440,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Baraawe</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARCELONA</Tag>
         <English>Barcelona</English>
         <French>
-            <Text>Barcelona</Text>
+            <Text>Barcelone</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -5079,6 +5465,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>برشلونة</Arabic>
+        <Japanese>バルセロナ</Japanese>
+        <Korean>바르셀로나</Korean>
+        <Russian>Барселона</Russian>
+        <ChineseSimp>巴塞罗那</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARI</Tag>
@@ -5103,6 +5494,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>باري</Arabic>
+        <Japanese>バリ</Japanese>
+        <Russian>Бари</Russian>
+        <ChineseSimp>巴里</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARINAS</Tag>
@@ -5204,7 +5599,7 @@
         <Tag>TXT_KEY_CITY_NAME_BASRA</Tag>
         <English>Basra</English>
         <French>
-            <Text>Basra</Text>
+            <Text>Bassora</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -5223,6 +5618,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>البصرة</Arabic>
+        <Catalan>Bàssora</Catalan>
+        <Hungarian>Bászra</Hungarian>
+        <Japanese>バスラ</Japanese>
+        <Korean>바스라</Korean>
+        <Brazilian>Baçorá</Brazilian>
+        <Russian>Басра</Russian>
+        <ChineseSimp>巴士拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BASSAR</Tag>
@@ -5391,6 +5794,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>バトゥーミ</Japanese>
+        <Korean>바투미</Korean>
+        <Russian>Батуми::Батуми:Батуми:Батуми</Russian>
+        <ChineseSimp>巴统</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAUCHI</Tag>
@@ -5495,6 +5902,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Bajazyd</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAYHAN_AL_QISAB</Tag>
@@ -5927,10 +6335,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بربرة</Arabic>
+        <Japanese>ベルベラ</Japanese>
+        <Russian>Бербера</Russian>
+        <ChineseSimp>柏柏拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERD</Tag>
         <English>Berd</English>
+        <French>DIRDE</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEREKUM</Tag>
@@ -5984,7 +6397,7 @@
         <Tag>TXT_KEY_CITY_NAME_BERGAMO</Tag>
         <English>Bergamo</English>
         <French>
-            <Text>Bergamo</Text>
+            <Text>Bergame</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -6027,6 +6440,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>ベルゲン</Japanese>
+        <Russian>Берген</Russian>
+        <ChineseSimp>卑尔根</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERGIO</Tag>
@@ -6319,6 +6735,10 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BITLIS</Tag>
         <English>Bitlis</English>
+        <Arabic>بيتليس</Arabic>
+        <Japanese>ビトリス</Japanese>
+        <Russian>Битлис</Russian>
+        <ChineseSimp>比特利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BJELOVAR</Tag>
@@ -6559,6 +6979,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بوجرا</Arabic>
+        <Japanese>ボグラ</Japanese>
+        <Russian>Богра</Russian>
+        <ChineseSimp>伯格拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOKSBURG</Tag>
@@ -6636,7 +7060,7 @@
         <Tag>TXT_KEY_CITY_NAME_BOLOGNA</Tag>
         <English>Bologna</English>
         <French>
-            <Text>Bologna</Text>
+            <Text>Bologne</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -6655,6 +7079,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Bolonia</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOLZANO</Tag>
@@ -6799,6 +7224,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Botoşani</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOTSHABELO</Tag>
@@ -6827,6 +7253,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOURGAS</Tag>
         <English>Bourgas</English>
+        <Polish>Burgas</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAC</Tag>
@@ -7019,6 +7446,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Bratysława</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAZZAVILLE</Tag>
@@ -7235,12 +7663,21 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بروكسل</Arabic>
+        <Czech>Brusel</Czech>
+        <Danish>Bruxelles</Danish>
+        <Finnish>Bryssel</Finnish>
+        <Hungarian>Brüsszel</Hungarian>
+        <Japanese>ブリュッセル</Japanese>
+        <Polish>Bruksela</Polish>
+        <Russian>Брюссель</Russian>
+        <ChineseSimp>布鲁塞尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUCHAREST</Tag>
         <English>Bucuresti</English>
         <French>
-            <Text>Bucuresti</Text>
+            <Text>Bucarest</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -7331,6 +7768,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بخارى</Arabic>
+        <Catalan>Bukharà</Catalan>
+        <Czech>Buchara</Czech>
+        <Hungarian>Buhara</Hungarian>
+        <Japanese>ブハラ</Japanese>
+        <Korean>부하라</Korean>
+        <Polish>Buchary</Polish>
+        <Portuguese>Bucara</Portuguese>
+        <Brazilian>Bucara</Brazilian>
+        <Russian>Бухара</Russian>
+        <ChineseSimp>布哈拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BULAWEYO</Tag>
@@ -7715,6 +8163,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>جبيل</Arabic>
+        <Catalan>Biblos</Catalan>
+        <Hungarian>Büblosz</Hungarian>
+        <Japanese>ビブロス</Japanese>
+        <Korean>비블로스</Korean>
+        <Portuguese>Biblos</Portuguese>
+        <Brazilian>Biblos</Brazilian>
+        <Russian>Библос</Russian>
+        <ChineseSimp>比伯罗斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CABANATUAN</Tag>
@@ -7863,6 +8320,17 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAESAREA</Tag>
         <English>Caesarea</English>
+        <Arabic>قيسارية</Arabic>
+        <Catalan>Cesarea</Catalan>
+        <Spanish>Cesárea</Spanish>
+        <Finnish>Kesarea</Finnish>
+        <Italian>Cesarea</Italian>
+        <Japanese>カイザリヤ</Japanese>
+        <Korean>카에사리아</Korean>
+        <Portuguese>Cesaréia</Portuguese>
+        <Brazilian>Cesaréia</Brazilian>
+        <Russian>Цезария</Russian>
+        <ChineseSimp>恺撒里亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAGAYAN_DE_ORO</Tag>
@@ -7967,6 +8435,9 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAIRO</Tag>
         <English>Cairo</English>
+        <German>Keiro</German>
+        <French>Le Caire</French>
+        <Italian>Il Cairo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAIT</Tag>
@@ -8092,7 +8563,7 @@
         <Tag>TXT_KEY_CITY_NAME_CALAMBA</Tag>
         <English>Calamba</English>
         <French>
-            <Text>Calamba</Text>
+            <Text>Cambier</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -8355,6 +8826,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Kapsztad</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAPEVA</Tag>
@@ -8603,6 +9075,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الدار البيضاء</Arabic>
+        <Japanese>カサブランカ</Japanese>
+        <Russian>Касабланка</Russian>
+        <ChineseSimp>卡萨布兰卡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CASERTA</Tag>
@@ -8704,7 +9180,7 @@
         <Tag>TXT_KEY_CITY_NAME_CATANIA</Tag>
         <English>Catania</English>
         <French>
-            <Text>Catania</Text>
+            <Text>Catane</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -8904,7 +9380,7 @@
         <Tag>TXT_KEY_CITY_NAME_CERRO_MAYAL</Tag>
         <English>Cerro Mayal</English>
         <French>
-            <Text>Cerro Mayal</Text>
+            <Text>Cerro Milito</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -9235,6 +9711,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تشارسادا</Arabic>
+        <Japanese>チャルサダ</Japanese>
+        <Korean>차르사다</Korean>
+        <Portuguese>Charsada</Portuguese>
+        <Brazilian>Charsada</Brazilian>
+        <Russian>Шарсадда</Russian>
+        <ChineseSimp>萨尔沙达</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHEEOHEE</Tag>
@@ -9360,7 +9843,7 @@
         <Tag>TXT_KEY_CITY_NAME_CHIATURA</Tag>
         <English>Chiatura</English>
         <French>
-            <Text>Chiatura</Text>
+            <Text>Tchiatoura</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -9384,7 +9867,7 @@
         <Tag>TXT_KEY_CITY_NAME_CHIBUTO</Tag>
         <English>Chibuto</English>
         <French>
-            <Text>Chibuto</Text>
+            <Text>Kibouto</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -9456,7 +9939,7 @@
         <Tag>TXT_KEY_CITY_NAME_CHILE</Tag>
         <English>Chile</English>
         <French>
-            <Text>Chile</Text>
+            <Text>Chili</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -9624,7 +10107,7 @@
         <Tag>TXT_KEY_CITY_NAME_CHISHA</Tag>
         <English>Chisha</English>
         <French>
-            <Text>Chisha</Text>
+            <Text>Arletty</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -9667,6 +10150,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Mandi Chishtian</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHITTAGONG</Tag>
@@ -9691,6 +10175,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>شيتاغونغ</Arabic>
+        <Czech>Čattagrám</Czech>
+        <Japanese>チッタゴン</Japanese>
+        <Korean>치타공</Korean>
+        <Russian>Читтагонг</Russian>
+        <ChineseSimp>吉大港</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHITUNGWIZA</Tag>
@@ -9787,6 +10277,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>وتشوتا</Arabic>
+        <Japanese>チョータ</Japanese>
+        <Russian>Чота</Russian>
+        <ChineseSimp>查塔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHOWMOHONI</Tag>
@@ -10015,6 +10509,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CILICIA</Tag>
         <English>Cilicia</English>
+        <French>Cilicie</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CIMAHI</Tag>
@@ -10255,6 +10750,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كوبا</Arabic>
+        <Czech>Cobá</Czech>
+        <Japanese>コバ</Japanese>
+        <Russian>Коба</Russian>
+        <ChineseSimp>考巴</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COBRE</Tag>
@@ -10575,6 +11075,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Copiapó</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COQUIMBO</Tag>
@@ -10604,7 +11105,7 @@
         <Tag>TXT_KEY_CITY_NAME_CORDUBA</Tag>
         <English>Corduba</English>
         <French>
-            <Text>Corduba</Text>
+            <Text>Cordoue</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -10772,7 +11273,7 @@
         <Tag>TXT_KEY_CITY_NAME_COSTANOAN</Tag>
         <English>Costanoan</English>
         <French>
-            <Text>Costanoan</Text>
+            <Text>Costanoanes</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -10820,7 +11321,7 @@
         <Tag>TXT_KEY_CITY_NAME_COXS_BAZAR</Tag>
         <English>Cox's Bazar</English>
         <French>
-            <Text>Cox's Bazar</Text>
+            <Text>Bazar de Cox</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -11079,6 +11580,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Culhuacán</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CULIACAN</Tag>
@@ -11175,6 +11677,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Curicó</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CURITIBA</Tag>
@@ -11276,7 +11779,7 @@
         <Tag>TXT_KEY_CITY_NAME_DAHUK</Tag>
         <English>Dahuk</English>
         <French>
-            <Text>Dahuk</Text>
+            <Text>Dahouk</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -11319,6 +11822,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ad-Dachla</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DALAT</Tag>
@@ -11395,6 +11899,11 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DAMANHUR</Tag>
         <English>Damanhur</English>
+        <Arabic>دمنهور</Arabic>
+        <Japanese>ダマヌール</Japanese>
+        <Korean>다만후르</Korean>
+        <Russian>Даманхур</Russian>
+        <ChineseSimp>达马胡尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DAMASKOS</Tag>
@@ -11783,6 +12292,10 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DER</Tag>
         <English>Der</English>
+        <Arabic>دير</Arabic>
+        <Japanese>デル</Japanese>
+        <Russian>Дер</Russian>
+        <ChineseSimp>德尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DERA_GHAZI_KHAN</Tag>
@@ -11831,6 +12344,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>دكا</Arabic>
+        <Czech>Dháka</Czech>
+        <Japanese>ダッカ</Japanese>
+        <Russian>Дхака</Russian>
+        <ChineseSimp>达卡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DHAMAR</Tag>
@@ -11884,7 +12402,7 @@
         <Tag>TXT_KEY_CITY_NAME_DHI_AS_SUFAL</Tag>
         <English>Dhi as-Sufal</English>
         <French>
-            <Text>Dhi as-Sufal</Text>
+            <Text>DHI comme millogo-</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -12004,7 +12522,7 @@
         <Tag>TXT_KEY_CITY_NAME_DIEN_BIEN_PHU</Tag>
         <English>Dien Bien Phu</English>
         <French>
-            <Text>Dien Bien Phu</Text>
+            <Text>Diên Biên Phu</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -12028,7 +12546,7 @@
         <Tag>TXT_KEY_CITY_NAME_DIERE</Tag>
         <English>Diere</English>
         <French>
-            <Text>Diere</Text>
+            <Text>Diery</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -12047,6 +12565,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Dierami</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DIFFA</Tag>
@@ -12300,7 +12819,7 @@
         <Tag>TXT_KEY_CITY_NAME_DOME</Tag>
         <English>Dome</English>
         <French>
-            <Text>Dome</Text>
+            <Text>Dôme</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -12348,7 +12867,7 @@
         <Tag>TXT_KEY_CITY_NAME_DOORNIK</Tag>
         <English>Doornik</English>
         <French>
-            <Text>Doornik</Text>
+            <Text>Tournai</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -12511,6 +13030,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Dubrownik</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DUCOS</Tag>
@@ -12783,6 +13303,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DVIN</Tag>
         <English>Dvin</English>
+        <Polish>Dwin</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DZI_LIKESILAN</Tag>
@@ -12835,6 +13356,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Sandic</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ECH_CHELIFF</Tag>
@@ -12907,10 +13429,16 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Edéa</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EDESSA</Tag>
         <English>Edessa</English>
+        <Arabic>الرها</Arabic>
+        <Japanese>エデッサ</Japanese>
+        <Korean>에데사</Korean>
+        <Russian>Эдесса</Russian>
+        <ChineseSimp>埃德萨</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EFFON_ALAIYE</Tag>
@@ -12935,6 +13463,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Effon-Alaiye</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EGO</Tag>
@@ -12988,7 +13517,7 @@
         <Tag>TXT_KEY_CITY_NAME_EHOR</Tag>
         <English>Ehor</English>
         <French>
-            <Text>Ehor</Text>
+            <Text>EHOr</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -13016,7 +13545,7 @@
         <Tag>TXT_KEY_CITY_NAME_EJURA</Tag>
         <English>Ejura</English>
         <French>
-            <Text>Ejura</Text>
+            <Text>Mike</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -13499,6 +14028,10 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ERZURUM</Tag>
         <English>Erzurum</English>
+        <Arabic>أرضروم</Arabic>
+        <Japanese>エルズルム</Japanese>
+        <Russian>Эрзурум</Russian>
+        <ChineseSimp>埃尔祖卢姆</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ESBJERG</Tag>
@@ -13667,12 +14200,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Fajsalabad</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_FALERII</Tag>
         <English>Falerii</English>
         <French>
-            <Text>Falerii</Text>
+            <Text>Faléries</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -13696,7 +14230,7 @@
         <Tag>TXT_KEY_CITY_NAME_FALLUJAH</Tag>
         <English>Fallujah</English>
         <French>
-            <Text>Fallujah</Text>
+            <Text>Falloujah</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -13912,7 +14446,7 @@
         <Tag>TXT_KEY_CITY_NAME_FEZ</Tag>
         <English>Fez</English>
         <French>
-            <Text>Fez</Text>
+            <Text>Fès</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -13931,6 +14465,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>فاس</Arabic>
+        <Catalan>Fes</Catalan>
+        <Czech>Fás</Czech>
+        <Japanese>フェズ</Japanese>
+        <Korean>페스</Korean>
+        <Russian>Фес</Russian>
+        <ChineseSimp>菲兹</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_FIANARANTSOA</Tag>
@@ -14344,7 +14885,7 @@
         <Tag>TXT_KEY_CITY_NAME_FORTRIU</Tag>
         <English>Fortriu</English>
         <French>
-            <Text>Fortriu</Text>
+            <Text>Fortriú</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -14535,6 +15076,16 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_FUSTAT</Tag>
         <English>Fustat</English>
+        <Arabic>الفسطاط</Arabic>
+        <Catalan>Al-Fustat</Catalan>
+        <Spanish>El-Fustat</Spanish>
+        <Hungarian>Fusztát</Hungarian>
+        <Japanese>フスタート</Japanese>
+        <Korean>푸스타트</Korean>
+        <Portuguese>Fostat</Portuguese>
+        <Brazilian>Fostat</Brazilian>
+        <Russian>Фастат</Russian>
+        <ChineseSimp>弗斯塔特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GAALKACYO</Tag>
@@ -14587,6 +15138,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GABROVO</Tag>
         <English>Gabrovo</English>
+        <Polish>Gabrowo</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GADES</Tag>
@@ -14611,6 +15163,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>ガデス</Japanese>
+        <Korean>가데스</Korean>
+        <Russian>Гадес</Russian>
+        <ChineseSimp>加迪斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GAGRA</Tag>
@@ -14779,6 +15335,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>قاو</Arabic>
+        <Japanese>ガオ</Japanese>
+        <Korean>가오</Korean>
+        <Russian>Гао</Russian>
+        <ChineseSimp>加奥</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GARNI</Tag>
@@ -14911,6 +15472,11 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GAZA</Tag>
         <English>Gaza</English>
+        <Hungarian>Gáza</Hungarian>
+        <Japanese>ガザ</Japanese>
+        <Polish>Gazy</Polish>
+        <Russian>Газа</Russian>
+        <ChineseSimp>加沙</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GAZIPUR</Tag>
@@ -15016,7 +15582,7 @@
         <Tag>TXT_KEY_CITY_NAME_GENOA</Tag>
         <English>Genoa</English>
         <French>
-            <Text>Genoa</Text>
+            <Text>Gênes</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -15035,6 +15601,16 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>جنوة</Arabic>
+        <Czech>Janov</Czech>
+        <Danish>Genova</Danish>
+        <Finnish>Genova</Finnish>
+        <Hungarian>Genova</Hungarian>
+        <Japanese>ジェノヴァ</Japanese>
+        <Korean>제노바</Korean>
+        <Polish>Genua</Polish>
+        <Russian>Генуя</Russian>
+        <ChineseSimp>热那亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GENOVA</Tag>
@@ -15232,7 +15808,7 @@
         <Tag>TXT_KEY_CITY_NAME_GJAKOVA</Tag>
         <English>Gjakova</English>
         <French>
-            <Text>Gjakova</Text>
+            <Text>Granier</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -15424,7 +16000,7 @@
         <Tag>TXT_KEY_CITY_NAME_GORODISHCHE</Tag>
         <English>Gorodishche</English>
         <French>
-            <Text>Gorodishche</Text>
+            <Text>Gorodichtché</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -15545,12 +16121,14 @@
         <English>Great Bulgar</English>
         <German>Gross Bulgar</German>
         <Hungarian>Nagy Bulgar</Hungarian>
+        <French>Grand Bulgare</French>
+        <Polish>Wielki Bulgar</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GREAT_HIWASSEE</Tag>
         <English>Great Hiwassee</English>
         <French>
-            <Text>Great Hiwassee</Text>
+            <Text>Grand Hiwassee</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -15569,12 +16147,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Wielki Hiwassee</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GREAT_ZIMBABWE</Tag>
         <English>Great Zimbabwe</English>
         <French>
-            <Text>Great Zimbabwe</Text>
+            <Text>Grand Zimbabwe</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -15593,6 +16172,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Wielkie Zimbabwe</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GRENAA</Tag>
@@ -15893,6 +16473,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GUINES</Tag>
         <English>Guines</English>
+        <Polish>Guînes</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GUJRANWALA</Tag>
@@ -15946,7 +16527,7 @@
         <Tag>TXT_KEY_CITY_NAME_GUNAI</Tag>
         <English>Gunai</English>
         <French>
-            <Text>Gunai</Text>
+            <Text>Gunaï</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -16113,6 +16694,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GYUMRI</Tag>
         <English>Gyumri</English>
+        <Polish>Giumri</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HADERSLEV</Tag>
@@ -16261,6 +16843,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Hadżdża</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HAKIY</Tag>
@@ -16309,6 +16892,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Halabdży</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HALLIN</Tag>
@@ -16549,6 +17133,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Bezludna</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HARARE</Tag>
@@ -16669,6 +17254,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>هاستينغز</Arabic>
+        <Japanese>ヘイスティングス</Japanese>
+        <Korean>헤이스팅스</Korean>
+        <Russian>Гастингс</Russian>
+        <ChineseSimp>黑斯廷斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HATRA</Tag>
@@ -16693,6 +17283,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Korean>하트라</Korean>
+        <Russian>Хатра</Russian>
+        <ChineseSimp>哈特拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HATTHIPURA</Tag>
@@ -16721,6 +17314,8 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HAVANA</Tag>
         <English>Havana</English>
+        <French>La Havane</French>
+        <Polish>Hawana</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HAVASUPAI</Tag>
@@ -16798,7 +17393,7 @@
         <Tag>TXT_KEY_CITY_NAME_HEAD_SMASHED_IN</Tag>
         <English>Head-Smashed-In</English>
         <French>
-            <Text>Head-Smashed-In</Text>
+            <Text>Précipice à bisons</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -16970,7 +17565,7 @@
         <Tag>TXT_KEY_CITY_NAME_HENZADA</Tag>
         <English>Henzada</English>
         <French>
-            <Text>Henzada</Text>
+            <Text>Hinthada</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -16994,7 +17589,7 @@
         <Tag>TXT_KEY_CITY_NAME_HERAT</Tag>
         <English>Herat</English>
         <French>
-            <Text>Herat</Text>
+            <Text>Hérat</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -17013,6 +17608,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>هرات</Arabic>
+        <Czech>Herát</Czech>
+        <Japanese>ヘラット</Japanese>
+        <Korean>헤라트</Korean>
+        <Russian>Герат</Russian>
+        <ChineseSimp>赫拉特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HERMOSILLO</Tag>
@@ -17114,7 +17715,7 @@
         <Tag>TXT_KEY_CITY_NAME_HIMERA</Tag>
         <English>Himera</English>
         <French>
-            <Text>Himera</Text>
+            <Text>Himère</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -17693,12 +18294,18 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>حيدر أباد</Arabic>
+        <Czech>Hajdarábád</Czech>
+        <Japanese>ハイデラバード</Japanese>
+        <Korean>하이델라바드</Korean>
+        <Russian>Хайдарабад</Russian>
+        <ChineseSimp>海德拉巴</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HYVINKAA</Tag>
         <English>Hyvinkaa</English>
         <French>
-            <Text>Hyvinkaa</Text>
+            <Text>Hyvinkää</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -17913,6 +18520,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_IJEVAN</Tag>
         <English>Ijevan</English>
+        <Polish>Idżewan</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_IKAST</Tag>
@@ -18105,6 +18713,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>إيندرابراسثا</Arabic>
+        <Japanese>インドラプラシャ</Japanese>
+        <Russian>Индрапратха</Russian>
+        <ChineseSimp>因陀罗普罗斯泰</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_INHAMBANE</Tag>
@@ -18302,7 +18914,7 @@
         <Tag>TXT_KEY_CITY_NAME_ISFAHAN</Tag>
         <English>Isfahan</English>
         <French>
-            <Text>Isfahan</Text>
+            <Text>Ispahan</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -18393,6 +19005,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Iskandarija</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ISLAMABAD</Tag>
@@ -18594,7 +19207,7 @@
         <Tag>TXT_KEY_CITY_NAME_IYAH_HAJIN</Tag>
         <English>Iyah Hajin</English>
         <French>
-            <Text>Iyah Hajin</Text>
+            <Text>Iyah Gianni</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -18637,6 +19250,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>إيزابا</Arabic>
+        <Japanese>イサパ</Japanese>
+        <Russian>Ицапа</Russian>
+        <ChineseSimp>伊扎帕</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_IZEE_DIGHIN</Tag>
@@ -18685,6 +19302,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Jablonec Nad Nysą</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_JAKARTA</Tag>
@@ -18949,6 +19567,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Dźoszohor</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_JHANG_MAGHIANA</Tag>
@@ -19285,6 +19904,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Jundiaí</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_JUXTLAHUACA</Tag>
@@ -19333,6 +19953,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Jyväskylä</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KAAPOR</Tag>
@@ -19386,7 +20007,7 @@
         <Tag>TXT_KEY_CITY_NAME_KABUL</Tag>
         <English>Kabul</English>
         <French>
-            <Text>Kabul</Text>
+            <Text>Kaboul</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -19405,6 +20026,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كابول</Arabic>
+        <Czech>Kábul</Czech>
+        <Japanese>カブール</Japanese>
+        <Korean>카불</Korean>
+        <Portuguese>Cabul</Portuguese>
+        <Brazilian>Cabul</Brazilian>
+        <Russian>Кабул</Russian>
+        <ChineseSimp>喀布尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KABWE</Tag>
@@ -19821,6 +20450,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>قندهار</Arabic>
+        <Czech>Kandahár</Czech>
+        <Hungarian>Kandahár</Hungarian>
+        <Japanese>カンダハル</Japanese>
+        <Korean>칸다하</Korean>
+        <Russian>Кандагар</Russian>
+        <ChineseSimp>坎大哈</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KANDYAGASH</Tag>
@@ -19873,6 +20509,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كانو</Arabic>
+        <Japanese>カノ</Japanese>
+        <Korean>카노</Korean>
+        <Russian>Кано</Russian>
+        <ChineseSimp>卡诺</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KAPAN</Tag>
@@ -19901,6 +20542,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كابيسا</Arabic>
+        <Czech>Kapísá</Czech>
+        <Japanese>カピサ</Japanese>
+        <Korean>카피사</Korean>
+        <Russian>Каписа</Russian>
+        <ChineseSimp>卡皮沙</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KARACHI</Tag>
@@ -19925,6 +20572,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كراتشي</Arabic>
+        <Czech>Karáčí</Czech>
+        <Hungarian>Karacsi</Hungarian>
+        <Japanese>カラチ</Japanese>
+        <Korean>카라치</Korean>
+        <Polish>Karaczi</Polish>
+        <Russian>Карачи</Russian>
+        <ChineseSimp>卡拉齐</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KARAGANDA</Tag>
@@ -20006,7 +20661,7 @@
         <Tag>TXT_KEY_CITY_NAME_KARITIANA</Tag>
         <English>Karitiana</English>
         <French>
-            <Text>Karitiana</Text>
+            <Text>Karitianas</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -20073,6 +20728,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Karlowe Wary</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KARMANA</Tag>
@@ -20097,6 +20753,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كرمانى</Arabic>
+        <Czech>Navoi</Czech>
+        <Japanese>カルマナ</Japanese>
+        <Korean>카르마나</Korean>
+        <Russian>Кармана</Russian>
+        <ChineseSimp>卡尔马纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KARMEL</Tag>
@@ -20341,6 +21003,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كاتسينا</Arabic>
+        <Japanese>カトシナ</Japanese>
+        <Korean>카치나</Korean>
+        <Russian>Катсина</Russian>
+        <ChineseSimp>卡特西那</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KAUSAMBI</Tag>
@@ -20518,7 +21185,7 @@
         <Tag>TXT_KEY_CITY_NAME_KERCH</Tag>
         <English>Kerch</English>
         <French>
-            <Text>Kerch</Text>
+            <Text>Kertch</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -20537,6 +21204,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Kercz</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KERES</Tag>
@@ -20614,7 +21282,7 @@
         <Tag>TXT_KEY_CITY_NAME_KHAMR</Tag>
         <English>Khamr</English>
         <French>
-            <Text>Khamr</Text>
+            <Text>Agrément</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -21017,6 +21685,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Kinszasa</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KINTAMPO</Tag>
@@ -21118,7 +21787,7 @@
         <Tag>TXT_KEY_CITY_NAME_KIRKUK</Tag>
         <English>Kirkuk</English>
         <French>
-            <Text>Kirkuk</Text>
+            <Text>Kirkouk</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -21549,6 +22218,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOKSHETAU</Tag>
         <English>Kokshetau</English>
+        <Polish>Kokszetau</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOLDING</Tag>
@@ -21717,6 +22387,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Korcza</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KORCULA</Tag>
@@ -21837,6 +22508,12 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Czech>Košice</Czech>
+        <Hungarian>Kassa</Hungarian>
+        <Japanese>コシツェ</Japanese>
+        <Korean>코시체</Korean>
+        <Russian>Кошице::Кошице:Кошице:Кошице</Russian>
+        <ChineseSimp>科希策</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOSO</Tag>
@@ -21865,6 +22542,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOSTANAY</Tag>
         <English>Kostanay</English>
+        <Polish>Kustanaj</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOSTROMSKAYA</Tag>
@@ -22138,7 +22816,7 @@
         <Tag>TXT_KEY_CITY_NAME_KUL_OBA</Tag>
         <English>Kul-Oba</English>
         <French>
-            <Text>Kul-Oba</Text>
+            <Text>Koul-Oba</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -22397,6 +23075,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Kusz</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KUSHAGRAPURA</Tag>
@@ -22526,7 +23205,7 @@
         <Tag>TXT_KEY_CITY_NAME_KUYTUN</Tag>
         <English>Kuytun</English>
         <French>
-            <Text>Kuytun</Text>
+            <Text>Kuitun</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -22837,6 +23516,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>لاغوس</Arabic>
+        <Japanese>ラゴス</Japanese>
+        <Russian>Лагос</Russian>
+        <ChineseSimp>拉各斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LAGUNA</Tag>
@@ -22909,6 +23592,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>لاهور</Arabic>
+        <Catalan>Lahaur</Catalan>
+        <Czech>Láhaur</Czech>
+        <Japanese>ラホール</Japanese>
+        <Korean>라호르</Korean>
+        <Russian>Лахор</Russian>
+        <ChineseSimp>拉合尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LAHTI</Tag>
@@ -23005,6 +23695,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>لاريسا</Arabic>
+        <Czech>Larisa</Czech>
+        <Japanese>ラリッサ</Japanese>
+        <Korean>라리사</Korean>
+        <Russian>Ларисса</Russian>
+        <ChineseSimp>拉利沙</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LARKANA</Tag>
@@ -23077,6 +23773,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Laascaanood</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LAS_LIMAS</Tag>
@@ -23125,10 +23822,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Las konsolowym</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LAS_PALMAS</Tag>
         <English>Las Palmas</English>
+        <Arabic>لاس بالماس</Arabic>
+        <Japanese>ラスパルマス</Japanese>
+        <Russian>Пальма</Russian>
+        <ChineseSimp>拉斯彭马斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LAS_PINAS</Tag>
@@ -23153,6 +23855,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Las Piñas</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LAS_TUNAS</Tag>
@@ -23397,6 +24100,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ليون</Arabic>
+        <Catalan>Lleó</Catalan>
+        <Czech>León</Czech>
+        <Japanese>レオン</Japanese>
+        <Korean>레옹</Korean>
+        <Portuguese>Leão</Portuguese>
+        <Brazilian>Leão</Brazilian>
+        <Russian>Леон</Russian>
+        <ChineseSimp>雷昂</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LEPTIS_MAGNA</Tag>
@@ -23421,6 +24133,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>レプティスマグナ</Japanese>
+        <Korean>렙티스 마그나</Korean>
+        <Russian>Лептис-Магна</Russian>
+        <ChineseSimp>大雷普提斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LEPTIS_PARVA</Tag>
@@ -23493,6 +24209,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Finnish>Lesvos</Finnish>
+        <Hungarian>Leszbosz</Hungarian>
+        <Japanese>レスボス</Japanese>
+        <Korean>레스ㅗ스</Korean>
+        <Russian>Лесбос:Лесбос:Лесбоса:Лесбосом:Лесбосу:Лесбосе:Лесбосцы:Лесбосцев:Лесбосцам</Russian>
+        <ChineseSimp>莱斯博斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LEUVEN</Tag>
@@ -23642,7 +24364,7 @@
         <Tag>TXT_KEY_CITY_NAME_LIJIE</Tag>
         <English>Lijie</English>
         <French>
-            <Text>Lijie</Text>
+            <Text>Mathieu</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -23762,7 +24484,7 @@
         <Tag>TXT_KEY_CITY_NAME_LITOJ_KURGAN</Tag>
         <English>Litoj-Kurgan</English>
         <French>
-            <Text>Litoj-Kurgan</Text>
+            <Text>Litoj-Kourgan</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -23925,6 +24647,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Long Xuyên</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LORI</Tag>
@@ -23977,6 +24700,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>لوس أنجلوس</Arabic>
+        <Japanese>ロサンジェルス</Japanese>
+        <Korean>로스앤젤레스</Korean>
+        <Russian>Лос-Анджелес</Russian>
+        <ChineseSimp>洛杉矶</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LOS_CERROS</Tag>
@@ -24169,6 +24897,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>لواندا</Arabic>
+        <Japanese>ルアンダ</Japanese>
+        <Russian>Луанда</Russian>
+        <ChineseSimp>卢安达</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LUANTI</Tag>
@@ -24289,6 +25021,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ługi</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LUIK</Tag>
@@ -24385,6 +25118,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Lushnji</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_LYKIA</Tag>
@@ -24686,7 +25420,7 @@
         <Tag>TXT_KEY_CITY_NAME_MAIKOP</Tag>
         <English>Maikop</English>
         <French>
-            <Text>Maikop</Text>
+            <Text>Maïkop</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -24705,6 +25439,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Majkop</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MAINAKE</Tag>
@@ -24873,6 +25608,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ملاكة</Arabic>
+        <Czech>Malakka</Czech>
+        <Japanese>マラカ</Japanese>
+        <Korean>말라카</Korean>
+        <Russian>Малака</Russian>
+        <ChineseSimp>马拉卡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MALANG</Tag>
@@ -25137,6 +25878,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ماندالاي</Arabic>
+        <Czech>Mandalaj</Czech>
+        <Japanese>マンダレイ</Japanese>
+        <Korean>만달레이</Korean>
+        <Russian>Мандалай</Russian>
+        <ChineseSimp>曼德勒</ChineseSimp>
+        <ChineseTrad>曼德勒</ChineseTrad>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MANDALUYONG</Tag>
@@ -25310,7 +26058,7 @@
         <Tag>TXT_KEY_CITY_NAME_MANILA</Tag>
         <English>Manila</English>
         <French>
-            <Text>Manila</Text>
+            <Text>Manille</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -25334,7 +26082,7 @@
         <Tag>TXT_KEY_CITY_NAME_MANTUA</Tag>
         <English>Mantua</English>
         <French>
-            <Text>Mantua</Text>
+            <Text>Mantoue</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -25629,6 +26377,10 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MARI</Tag>
         <English>Mari</English>
+        <Arabic>ماري</Arabic>
+        <Japanese>マリ</Japanese>
+        <Russian>Мари</Russian>
+        <ChineseSimp>马利</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MARIANAO</Tag>
@@ -25638,7 +26390,7 @@
         <Tag>TXT_KEY_CITY_NAME_MARIB</Tag>
         <English>Ma'rib</English>
         <French>
-            <Text>Ma'rib</Text>
+            <Text>Marib</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -25657,6 +26409,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Marib</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MARIEL</Tag>
@@ -25829,6 +26582,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>مراكش</Arabic>
+        <Czech>Marrákéš</Czech>
+        <Japanese>マラケシュ</Japanese>
+        <Polish>Marrakesz</Polish>
+        <Russian>Марракеш</Russian>
+        <ChineseSimp>马拉喀什</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MARTIN</Tag>
@@ -26025,6 +26784,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ماتورا</Arabic>
+        <Japanese>マトゥラー</Japanese>
+        <Russian>Матура</Russian>
+        <ChineseSimp>马图拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MATI</Tag>
@@ -26082,7 +26845,7 @@
         <Tag>TXT_KEY_CITY_NAME_MATURIN</Tag>
         <English>Maturín</English>
         <French>
-            <Text>Maturín</Text>
+            <Text>Maturin</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -26106,7 +26869,7 @@
         <Tag>TXT_KEY_CITY_NAME_MAWLAMYINE</Tag>
         <English>Mawlamyine</English>
         <French>
-            <Text>Mawlamyine</Text>
+            <Text>Moulmein</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -26269,6 +27032,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Mbuji-Mayi</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MDANTSANE</Tag>
@@ -26322,7 +27086,7 @@
         <Tag>TXT_KEY_CITY_NAME_MECHELEN</Tag>
         <English>Mechelen</English>
         <French>
-            <Text>Mechelen</Text>
+            <Text>Malines</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -26465,6 +27229,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Meknès</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MELGUNOV</Tag>
@@ -26657,6 +27422,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ميريدا</Arabic>
+        <Czech>Mérida</Czech>
+        <Japanese>メリダ</Japanese>
+        <Russian>Мерида</Russian>
+        <ChineseSimp>梅里达</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MERU</Tag>
@@ -26753,6 +27523,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Mesyna</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MEXICALI</Tag>
@@ -26782,7 +27553,7 @@
         <Tag>TXT_KEY_CITY_NAME_MEXICO_CITY</Tag>
         <English>Mexico City</English>
         <French>
-            <Text>Mexico City</Text>
+            <Text>Mexico</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -26801,6 +27572,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Meksyk</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIANWALI</Tag>
@@ -26902,7 +27674,7 @@
         <Tag>TXT_KEY_CITY_NAME_MILETOS</Tag>
         <English>Miletos</English>
         <French>
-            <Text>Miletos</Text>
+            <Text>Milet</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -26921,6 +27693,16 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Catalan>Milet</Catalan>
+        <Czech>Milét</Czech>
+        <Hungarian>Milétosz</Hungarian>
+        <Japanese>ミレトス</Japanese>
+        <Korean>밀레토스</Korean>
+        <Polish>Milet</Polish>
+        <Portuguese>Mileto</Portuguese>
+        <Brazilian>Mileto</Brazilian>
+        <Russian>Милет</Russian>
+        <ChineseSimp>米利托斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MINNA</Tag>
@@ -27045,6 +27827,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Misrata</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MITHILA</Tag>
@@ -27194,7 +27977,7 @@
         <Tag>TXT_KEY_CITY_NAME_MOESKROEN</Tag>
         <English>Moeskroen</English>
         <French>
-            <Text>Moeskroen</Text>
+            <Text>Mouscron</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -27218,7 +28001,7 @@
         <Tag>TXT_KEY_CITY_NAME_MOGADISHU</Tag>
         <English>Mogadishu</English>
         <French>
-            <Text>Mogadishu</Text>
+            <Text>Mogadiscio</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -27237,6 +28020,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Mogadiszu</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOHAMMEDIA</Tag>
@@ -27405,6 +28189,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>モノラル</Japanese>
+        <Korean>모노</Korean>
+        <Russian>Моно</Russian>
+        <ChineseSimp>单声道</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MONTEGO_BAY</Tag>
@@ -27626,7 +28414,7 @@
         <Tag>TXT_KEY_CITY_NAME_MOST</Tag>
         <English>Most</English>
         <French>
-            <Text>Most</Text>
+            <Text>Plupart</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -27650,7 +28438,7 @@
         <Tag>TXT_KEY_CITY_NAME_MOSUL</Tag>
         <English>Mosul</English>
         <French>
-            <Text>Mosul</Text>
+            <Text>Mossoul</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -27669,6 +28457,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الموصل</Arabic>
+        <Catalan>Mossul</Catalan>
+        <Japanese>モスル</Japanese>
+        <Korean>모술</Korean>
+        <Russian>Мосул</Russian>
+        <ChineseSimp>摩苏尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOTUL</Tag>
@@ -27717,6 +28511,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>موتيا</Arabic>
+        <Japanese>モトヤ</Japanese>
+        <Korean>모티아</Korean>
+        <Russian>Мотия</Russian>
+        <ChineseSimp>莫特亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOULMEIN</Tag>
@@ -27813,6 +28612,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>مولتان</Arabic>
+        <Czech>Multán</Czech>
+        <Japanese>ムルターン</Japanese>
+        <Russian>Мултан</Russian>
+        <ChineseSimp>木尔坦</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MUNTINGLUPA</Tag>
@@ -27981,6 +28785,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Mwene-Ditu</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MYINGYAN</Tag>
@@ -28010,7 +28815,7 @@
         <Tag>TXT_KEY_CITY_NAME_MYSIA</Tag>
         <English>Mysia</English>
         <French>
-            <Text>Mysia</Text>
+            <Text>Mysie</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -28101,6 +28906,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Næstved</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAGONLTIN</Tag>
@@ -28149,6 +28955,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>نيسوس</Arabic>
+        <Czech>Niš</Czech>
+        <Japanese>ナイッスス</Japanese>
+        <Korean>나이수스</Korean>
+        <Polish>Naisso</Polish>
+        <Russian>Наисс</Russian>
+        <ChineseSimp>奈苏斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAJAF</Tag>
@@ -28173,6 +28986,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Nadżaf</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAKAKO</Tag>
@@ -28201,6 +29015,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAKHICHEVAN</Tag>
         <English>Nakhichevan</English>
+        <French>Nakhitchevan</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAKIPA</Tag>
@@ -28297,6 +29112,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Nam Định</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAMBE</Tag>
@@ -28518,7 +29334,7 @@
         <Tag>TXT_KEY_CITY_NAME_NASIRIYAH</Tag>
         <English>Nasiriyah</English>
         <French>
-            <Text>Nasiriyah</Text>
+            <Text>Nassiriya</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -28537,6 +29353,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Nasirijją</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NASSAU</Tag>
@@ -28609,6 +29426,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>نافاجو</Arabic>
+        <Catalan>Navahos</Catalan>
+        <Japanese>ナバホ</Japanese>
+        <Korean>나바호</Korean>
+        <Portuguese>Navarra</Portuguese>
+        <Brazilian>Navarra</Brazilian>
+        <Russian>Навахо</Russian>
+        <ChineseSimp>纳瓦霍</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAVOTAS</Tag>
@@ -28825,6 +29650,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Nikwasi</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NETINDAVA</Tag>
@@ -28921,6 +29747,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>نيوكاسل</Arabic>
+        <Japanese>ニューキャッスル</Japanese>
+        <Korean>뉴캐슬</Korean>
+        <Russian>Ньюкасл</Russian>
+        <ChineseSimp>纽卡斯尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NGALEA</Tag>
@@ -28969,6 +29800,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ngaoundéré</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NGARTI</Tag>
@@ -29189,6 +30021,19 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NICOPOLIS</Tag>
         <English>Nicopolis</English>
+        <Arabic>نيكوبوليس</Arabic>
+        <Catalan>Nicòpolis</Catalan>
+        <Czech>Nikopolis</Czech>
+        <Spanish>Nicópolis</Spanish>
+        <Hungarian>Nikopolisz</Hungarian>
+        <Italian>Nicopoli</Italian>
+        <Japanese>ニコポリス</Japanese>
+        <Korean>니코폴리스</Korean>
+        <Polish>Nikopolis</Polish>
+        <Portuguese>Nicópolis</Portuguese>
+        <Brazilian>Nicópolis</Brazilian>
+        <Russian>Никополь</Russian>
+        <ChineseSimp>尼克波利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NIKWASI</Tag>
@@ -29218,7 +30063,7 @@
         <Tag>TXT_KEY_CITY_NAME_NINEVEH</Tag>
         <English>Nineveh</English>
         <French>
-            <Text>Nineveh</Text>
+            <Text>Ninive</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -29237,6 +30082,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Finnish>Ninive</Finnish>
+        <Hungarian>Ninive</Hungarian>
+        <Japanese>ニネヴェ</Japanese>
+        <Polish>Niniwa</Polish>
+        <Russian>Ниневия</Russian>
+        <ChineseSimp>尼尼微</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NISA</Tag>
@@ -29261,6 +30112,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Nysa</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NISHAPUR</Tag>
@@ -29505,6 +30357,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Nawazibu</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NOUAKCHOTT</Tag>
@@ -29777,6 +30630,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Olbii</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OBUASI</Tag>
@@ -29873,6 +30727,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أودينسي</Arabic>
+        <Japanese>オーデンス</Japanese>
+        <Korean>오덴세</Korean>
+        <Russian>Оденсе</Russian>
+        <ChineseSimp>欧登塞</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ODUPONKPEHE</Tag>
@@ -29945,6 +30804,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أويا</Arabic>
+        <Japanese>オエア</Japanese>
+        <Korean>에아</Korean>
+        <Russian>Эа</Russian>
+        <ChineseSimp>欧伊</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OGBOMOSO</Tag>
@@ -30118,7 +30982,7 @@
         <Tag>TXT_KEY_CITY_NAME_OKENE</Tag>
         <English>Okene</English>
         <French>
-            <Text>Okene</Text>
+            <Text>Ouendo</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -30161,12 +31025,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أولبيا</Arabic>
+        <Japanese>オルビア</Japanese>
+        <Korean>올비아</Korean>
+        <Russian>Ольбия</Russian>
+        <ChineseSimp>欧尔比亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OLD_TOWN</Tag>
         <English>Old Town</English>
         <French>
-            <Text>Old Town</Text>
+            <Text>Vieille ville</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -30525,6 +31394,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ORAL</Tag>
         <English>Oral</English>
+        <French>Oural</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ORANJESTAD</Tag>
@@ -30673,6 +31543,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OSKEMEN</Tag>
         <English>Oskemen</English>
+        <Polish>Öskemen</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OSORNO</Tag>
@@ -30721,6 +31592,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ostrawa</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OSTROGOTH</Tag>
@@ -31129,6 +32001,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Pajutowie</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PAKOKKU</Tag>
@@ -31230,7 +32103,7 @@
         <Tag>TXT_KEY_CITY_NAME_PALERMO</Tag>
         <English>Palermo</English>
         <French>
-            <Text>Palermo</Text>
+            <Text>Palerme</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -31273,6 +32146,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بالما</Arabic>
+        <Japanese>パルマ</Japanese>
+        <Korean>팔마</Korean>
+        <Russian>Пальма</Russian>
+        <ChineseSimp>科尔多瓦</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PALMA_SORIANO</Tag>
@@ -31325,6 +32203,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Catalan>Palmira</Catalan>
+        <Japanese>パルミラ</Japanese>
+        <Korean>팔미라</Korean>
+        <Portuguese>Palmira</Portuguese>
+        <Brazilian>Palmira</Brazilian>
+        <Russian>Пальмира</Russian>
+        <ChineseSimp>帕尔迈拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PALO_NEGRO</Tag>
@@ -31589,6 +32474,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Parañaque</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PARANI</Tag>
@@ -31690,7 +32576,7 @@
         <Tag>TXT_KEY_CITY_NAME_PARMA</Tag>
         <English>Parma</English>
         <French>
-            <Text>Parma</Text>
+            <Text>Parme</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -31809,6 +32695,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>パータリプトラ</Japanese>
+        <Russian>Палипутра</Russian>
+        <ChineseSimp>波吒利弗</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PATHEIN</Tag>
@@ -31833,6 +32722,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Basejn</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PATNA</Tag>
@@ -31929,12 +32819,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Pawa</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PAVIA</Tag>
         <English>Pavia</English>
         <French>
-            <Text>Pavia</Text>
+            <Text>Pavie</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -31953,10 +32844,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Pawia</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PAVLODAR</Tag>
         <English>Pavlodar</English>
+        <Polish>Pawłodar</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PAZYRYK</Tag>
@@ -32298,7 +33191,7 @@
         <Tag>TXT_KEY_CITY_NAME_PERGAMOS</Tag>
         <English>Pergamos</English>
         <French>
-            <Text>Pergamos</Text>
+            <Text>Pergame</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -32341,6 +33234,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>برسيبوليس</Arabic>
+        <Catalan>Persèpolis</Catalan>
+        <Hungarian>Perszepolisz</Hungarian>
+        <Japanese>ペルセポリス</Japanese>
+        <Korean>페르세폴리스</Korean>
+        <Portuguese>Persépolis</Portuguese>
+        <Brazilian>Persépolis</Brazilian>
+        <Russian>Персеполь</Russian>
+        <ChineseSimp>波斯波利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PERUGIA</Tag>
@@ -32413,6 +33315,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بيشاور</Arabic>
+        <Czech>Péšávar</Czech>
+        <Japanese>ペシャワール</Japanese>
+        <Korean>페샤와르</Korean>
+        <Polish>Peszawar</Polish>
+        <Russian>Пешавар</Russian>
+        <ChineseSimp>白沙瓦</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PETATLAN</Tag>
@@ -32489,6 +33398,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PETROPAVL</Tag>
         <English>Petropavl</English>
+        <Polish>Pietropawłowsk</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PHASIS</Tag>
@@ -32513,12 +33423,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Fasis</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PHRYGIA</Tag>
         <English>Phrygia</English>
         <French>
-            <Text>Phrygia</Text>
+            <Text>Phrygie</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -32614,7 +33525,7 @@
         <Tag>TXT_KEY_CITY_NAME_PIEGAN</Tag>
         <English>Piegan</English>
         <French>
-            <Text>Piegan</Text>
+            <Text>Peigan</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -32810,7 +33721,7 @@
         <Tag>TXT_KEY_CITY_NAME_PISA</Tag>
         <English>Pisa</English>
         <French>
-            <Text>Pisa</Text>
+            <Text>Pise</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -32829,6 +33740,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بيزا</Arabic>
+        <Japanese>ピサ</Japanese>
+        <Korean>피사</Korean>
+        <Russian>Пиза</Russian>
+        <ChineseSimp>比萨</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PITESTI</Tag>
@@ -32909,6 +33825,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PLEVEN</Tag>
         <English>Pleven</English>
+        <Polish>Plewen</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PLISKA</Tag>
@@ -32961,6 +33878,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ploeszti</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PLOVDIV</Tag>
@@ -33013,12 +33931,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Pointe Pitre</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_POINTE_NOIRE</Tag>
         <English>Pointe Noire</English>
         <French>
-            <Text>Pointe Noire</Text>
+            <Text>Pointe-Noire</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -33210,7 +34129,7 @@
         <Tag>TXT_KEY_CITY_NAME_PORT_OF_SPAIN</Tag>
         <English>Port of Spain</English>
         <French>
-            <Text>Port of Spain</Text>
+            <Text>Port d'Espagne</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -33233,6 +34152,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORT_SAID</Tag>
         <English>Port Said</English>
+        <French>Port-Saïd</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORTMORE</Tag>
@@ -33545,6 +34465,16 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>براغ</Arabic>
+        <Czech>Praha</Czech>
+        <Danish>Prag</Danish>
+        <Finnish>Praha</Finnish>
+        <Hungarian>Prága</Hungarian>
+        <Japanese>プラハ</Japanese>
+        <Korean>프라하</Korean>
+        <Polish>Praga</Polish>
+        <Russian>Прага</Russian>
+        <ChineseSimp>布拉格</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PREROV</Tag>
@@ -33617,6 +34547,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Preszów</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PRETORIA</Tag>
@@ -34473,6 +35404,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كويتا</Arabic>
+        <Czech>Kvéta</Czech>
+        <Japanese>クエッタ</Japanese>
+        <Korean>퀘타</Korean>
+        <Russian>Кветта</Russian>
+        <ChineseSimp>基达</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QUEZON_CITY</Tag>
@@ -34574,7 +35511,7 @@
         <Tag>TXT_KEY_CITY_NAME_QUIRIGUA</Tag>
         <English>Quirigua</English>
         <French>
-            <Text>Quirigua</Text>
+            <Text>Quiriguá</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -34593,10 +35530,16 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>كويريجوا</Arabic>
+        <Czech>Quiriguá</Czech>
+        <Japanese>キリグア</Japanese>
+        <Russian>Квиригуа</Russian>
+        <ChineseSimp>奎利瓜</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QYZYL-ORDA</Tag>
         <English>Qyzyl-Orda</English>
+        <Polish>Qyzyl Ordy</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAB</Tag>
@@ -34717,12 +35660,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Rahimyar Chana</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAJAGRIHA</Tag>
         <English>Rajagriha</English>
         <French>
-            <Text>Rajagriha</Text>
+            <Text>Râjagriha</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -34741,6 +35685,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>راجاجريها</Arabic>
+        <Czech>Rádžgir</Czech>
+        <Japanese>ラージャグリハ</Japanese>
+        <Russian>Раждагрия</Russian>
+        <ChineseSimp>王舍城</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAJAPURA</Tag>
@@ -34789,6 +35738,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>راجشاهي</Arabic>
+        <Czech>Rajšahi</Czech>
+        <Japanese>ラージシャーヒ</Japanese>
+        <Korean>라샤히</Korean>
+        <Russian>Раджшахи</Russian>
+        <ChineseSimp>拉吉沙希</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAMADI</Tag>
@@ -34813,6 +35768,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>الرمادي</Arabic>
+        <Czech>Ramádí</Czech>
+        <Japanese>ラマディ</Japanese>
+        <Russian>Рамади</Russian>
+        <ChineseSimp>拉马迪</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAMNICUVALCEA</Tag>
@@ -35010,7 +35970,7 @@
         <Tag>TXT_KEY_CITY_NAME_RAVENNA</Tag>
         <English>Ravenna</English>
         <French>
-            <Text>Ravenna</Text>
+            <Text>Ravenne</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -35029,6 +35989,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>رافينا</Arabic>
+        <Japanese>ラヴェンナ</Japanese>
+        <Korean>라벤나</Korean>
+        <Portuguese>Ravena</Portuguese>
+        <Brazilian>Ravena</Brazilian>
+        <Russian>Равенна</Russian>
+        <ChineseSimp>拉文那</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAWALPINDI</Tag>
@@ -35053,6 +36020,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>روالبندي</Arabic>
+        <Japanese>ラーワルピンディー</Japanese>
+        <Korean>라왈핀디</Korean>
+        <Russian>Равалпинди</Russian>
+        <ChineseSimp>拉瓦尔品第</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAWSON</Tag>
@@ -35106,7 +36078,7 @@
         <Tag>TXT_KEY_CITY_NAME_REGGIO_CALABRIA</Tag>
         <English>Reggio Calabria</English>
         <French>
-            <Text>Reggio Calabria</Text>
+            <Text>Reggio de Calabre</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -35125,6 +36097,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Reggio di Calabria</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_REGGIO_EMILIA</Tag>
@@ -35221,6 +36194,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>ラーガイ</Japanese>
+        <Russian>Раг</Russian>
+        <ChineseSimp>拉吉伊</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RHAMIDAUA</Tag>
@@ -35250,7 +36226,7 @@
         <Tag>TXT_KEY_CITY_NAME_RHOXOLANI</Tag>
         <English>Rhoxolani</English>
         <French>
-            <Text>Rhoxolani</Text>
+            <Text>Roxolans</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -35293,6 +36269,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>رايب</Arabic>
+        <Japanese>リーベ</Japanese>
+        <Korean>리베</Korean>
+        <Russian>Рибе</Russian>
+        <ChineseSimp>利贝</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIBEIRAO_PRETO</Tag>
@@ -35317,6 +36298,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ribeirão Preto</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIDA</Tag>
@@ -35437,6 +36419,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ريو دي جانيرو</Arabic>
+        <Japanese>リオデジャネイロ</Japanese>
+        <Russian>Рио-де-Жанейро</Russian>
+        <ChineseSimp>里约热内卢</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIO_GALLEGOS</Tag>
@@ -35533,6 +36519,18 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>روما</Arabic>
+        <Catalan>Roma</Catalan>
+        <Czech>Řím</Czech>
+        <Danish>Rom</Danish>
+        <Finnish>Rooma</Finnish>
+        <Hungarian>Róma</Hungarian>
+        <Japanese>ローマ</Japanese>
+        <Korean>로마</Korean>
+        <Portuguese>Roma</Portuguese>
+        <Brazilian>Roma</Brazilian>
+        <Russian>Рим</Russian>
+        <ChineseSimp>罗马</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RONNE</Tag>
@@ -35610,7 +36608,7 @@
         <Tag>TXT_KEY_CITY_NAME_ROSELARE</Tag>
         <English>Roeselare</English>
         <French>
-            <Text>Roeselare</Text>
+            <Text>Roulers</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -35677,6 +36675,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>روسكيلده</Arabic>
+        <Japanese>ロスキルデ</Japanese>
+        <Korean>로스킬레</Korean>
+        <Russian>Роскилд</Russian>
+        <ChineseSimp>洛斯基尔德</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ROTORUA</Tag>
@@ -35754,7 +36757,7 @@
         <Tag>TXT_KEY_CITY_NAME_RUGI</Tag>
         <English>Rugi</English>
         <French>
-            <Text>Rugi</Text>
+            <Text>Ruges</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -35897,6 +36900,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Rustawi</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RUSTENBURG</Tag>
@@ -35974,7 +36978,7 @@
         <Tag>TXT_KEY_CITY_NAME_SADAH</Tag>
         <English>Sa'dah</English>
         <French>
-            <Text>Sa'dah</Text>
+            <Text>Saada</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -36094,7 +37098,7 @@
         <Tag>TXT_KEY_CITY_NAME_SAGUNTUM</Tag>
         <English>Saguntum</English>
         <French>
-            <Text>Saguntum</Text>
+            <Text>Sagonte</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -36113,6 +37117,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>サグントゥム</Japanese>
+        <Russian>Сагунтум</Russian>
+        <ChineseSimp>沙古恩图姆</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAHIWAL</Tag>
@@ -36401,6 +37408,18 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>سمرقند</Arabic>
+        <Catalan>Samarcanda</Catalan>
+        <Czech>Samarkand</Czech>
+        <Danish>Samarkand</Danish>
+        <Finnish>Samarkand</Finnish>
+        <Hungarian>Szamarkand</Hungarian>
+        <Japanese>サマルカンド</Japanese>
+        <Korean>사마르칸드</Korean>
+        <Portuguese>Samarcanda</Portuguese>
+        <Brazilian>Samarcanda</Brazilian>
+        <Russian>Самарканд</Russian>
+        <ChineseSimp>撒马尔罕</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAMARRA</Tag>
@@ -36425,12 +37444,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Samarze</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAMAWAH</Tag>
         <English>Samawah</English>
         <French>
-            <Text>Samawah</Text>
+            <Text>Samawa</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -36521,6 +37541,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>サンアントニオ</Japanese>
+        <Korean>샌안토니오</Korean>
+        <Russian>Сан-Антонио</Russian>
+        <ChineseSimp>圣安东尼奥</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_BERNARDO</Tag>
@@ -36694,7 +37718,7 @@
         <Tag>TXT_KEY_CITY_NAME_SAN_JOSE_DE_MORO</Tag>
         <English>San Jose de Moro</English>
         <French>
-            <Text>San Jose de Moro</Text>
+            <Text>San José de Moro</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -36958,7 +37982,7 @@
         <Tag>TXT_KEY_CITY_NAME_SANA</Tag>
         <English>San'a</English>
         <French>
-            <Text>San'a</Text>
+            <Text>Sanaa</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -37001,6 +38025,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Sanandadż</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANCTI_SPIRITUS</Tag>
@@ -37081,6 +38106,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>سانتا كروز</Arabic>
+        <Japanese>サンタクルス</Japanese>
+        <Korean>산타크루스</Korean>
+        <Russian>Санта-Круз</Russian>
+        <ChineseSimp>圣克鲁兹</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTA_FE</Tag>
@@ -37105,6 +38135,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>سانتا</Arabic>
+        <Japanese>サンタフェ</Japanese>
+        <Korean>샌타페이</Korean>
+        <Russian>Санта-Фе</Russian>
+        <ChineseSimp>圣达菲</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTA_ROSA</Tag>
@@ -37181,6 +38216,10 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTIAGO</Tag>
         <English>Santiago</English>
+        <Japanese>サンチャーゴ</Japanese>
+        <Korean>산티아고</Korean>
+        <Russian>Сантьяго</Russian>
+        <ChineseSimp>萨拉曼卡</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTIAGO_DEL_ESTERO</Tag>
@@ -37378,7 +38417,7 @@
         <Tag>TXT_KEY_CITY_NAME_SARDIS</Tag>
         <English>Sardis</English>
         <French>
-            <Text>Sardis</Text>
+            <Text>Sardes</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -37397,6 +38436,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ساردس</Arabic>
+        <Catalan>Sardes</Catalan>
+        <Czech>Sardy</Czech>
+        <Hungarian>Szardisz</Hungarian>
+        <Japanese>サルディス</Japanese>
+        <Korean>사르디스</Korean>
+        <Polish>Sardes</Polish>
+        <Russian>Сардис</Russian>
+        <ChineseSimp>萨迪斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SARGODHA</Tag>
@@ -37493,6 +38541,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Sarmacja</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SARMIZEGETUSA</Tag>
@@ -37734,7 +38783,7 @@
         <Tag>TXT_KEY_CITY_NAME_SAYUN</Tag>
         <English>Say'un</English>
         <French>
-            <Text>Say'un</Text>
+            <Text>Say</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -37782,7 +38831,7 @@
         <Tag>TXT_KEY_CITY_NAME_SCHAARBEEK</Tag>
         <English>Schaarbeek</English>
         <French>
-            <Text>Schaarbeek</Text>
+            <Text>Schaerbeek</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -37825,6 +38874,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>スコーン</Japanese>
+        <Russian>Шкен</Russian>
+        <ChineseSimp>斯昆</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SEBHA</Tag>
@@ -37849,6 +38901,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Sabha</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SEINAJOKI</Tag>
@@ -37873,6 +38926,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Seinäjoki</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SEKONDI</Tag>
@@ -37926,7 +38980,7 @@
         <Tag>TXT_KEY_CITY_NAME_SELINUS</Tag>
         <English>Selinus</English>
         <French>
-            <Text>Selinus</Text>
+            <Text>Sélinonte</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -37973,6 +39027,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SEMEY</Tag>
         <English>Semey</English>
+        <Polish>Semej</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SENJ</Tag>
@@ -38150,7 +39205,7 @@
         <Tag>TXT_KEY_CITY_NAME_SEVEN_BROTHERS</Tag>
         <English>Seven Brothers</English>
         <French>
-            <Text>Seven Brothers</Text>
+            <Text>Sept frères</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -38217,6 +39272,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Shahr-e-Sabz</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHAMIA</Tag>
@@ -38289,6 +39345,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>شوجاووميكونج</Arabic>
+        <Japanese>シャウガワウミコン</Japanese>
+        <Russian>Шаогаванумиконг</Russian>
+        <ChineseSimp>绍加瓦乌米孔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHEKHUPURA</Tag>
@@ -38341,6 +39401,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHIBIN_AL_KAUM</Tag>
         <English>Shibin al Kaum</English>
+        <Polish>Kaum al Szibin</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHIHEZI</Tag>
@@ -38413,6 +39474,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>شيراز</Arabic>
+        <Czech>Šíráz</Czech>
+        <Hungarian>Siráz</Hungarian>
+        <Japanese>シラズ</Japanese>
+        <Korean>쉬라즈</Korean>
+        <Russian>Шираз</Russian>
+        <ChineseSimp>设拉子</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHKODRA</Tag>
@@ -38501,6 +39569,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHUSHI</Tag>
         <English>Shushi</English>
+        <French>Chouchi</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHYMKENT</Tag>
@@ -38625,6 +39694,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>صيدا</Arabic>
+        <Catalan>Sidó</Catalan>
+        <Czech>Sidón</Czech>
+        <Hungarian>Szidon</Hungarian>
+        <Japanese>シドン</Japanese>
+        <Korean>시돈</Korean>
+        <Russian>Сидон</Russian>
+        <ChineseSimp>西顿</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIKSIKA</Tag>
@@ -38749,6 +39826,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>シパン</Japanese>
+        <Russian>Сипан</Russian>
+        <ChineseSimp>西潘</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIRACAE</Tag>
@@ -38853,6 +39933,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SISIAN</Tag>
         <English>Sisian</English>
+        <Polish>Sisjan</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SITTWE</Tag>
@@ -38973,6 +40054,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Diamentowa</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SKREREFENNI</Tag>
@@ -39245,6 +40327,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Sołocha</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOMERSET_WEST</Tag>
@@ -39465,6 +40548,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Sprężyny</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STADACONA</Tag>
@@ -39502,7 +40586,7 @@
         <Tag>TXT_KEY_CITY_NAME_STGEORGES</Tag>
         <English>St. George's</English>
         <French>
-            <Text>St. George's</Text>
+            <Text>Saint-Georges</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -39521,6 +40605,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Św.</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STIF</Tag>
@@ -39545,6 +40630,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>STIF</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STJOHNS</Tag>
@@ -39569,6 +40655,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>St John's</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STOBIS</Tag>
@@ -39721,6 +40808,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Suchumi</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUKKUR</Tag>
@@ -39750,7 +40838,7 @@
         <Tag>TXT_KEY_CITY_NAME_SULAYMANIYAH</Tag>
         <English>Sulaymaniyah</English>
         <French>
-            <Text>Sulaymaniyah</Text>
+            <Text>Souleimaniyeh</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -39913,6 +41001,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>شوشان</Arabic>
+        <Hungarian>Szúsza</Hungarian>
+        <Japanese>スサ</Japanese>
+        <Korean>수사</Korean>
+        <Russian>Суса</Russian>
+        <ChineseSimp>苏撒</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUSAH</Tag>
@@ -40081,6 +41175,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Srihotto</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SYRINX</Tag>
@@ -40253,6 +41348,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تبريز</Arabic>
+        <Czech>Tabríz</Czech>
+        <Japanese>タブリーズ</Japanese>
+        <Korean>타브리즈</Korean>
+        <Russian>Тебриз</Russian>
+        <ChineseSimp>大不里士</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TACHENG</Tag>
@@ -40450,7 +41551,7 @@
         <Tag>TXT_KEY_CITY_NAME_TAIFA</Tag>
         <English>Taifa</English>
         <French>
-            <Text>Taifa</Text>
+            <Text>Taïfa</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -40469,12 +41570,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Zirydzi</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TAIZZ</Tag>
         <English>Ta'izz</English>
         <French>
-            <Text>Ta'izz</Text>
+            <Text>Izz</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -40645,6 +41747,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TALGAR</Tag>
         <English>Talgar</English>
+        <Polish>Tałgar</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TAMALE</Tag>
@@ -40866,7 +41969,7 @@
         <Tag>TXT_KEY_CITY_NAME_TANGIER</Tag>
         <English>Tangier</English>
         <French>
-            <Text>Tangier</Text>
+            <Text>Tanger</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -40885,6 +41988,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>طنجة</Arabic>
+        <Czech>Tanger</Czech>
+        <Danish>Tanger</Danish>
+        <Finnish>Tanger</Finnish>
+        <Japanese>タンジール</Japanese>
+        <Polish>Tanger</Polish>
+        <Russian>Танжер</Russian>
+        <ChineseSimp>丹吉尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TANTA</Tag>
@@ -40937,6 +42048,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تاوس</Arabic>
+        <Japanese>タオス</Japanese>
+        <Russian>Таос</Russian>
+        <ChineseSimp>陶斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TAPIRAPE</Tag>
@@ -40985,6 +42100,9 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Japanese>タラント</Japanese>
+        <Russian>Таранто</Russian>
+        <ChineseSimp>塔兰托</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARAZ</Tag>
@@ -40994,7 +42112,7 @@
         <Tag>TXT_KEY_CITY_NAME_TARGUJIU</Tag>
         <English>Târgu-Jiu</English>
         <French>
-            <Text>Târgu-Jiu</Text>
+            <Text>Târgu Jiu</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41013,6 +42131,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Târgu Jiu</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARGUMURES</Tag>
@@ -41037,12 +42156,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Târgu Mureş</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARHUNAH</Tag>
         <English>Tarhunah</English>
         <French>
-            <Text>Tarhunah</Text>
+            <Text>Tarhouna</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41090,7 +42210,7 @@
         <Tag>TXT_KEY_CITY_NAME_TARQUINII</Tag>
         <English>Tarquinii</English>
         <French>
-            <Text>Tarquinii</Text>
+            <Text>Tarquinia</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41113,12 +42233,26 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARSUS</Tag>
         <English>Tarsus</English>
+        <Arabic>طرسوس</Arabic>
+        <Catalan>Tars</Catalan>
+        <Spanish>Tarso</Spanish>
+        <Finnish>Tarso</Finnish>
+        <French>Tarse</French>
+        <Hungarian>Tarszosz</Hungarian>
+        <Italian>Tarso</Italian>
+        <Japanese>タルサス</Japanese>
+        <Korean>타르수스</Korean>
+        <Polish>Tarsu</Polish>
+        <Portuguese>Tarso</Portuguese>
+        <Brazilian>Tarso</Brazilian>
+        <Russian>Тарс</Russian>
+        <ChineseSimp>塔苏斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TASHKENT</Tag>
         <English>Tashkent</English>
         <French>
-            <Text>Tashkent</Text>
+            <Text>Tachkent</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41137,6 +42271,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Taszkent</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TASHKURGAN</Tag>
@@ -41161,6 +42296,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Taxkorgan</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TASIKMALAYA</Tag>
@@ -41353,12 +42489,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تاكسيلا</Arabic>
+        <Japanese>タクシラ</Japanese>
+        <Korean>탁실라</Korean>
+        <Russian>Тасила</Russian>
+        <ChineseSimp>塔克西拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TBILISI</Tag>
         <English>Tbilisi</English>
         <French>
-            <Text>Tbilisi</Text>
+            <Text>Tbilissi</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41478,7 +42619,7 @@
         <Tag>TXT_KEY_CITY_NAME_TEHRAN</Tag>
         <English>Tehran</English>
         <French>
-            <Text>Tehran</Text>
+            <Text>Téhéran</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41497,6 +42638,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Teheran</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEL_KEPPE</Tag>
@@ -41694,7 +42836,7 @@
         <Tag>TXT_KEY_CITY_NAME_TENEDOS</Tag>
         <English>Tenedos</English>
         <French>
-            <Text>Tenedos</Text>
+            <Text>Ténédos</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -41742,7 +42884,7 @@
         <Tag>TXT_KEY_CITY_NAME_TEOPANTECUANITLAN</Tag>
         <English>Teopantecuanitlan</English>
         <French>
-            <Text>Teopantecuanitlan</Text>
+            <Text>Teopantecuanitlán</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -42001,6 +43143,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Tétouan</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TETZMOLIUHUACAN</Tag>
@@ -42121,6 +43264,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Thatôn</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_THEBE</Tag>
@@ -42145,12 +43289,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>TeBe</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_THEODOSIOPOLIS</Tag>
         <English>Theodosiopolis</English>
         <French>
-            <Text>Theodosiopolis</Text>
+            <Text>Théodosiopolis</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -42169,6 +43314,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ثيودوسيوبوليس</Arabic>
+        <Czech>Erzurum</Czech>
+        <Japanese>テオドシオポリス</Japanese>
+        <Russian>Феодосия</Russian>
+        <ChineseSimp>西奥多修波利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_THEUSTEN</Tag>
@@ -42217,6 +43367,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ثيفيستي</Arabic>
+        <Japanese>テベステ</Japanese>
+        <Korean>테베스테</Korean>
+        <Russian>Февест</Russian>
+        <ChineseSimp>塞维斯特</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_THILA</Tag>
@@ -42337,10 +43492,19 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تيفليس</Arabic>
+        <Catalan>Tbilisi</Catalan>
+        <Czech>Tbilisi</Czech>
+        <Finnish>Tblisi</Finnish>
+        <Japanese>ティフリス</Japanese>
+        <Korean>티플리스</Korean>
+        <Russian>Тифлис</Russian>
+        <ChineseSimp>第比利斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIGRANAKERT</Tag>
         <English>Tigranakert</English>
+        <Polish>Tigranocerta</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIGUA</Tag>
@@ -42466,7 +43630,7 @@
         <Tag>TXT_KEY_CITY_NAME_TILLYATEPE</Tag>
         <English>Tillya-Tepe</English>
         <French>
-            <Text>Tillya-Tepe</Text>
+            <Text>Tillia Tepe</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -42485,6 +43649,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Tillya Tepe</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIMARU</Tag>
@@ -42845,6 +44010,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تولوسا</Arabic>
+        <Catalan>Tolosa de Llenguadoc</Catalan>
+        <Czech>Toulouse</Czech>
+        <Danish>Toulouse</Danish>
+        <Japanese>トロサ</Japanese>
+        <Korean>톨로자</Korean>
+        <Russian>Толоса</Russian>
+        <ChineseSimp>托罗萨</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TOLUCA</Tag>
@@ -43090,7 +44263,7 @@
         <Tag>TXT_KEY_CITY_NAME_TOUNGOO</Tag>
         <English>Toungoo</English>
         <French>
-            <Text>Toungoo</Text>
+            <Text>Taungû</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -43161,6 +44334,11 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRABZON</Tag>
         <English>Trabzon</English>
+        <Arabic>طرابزون</Arabic>
+        <Italian>Trebisonda</Italian>
+        <Japanese>トラブゾン</Japanese>
+        <Russian>Трабзон</Russian>
+        <ChineseSimp>特拉布宗</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRAIECTUM</Tag>
@@ -43329,6 +44507,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Trenczyn</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRENTO</Tag>
@@ -43382,7 +44561,7 @@
         <Tag>TXT_KEY_CITY_NAME_TREVISO</Tag>
         <English>Treviso</English>
         <French>
-            <Text>Treviso</Text>
+            <Text>Trévise</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -43406,7 +44585,7 @@
         <Tag>TXT_KEY_CITY_NAME_TRIER</Tag>
         <English>Trier</English>
         <French>
-            <Text>Trier</Text>
+            <Text>Trèves</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -43425,6 +44604,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ترير</Arabic>
+        <Catalan>Trèveris</Catalan>
+        <Czech>Trevír</Czech>
+        <Japanese>トリール</Japanese>
+        <Korean>트리어</Korean>
+        <Polish>Trewir</Polish>
+        <Russian>Трир</Russian>
+        <ChineseSimp>特里尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRINIDAD</Tag>
@@ -43453,6 +44640,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>طرابلس</Arabic>
+        <Czech>Tripolis</Czech>
+        <Japanese>トリポリ</Japanese>
+        <Polish>Trypolis</Polish>
+        <Russian>Триполи</Russian>
+        <ChineseSimp>的黎波里</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRNAVA</Tag>
@@ -43573,6 +44766,16 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تروي</Arabic>
+        <Catalan>Troia</Catalan>
+        <Czech>Trója</Czech>
+        <Hungarian>Trója</Hungarian>
+        <Japanese>トロイア</Japanese>
+        <Korean>트로이</Korean>
+        <Portuguese>Tróia</Portuguese>
+        <Brazilian>Tróia</Brazilian>
+        <Russian>Троя</Russian>
+        <ChineseSimp>特洛伊</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TS_DADLIT_AS</Tag>
@@ -43861,6 +45064,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Cchinwali</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUAMOTU</Tag>
@@ -43933,6 +45137,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تولا</Arabic>
+        <Japanese>トゥーラ</Japanese>
+        <Korean>툴라</Korean>
+        <Russian>Тула</Russian>
+        <ChineseSimp>图拉</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUNGRORUM</Tag>
@@ -43981,6 +45190,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تونس</Arabic>
+        <Hungarian>Tunisz</Hungarian>
+        <Japanese>チュニス</Japanese>
+        <Korean>튀니스</Korean>
+        <Russian>Тунис</Russian>
+        <ChineseSimp>突尼斯</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUPAI</Tag>
@@ -44057,6 +45272,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TURKISTAN</Tag>
         <English>Turkistan</English>
+        <Polish>Turkiestan</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TURKU</Tag>
@@ -44205,6 +45421,10 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUTTUL</Tag>
         <English>Tuttul</English>
+        <Arabic>توتل</Arabic>
+        <Japanese>トゥトゥル</Japanese>
+        <Russian>Туттул</Russian>
+        <ChineseSimp>塔图尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUUSULA</Tag>
@@ -44325,12 +45545,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Tyraspol</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TYRE</Tag>
         <English>Tyre</English>
         <French>
-            <Text>Tyre</Text>
+            <Text>Pneu</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -44349,6 +45570,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>صور</Arabic>
+        <Catalan>Tir</Catalan>
+        <Czech>Týr</Czech>
+        <Finnish>Tiro</Finnish>
+        <Japanese>ティール</Japanese>
+        <Korean>티레</Korean>
+        <Polish>Opony</Polish>
+        <Portuguese>Tiro</Portuguese>
+        <Brazilian>Tiro</Brazilian>
+        <Russian>Тир</Russian>
+        <ChineseSimp>泰尔</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TZINAPECUARO</Tag>
@@ -44469,6 +45701,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Ugaryt</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_UGHOTON</Tag>
@@ -44594,7 +45827,7 @@
         <Tag>TXT_KEY_CITY_NAME_ULA_UBIE</Tag>
         <English>Ula-Ubie</English>
         <French>
-            <Text>Ula-Ubie</Text>
+            <Text>Ula-Gbaran</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -44666,7 +45899,7 @@
         <Tag>TXT_KEY_CITY_NAME_ULVIRA</Tag>
         <English>Ulvira</English>
         <French>
-            <Text>Ulvira</Text>
+            <Text>Uvira</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -44805,6 +46038,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Urgencz</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_URUA</Tag>
@@ -44833,6 +46067,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>أوروك</Arabic>
+        <Japanese>ウルク</Japanese>
+        <Russian>Урук</Russian>
+        <ChineseSimp>乌鲁克</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_URUMIEH</Tag>
@@ -44886,7 +46124,7 @@
         <Tag>TXT_KEY_CITY_NAME_USE</Tag>
         <English>Use</English>
         <French>
-            <Text>Use</Text>
+            <Text>Utilisation</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -45193,6 +46431,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>بلنسية</Arabic>
+        <Catalan>València</Catalan>
+        <Czech>Valencie</Czech>
+        <Japanese>ヴァレンシア</Japanese>
+        <Korean>발렌시아</Korean>
+        <Portuguese>Valência</Portuguese>
+        <Brazilian>Valência</Brazilian>
+        <Russian>Валенсия</Russian>
+        <ChineseSimp>萨拉哥萨</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VALENZUELA</Tag>
@@ -45269,10 +46516,16 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VAN</Tag>
         <English>Van</English>
+        <Arabic>فان</Arabic>
+        <Japanese>ヴァン</Japanese>
+        <Korean>반</Korean>
+        <Russian>Ван</Russian>
+        <ChineseSimp>瓦恩</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VANADZOR</Tag>
         <English>Vanadzor</English>
+        <Polish>Wanadzor</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VANTAA</Tag>
@@ -45349,6 +46602,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>فاراناسي</Arabic>
+        <Catalan>Benarés</Catalan>
+        <Czech>Káší</Czech>
+        <Japanese>ヴァーラーナシー</Japanese>
+        <Korean>바라나시</Korean>
+        <Russian>Варанаси</Russian>
+        <ChineseSimp>瓦腊纳西</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VARAZDIN</Tag>
@@ -45466,7 +46726,7 @@
         <Tag>TXT_KEY_CITY_NAME_VEII</Tag>
         <English>Veii</English>
         <French>
-            <Text>Veii</Text>
+            <Text>Véies</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -45565,6 +46825,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VELIKO_TARNOVO</Tag>
         <English>Veliko Tarnovo</English>
+        <Polish>Wielkie Tyrnowie</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VELZNA</Tag>
@@ -45738,7 +46999,7 @@
         <Tag>TXT_KEY_CITY_NAME_VERONA</Tag>
         <English>Verona</English>
         <French>
-            <Text>Verona</Text>
+            <Text>Vérone</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -45757,6 +47018,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>فيرونا</Arabic>
+        <Japanese>ヴェローナ</Japanese>
+        <Korean>베로나</Korean>
+        <Russian>Верона</Russian>
+        <ChineseSimp>维罗纳</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VERVIERS</Tag>
@@ -45949,6 +47215,17 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>فيكتوريا</Arabic>
+        <Catalan>Victòria</Catalan>
+        <Czech>Viktorie</Czech>
+        <Finnish>Viktoria</Finnish>
+        <Hungarian>Viktória</Hungarian>
+        <Japanese>ヴィクトリア</Japanese>
+        <Korean>빅토리아</Korean>
+        <Portuguese>Vitória</Portuguese>
+        <Brazilian>Vitória</Brazilian>
+        <Russian>Виктория:Викторию:Виктории:Викторией:Виктории</Russian>
+        <ChineseSimp>维多利亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VIDIN</Tag>
@@ -47359,7 +48636,7 @@
         <Tag>TXT_KEY_CITY_NAME_WUTAN</Tag>
         <English>Wutan</English>
         <French>
-            <Text>Wutan</Text>
+            <Text>Wotan</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -48062,6 +49339,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>يوبي</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZABID</Tag>
@@ -48206,6 +49484,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Polish>Zagrzeb</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAHARA</Tag>
@@ -48335,7 +49614,7 @@
         <Tag>TXT_KEY_CITY_NAME_ZARANJ</Tag>
         <English>Zaranj</English>
         <French>
-            <Text>Zaranj</Text>
+            <Text>Zarandj</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -48354,6 +49633,8 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زارانج</Arabic>
+        <Polish>Zarandż</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZARGIDAUA</Tag>
@@ -48402,6 +49683,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زاريا</Arabic>
+        <Japanese>ザリア</Japanese>
+        <Korean>자리아</Korean>
+        <Russian>Зария</Russian>
+        <ChineseSimp>扎利亚</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAZACATLA</Tag>
@@ -48474,6 +49760,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زينودوتيوم</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHAO</Tag>
@@ -48498,6 +49785,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>تشاو</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHENSHU</Tag>
@@ -48526,6 +49814,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHEZKAZGAN</Tag>
         <English>Zhezkazgan</English>
+        <Polish>Żezkazgan</Polish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHONGQI</Tag>
@@ -48574,6 +49863,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>ضياء</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZILINA</Tag>
@@ -48598,6 +49888,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زيلينا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZINDER</Tag>
@@ -48622,6 +49913,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زيندر</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZINJIBAR</Tag>
@@ -48771,7 +50063,7 @@
         <Tag>TXT_KEY_CITY_NAME_ZUGDIDI</Tag>
         <English>Zugdidi</English>
         <French>
-            <Text>Zugdidi</Text>
+            <Text>Zougdidi</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
@@ -48814,6 +50106,10 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زوني</Arabic>
+        <Japanese>ズニ</Japanese>
+        <Russian>Зуни</Russian>
+        <ChineseSimp>祖尼</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZUPANJA</Tag>
@@ -48862,5 +50158,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Arabic>زفولن</Arabic>
+        <Polish>Zwoleń</Polish>
     </TEXT>
 </Civ4GameText>
