@@ -1,0 +1,1167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA11">
+        <old_value/>
+        <new_value>Acrotiri</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA14">
+        <old_value/>
+        <new_value>Vasilikí</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA16">
+        <old_value/>
+        <new_value>Pirgos</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA2">
+        <old_value/>
+        <new_value>Festo</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA21">
+        <old_value/>
+        <new_value>Plátanos</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA29">
+        <old_value/>
+        <new_value>Stilos</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA31">
+        <old_value/>
+        <new_value>La Canea</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA33">
+        <old_value/>
+        <new_value>Plativola</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA34">
+        <old_value/>
+        <new_value>Tiliso</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA4">
+        <old_value/>
+        <new_value>Kato Zakro</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA6">
+        <old_value/>
+        <new_value>Gurnia</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA7">
+        <old_value/>
+        <new_value>Cidonia</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_MINOA8">
+        <old_value/>
+        <new_value>Gálatas</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ABOVIAN">
+        <old_value/>
+        <new_value>Abovyan</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AGADE">
+        <old_value/>
+        <new_value>Agadé</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_FAYYUM">
+        <old_value/>
+        <new_value>Al Fayún</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_GIZA">
+        <old_value/>
+        <new_value>Al Guiza</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_JIZAH">
+        <old_value/>
+        <new_value>Al Guiza</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_MANSURA">
+        <old_value/>
+        <new_value>Al Mansurá</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_MINYA">
+        <old_value/>
+        <new_value>Al Menia</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_QUSAYR">
+        <old_value/>
+        <new_value>Al Quseir</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_AL_UQSUR">
+        <old_value/>
+        <new_value>Al Lúxor</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ALAVERDI">
+        <old_value/>
+        <new_value>Alaverdí</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ALEXANDROPOL">
+        <old_value/>
+        <new_value>Alexándropol</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ALMATY">
+        <old_value/>
+        <new_value>Almatý</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ANI">
+        <old_value/>
+        <new_value>An</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ASTANA">
+        <old_value/>
+        <new_value>Astaná</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ASWAN">
+        <old_value/>
+        <new_value>Asuán</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_BALKASH">
+        <old_value/>
+        <new_value>Baljash</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_BANI_SUWAYF">
+        <old_value/>
+        <new_value>Beni Suef</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_BOURGAS">
+        <old_value/>
+        <new_value>Burgas</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_CAMAGUEY">
+        <old_value/>
+        <new_value>Camagüey</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_CARDENAS">
+        <old_value/>
+        <new_value>Cárdenas</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_CIEGO_DE_AVILA">
+        <old_value/>
+        <new_value>Ciego de Ávila</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_COLON">
+        <old_value/>
+        <new_value>Colón</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_DILMUN">
+        <old_value/>
+        <new_value>Dilmún</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_GUANTANAMO">
+        <old_value/>
+        <new_value>Guantánamo</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_GUINES">
+        <old_value/>
+        <new_value>Güines</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_HELUAN">
+        <old_value/>
+        <new_value>Helwan</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_HOLGUIN">
+        <old_value/>
+        <new_value>Holguín</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ISMAILIA">
+        <old_value/>
+        <new_value>Ismailía</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_KAFR_AD_DAWWAR">
+        <old_value/>
+        <new_value>Kafr el-Dawwar</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_KARAGANDA">
+        <old_value/>
+        <new_value>Karagandá</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_KOTAYK">
+        <old_value/>
+        <new_value>Kotayk'</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_MAGAN">
+        <old_value/>
+        <new_value>Magán</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_MARHASHI">
+        <old_value/>
+        <new_value>Marhasi</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_NAKHICHEVAN">
+        <old_value/>
+        <new_value>Nakhchivan</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_NISIBIN">
+        <old_value/>
+        <new_value>Nusaybin</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_OSKEMEN">
+        <old_value/>
+        <new_value>Öskemen</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_PINAR_DEL_RIO">
+        <old_value/>
+        <new_value>Pinar del Río</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_PLAYA_GIRON">
+        <old_value/>
+        <new_value>Playa Girón</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_PORT_SAID">
+        <old_value/>
+        <new_value>Puerto Saíd</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_PURUSKHANDA">
+        <old_value/>
+        <new_value>Purushanda</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_QYZYL-ORDA">
+        <old_value/>
+        <new_value>Quizilordá</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_SANCTI_SPIRITUS">
+        <old_value/>
+        <new_value>Sancti Spíritus</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_SARQAND">
+        <old_value/>
+        <new_value>Samarcanda</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_SAWHAJ">
+        <old_value/>
+        <new_value>Suhag</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_SEMEY">
+        <old_value/>
+        <new_value>Seméy</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_SHIBIN_AL_KAUM">
+        <old_value/>
+        <new_value>Shibin el-Kom</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_SHYMKENT">
+        <old_value/>
+        <new_value>Chimkent</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_TALDYQORGAN">
+        <old_value/>
+        <new_value>Taldykorgan</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_TURKISTAN">
+        <old_value/>
+        <new_value>Turquestán</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_VELIKI_PRESLAV">
+        <old_value/>
+        <new_value>Preslav</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_VELIKO_TARNOVO">
+        <old_value/>
+        <new_value>Veliko Tárnovo</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_VRACA">
+        <old_value/>
+        <new_value>Vratsa</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_YEREVAN">
+        <old_value/>
+        <new_value>Ereván</new_value>
+    </entry>
+    <entry file="MCP_CITIES.xml" tag="TXT_KEY_CITY_NAME_ZHEZKAZGAN">
+        <old_value/>
+        <new_value>Jezkazgan</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ABORIGINES_ADJECTIVE">
+        <old_value/>
+        <new_value>Indígena</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ABORIGINES_DESC">
+        <old_value/>
+        <new_value>Imperio indígena</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ABORIGINES_SHORT_DESC">
+        <old_value/>
+        <new_value>Aborigen</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_AKKADIAN_ADJECTIVE">
+        <old_value/>
+        <new_value>Acadio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_AKKADIAN_DESC">
+        <old_value/>
+        <new_value>Imperio acadio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ALBANIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Albano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANGLO_SAXON_ADJECTIVE">
+        <old_value/>
+        <new_value>Anglosajón</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANGLO_SAXON_DESC">
+        <old_value/>
+        <new_value>Imperio anglosajón</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC">
+        <old_value/>
+        <new_value>Anglosajones</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANISHNAABEK_ADJECTIVE">
+        <old_value/>
+        <new_value>Algonquino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANISHNAABEK_DESC">
+        <old_value/>
+        <new_value>Imperio algonquino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANISHNAABEK_SHORT_DESC">
+        <old_value/>
+        <new_value>Algonquino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANIYONEGA_DESC">
+        <old_value/>
+        <new_value>Indios cheroqui</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_APACHE_DESC">
+        <old_value/>
+        <new_value>Imperio apache</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARGENTINA_ADJECTIVE">
+        <old_value/>
+        <new_value>Argentino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARGENTINA_DESC">
+        <old_value/>
+        <new_value>Imperio argentino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARMENIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Armenio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARMENIA_DESC">
+        <old_value/>
+        <new_value>Imperio armenio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ASHANTI_ADJECTIVE">
+        <old_value/>
+        <new_value>Asante</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ASHANTI_DESC">
+        <old_value/>
+        <new_value>Imperio asante</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ASHANTI_SHORT_DESC">
+        <old_value/>
+        <new_value>Asante</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BAKTRIA_DESC">
+        <old_value/>
+        <new_value>Imperio bactriano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BAKTRIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Bactria</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BANGLADESH_ADJECTIVE">
+        <old_value/>
+        <new_value>Bangladés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BANGLADESH_DESC">
+        <old_value/>
+        <new_value>Imperio bangladés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BANGLADESH_SHORT_DESC">
+        <old_value/>
+        <new_value>Bangladés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BELGIUM_ADJECTIVE">
+        <old_value/>
+        <new_value>Belga</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BELGIUM_DESC">
+        <old_value/>
+        <new_value>Imperio belga</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BELGIUM_SHORT_DESC">
+        <old_value/>
+        <new_value>Bélgica</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BENIN_ADJECTIVE">
+        <old_value/>
+        <new_value>Benín</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BENIN_DESC">
+        <old_value/>
+        <new_value>Imperio benín</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BENIN_SHORT_DESC">
+        <old_value/>
+        <new_value>Benín</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BRAZIL_DESC">
+        <old_value/>
+        <new_value>Imperio brasileño</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BRAZIL_SHORT_DESC">
+        <old_value/>
+        <new_value>Brasil</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BURMA_ADJECTIVE">
+        <old_value/>
+        <new_value>Birmano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BURMA_DESC">
+        <old_value/>
+        <new_value>Imperio birmano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BURMA_SHORT_DESC">
+        <old_value/>
+        <new_value>Birmania</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CHILE_ADJECTIVE">
+        <old_value/>
+        <new_value>Chileno</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CHILE_DESC">
+        <old_value/>
+        <new_value>Imperio chileno</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CHOLA_DESC">
+        <old_value/>
+        <new_value>Imperio chola</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_COLOMBIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Colombiano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_COLOMBIA_DESC">
+        <old_value/>
+        <new_value>Imperio colombiano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CONGO_ADJECTIVE">
+        <old_value/>
+        <new_value>Congoleño</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CONGO_DESC">
+        <old_value/>
+        <new_value>Imperio congoleño</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CROATIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Croata</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CROATIA_DESC">
+        <old_value/>
+        <new_value>Imperio croata</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CROATIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Croacia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CUBA_ADJECTIVE">
+        <old_value/>
+        <new_value>Cubano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CUBA_DESC">
+        <old_value/>
+        <new_value>Imperio cubano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CZECH_DESC">
+        <old_value/>
+        <new_value>Imperio checo</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_DENMARK_DESC">
+        <old_value/>
+        <new_value>Imperio danés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_DENMARK_SHORT_DESC">
+        <old_value/>
+        <new_value>Dinamarca</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ETRUSCANS_ADJECTIVE">
+        <old_value/>
+        <new_value>Etrusco</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ETRUSCANS_DESC">
+        <old_value/>
+        <new_value>Imperio etrusco</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ETRUSCANS_SHORT_DESC">
+        <old_value/>
+        <new_value>Estruscos</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_FINLAND_DESC">
+        <old_value/>
+        <new_value>Imperio finés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_FINLAND_SHORT_DESC">
+        <old_value/>
+        <new_value>Finlandia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_GEORGIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Georgiano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_GEORGIA_DESC">
+        <old_value/>
+        <new_value>Imperio georgiano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_HUNS_ADJECTIVE">
+        <old_value/>
+        <new_value>Húnico</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_HUNS_DESC">
+        <old_value/>
+        <new_value>Imperio húnico</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_HURRIANS_SHORT_DESC">
+        <old_value/>
+        <new_value>Hurritas</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_INDONESIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Indonesio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_INDONESIA_DESC">
+        <old_value/>
+        <new_value>Imperio indonesio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_IRAN_ADJECTIVE">
+        <old_value/>
+        <new_value>Iraní</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_IRAN_DESC">
+        <old_value/>
+        <new_value>Imperio iraní</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_IRAN_SHORT_DESC">
+        <old_value/>
+        <new_value>Irán</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ITALY_DESC">
+        <old_value/>
+        <new_value>Imperio italiano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ITALY_SHORT_DESC">
+        <old_value/>
+        <new_value>Italia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_KANEMBORNU_DESC">
+        <old_value/>
+        <new_value>Imperio Kanem-Bornu</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_KAZAKH_ADJECTIVE">
+        <old_value/>
+        <new_value>Kazajo</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_KAZAKH_DESC">
+        <old_value/>
+        <new_value>Imperio kazajo</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_KAZAKH_SHORT_DESC">
+        <old_value/>
+        <new_value>Kazajistán</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_LATVIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Letón</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_LATVIA_DESC">
+        <old_value/>
+        <new_value>Imperio letón</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_LATVIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Letonia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_LOMBARD_ADJECTIVE">
+        <old_value/>
+        <new_value>Lombardo</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_LOMBARD_SHORT_DESC">
+        <old_value/>
+        <new_value>Lombardía</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAGHREB_ADJECTIVE">
+        <old_value/>
+        <new_value>Marroquí</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAGHREB_DESC">
+        <old_value/>
+        <new_value>Imperio marroquí</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAGHREB_SHORT_DESC">
+        <old_value/>
+        <new_value>Marruecos</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAJAPAHIT_ADJECTIVE">
+        <old_value/>
+        <new_value>Mayapajit</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAJAPAHIT_DESC">
+        <old_value/>
+        <new_value>Imperio mayapajit</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAJAPAHIT_SHORT_DESC">
+        <old_value/>
+        <new_value>Mayapajit</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MANDE_DESC">
+        <old_value/>
+        <new_value>Imperio songhai</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MAPUCHE_DESC">
+        <old_value/>
+        <new_value>Imperio mapuche</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MEGYPT_ADJECTIVE">
+        <old_value/>
+        <new_value>Mameluco</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MEGYPT_DESC">
+        <old_value/>
+        <new_value>Imperio mameluco</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MEGYPT_SHORT_DESC">
+        <old_value/>
+        <new_value>Mamelucos</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MEXICO_ADJECTIVE">
+        <old_value/>
+        <new_value>Mexicano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MEXICO_DESC">
+        <old_value/>
+        <new_value>Imperio mexicano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MEXICO_SHORT_DESC">
+        <old_value/>
+        <new_value>México</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MINOA">
+        <old_value/>
+        <new_value>Imperio minoico</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MOCHE_DESC">
+        <old_value/>
+        <new_value>Imperio moche</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MUTAPA_ADJECTIVE">
+        <old_value/>
+        <new_value>Monomotapa</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MUTAPA_DESC">
+        <old_value/>
+        <new_value>Imperio monomotapa</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_MUTAPA_SHORT_DESC">
+        <old_value/>
+        <new_value>Monomotapa</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NEWZEALAND_ADJECTIVE">
+        <old_value/>
+        <new_value>Neozelandés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NEWZEALAND_DESC">
+        <old_value/>
+        <new_value>Imperio neozelandés</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NEWZEALAND_SHORT_DESC">
+        <old_value/>
+        <new_value>Nueva Zelanda</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NIGERIA_DESC">
+        <old_value/>
+        <new_value>Imperio nigeriano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NIGERIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Nigeriano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NORWAY_ADJECTIVE">
+        <old_value/>
+        <new_value>Noruego</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_NORWAY_DESC">
+        <old_value/>
+        <new_value>Imperio noruego</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_OLMEC_DESC">
+        <old_value/>
+        <new_value>Imperio olmeca</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PAKISTAN_ADJECTIVE">
+        <old_value/>
+        <new_value>Paquistaní</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PAKISTAN_DESC">
+        <old_value/>
+        <new_value>Imperio paquistaní</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PAKISTAN_SHORT_DESC">
+        <old_value/>
+        <new_value>Paquistán</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PHILIPPINES_DESC">
+        <old_value/>
+        <new_value>Imperio filipino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PHILIPPINES_SHORT_DESC">
+        <old_value/>
+        <new_value>Filipinas</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PHOENICIA_DESC">
+        <old_value/>
+        <new_value>Imperio fenicio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PHOENICIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Fenicia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PICTS_ADJECTIVE">
+        <old_value/>
+        <new_value>Picto</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PICTS_DESC">
+        <old_value/>
+        <new_value>Imperio picto</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_PICTS_SHORT_DESC">
+        <old_value/>
+        <new_value>Pictia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SCYTHIA_DESC">
+        <old_value/>
+        <new_value>Imperio escita</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SCYTHIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Escitia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SELJUK_ADJECTIVE">
+        <old_value/>
+        <new_value>Selyuq</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SELJUK_DESC">
+        <old_value/>
+        <new_value>Imperio selyúcida</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SELJUK_SHORT_DESC">
+        <old_value/>
+        <new_value>Selyúcidas</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SOUTH_AFRICA_ADJECTIVE">
+        <old_value/>
+        <new_value>Sudafricano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SOUTH_AFRICA_DESC">
+        <old_value/>
+        <new_value>Imperio sudafricano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SOUTH_AFRICA_SHORT_DESC">
+        <old_value/>
+        <new_value>Sudáfrica</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SWITZERLAND_ADJECTIVE">
+        <old_value/>
+        <new_value>Suizo</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SWITZERLAND_DESC">
+        <old_value/>
+        <new_value>Imperio suizo</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_SWITZERLAND_SHORT_DESC">
+        <old_value/>
+        <new_value>Suiza</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TIMURID_ADJECTIVE">
+        <old_value/>
+        <new_value>Timúrida</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TIMURID_DESC">
+        <old_value/>
+        <new_value>Imperio timúrida</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TIMURID_SHORT_DESC">
+        <old_value/>
+        <new_value>Timúridas</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TOLTEC_ADJECTIVE">
+        <old_value/>
+        <new_value>Tolteca</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TOLTEC_DESC">
+        <old_value/>
+        <new_value>Imperio tolteca</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TOLTEC_SHORT_DESC">
+        <old_value/>
+        <new_value>Toltecas</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TROY_ADJECTIVE">
+        <old_value/>
+        <new_value>Troyano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_TROY_DESC">
+        <old_value/>
+        <new_value>Imperio troyano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VENEZIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Veneciano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VENEZIA_DESC">
+        <old_value/>
+        <new_value>Imperio veneciano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VENEZIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Venecia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VENEZUELA_ADJECTIVE">
+        <old_value/>
+        <new_value>Venezolano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VENEZUELA_DESC">
+        <old_value/>
+        <new_value>Imperio venezolano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VIETNAM_ADJECTIVE">
+        <old_value/>
+        <new_value>Vietnamita</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_VIETNAM_SHORT_DESC">
+        <old_value/>
+        <new_value>Vietnám</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_XIONGNU_DESC">
+        <old_value/>
+        <new_value>Imperio xiongnu</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHARLES_V_1">
+        <old_value>Es hora de pagar a quienes tienen la sartén por el mango, [CT_NAME].</old_value>
+        <new_value>La paz es el mayor reto. Es hora de pagar, [CT_NAME].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ABLAY_1">
+        <old_value/>
+        <new_value>¡Hola, [CT_NAME]! Vuestras exploraciones os han traído a la estepa [OUR_CIV_ADJ]. Os aconsejo que seáis amable con la gente [OUR_CIV_ADJ], ¡estas son nuestras tierras!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1">
+        <old_value>Saludos. Soy [OUR_NAME], príncipe de [OUR_EMPIRE], y defeater de todos los enemigos. ¿Me dice, es tú un amigo, o enemigo?</old_value>
+        <new_value>Saludos. Soy [OUR_NAME], príncipe del [OUR_EMPIRE], y vencedor de todos los enemigos. Dígame, ¿sois amigo, o enemigo?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_AHMADINEJAD_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME]. La República islámica jamás ha amenazado ni amenazará a ningún país.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_AJATASHATRU_1">
+        <old_value/>
+        <new_value>Nuestros mantras e himnos sagrados purificarán y limpiarán vuestra alma de la malvada herejía a la que vos, [CT_NAME] habéis sido expuesto.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ALAKSANDU_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME] de [OUR_CIV_SHORT]. Protéjase bien si busca la guerra, [CT_NAME].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ALARIC_1">
+        <old_value/>
+        <new_value>¡Saludos! Soy [OUR_NAME] del [OUR_EMPIRE]. Como siempre digo en batalla, "cuanto más espesa la paja, más fácil de sesgar."</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ALFRED_1">
+        <old_value/>
+        <new_value>Yo, [OUR_NAME], no soy más que un simple rey, [CT_NAME]. ¿Bebemos?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_AMINA_1">
+        <old_value/>
+        <new_value>Mis bendiciones, [CT_NAME] de los [CT_EMPIRE]. Os aseguro que nos esforzaremos por ser vecinos benévolos. Un hombre no se aleja de donde se asa su maíz.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ANDRANIK_1">
+        <old_value/>
+        <new_value>¡Saludos! Soy [OUR_NAME] del [OUR_EMPIRE]. Espero que nuestras magníficas gentes puedan convivir en paz, pero si no, ¡lucharé aunque tengas un ejército superior!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ARSACES_1">
+        <old_value/>
+        <new_value>Bienvenido, [CT_NAME]. Yo, [OUR_NAME], líder del noble [OUR_EMPIRE], os saludo. ¿Envío a mis catafractos contra vos? ¿O cabalgaremos juntos para aplastar a nuestros enemigos bajo nuestros pies?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ATHEAS_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME] del [OUR_EMPIRE]. Si tenéis prisa por enfrentaros a nosotros, mirad a vuestro alrededor, y contemplad las tumbras de nuestros padres. Intentad entrometeros con ellos y descubriréis si lucharemos contra vos o no.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_ATTILA_1">
+        <old_value/>
+        <new_value>¡Saludos! Los [OUR_CIV_SHORT] os dejan estar en paz. Pero recordad, [CT_NAME], que un oso hambriento no baila.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_AYAPEC_1">
+        <old_value/>
+        <new_value>Soy el feroz e implacable [OUR_NAME] del [OUR_EMPIRE]. ¡Deleitadnos con tributos o enfrentaos a las hachas de mis guerreros!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_AYUB_KHAN_1">
+        <old_value/>
+        <new_value>Hola, [CT_NAME]. Las diferencias intelectuales no tienen nada de malo, siempre y cuando esas indiferencias se limiten a los debates intelectuales.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BADUR_1">
+        <old_value/>
+        <new_value>¡Ah, [CT_NAME]! ¡Os damos la bienvenida al [OUR_EMPIRE]! Si existe el paraíso terrenal, aquí es, aquí es, aquí es.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BAIBARS_1">
+        <old_value/>
+        <new_value>Nuestros fieles han vencido imparables lacras. ¿Creéis que tenéis posibilidades?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BAYANCHUR_1">
+        <old_value/>
+        <new_value>¡Saludos! Soy [OUR_NAME] del [OUR_EMPIRE], nacido en la gloria del Cielo Lunar.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BOLIVAR_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME], El Libertador de Sudamérica. Vivo para liberar a las gentes del cruel dominio colonial. ¿Seréis un preciado aliado o un odiado enemigo?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BOTHA_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME]. Soy [OUR_NAME] de los [OUR_CIV_SHORT]. La idea de las gentes afrikáner como una entidad cultural y un grupo religioso con un idioma propio perdurará en Sudáfrica en tanto que vivan las civilizaciones.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BRIDEI_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME] del [OUR_EMPIRE]. ¿Qué hacéis aquí?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BRINNO_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME], un hombre de distinguida alcurnia y un valeroso soldado. Si me faltáis al respeto, tendré vuestra cabeza.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_BUREBISTA_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME], y puedo ser un valioso aliado o un peligroso oponente.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CAKSTE_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME] del [OUR_EMPIRE]. ¡Todos nosotros luchamos por avanzar, forjando nuestro propio destino!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CALGACUS_1">
+        <old_value/>
+        <new_value>Nosotros, la flor predilecta de Gran Bretaña, fuimos atesorados en sus lugares más secretos. Lejos de las costas vasallas, mantuvimos incluso la vista libre de la corrupción de la tiranía. Nosotros, los últimos hombres de la tierra, los últimos hombres libres, hemos estado escudados por la misma distancia y reclusión que nos caracteriza. Soy [OUR_NAME] del [OUR_EMPIRE].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CASTRO_1">
+        <old_value/>
+        <new_value>Soy un revolucionario, [CT_NAME]. Y el [OUR_EMPIRE] es la dictadura de los explotados contra los explotadores.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CHANGAMIRE_1">
+        <old_value/>
+        <new_value>¡Cuidado, [CT_NAME]! ¡Hemos expulsado a nuestros enemigos antes y podemos hacerlo de nuevo!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CHAVEZ_1">
+        <old_value/>
+        <new_value>Bienvenido, [CT_NAME]. Aquí he encontrado un amigo más. Y con este amigo seremos un equipo, como un equipo de fútbol. Un equipo luchador.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CIVILIS_1">
+        <old_value/>
+        <new_value>Bienvenido, [CT_NAME]. Soy [OUR_NAME], líder del poderoso [OUR_EMPIRE]. Los romanos humillaron a mi familia y me insultaron. Pagarán por esta traición, ¿lucharéis junto a mí en esta guerra gloriosa? ¿O tendré que destruiros a vos también?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_COCHISE_1">
+        <old_value/>
+        <new_value>¡Saludos! Soy [OUR_NAME] del [OUR_EMPIRE]. ¡Quedáis avisados, no os asentéis en nuestras tierras o lucharé!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_COLLINS_1">
+        <old_value/>
+        <new_value>¡Saludos, [CT_NAME]! Soy [OUR_NAME], líder [OUR_CIV_ADJ]. Si nos amenazáis, no seremos blancos fáciles, sino columnas voladoras.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_COLOCOLO_1">
+        <old_value/>
+        <new_value>Pobre de vos, [CT_NAME]. ¡Soy [OUR_NAME], señor de vuestra destrucción!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CUNHAMBEBE_1">
+        <old_value/>
+        <new_value>¡Saludos, [CT_NAME]! Soy [OUR_NAME], líder [OUR_CIV_ADJ]. ¡Ayudadnos a salvar nuestra preciada selva y tendréis nuestra eterna gratitud!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CUNNE_SHOTE_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME], jefe [OUR_CIV_ADJ]. Negociemos y fortalezcamos nuestra amistad.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_CUZA_1">
+        <old_value/>
+        <new_value>¡Felicitari! ¡Eu sunt [OUR_NAME], dominatorul mandriei [OUR_EMPIRE]! ¡Que nuestras gentes convivan en paz, o los orgullosos descendientes de los getas os aplastarán como a un gusano!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_DAAR_1">
+        <old_value/>
+        <new_value>Quizá os sorprenda, [CT_NAME], ¡pero yo, [OUR_NAME], líder [OUR_CIV_ADJ], sigo vivo!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_DUFOUR_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME], constructor de puentes, tanto diplomáticos como físicos.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_MEHAI_1">
+        <old_value/>
+        <new_value>¡Felicitari! ¡Eu sunt [OUR_NAME], dominatorul mandriei [OUR_EMPIRE]! ¡Que nuestras gentes convivan en paz, o los orgullosos descendientes de los getas os aplastarán como a un gusano!</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_OHIGGINS_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME]. Soy [OUR_NAME], en la batalla soy valiente hasta el punto de la locura.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_PERON_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME]. Un consejo. Si tenéis una cola de paja, mantenedla alejada del fuego.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_PINOCHET_1">
+        <old_value/>
+        <new_value>En el [OUR_EMPIRE] no se mueve una hoja sin que yo lo sepa. Cuidado por dónde pisáis, [CT_NAME], no sea que deba tomar las medidas necesarias para proteger la querida patria.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_PO_NGBE_1">
+        <old_value/>
+        <new_value>¡Os doy la bienvenida, [CT_NAME]! Soy [OUR_NAME], líder [OUR_CIV_ADJ]. Mi paz espiritual no tiene límites, pero mi paciencia, sí.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_RADAMA_1">
+        <old_value/>
+        <new_value>Brindemos por un buen futuro, [CT_NAME].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_SHISHUNAGA_1">
+        <old_value/>
+        <new_value>Mostrad humildad, [CT_NAME]. La tierra sagrada exige devoción.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_SKILURUS_1">
+        <old_value/>
+        <new_value>Un palo se rompe con facilidad, pero un puñado es inquebrantable. No sacaréis a las tribus del [OUR_EMPIRE] para romperlas, pues nuestra unidad nos hace fuertes.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_STAMBOLOV_1">
+        <old_value/>
+        <new_value>¡Dobro utro [CT_NAME]! Soy [OUR_NAME] del [OUR_EMPIRE]. La primera señal de sabiduría política siempre ha sido la habilidad de desistir en lo inalcanzable.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_SUHARTO_1">
+        <old_value/>
+        <new_value>Nosotros, el pueblo [OUR_CIV_ADJ], venimos en paz. Pero no creáis que las aguas tranquilas no tienen cocodrilos, [CT_NAME] del [CT_EMPIRE].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_SUKARNO_1">
+        <old_value/>
+        <new_value>Yo, [OUR_NAME], tomaré las medidas necesarias para asegurar la supervivencia del [OUR_EMPIRE].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_SUNNI_ALI_1">
+        <old_value/>
+        <new_value>Os doy la bienvenida, [CT_NAME]. "Baani fondo a si ku. El camino certero nunca es demasiado largo". ¿Qué camino elegiréis hoy?</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_TAHARQA_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME] del débil [CT_EMPIRE]. Toleramos vuestra presencia en estas tierras. Una termita puede apenas lamer una piedra.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_TAMERLANE_1">
+        <old_value/>
+        <new_value>Es cierto que las gentes del [OUR_EMPIRE] podrían sufrir. Pero el sufrimiento es lo que les llevará a las siguientes tierras. Quizá las vuestras, [CT_NAME].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_TECUMSEH_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME]. Soy [OUR_NAME]. Ninguna tribu tiene el derecho de vender tierras, incluso entre ellas, y mucho menos a desconocidos.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_TENGRI_BOGU_1">
+        <old_value/>
+        <new_value>Saludos, [CT_NAME]. Si siempre os cubrís las espaldas, os apuñalarán de frente.</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_THEODORIC_1">
+        <old_value/>
+        <new_value>Soy [OUR_NAME]. Un brindis por vuestra saludo, [CT_NAME].</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_TITO_1">
+        <old_value/>
+        <new_value>Dejad de enviar gente a matarme, [CT_NAME]. Si no cesáis, enviaré a alguien a vuestro palacio, y no tendré que enviar a otro.</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_AJATASHATRU">
+        <old_value/>
+        <new_value>Áyata Shatru</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_ALARIC">
+        <old_value/>
+        <new_value>Alarico</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_AMANISHABHETO">
+        <old_value/>
+        <new_value>Amanishajeto</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_ATHEAS">
+        <old_value/>
+        <new_value>Ateas</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_BOLIVAR">
+        <old_value/>
+        <new_value>Bolívar</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CALGACUS">
+        <old_value/>
+        <new_value>Calgaco</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CANUTE">
+        <old_value/>
+        <new_value>Canuto el Grande</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CARDENAS">
+        <old_value/>
+        <new_value>Cárdenas</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CASIMIR">
+        <old_value/>
+        <new_value>Casimiro</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CHALCHIUHTLATONAC">
+        <old_value/>
+        <new_value>Chalchiuhtlicue</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CHAVEZ">
+        <old_value/>
+        <new_value>Chávez</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_HECTOR">
+        <old_value/>
+        <new_value>Héctor</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_ITHOBAAL">
+        <old_value/>
+        <new_value>Itobaal</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_KHOMEINI">
+        <old_value/>
+        <new_value>Jomeini</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_LEOPOLD_I">
+        <old_value/>
+        <new_value>Leopoldo I</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_LEOPOLD_II">
+        <old_value/>
+        <new_value>Leopoldo II</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_MARGRETE">
+        <old_value/>
+        <new_value>Margarita I</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_MARTI">
+        <old_value/>
+        <new_value>Martí</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_MITHRIDATES">
+        <old_value/>
+        <new_value>Mitrídates</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_NESTOR">
+        <old_value/>
+        <new_value>Néstor</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_PEDRO_II">
+        <old_value/>
+        <new_value>Pedro II</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_PERON">
+        <old_value/>
+        <new_value>Perón</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_SANTA_ANNA">
+        <old_value/>
+        <new_value>Santa Ana</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_SKILURUS">
+        <old_value/>
+        <new_value>Escíloro</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_STEPHEN">
+        <old_value/>
+        <new_value>Esteban I</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_TAHARQA">
+        <old_value/>
+        <new_value>Taharqo</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_THEODORIC">
+        <old_value/>
+        <new_value>Teodorico</new_value>
+    </entry>
+</root>

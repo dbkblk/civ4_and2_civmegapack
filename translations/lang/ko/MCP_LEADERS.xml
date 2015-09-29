@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_LEADER_AGAMEMNON">아가멤논</string>
+  <string name="TXT_KEY_LEADER_ALAKSANDU">파리</string>
+  <string name="TXT_KEY_LEADER_ARPAD">아르파드</string>
+  <string name="TXT_KEY_LEADER_ENRICO_DANDOLO">엔리코 단돌로</string>
+  <string name="TXT_KEY_LEADER_GERONIMO">제로니모</string>
+  <string name="TXT_KEY_LEADER_HUS">얀 후스</string>
+  <string name="TXT_KEY_LEADER_SARGON">사르곤 2세</string>
+  <string name="TXT_KEY_LEADER_TAMERLANE">태멀레인</string>
+</resources>

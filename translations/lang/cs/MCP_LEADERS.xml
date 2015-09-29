@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_LEADER_AGAMEMNON">Agamemnón</string>
+  <string name="TXT_KEY_LEADER_ALAKSANDU">Paříž</string>
+  <string name="TXT_KEY_LEADER_ARPAD">Arpad</string>
+  <string name="TXT_KEY_LEADER_ENRICO_DANDOLO">Enrico Dandolo</string>
+  <string name="TXT_KEY_LEADER_GERONIMO">Geronimo</string>
+  <string name="TXT_KEY_LEADER_HUS">Jan Hus</string>
+  <string name="TXT_KEY_LEADER_SARGON">Sargon</string>
+  <string name="TXT_KEY_LEADER_TAMERLANE">Tamerlán</string>
+</resources>

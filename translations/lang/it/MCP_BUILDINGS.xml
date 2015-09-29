@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL_STRATEGY">in Italian</string>
+  <string name="TXT_KEY_BUILDING_ARSENAL">Arsenale</string>
+  <string name="TXT_KEY_BUILDING_ATHLETICS_COMPLEX">Atletica Complex</string>
+  <string name="TXT_KEY_BUILDING_ATHLETICS_COMPLEX_STRATEGY">L\'[COLOR_BUILDING_TEXT]Atletica Complex[COLOR_REVERT], la sostituzione Australiano per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</string>
+  <string name="TXT_KEY_BUILDING_BATAVII_STABLE_STRATEGY">The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight\'s Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</string>
+  <string name="TXT_KEY_BUILDING_BROCH_STRATEGY">L\'[COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], la sostituzione Scozzese per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</string>
+  <string name="TXT_KEY_BUILDING_CHITALISHTE">Citalište</string>
+  <string name="TXT_KEY_BUILDING_CHITALISHTE_STRATEGY">L\'[COLOR_BUILDING_TEXT]Citalište[COLOR_REVERT], la sostituzione Bulgaro per il [COLOR_BUILDING_TEXT]Biblioteca[COLOR_REVERT], può trasformare in due cittadini gli artisti.</string>
+  <string name="TXT_KEY_BUILDING_CHOLA_TRADE_GUILD_STRATEGY">[TAB]The [COLOR_BUILDING_TEXT]Trade Workshop[COLOR_REVERT] is the Chola replacement for the [COLOR_BUILDING_TEXT]Market[COLOR_REVERT]and gives every unit built in a city the Amphibious Promotion.</string>
+  <string name="TXT_KEY_BUILDING_CHORTEN_STRATEGY">L\'[COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], il Tibetana sostituzione per il [COLOR_BUILDING_TEXT]Monumento[COLOR_REVERT], offre bonus di felicità.</string>
+  <string name="TXT_KEY_BUILDING_CLOISTER">Chiostro</string>
+  <string name="TXT_KEY_BUILDING_CLOISTER_STRATEGY">Il [COLOR_BUILDING_TEXT]Chiostro[COLOR_REVERT], il sostituto Lombardo per [COLOR_BUILDING_TEXT] l\'Arena [COLOR_REVERT], aggiunge un prete gratis.</string>
+  <string name="TXT_KEY_BUILDING_FOLWARK_STRATEGY">L\'[COLOR_BUILDING_TEXT]Folwark[COLOR_REVERT], la sostituzione polacco per il [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], offre bonus di alimentare.</string>
+  <string name="TXT_KEY_BUILDING_FURDO_STRATEGY">L\'[COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sostituzione unherese per il[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], offre des bonus de santé.</string>
+  <string name="TXT_KEY_BUILDING_HAMBAR_STRATEGY">L\'[COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sostituzione Serba per il [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], grants additional food with and health corn.</string>
+  <string name="TXT_KEY_BUILDING_HARAPPAN_SEWER_STRATEGY">La [COLOR_BUILDING_TEXT]Fognatura[COLOR_REVERT], la sostituzione Harappan per l\'[COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</string>
+  <string name="TXT_KEY_BUILDING_HOCKEY_RINK">Rinks del hockey</string>
+  <string name="TXT_KEY_BUILDING_HOCKEY_RINK_STRATEGY">L\'[COLOR_BUILDING_TEXT]Rinks del hockey[COLOR_REVERT], la sostituzione Canadese per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</string>
+  <string name="TXT_KEY_BUILDING_HUNG_VEGVAR">Végvár</string>
+  <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">Oasi:Oasi</string>
+  <string name="TXT_KEY_BUILDING_KURGAN_STRATEGY">I [COLOR_BUILDING_TEXT]monumenti[COLOR_REVERT] forniscono una piccola quantità di cultura e servono a espandere velocemente i confini della città nelle fasi iniziali della partita. </string>
+  <string name="TXT_KEY_BUILDING_MARAE_STRATEGY">L\'[COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], la sostituzione polinesiana per il [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], offre bonus di cultura.</string>
+  <string name="TXT_KEY_BUILDING_MENARA_STRATEGY">Il[COLOR_BUILDING_TEXT]Menara [COLOR_REVERT], il rimontaggio del Cham per il castillo [COLOR_BUILDING_TEXT] castillo  [COLOR_REVERT], fornisce una felicità importante nella vostra città</string>
+  <string name="TXT_KEY_BUILDING_MOCHE_HUACA">Huaca</string>
+  <string name="TXT_KEY_BUILDING_PILIAKALNIS_STRATEGY">L\'[COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], la sostituzione Lituano per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di salute.</string>
+  <string name="TXT_KEY_BUILDING_RINGFORT_STRATEGY">L\'[COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], la sostituzione irlandas per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di difesa.</string>
+  <string name="TXT_KEY_BUILDING_THING_STRATEGY">L\'[COLOR_BUILDING_TEXT]Ting[COLOR_REVERT], la sostituzione Svedese per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], offre bonus di salute.</string>
+  <string name="TXT_KEY_BUILDING_VAULTED_GRANARY">Granaio Vaulted</string>
+  <string name="TXT_KEY_BUILDING_VECHE">Veche Femminile</string>
+  <string name="TXT_KEY_BUILDING_VECHE_STRATEGY">[TAB]L\'[COLOR_BUILDING_TEXT]Veche[COLOR_REVERT], la sostituzione Ucraino per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], offre bonus di food.</string>
+  <string name="TXT_KEY_BUILDING_VILLU_STATUE">Statua di Villu</string>
+  <string name="TXT_KEY_BUILDING_VILLU_STATUE_STRATEGY">L\'[COLOR_BUILDING_TEXT]Statua di Villu[COLOR_REVERT], il Hurriti sostituzione per il [COLOR_BUILDING_TEXT]Palazzo di giustizia[COLOR_REVERT], provides a free Priest, but cannot turn a citizen into a Spy.</string>
+</resources>

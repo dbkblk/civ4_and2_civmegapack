@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Braziliaans</string>
+  <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Bulgaars</string>
+  <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Tsjechisch</string>
+  <string name="TXT_KEY_CIV_CZECH_SHORT_DESC">Tsjechisch</string>
+  <string name="TXT_KEY_CIV_DENMARK_ADJECTIVE">Deens</string>
+  <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">Fins</string>
+  <string name="TXT_KEY_CIV_HUNGARY_ADJECTIVE">Hongaars</string>
+  <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">Italiaans</string>
+  <string name="TXT_KEY_CIV_POLAND_ADJECTIVE">Pools</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CIV_ADJECTIVE_MINOA">ミノア</string>
+  <string name="TXT_KEY_CIV_AKKADIAN_SHORT_DESC">アッカド</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_ADJECTIVE">チェロキー</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_SHORT_DESC">チェロキー</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">アパッチ</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">アパッチ</string>
+  <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">日本語</string>
+  <string name="TXT_KEY_CIV_HARAPPA_ADJECTIVE">ハラッパ</string>
+  <string name="TXT_KEY_CIV_HURRIANS_ADJECTIVE">フリ</string>
+  <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">イタリア語</string>
+  <string name="TXT_KEY_CIV_MYCENAE_SHORT_DESC">ミケーネ</string>
+  <string name="TXT_KEY_CIV_NUBIA_ADJECTIVE">ヌビア</string>
+  <string name="TXT_KEY_CIV_OLMEC_ADJECTIVE">オルメカ</string>
+  <string name="TXT_KEY_CIV_OLMEC_SHORT_DESC">オルメカ</string>
+  <string name="TXT_KEY_CIV_PARTHIA_ADJECTIVE">パルティア</string>
+  <string name="TXT_KEY_CIV_PHOENICIA_ADJECTIVE">フェニキアの</string>
+  <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">ポリネシア</string>
+  <string name="TXT_KEY_CIV_SCYTHIA_ADJECTIVE">スキタイ</string>
+  <string name="TXT_KEY_CIV_TROY_SHORT_DESC">トロイア</string>
+  <string name="TXT_KEY_CIV_XIONGNU_ADJECTIVE">匈奴</string>
+  <string name="TXT_KEY_CIV_XIONGNU_SHORT_DESC">匈奴</string>
+</resources>

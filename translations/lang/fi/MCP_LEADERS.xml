@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_LEADER_ALAKSANDU">Pariisi</string>
+  <string name="TXT_KEY_LEADER_AYAPEC">Sipan</string>
+  <string name="TXT_KEY_LEADER_ENRICO_DANDOLO">Enrico Dandolo</string>
+  <string name="TXT_KEY_LEADER_GERONIMO">Geronimo</string>
+  <string name="TXT_KEY_LEADER_SARGON">Sargon</string>
+</resources>

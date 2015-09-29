@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+ <string name="WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Pack</string>
+ <string name="REQUIRED">required</string>
+ <string name="WELCOME">Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient.</string>
+ <string name="DIRECTORY">Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue.</string>
+ <string name="FINISH">The new civilizations are now installed. Enjoy.</string>
+</resources>

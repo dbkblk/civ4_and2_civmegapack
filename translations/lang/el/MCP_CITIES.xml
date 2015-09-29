@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CITY_MINOA1">Κνωσσός</string>
+  <string name="TXT_KEY_CITY_MINOA10">Αρκαλοχώρι</string>
+  <string name="TXT_KEY_CITY_MINOA11">Ακρωτίρι</string>
+  <string name="TXT_KEY_CITY_MINOA12">Ζώμινθος</string>
+  <string name="TXT_KEY_CITY_MINOA13">Ψείρα Λασιθίου</string>
+  <string name="TXT_KEY_CITY_MINOA14">Βασιλική</string>
+  <string name="TXT_KEY_CITY_MINOA15">Καρφί</string>
+  <string name="TXT_KEY_CITY_MINOA16">Πύργος</string>
+  <string name="TXT_KEY_CITY_MINOA17">Κορφή Φούρνου</string>
+  <string name="TXT_KEY_CITY_MINOA18">Αγία Πελαγία</string>
+  <string name="TXT_KEY_CITY_MINOA19">Αρχάνες</string>
+  <string name="TXT_KEY_CITY_MINOA2">Φαιστός</string>
+  <string name="TXT_KEY_CITY_MINOA20">Κομμός</string>
+  <string name="TXT_KEY_CITY_MINOA21">Πλάτανος</string>
+  <string name="TXT_KEY_CITY_MINOA22">Λεβάνα</string>
+  <string name="TXT_KEY_CITY_MINOA23">Παλαίκαστρο</string>
+  <string name="TXT_KEY_CITY_MINOA24">Πραισός</string>
+  <string name="TXT_KEY_CITY_MINOA25">Μόχλος</string>
+  <string name="TXT_KEY_CITY_MINOA26">Αρμένοι</string>
+  <string name="TXT_KEY_CITY_MINOA27">Kamaizi</string>
+  <string name="TXT_KEY_CITY_MINOA28">Μοναστηράκι</string>
+  <string name="TXT_KEY_CITY_MINOA29">Στύλος</string>
+  <string name="TXT_KEY_CITY_MINOA3">Μάλια</string>
+  <string name="TXT_KEY_CITY_MINOA30">Καλάμι</string>
+  <string name="TXT_KEY_CITY_MINOA31">Χανιά</string>
+  <string name="TXT_KEY_CITY_MINOA32">Μάλεμε</string>
+  <string name="TXT_KEY_CITY_MINOA33">Platyvola</string>
+  <string name="TXT_KEY_CITY_MINOA34">Τυλισός</string>
+  <string name="TXT_KEY_CITY_MINOA4">Κάτω Ζάκρος</string>
+  <string name="TXT_KEY_CITY_MINOA5">Αγία Τριάδα</string>
+  <string name="TXT_KEY_CITY_MINOA6">Γουρνιά</string>
+  <string name="TXT_KEY_CITY_MINOA7">Κυδωνία</string>
+  <string name="TXT_KEY_CITY_MINOA8">Γαλατάς</string>
+</resources>

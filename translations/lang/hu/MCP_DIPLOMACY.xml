@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">It would be diplomatically expedient to give us what we want, [CT_NAME]?</string>
+  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Volna néhány kérésünk, [CT_NAME]. Légy szíves, teljesítsd õket!</string>
+  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">Can you spare us this, [CT_NAME]? I would be extremely grateful for your assistance.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1">Üdvözlet! Én [OUR_NAME] vagyok, [OUR_EMPIRE] hercege, és minden ellenség legyőzője. Mondd hát, barát vagy, vagy ellenség?</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">A paradicsom szüzei permetezzenek rád ezer áldást, [CT_NAME]! Én [OUR_NAME] vagyok, [OUR_EMPIRE] bölcs és jóakaratú ura. Kérlek, máris kezdhetsz hájjal kenegetni, mérhetetlen tiszteleted jeléül.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALOOMA_1">A hatalmas [OUR_EMPIRE] üdvözöl téged! Mi fontosnak tartjuk a saját biztonságunkat, hogy az aranyba öltözött nők is félelem nélkül sétálhassanak, és csak Istent kelljen félniük.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AMANISHABHETO_1">Üdvözlet, [CT_NAME] a [CT_EMPIRE] vezetője. Légy üdvözölve a gazdagság és fejlődés földjén! Mi szívesen állunk szolgálatodra... amíg az nekünk is jövedelmező. </string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">I am honored to meet you, [CT_NAME]. I hope that our two nations will be able to live in peace and friendship.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ARPAD_1">Üdvözlet a földemen, [CT_NAME]. A [OUR_EMPIRE] azt tanácsolja, hogy csak addig nyújtózkodj, míg a takaród ér.</string>
+  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">Welcome, [CT_NAME]. I can always spare a few moments to converse with friends and allies.</string>
+  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Im listening.</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ABORIGINES_ADJECTIVE">
+        <old_value/>
+        <new_value>Aborigeno</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ABORIGINES_DESC">
+        <old_value/>
+        <new_value>Impero Aborigeno</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ABORIGINES_SHORT_DESC">
+        <old_value/>
+        <new_value>Aborigeni</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_AKKADIAN_ADJECTIVE">
+        <old_value/>
+        <new_value>Accadico</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_AKKADIAN_DESC">
+        <old_value/>
+        <new_value>Impero Accadico</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ALBANIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Albanese</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANGLO_SAXON_ADJECTIVE">
+        <old_value/>
+        <new_value>Anglo-Sassone</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANGLO_SAXON_DESC">
+        <old_value/>
+        <new_value>Impero Anglo-Sassone</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC">
+        <old_value/>
+        <new_value>Anglo-Sassoni</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ANIYONEGA_DESC">
+        <old_value/>
+        <new_value>Indiani Cherokee</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_APACHE_DESC">
+        <old_value/>
+        <new_value>Impero Apache</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARGENTINA_ADJECTIVE">
+        <old_value/>
+        <new_value>Argentino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARGENTINA_DESC">
+        <old_value/>
+        <new_value>Impero Argentino</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ARMENIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Armeno</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ASHANTI_DESC">
+        <old_value/>
+        <new_value>Impero Ashanti</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BAKTRIA_DESC">
+        <old_value/>
+        <new_value>Impero della Bactria</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BAKTRIA_SHORT_DESC">
+        <old_value/>
+        <new_value>Bactria</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BELGIUM_ADJECTIVE">
+        <old_value/>
+        <new_value>Belga</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BELGIUM_DESC">
+        <old_value/>
+        <new_value>Impero Belga</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BELGIUM_SHORT_DESC">
+        <old_value/>
+        <new_value>Belgio</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ITALY_DESC">
+        <old_value/>
+        <new_value>Impero Italiano</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ITALY_SHORT_DESC">
+        <old_value/>
+        <new_value>Italia</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_ALARIC">
+        <old_value/>
+        <new_value>Alarico</new_value>
+    </entry>
+</root>

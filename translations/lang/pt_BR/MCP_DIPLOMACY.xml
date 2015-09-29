@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">Seria diplomaticamente conveniente nos dar o que queremos, [CT_NAME]?</string>
+  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Temos necessidades, [CT_NAME]. Por favor, nos satisfaça.</string>
+  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">Você pode me dar isso, [CT_NAME]? Eu iria ficar extremamente grato pela sua assistência.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">Sinto-me honrado em conhecer-te, [CT_NAME]. Espero que nossas duas nações sejam capazes de viver em paz e amizade.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_KAMEHAMEHA_1">Olá! Me pergunte qual a melhor coisa do mundo, Eu vou responder: São as pessoas, São as pessoas, São as pessoas!</string>
+  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Estou escutando.</string>
+</resources>

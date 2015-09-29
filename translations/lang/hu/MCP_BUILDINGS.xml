@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_BUILDING_ARSENAL">Arzenál</string>
+  <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">Oázis</string>
+  <string name="TXT_KEY_BUILDING_MOCHE_HUACA">Huaca</string>
+</resources>

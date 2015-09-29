@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_POLAND_DESC">
+        <old_value/>
+        <new_value>Imperium Polskie</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_POLAND_SHORT_DESC">
+        <old_value/>
+        <new_value>Polska</new_value>
+    </entry>
+    <entry file="MCP_LEADERS.xml" tag="TXT_KEY_LEADER_CASIMIR">
+        <old_value/>
+        <new_value>Kazimierz III Wielki</new_value>
+    </entry>
+</root>

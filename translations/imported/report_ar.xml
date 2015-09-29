@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_HUNGARY_ADJECTIVE">
+        <old_value/>
+        <new_value>الهنغارية</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ITALY_ADJECTIVE">
+        <old_value/>
+        <new_value>الإيطالية</new_value>
+    </entry>
+</root>

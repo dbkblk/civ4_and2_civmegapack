@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry file="MCP_BUILDINGS.xml" tag="TXT_KEY_BUILDING_ARSENAL">
+        <old_value/>
+        <new_value>Asevarasto</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BRAZIL_ADJECTIVE">
+        <old_value/>
+        <new_value>Brasilia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_BULGARIA_ADJECTIVE">
+        <old_value/>
+        <new_value>Bulgaria</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CZECH_ADJECTIVE">
+        <old_value/>
+        <new_value>Tsekki</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_CZECH_SHORT_DESC">
+        <old_value/>
+        <new_value>Tsekki</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_DENMARK_ADJECTIVE">
+        <old_value/>
+        <new_value>Tanska</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_HUNGARY_ADJECTIVE">
+        <old_value/>
+        <new_value>Unkari</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_ITALY_ADJECTIVE">
+        <old_value/>
+        <new_value>Italia</new_value>
+    </entry>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_POLAND_ADJECTIVE">
+        <old_value/>
+        <new_value>Puola</new_value>
+    </entry>
+</root>

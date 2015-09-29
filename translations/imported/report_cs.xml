@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry file="MCP_CIVILIZATIONS.xml" tag="TXT_KEY_CIV_UKRAINE_ADJECTIVE">
+        <old_value/>
+        <new_value>Ukrajinština</new_value>
+    </entry>
+    <entry file="MCP_DIPLOMACY.xml" tag="AI_DIPLO_FIRST_CONTACT_LEADER_OSTENACO_1">
+        <old_value/>
+        <new_value>Buď zdráv. Já jsem [OUR_NAME], náčelník kmene [OUR_EMPIRE]. Dobrý náčelník nebere, ale dává. Jsi dobrým náčelníkem, [CT_NAME]?</new_value>
+    </entry>
+</root>
