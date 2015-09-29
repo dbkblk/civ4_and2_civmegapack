@@ -7,10 +7,8 @@ The Mega Civilization Pack add more than 100 new civilizations to the game. Each
 
 **Installation instructions**
 
-- Get a copy of this repository: https://github.com/dbkblk/civ4_and2_civmegapack/archive/master.zip
-- Download the graphic package here: http://sourceforge.net/projects/and2mirrors/files/AND2_MCP_BASE_V1.0.7z/download
-- Extract the graphic package in the mod folder
-- Extract the folder "Assets" which is inside the copy of the repository in the mod folder.
+- [Download the latest installer here.](http://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_full_installer_2015-09_1.6.exe/download)
+- Install it in your mod folder.
 - Start the launcher and click on "Community -> Modules -> Mega Civ Pack" to enable/disable the mod.
 
 **Update instructions**
