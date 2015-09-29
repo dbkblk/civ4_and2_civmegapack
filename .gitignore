@@ -218,3 +218,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# MCP Graphical package
+files/Assets/MCP0.zip
