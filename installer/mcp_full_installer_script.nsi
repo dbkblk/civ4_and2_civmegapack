@@ -104,74 +104,74 @@ LangString FINISH ${LANG_ENGLISH} "The new civilizations are now installed. Enjo
 ; Arabic
 
 ; LangString WELCOME_TITLE ${LANG_ARABIC} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_ARABIC} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_ARABIC} "required"
+; LangString WELCOME ${LANG_ARABIC} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_ARABIC} "مطلوب"
 ; LangString DIRECTORY ${LANG_ARABIC} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_ARABIC} "The new civilizations are now installed. Enjoy."
 
 ; Bulgarian
 
 ; LangString WELCOME_TITLE ${LANG_BULGARIAN} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_BULGARIAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_BULGARIAN} "required"
+; LangString WELCOME ${LANG_BULGARIAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_BULGARIAN} "изисква"
 ; LangString DIRECTORY ${LANG_BULGARIAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_BULGARIAN} "The new civilizations are now installed. Enjoy."
 
 ; Catalan
 
 ; LangString WELCOME_TITLE ${LANG_CATALAN} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_CATALAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_CATALAN} "required"
+; LangString WELCOME ${LANG_CATALAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_CATALAN} "necessari"
 ; LangString DIRECTORY ${LANG_CATALAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_CATALAN} "The new civilizations are now installed. Enjoy."
 
 ; Simplified Chinese
 
 ; LangString WELCOME_TITLE ${LANG_SIMPCHINESE} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_SIMPCHINESE} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_SIMPCHINESE} "required"
+; LangString WELCOME ${LANG_SIMPCHINESE} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_SIMPCHINESE} "前提"
 ; LangString DIRECTORY ${LANG_SIMPCHINESE} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_SIMPCHINESE} "The new civilizations are now installed. Enjoy."
 
 ; Traditional Chinese
 
-; LangString WELCOME_TITLE ${LANG_TRADCHINESE} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_TRADCHINESE} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods\' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_TRADCHINESE} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_TRADCHINESE} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_TRADCHINESE} "required"
-; LangString DIRECTORY ${LANG_TRADCHINESE} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods\')."
-; LangString FINISH ${LANG_TRADCHINESE} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_TRADCHINESE} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_TRADCHINESE} "The new civilizations are now installed. Enjoy."
 
 ; Czech
 
 ; LangString WELCOME_TITLE ${LANG_CZECH} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_CZECH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_CZECH} "required"
+; LangString WELCOME ${LANG_CZECH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_CZECH} "požadováno"
 ; LangString DIRECTORY ${LANG_CZECH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_CZECH} "The new civilizations are now installed. Enjoy."
 
 ; Danish
 
 ; LangString WELCOME_TITLE ${LANG_DANISH} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_DANISH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_DANISH} "required"
+; LangString WELCOME ${LANG_DANISH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_DANISH} "kræves"
 ; LangString DIRECTORY ${LANG_DANISH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_DANISH} "The new civilizations are now installed. Enjoy."
 
 ; Dutch
 
-; LangString WELCOME_TITLE ${LANG_DUTCH} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_DUTCH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods\' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_DUTCH} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_DUTCH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_DUTCH} "required"
-; LangString DIRECTORY ${LANG_DUTCH} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods\')."
-; LangString FINISH ${LANG_DUTCH} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_DUTCH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_DUTCH} "The new civilizations are now installed. Enjoy."
 
 ; Finnish
 
-; LangString WELCOME_TITLE ${LANG_FINNISH} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_FINNISH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods\' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_FINNISH} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_FINNISH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_FINNISH} "required"
-; LangString DIRECTORY ${LANG_FINNISH} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods\')."
-; LangString FINISH ${LANG_FINNISH} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_FINNISH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_FINNISH} "The new civilizations are now installed. Enjoy."
 
 ; French
 
@@ -184,106 +184,106 @@ LangString FINISH ${LANG_FRENCH} "Les nouvelles civilisations sont maintenant in
 ; German
 
 ; LangString WELCOME_TITLE ${LANG_GERMAN} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_GERMAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_GERMAN} "required"
+; LangString WELCOME ${LANG_GERMAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_GERMAN} "benötigt"
 ; LangString DIRECTORY ${LANG_GERMAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_GERMAN} "The new civilizations are now installed. Enjoy."
 
 ; Greek
 
 ; LangString WELCOME_TITLE ${LANG_GREEK} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_GREEK} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_GREEK} "required"
+; LangString WELCOME ${LANG_GREEK} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_GREEK} "απαιτείται"
 ; LangString DIRECTORY ${LANG_GREEK} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_GREEK} "The new civilizations are now installed. Enjoy."
 
 ; Hungarian
 
-; LangString WELCOME_TITLE ${LANG_HUNGARIAN} ""
-; LangString WELCOME ${LANG_HUNGARIAN} ""
-; LangString REQUIRED ${LANG_HUNGARIAN} ""
-; LangString DIRECTORY ${LANG_HUNGARIAN} ""
-; LangString FINISH ${LANG_HUNGARIAN} ""
+; LangString WELCOME_TITLE ${LANG_HUNGARIAN} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_HUNGARIAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_HUNGARIAN} "szükséges"
+; LangString DIRECTORY ${LANG_HUNGARIAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_HUNGARIAN} "The new civilizations are now installed. Enjoy."
 
 ; Italian
 
 ; LangString WELCOME_TITLE ${LANG_ITALIAN} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_ITALIAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_ITALIAN} "required"
+; LangString WELCOME ${LANG_ITALIAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_ITALIAN} "richiesto"
 ; LangString DIRECTORY ${LANG_ITALIAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_ITALIAN} "The new civilizations are now installed. Enjoy."
 
 ; Japanese
 
-; LangString WELCOME_TITLE ${LANG_JAPANESE} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_JAPANESE} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods\' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_JAPANESE} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_JAPANESE} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_JAPANESE} "required"
-; LangString DIRECTORY ${LANG_JAPANESE} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods\')."
-; LangString FINISH ${LANG_JAPANESE} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_JAPANESE} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_JAPANESE} "The new civilizations are now installed. Enjoy."
 
 ; Korean
 
-; LangString WELCOME_TITLE ${LANG_KOREAN} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_KOREAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods\' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_KOREAN} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_KOREAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_KOREAN} "required"
-; LangString DIRECTORY ${LANG_KOREAN} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods\')."
-; LangString FINISH ${LANG_KOREAN} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_KOREAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_KOREAN} "The new civilizations are now installed. Enjoy."
 
 ; Polish
 
 ; LangString WELCOME_TITLE ${LANG_POLISH} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_POLISH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_POLISH} "required"
+; LangString WELCOME ${LANG_POLISH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_POLISH} "wymagane"
 ; LangString DIRECTORY ${LANG_POLISH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_POLISH} "The new civilizations are now installed. Enjoy."
 
 ; Portuguese
 
 ; LangString WELCOME_TITLE ${LANG_PORTUGUESE} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_PORTUGUESE} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_PORTUGUESE} "required"
+; LangString WELCOME ${LANG_PORTUGUESE} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_PORTUGUESE} "requerido"
 ; LangString DIRECTORY ${LANG_PORTUGUESE} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_PORTUGUESE} "The new civilizations are now installed. Enjoy."
 
 ; PortugueseBR
 
 ; LangString WELCOME_TITLE ${LANG_PORTUGUESEBR} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_PORTUGUESEBR} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_PORTUGUESEBR} "required"
+; LangString WELCOME ${LANG_PORTUGUESEBR} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_PORTUGUESEBR} "requerido"
 ; LangString DIRECTORY ${LANG_PORTUGUESEBR} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_PORTUGUESEBR} "The new civilizations are now installed. Enjoy."
 
 ; Russian
 
 ; LangString WELCOME_TITLE ${LANG_RUSSIAN} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_RUSSIAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_RUSSIAN} "required"
+; LangString WELCOME ${LANG_RUSSIAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_RUSSIAN} "требуется"
 ; LangString DIRECTORY ${LANG_RUSSIAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_RUSSIAN} "The new civilizations are now installed. Enjoy."
 
 ; Spanish
 
 ; LangString WELCOME_TITLE ${LANG_SPANISH} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_SPANISH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\nThe mod will be extracted into your Civilization IV: A New Dawn current installation."
-; LangString REQUIRED ${LANG_SPANISH} "required"
+; LangString WELCOME ${LANG_SPANISH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString REQUIRED ${LANG_SPANISH} "necesario"
 ; LangString DIRECTORY ${LANG_SPANISH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_SPANISH} "The new civilizations are now installed. Enjoy."
 
 ; Turkish
 
-; LangString WELCOME_TITLE ${LANG_TURKISH} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_TURKISH} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods\' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_TURKISH} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_TURKISH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_TURKISH} "required"
-; LangString DIRECTORY ${LANG_TURKISH} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods\')."
-; LangString FINISH ${LANG_TURKISH} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_TURKISH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_TURKISH} "The new civilizations are now installed. Enjoy."
 
 ; Ukrainian
 
-; LangString WELCOME_TITLE ${LANG_UKRAINIAN} "Civilization IV: A New Dawn Expansion pack"
-; LangString WELCOME ${LANG_UKRAINIAN} "Revision: ${REVISION}\n\nThis setup wizard will guide you through the installation of Civilization IV: A New Dawn.\n\nThe mod will be installed in 'My Documents\My Games\Beyond the Sword\Mods' by default. \nIt will create a shortcut (optional) to the mod launcher, which will be used to easily download, update or configure the mod installation.\n\nWARNING : Any existing mod installation is compatible. However, if you have modded files, it could be overwritten on mod update."
+; LangString WELCOME_TITLE ${LANG_UKRAINIAN} "Civilization IV: A New Dawn - Mega Civ Pack"
+; LangString WELCOME ${LANG_UKRAINIAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_UKRAINIAN} "required"
-; LangString DIRECTORY ${LANG_UKRAINIAN} "Setup will install the expansion pack in the following folder.$\nTo install it in a different folder, click on 'Browse...' and select another folder.$\n$\nNOTA: It is highly recommended to use the default folder selected below. However, you can choose to install the mod directly into the game folder ('Sid Meier's Civilization IV Beyond the Sword\Beyond the Sword\Mods')."
-; LangString FINISH ${LANG_UKRAINIAN} "The launcher is now installed. On the first launch, it will detect if the mod is present in the directory. If it's not, just follow the installation procedure."
+; LangString DIRECTORY ${LANG_UKRAINIAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
+; LangString FINISH ${LANG_UKRAINIAN} "The new civilizations are now installed. Enjoy."
 
 
 

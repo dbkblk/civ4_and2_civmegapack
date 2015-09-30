@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Pack</string>
-  <string name="REQUIRED">requis</string>
-  <string name="WELCOME">Révision : ${REVISION}\n\n Cet assistant d\'installation vous guidera dans l\'installation de plus de 100 nouvelles civilisations pour Civilization IV: A New Dawn.\n\n Le module sera extrait dans le dossier de votre installation de Civilization IV: A New Dawn.\n\n Note : L\'installation peut prendre quelques minutes, soyez patient.</string>
-  <string name="DIRECTORY">Le programme d\'installation va installer le pack d\'extension où Civilization IV: A New Dawn est installé.$\nSi l\'extension originale est installée dans un autre dossier, sélectionnez-le s\'il vous plaît avant de continuer.</string>
-  <string name="FINISH">Les nouvelles civilisations sont maintenant installées. Profitez.</string>
+  <string name="MCP_INSTALLER_WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Pack</string>
+  <string name="MCP_INSTALLER_REQUIRED">requis</string>
+  <string name="MCP_INSTALLER_WELCOME">Révision : ${REVISION}\n\n Cet assistant d\'installation vous guidera dans l\'installation de plus de 100 nouvelles civilisations pour Civilization IV: A New Dawn.\n\n Le module sera extrait dans le dossier de votre installation de Civilization IV: A New Dawn.\n\n Note : L\'installation peut prendre quelques minutes, soyez patient.</string>
+  <string name="MCP_INSTALLER_DIRECTORY">Le programme d\'installation va installer le pack d\'extension où Civilization IV: A New Dawn est installé.$\nSi l\'extension originale est installée dans un autre dossier, sélectionnez-le s\'il vous plaît avant de continuer.</string>
+  <string name="MCP_INSTALLER_FINISH">Les nouvelles civilisations sont maintenant installées. Profitez.</string>
 </resources>
