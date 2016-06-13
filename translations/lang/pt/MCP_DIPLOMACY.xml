@@ -1,5 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Temos necessidades, [CT_NAME]. Por favor, nos satisfaça.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Estou escutando.</string>
-</resources>
+<resources/>

@@ -1,13 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">算是外交上的权宜之计，交出我们所需要的一切，怎么样[CT_NAME]？</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">凡人皆有欲求，[CT_NAME]。请关照。</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">能把这个送给我们吗，[CT_NAME]？我将对您的帮助感激涕零。</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">来自天堂的祝福围绕着你，[CT_NAME]！我是[OUR_NAME]，[OUR_EMPIRE]聪慧而又仁慈的领袖！你在方便的时候就开始向我国进贡吧！</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1"> 很荣幸认识你，[CT_NAME]。我希望我们两国能够长久友好和平地相处。</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CANUTE_1">向 [CT_EMPIRE] 致以亲切的问候. 我, [OUR_NAME], 一直寻求超越尘世的尊贵和寂静平和的良心.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CHRISTIAN_IV_1">向 [CT_EMPIRE] 致以亲切的问候. 我, [OUR_NAME], 一直寻求超越尘世的尊贵和寂静平和的良心.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_OSTENACO_1">你好，我是[OUR_NAME]，[OUR_EMPIRE]的首领。一位好首领应该少索取，多奉献。请问你是一位好首领吗，[CT_NAME]？</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">欢迎，[CT_NAME]。我始终愿意腾出些时间和朋友或盟友交谈。</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">我在听。</string>
 </resources>

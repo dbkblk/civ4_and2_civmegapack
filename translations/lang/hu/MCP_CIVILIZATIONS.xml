@@ -28,6 +28,7 @@
   <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">Polynesian</string>
   <string name="TXT_KEY_CIV_SCYTHIA_ADJECTIVE">Szkíta</string>
   <string name="TXT_KEY_CIV_TROY_SHORT_DESC">Trója</string>
+  <string name="TXT_KEY_CIV_UKRAINE_ADJECTIVE">Ukrán</string>
   <string name="TXT_KEY_CIV_XIONGNU_ADJECTIVE">Xiongnu</string>
   <string name="TXT_KEY_CIV_XIONGNU_SHORT_DESC">Xiongnu</string>
 </resources>

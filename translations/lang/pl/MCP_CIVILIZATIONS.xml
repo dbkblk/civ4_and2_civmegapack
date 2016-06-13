@@ -7,6 +7,7 @@
   <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apache</string>
   <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apache</string>
   <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Brazylijczyk</string>
+  <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Bułgarski</string>
   <string name="TXT_KEY_CIV_CHAMPA_SHORT_DESC">Champa</string>
   <string name="TXT_KEY_CIV_CHILE_SHORT_DESC">Chile</string>
   <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Czeski</string>
@@ -29,6 +30,7 @@
   <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">Polinezja</string>
   <string name="TXT_KEY_CIV_SCYTHIA_ADJECTIVE">Scytia</string>
   <string name="TXT_KEY_CIV_TROY_SHORT_DESC">Troy</string>
+  <string name="TXT_KEY_CIV_UKRAINE_ADJECTIVE">Ukraiński</string>
   <string name="TXT_KEY_CIV_XIONGNU_ADJECTIVE">Xiongnu</string>
   <string name="TXT_KEY_CIV_XIONGNU_SHORT_DESC">Xiongnu</string>
 </resources>

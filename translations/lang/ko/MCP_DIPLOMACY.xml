@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">[CT_NAME], 우리가 원하는 것을 주는 게 외교상의 상책이 되지 않겠나?</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">우리는 필요한 것이 있네, [CT_NAME]. 부디 승낙하게.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">[CT_NAME], 이것을 나눠주시겠습니까? 당신의 도움에 대해 정말로 감사를 표할 것입니다.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">[CT_NAME], ½ÅµéÀÇ Ãàº¹ÀÌ ´ç½Å¿¡°Ô ½ñ¾ÆÁö±â¸¦! Àú´Â [OUR_EMPIRE]ÀÇ Çö¸íÇÏ°í ÀÚºñ·Î¿î ÅëÄ¡ÀÚÀÎ [OUR_NAME]¶ó°í ÇÕ´Ï´Ù! ÇüÆíÀÌ ´ê´Â´Ù¸é ¸¶À½²¯ ³»°Ô °ø¹° ¼¼·Ê¸¦ ÆÛºÎÀ¸½Ê½Ã¿À!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">만나뵙게 되서 영광입니다, [CT_NAME]. 우리 양국이 평화와 우정속에 살아 갈 수 있기를 희망합니다.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">환영합니다, [CT_NAME]. 전 항상 벗이나 동맹과의 대화를 위해서라면 언제라도 시간을 낼 수 있습니다.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">듣고는 있다.</string>
 </resources>

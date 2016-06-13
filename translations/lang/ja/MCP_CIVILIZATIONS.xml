@@ -7,7 +7,9 @@
   <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">アパッチ</string>
   <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">アパッチ</string>
   <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">日本語</string>
+  <string name="TXT_KEY_CIV_GOTHS_DESC">ゴート</string>
   <string name="TXT_KEY_CIV_HARAPPA_ADJECTIVE">ハラッパ</string>
+  <string name="TXT_KEY_CIV_HUNGARY_DESC">ハンガリー</string>
   <string name="TXT_KEY_CIV_HURRIANS_ADJECTIVE">フリ</string>
   <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">イタリア語</string>
   <string name="TXT_KEY_CIV_MYCENAE_SHORT_DESC">ミケーネ</string>

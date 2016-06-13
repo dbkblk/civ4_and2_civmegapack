@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">Было бы дипломатически целесообразно выдать нам то, что мы хотим, [CT_NAME]?</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">У нас есть нужда, [CT_NAME]. Пожалуйста, уступи.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">Поделишься с нами, [CT_NAME]? Я был бы крайне признателен за помощь.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1">Приветствую тебя. Я [OUR_NAME], Принц [OUR_EMPIRE], и победитель всех врагов. Скажи мне, ты друг или враг?</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">Да снизойдет на тебя дождь небесного благословения, [CT_NAME]! Я - [OUR_NAME], мудрый и великодушный правитель [OUR_EMPIRE:3]! Не стесняйся - начинай осыпать меня подношениями для своей же выгоды!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALOOMA_1">Могущественная [OUR_EMPIRE] приветствует тебя. Мы ценим нашу безопасность так, что одинокая женщина одетая в золоченую одежду может идти, не боясь никого, кроме Бога. </string>
@@ -80,6 +77,4 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_WALESA_1">Добро пожаловать, [CT_NAME]! Свобода это не только права, но также наша общая ответственность и обязанность.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_WOVOKA_1">Приветствую тебя! Я [OUR_NAME] из [OUR_EMPIRE]. Ветер помогает рубить деревья без топора.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ZIEBEL_1">Приветствую тебя, [CT_NAME]. Умные люди знают, что говорят, дураки же говорят то что знают. </string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">Добро пожаловать, [CT_NAME]. Для друзей и союзников у меня всегда найдется пара минут.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Я слушаю.</string>
 </resources>

@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">今後の良好な外交関係のためにも、我々の要求を受け入れてくれまいか、[CT_NAME]？</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">[CT_NAME]よ、余はこれを必要としているのだ。</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">[CT_NAME]よ、これを分けてもらえないだろうか？　我々を助けると思ってお願いする。</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">[CT_NAME]よ、天の祝福がそなたにあらんことを！　余は[OUR_NAME]、賢明にして慈悲深き[OUR_EMPIRE]の支配者である！　そなたが望むなら、いくらでも貢物を持ってきてかまわんぞ！</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">[CT_NAME]よ、お会いできて光栄だ。この2つの国が良き友として平和に共存できることを願う。</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">ようこそ、[CT_NAME]。良き友や仲間との会談のためなら、いつでも時間を割けるぞ。</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">続きを聞こう。</string>
 </resources>

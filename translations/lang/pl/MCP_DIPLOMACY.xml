@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">Byłoby dyplomatycznie poprawnie, gdybyä dał nam to czego chcemy, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Mamy potrzeby, [CT_NAME]. Proszę nam pomóc.</string>
   <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHARLES_V_1">Pokój to największa walka, przyszedł czas zapłaty [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">Czy podzielisz się tym z nami, [CT_NAME]? Byłbym nieprawdopodobnie wdzięczny za twá pomoc.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1">Pozdrowienia. Jestem [OUR_NAME], Ksiáëę [OUR_EMPIRE], oraz pogromca wszystkich wrogów. Powiedz mi jesteä przyjacielem czy wrogiem ?</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">Niech niebiosa błogosławiá cię, [CT_NAME]! Jestem [OUR_NAME], mádry i dobry władcá mojego narodu! Nie krępuj się darami, którymi za chwilę zacznę cię obsypywaâ!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALOOMA_1">Wielkie [OUR_EMPIRE] pozdrawia Cię. Cenimy sobie bezpieczeństwo tak by kobieta ubrana w złoto mogła iäâ bez strachu wobec boga.</string>
@@ -80,8 +77,4 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_WALESA_1">Witam, [CT_NAME]! Wolnoäâ nie jest prawem, ale naszym obowiázkiem oraz odpowiedzialnoäciá.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_WOVOKA_1">Pozdrowienia! Jestem [OUR_NAME] z [OUR_EMPIRE]. Wiatr pomaga by bez siekiry äciáâ las.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ZIEBEL_1">Pozdrowienia, [CT_NAME]. Inteligętni ludzie wiedzá o czym majá mówiâ; głupcy mówiá o tym co wiem.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">Witaj, [CT_NAME]. Zawsze mogę znaleéâ kilka chwil na rozmowę z przyjaciółmi i sojusznikami.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Słucham.</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_ANDREA_GRITTI_1">Wykluczone. Wojna będzie kontynuowana dopóki nie zadecyduje by wznowić pokój lub zostaniesz pokonany!</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_ANDREA_GRITTI_1">Nie! Zapomnij o tym! Mam większe zmartwienia teraz.</string>
 </resources>

@@ -26,11 +26,18 @@
   <string name="TXT_KEY_CITY_MINOA30">Καλάμι</string>
   <string name="TXT_KEY_CITY_MINOA31">Χανιά</string>
   <string name="TXT_KEY_CITY_MINOA32">Μάλεμε</string>
-  <string name="TXT_KEY_CITY_MINOA33">Platyvola</string>
-  <string name="TXT_KEY_CITY_MINOA34">Τυλισός</string>
+  <string name="TXT_KEY_CITY_MINOA33">Πλατύβολα</string>
+  <string name="TXT_KEY_CITY_MINOA34">Τύλισος</string>
   <string name="TXT_KEY_CITY_MINOA4">Κάτω Ζάκρος</string>
   <string name="TXT_KEY_CITY_MINOA5">Αγία Τριάδα</string>
   <string name="TXT_KEY_CITY_MINOA6">Γουρνιά</string>
   <string name="TXT_KEY_CITY_MINOA7">Κυδωνία</string>
   <string name="TXT_KEY_CITY_MINOA8">Γαλατάς</string>
+  <string name="TXT_KEY_CITY_NAME_AALST">Άαλστ</string>
+  <string name="TXT_KEY_CITY_NAME_AARHUS">Άαρχους</string>
+  <string name="TXT_KEY_CITY_NAME_ACOMA">Acoma</string>
+  <string name="TXT_KEY_CITY_NAME_ADEN">Άντεν</string>
+  <string name="TXT_KEY_CITY_NAME_AETHIOPIA">Αιθιοπία</string>
+  <string name="TXT_KEY_CITY_NAME_AKRA">Άκρα</string>
+  <string name="TXT_KEY_CITY_NAME_ALEXANDRIA">Αλεξάνδρεια</string>
 </resources>

@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">Diplomaattisesti olisi erinomaisen sopivaa antaa meille haluamamme, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Me tarvitsemme, [CT_NAME]. Tyydy siihen.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">Voisitteko antaa meille tämän, [CT_NAME]? Olisin todlla kiitollinen avustanne.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">Satakoon taivaasta siunaukset päällenne, [CT_NAME]! Olen [OUR_NAME], viisas ja hyväntahtoinen johtaja! Alkakaahan vain aivan vapaasti osoittaa kunnioitusta minulle!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">Minulla on kunnia tavata teidät, [CT_NAME]. Toivon, että kaksi kansaamme kykynee rauhalliseen yhteiseloon ja ystävyyteen.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">Tervetuloa, [CT_NAME]. Minulla on aina varaa viettää hetkinen ystävien ja liittolaisten kanssa.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Olen kuulolla.</string>
 </resources>

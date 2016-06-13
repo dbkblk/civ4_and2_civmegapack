@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="TXT_KEY_CIV_ABORIGINES_SHORT_DESC">Αβορίγινες</string>
+  <string name="TXT_KEY_CIV_AKKADIAN_SHORT_DESC">Akkad</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apache</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apache</string>
   <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Βραζιλιάνικα</string>
   <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Βουλγαρικά</string>
   <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Τσέχικα</string>

@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">¿No sería más oportuno, diplomáticamente hablando, que nos dierais lo que queremos, [CT_NAME]?</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_BULAN">Tenemos necesidades, [CT_NAME]. Satisfacedlas, por favor.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SAMPLE_LEADER_1">Tus exigencias a otra civilización cuando tienes un poder similar al suyo</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Tenemos necesidades, [CT_NAME]. Satisfacedlas, por favor.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SOLOMON_1">¡Veo que estamos en la misma posición, así que por favor, ayudad a los que la necesitan!</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_VARGAS_1">Compartir es de generosos, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_BULAN">¡Dadle a [CT_CIV_SHORT] lo que le corresponde, [CT_NAME]! No os lo pediremos otra vez.</string>
   <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHARLES_V_1">La paz es el mayor reto. Es hora de pagar, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SAMPLE_LEADER_1">Tus exigencias a otra civilización cuando eres más poderoso que ellos</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SARGON">¡Dadle a [CT_CIV_SHORT] lo que le corresponde, [CT_NAME]! No os lo pediremos otra vez.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SOLOMON_1">Conseguir un buen nombre es mejor que cualquier ungüento precioso. Proveer para otros os conseguirá ese nombre, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_VARGAS_1">¡[OUR_CIV_SHORT] necesita esto y exige vuestra ayuda!</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">¿Podríais darnos esto, [CT_NAME]? Os estaríamos tremendamente agradecidos por vuestra ayuda.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_BULAN">El pueblo [CT_CIV_ADJ:1] tiene una gran necesidad, [CT_NAME]. No nos decepcionéis.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SAMPLE_LEADER_1">Tus exigencias a otra civilización cuando eres más débil que ellos</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SARGON_1">Los pobres, dulces e inocentes [OUR_CIV_SHORT] necesitan vuestra ayuda, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SOLOMON_1">Dos somos mejores porque cuando nos caemos, uno levantará al otro. Levantar es ayudar.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_VARGAS_1">¿Podríais darles esto a las gentes del [OUR_EMPIRE]?</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ABLAY_1">¡Hola, [CT_NAME]! Vuestras exploraciones os han traído a la estepa [OUR_CIV_ADJ]. Os aconsejo que seáis amable con la gente [OUR_CIV_ADJ], ¡estas son nuestras tierras!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1">Saludos. Soy [OUR_NAME], príncipe del [OUR_EMPIRE], y vencedor de todos los enemigos. Dígame, ¿sois amigo, o enemigo?</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AHMADINEJAD_1">Saludos, [CT_NAME]. La República islámica jamás ha amenazado ni amenazará a ningún país.</string>
@@ -33,7 +16,6 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">Es un honor conoceros, [CT_NAME]. Espero que nuestras dos naciones sean capaces de vivir en paz y armonía.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ARPAD_1">Bienvenido a mis tierras, [CT_NAME]. Los [OUR_EMPIRE] informan que sólo te estiras en cuanto a los alcances de manta.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ARSACES_1">Bienvenido, [CT_NAME]. Yo, [OUR_NAME], líder del noble [OUR_EMPIRE], os saludo. ¿Envío a mis catafractos contra vos? ¿O cabalgaremos juntos para aplastar a nuestros enemigos bajo nuestros pies?</string>
-  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ASKIA_1">Saludos, [CT_NAME]. Soy [OUR_NAME], conquisto, comercio, educo.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ATHEAS_1">Soy [OUR_NAME] del [OUR_EMPIRE]. Si tenéis prisa por enfrentaros a nosotros, mirad a vuestro alrededor, y contemplad las tumbras de nuestros padres. Intentad entrometeros con ellos y descubriréis si lucharemos contra vos o no.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ATTILA_1">¡Saludos! Los [OUR_CIV_SHORT] os dejan estar en paz. Pero recordad, [CT_NAME], que un oso hambriento no baila.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AYAPEC_1">Soy el feroz e implacable [OUR_NAME] del [OUR_EMPIRE]. ¡Deleitadnos con tributos o enfrentaos a las hachas de mis guerreros!</string>
@@ -101,7 +83,6 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_SIMEON_I_1">Saludos, [CT_NAME].  Dígame que sus amigos sean, así que puedo decir quiénes usted es.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_SKILURUS_1">Un palo se rompe con facilidad, pero un puñado es inquebrantable. No sacaréis a las tribus del [OUR_EMPIRE] para romperlas, pues nuestra unidad nos hace fuertes.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_SOBIESKI_1">¡Saludos! Me [OUR_NAME] de la [OUR_EMPIRE]. Antes de venir a mí, recordar siempre: no hay trabajo, no se oilcakes.</string>
-  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_SOLOMON_1">Saludos, [CT_NAME]. Sed amables, y nosotros seremos amables. Pero recordad, siempre hay un tiempo para amar, y un tiempo para odiar; un tiempo para la guerra, y un tiempo para la paz.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_SONGTSEN_1">Bienvenido, [CT_NAME]. Espero que podamos mantener relaciones pacíficas, excelente para la gente honrada, dondequiera que vaya.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_STAMBOLOV_1">¡Dobro utro [CT_NAME]! Soy [OUR_NAME] del [OUR_EMPIRE]. La primera señal de sabiduría política siempre ha sido la habilidad de desistir en lo inalcanzable.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_SUHARTO_1">Nosotros, el pueblo [OUR_CIV_ADJ], venimos en paz. Pero no creáis que las aguas tranquilas no tienen cocodrilos, [CT_NAME] del [CT_EMPIRE].</string>
@@ -116,24 +97,4 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_TITO_1">Dejad de enviar gente a matarme, [CT_NAME]. Si no cesáis, enviaré a alguien a vuestro palacio, y no tendré que enviar a otro.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_VARGAS_1">Saludos, [CT_NAME]. Soy [OUR_NAME].</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ZIEBEL_1">Saludos, [CT_NAME]. La gente inteligente sabe de lo que habla; tontos hablan de lo que saben.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">Saludos, [CT_NAME]. Siempre tengo un momento libre para charlar con amigos y aliados como vos.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_BULAN">¡Os saludamos, camarada! Venga, montemos en los carros, destruyamos a nuestros enemigos y dejemos cincuenta mil cadáveres pudriéndose en el campo de batalla como pasto para los cuervos.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_SARGON_1">¡Os saludamos, camarada! Venga, montemos en los carros, destruyamos a nuestros enemigos y dejemos cincuenta mil cadáveres pudriéndose en el campo de batalla como pasto para los cuervos.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_SOLOMON_1">Mi corazón se regocija con tu presencia.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_VARGAS_1">Saludos, [CT_NAME]. Sentaos y charlemos un rato.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Os escuchamos.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_BULAN">Buenos días tengáis, [CT_NAME]. ¿A qué debemos esta interrupción tan inesperada?</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SARGON_1">Buenos días tengáis, [CT_NAME]. ¿A qué debemos esta interrupción tan inesperada?</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SOLOMON_1">Cavaste el hoyo que es tu maldad. Un dÃ­a, caerÃ¡s en Ã©l.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_VARGAS_1">¿Y a qu? debemos el dudoso honor de vuestra compa??a?</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_ANDREA_GRITTI_1">Por supuesto que no. La guerra seguirá hasta que hayamos logrado la victoria total.</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_BULAN">La guerra es harto desagradable, pero a veces resulta necesaria. Nos informan de que ésta es una de esas veces, así que debemos rechazar vuestras súplicas. La audiencia ha terminado.</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_SARGON_1">La guerra es harto desagradable, pero a veces resulta necesaria. Nos informan de que ésta es una de esas veces, así que debemos rechazar vuestras súplicas. La audiencia ha terminado.</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_SOLOMON_1">Los malvados siempre deben ser castigados, [CT_NAME].</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_VARGAS_1">Como un amigo m?o dijo una vez: &amp;quot;Ninguna condici?n es aceptable, salvo una rendici?n incondicional e inmediata&amp;quot;. Es una l?stima, ¿no cre?is?</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_ANDREA_GRITTI_1">¡No!</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_BULAN">¡No nos hace gracia vuestra cháchara absurda, [CT_NAME]!</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_SARGON_1">¡No nos hace gracia vuestra cháchara absurda, [CT_NAME]!</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_SOLOMON_1">Tus palabras son como tazas de fuego para los muertos.</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_VARGAS_1">Pod?is iros al cuerno.</string>
 </resources>

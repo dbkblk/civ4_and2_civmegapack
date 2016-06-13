@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ANDREA_GRITTI_1">Θα ήταν διπλωματικά επωφελές να μας δώσετε ό,τι θέλουμε, [CT_NAME];</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_BULAN">Ρώτα για τους γείτονές σου, έπειτα αγόρασε το σπίτι. Αυτό είναι ό,τι έχω ακούσει.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SAMPLE_LEADER_1">Οι Απαιτήσεις σας από έναν άλλο πολιτισμό όταν είστε Ίσοι σε δύναμη όπως είναι αυτοί</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1">Έχουμε ανάγκες, [CT_NAME]. Παρακαλώ συμμορφωθείτε.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SOLOMON_1">Είμαστε στην ίδια κατάσταση βλέπω, γι\' αυτό παρακαλώ, δώστε βοήθεια σε εκείνους που την χρειάζονται!</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_VARGAS_1">Παρακαλώ υποστηρίξτε [OUR_CIV_SHORT] και το λαό του. Εξαρτόμαστε από τη βοήθειά σας!</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_BULAN">Όλοι μας έχουμε ακούσει για φιλανθρωπία προς τους αδύναμους, αλλά τι γίνεται με τη φιλανθρωπία προς τους ισχυρούς, ε;</string>
   <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHARLES_V_1">Η ειρήνη είναι η μεγαλύτερη μάχη, καιρός να ξεπληρώσουμε, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SAMPLE_LEADER_1">Οι Απαιτήσεις σας από έναν άλλο πολιτισμό όταν είστε δυνατότεροι από ότι είναι αυτοί</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SARGON">Όλοι μας πρέπει να κάνουμε θυσίες. Με το \"όλοι μας\", εννοώ ακριβώς εσένα.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SOLOMON_1">Το να αποκτήσεις ένα καλό όνομα είναι καλύτερο από οποιοδήποτε πολύτιμο χρίσμα. Το να προσφέρετε στους άλλους θα σας φέρει εκείνο το όνομα, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_VARGAS_1">[OUR_CIV_SHORT] χρειάζεται αυτό και απαιτεί τη συμπαράστασή σας!</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ANDREA_GRITTI_1">Θα μπορούσατε να μας διαθέσετε αυτό, [CT_NAME]; Θα ήμουν εξαιρετικά ευγνώμων για τη συμπαράστασή σας.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_BULAN">Αν η φιλανθρωπία δεν κοστίζει τίποτα, ο κόσμος θα ήταν γεμάτος με φιλάνθρωπους. Φιλανθρωπία, [CT_NAME]. Φιλανθρωπία.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SAMPLE_LEADER_1">Οι Απαιτήσεις σας από έναν άλλο πολιτισμό όταν είστε πιο αδύναμοι από ότι είναι αυτοί</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SARGON_1">Φτωχός, γλυκός, αθώος [OUR_CIV_SHORT] χρειάζεται τη βοήθειά σας, [CT_NAME].</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SOLOMON_1">Εμείς οι δύο είμαστε καλύτερα γιατί όταν πέφτουμε, ο άλλος θα σηκώσει τον άλλο πάνω. Το σήκωμα είναι βοήθεια.</string>
-  <string name="AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_VARGAS_1">Μπορείτε να διαθέσετε αυτό για το λαό του [OUR_EMPIRE];</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ABLAY_1">Γεια, [CT_NAME]! Οι περιπλανήσεις σας σας έχουν φέρει στη [OUR_CIV_ADJ] στέπα. Σας συμβουλεύω να είστε φιλικοί με τον [OUR_CIV_ADJ] λαό, γιατί αυτή είναι η γη μας!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1">Σε χαιρετώ. Είμαι ο [OUR_NAME], Πρίγκηπας της [OUR_EMPIRE], και νικητής όλων των εχθρών. Πες μου, είσαι φίλος ή εχθρός;</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AHMADINEJAD_1">Σας χαιρετώ, [CT_NAME]. Η Ισλαμική Δημοκρατία δεν έχει ποτέ απειλήσει και ποτέ δεν θα απειλήσει καμιά χώρα.</string>
@@ -31,7 +14,7 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDRANIK_1">Χαιρετισμούς! Είμαι ο [OUR_NAME] της [OUR_EMPIRE]. Ελπίζω ότι οι δύο υπέροχοι λαοί μας μπορούν να ζήσουν μαζί με ειρήνη, αλλά αν δεν μπορούμε, θα σας πολεμήσω ακόμη κι αν έχετε έναν κατά πολύ ανώτερο στρατό!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">Είναι τιμή μου που σας γνώρισα, [CT_NAME]. Ελπίζω ότι τα δύο έθνη μας θα είναι ικανά να ζήσουν με ειρήνη και φιλία.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ARPAD_1">Καλωσορίσατε στη γη μου, [CT_NAME]. Η [OUR_EMPIRE] σας συμβουλεύει να απλώνεστε μόνο τόσο μακριά μέχρι εκεί που η κάλυψή σας φτάνει.</string>
-  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ASKIA_1">Σας χαιρετώ, [CT_NAME]. Είμαι ο [OUR_NAME], κατακτώ, εμπορεύομαι, εκπαιδεύω.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ARSACES_1">Καλωσήρθες [CT_NAME] είμαι ο [OUR_NAME] ο αρχηγός των αριστοκρατικών [OUR_EMPIRE], σε χαιρετώ. Να στείλω τους Κατάφρακτούς μου εναντίων σου; Ή να ενώσουμε τις δυνάμεις μας για να τσακίσουμε τους εχθρούς μας;</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ATTILA_1">Σας χαιρετώ! Οι [OUR_CIV_SHORT] είναι στην ευχάριστη θέση να σας αφήσουν σε ειρήνη. Αλλά να έχετε κατά νου, [CT_NAME], ότι νηστικό αρκούδι δεν χορεύει.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AYAPEC_1">Είμαι ο λυσσαλέος και αδυσώπητος [OUR_NAME] of the [OUR_EMPIRE]. Ευχαριστήστε μας με φόρο τιμής ή αντιμετωπίστε τα τσεκούρια των πολεμιστών μου!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_AYUB_KHAN_1">Γεια σας, [CT_NAME]. Δεν υπάρχει κανένα πρόβλημα με τις πνευματικές διαφορές, όσο αυτές οι διαφορές παραμένουν περιορισμένες σε πνευματικές αντιπαραθέσεις.</string>
@@ -55,6 +38,7 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_COCHISE_1">Σας χαιρετώ! Είμαι ο [OUR_NAME] της [OUR_EMPIRE]. Σας προειδοποιώ, μην εγκατασταθείτε στη γη μας αλλιώς θα σας πολεμήσω!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CUNHAMBEBE_1">Σας χαιρετώ, [CT_NAME]!! Είμαι ο [OUR_NAME] του [OUR_CIV_ADJ] λαού. Βοηθήστε μας να σώσουμε το πολύτιμο τροπικό μας δάσος και θα έχετε την αιώνια ευγνωμοσύνη μας!</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CUNNE_SHOTE_1">Είμαι ο [OUR_NAME], αρχηγός του[OUR_CIV_ADJ] λαού. Ας εμπορευθούμε κι ας δυναμώσουμε τη φιλία μας.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CURTIN_1">Χαιρετισμούς, [CT_NAME]. Ο πόλεμος δε χάνεται, ή κερδίζεται, μέχρι να δοθεί και η τελευταία μάχη.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_TYMOSHENKO_1">Ένας αληθινός ηγέτης δεν φοβάται όταν είναι σίγουρος για τις πράξεις του, [CT_NAME]. Εγώ είμαι πάντα σίγουρος για τις πράξεις μου. Εσύ είσαι;</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_U_KIX_CHAN_1">Καλωσορίσατε, [CT_NAME]! Είμαι ο [OUR_NAME] του [OUR_CIV_ADJ] λαού. Μακάρι η φιλία μας να κρατήσει περισσότερο από τις πέτρες.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_UCUPE_1">Καλωσορίσατε στην [OUR_EMPIRE], [CT_NAME]. Προσπαθήστε να κλέψετε το χρυσό και το νεφρίτη μας και θα βρεθείτε χιλιάδες χρόνια αργότερα, στραγγαλισμένοι μέσα στον τάφο μου.</string>
@@ -67,21 +51,4 @@
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_WOVOKA_1">Σας χαιρετώ! Είμαι ο [OUR_NAME] της [OUR_EMPIRE]. Ο άνεμος βοηθάει εκείνους που δεν έχουν τσεκούρι για να κόψουν ξύλα.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_YAGAN_1">Σας χαιρετώ! Είμαι ο [OUR_NAME] της [OUR_EMPIRE]. Είμαστε όλοι επισκέπτες σε αυτό τον καιρό, αυτό τον τόπο. Ο σκοπός μας εδώ είναι να παρατηρούμε και να ωριμάζουμε, και έπειτα επιστρέφουμε στην πατρίδα.</string>
   <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ZIEBEL_1">Σας χαιρετώ, [CT_NAME]. Οι έξυπνοι άνθρωποι γνωρίζουν για τι μιλούν, οι ανόητοι μιλούν ό,τι γνωρίζουν.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_ANDREA_GRITTI_1">Καλωσορίσατε, [CT_NAME]. Μπορώ πάντοτε να διαθέσω λίγα λεπτά για να συνομιλήσω με φίλους και συμμάχους.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_BULAN">Θα θέλατε λίγη από την παραδοσιακή σούπα μας, [CT_NAME]? Οι στενοχώριες πάνε κάτω καλύτερα με σούπα παρά χωρίς.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_SOLOMON_1">Η καρδιά μου μου δίνει χαρά όταν παρουσιάζεται τους εαυτούς σας.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FR_LEADER_VARGAS_1">Σας χαιρετώ, [CT_NAME]! Είναι τόσο σπουδαίο να είμαστε σε ειρήνη με το ένδοξο έθνος σας!</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ANDREA_GRITTI_1">Ακούω</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_BULAN">Αν δεν ήταν ο φόβος, η αμαρτία θα ήταν γλυκιά. Θα αμάρτανα ξανά και ξανά, [CT_NAME], απλά για να σας ξεφορτωθώ...</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SARGON_1">Ω, πόσο υπέροχ- ωχ, με συγχωρείς, [CT_NAME]. Είδα το άσχημο κεφάλι σου και για μια στιγμή σκέφτηκα ότι οι στρατιώτες μου το κουβαλούσαν πάνω σε ένα κοντάρι.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SOLOMON_1">Σκάβετε το λάκκο που είναι η μοχθηρία σας. Μια μέρα, θα πέσετε μέσα σε αυτόν.</string>
-  <string name="AI_DIPLO_GREETINGS_ATT_FUR_LEADER_VARGAS_1">Ωχ, εσύ πάλι... Για ποιο πράγμα πρόκειται να παραπονεθείς;</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_ANDREA_GRITTI_1">Βέβαια όχι. Ο πόλεμος θα συνεχιστεί μέχρι να αποφασίσω ότι είναι καιρός να ξαναρχίσει ειρήνη, ή ότι έχετε κατακτηθεί!</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_SARGON_1">Δειλοί! Θα υπάρξει ειρήνη μόνο όταν η δύσμοιρη αυτοκρατορία σας συντριβεί από την πανίσχυρη Ακκάδ!</string>
-  <string name="AI_DIPLO_NO_PEACE_LEADER_SOLOMON_1">Οι μοχθηροί πάντα θα τιμωρούνται, [CT_NAME].</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_ANDREA_GRITTI_1">Όχι! Ξέχασέ το! Έχω πιο σημαντικά θέματα για να φροντίσω.</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_BULAN">Είσαι ένα καταρρακωμένο ηθικό, [CT_NAME]. Πρώτα θεράπευσε τον εαυτό σου, και έπειτα θεράπευσε άλλους!</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_SARGON_1">Επιθυμείτε να μιλήσετε; Θα σας ακούσω όταν θα είστε νεκροί, [CT_NAME]!</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_SOLOMON_1">Τα λόγια σας είναι σαν βεντούζες για τους νεκρούς.</string>
-  <string name="AI_DIPLO_REFUSE_TO_TALK_LEADER_VARGAS_1">Βγες έξω από το γραφείο μου!</string>
 </resources>

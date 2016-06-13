@@ -1613,7 +1613,6 @@
   <string name="TXT_KEY_CITY_NAME_SANANDAJ">Sanandaj</string>
   <string name="TXT_KEY_CITY_NAME_SANDIA">Sandia</string>
   <string name="TXT_KEY_CITY_NAME_SANIDAUA">Sangidaua</string>
-  <string name="TXT_KEY_CITY_NAME_SANITAGO">Santiago</string>
   <string name="TXT_KEY_CITY_NAME_SANTA_CRUZ">Santa Cruz</string>
   <string name="TXT_KEY_CITY_NAME_SANTA_FE">Santa Fe</string>
   <string name="TXT_KEY_CITY_NAME_SANTA_ROSA">Santa Rosa</string>
@@ -2059,6 +2058,7 @@
   <string name="TXT_KEY_CITY_NAME_YAZD">Yazd</string>
   <string name="TXT_KEY_CITY_NAME_YENANGYAUNG">Yenangyaung</string>
   <string name="TXT_KEY_CITY_NAME_YENDI">Yendi</string>
+  <string name="TXT_KEY_CITY_NAME_YESIL">Yesil</string>
   <string name="TXT_KEY_CITY_NAME_YINING">Yining</string>
   <string name="TXT_KEY_CITY_NAME_YOCHA_DEHE">Yocha Dehe</string>
   <string name="TXT_KEY_CITY_NAME_YOGYAKARTA">Yogyakarta</string>
