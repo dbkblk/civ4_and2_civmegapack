@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Civ4GameText>
+    <TEXT>
+        <Tag>TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY</Tag>
+        <English>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</English>
+    </TEXT>
+</Civ4GameText>
