@@ -12,7 +12,7 @@
         <German>aboriginal</German>
         <Brazilian>Aborígine</Brazilian>
         <Spanish>Indígena</Spanish>
-        <Italian>Aborigeno</Italian>
+        <Italian>aborigeno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ABORIGINES_DESC</Tag>
@@ -22,7 +22,7 @@
         <German>Aboriginals Reich</German>
         <Brazilian>Império Aborígine</Brazilian>
         <Spanish>Imperio indígena</Spanish>
-        <Italian>Impero Aborigeno</Italian>
+        <Italian>Impero aborigeno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ABORIGINES_SHORT_DESC</Tag>
@@ -31,7 +31,7 @@
         <Greek>Αβορίγινες</Greek>
         <Brazilian>Aborígines</Brazilian>
         <Spanish>Aborigen</Spanish>
-        <Italian>Aborigeni</Italian>
+        <Italian>Aborigeno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ADJECTIVE_MINOA</Tag>
@@ -45,13 +45,14 @@
         <German>minoisch</German>
         <Spanish>Minos</Spanish>
         <Finnish>Minos</Finnish>
-        <Italian>Creta</Italian>
+        <Italian>cretese</Italian>
         <Japanese>ミノア</Japanese>
         <Korean>미노안</Korean>
         <Portuguese>Minoana</Portuguese>
         <Brazilian>Minoana</Brazilian>
         <Russian>Миноя</Russian>
         <ChineseSimp>米诺斯</ChineseSimp>
+        <Turkish>Minos</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_AKKADIAN_ADJECTIVE</Tag>
@@ -64,7 +65,7 @@
         <German>Akkadisch</German>
         <Brazilian>Acadiano</Brazilian>
         <Spanish>Acadio</Spanish>
-        <Italian>Accadico</Italian>
+        <Italian>accadico</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_AKKADIAN_DESC</Tag>
@@ -73,7 +74,7 @@
         <German>Reich von Akkade</German>
         <Brazilian>Império Acadiano</Brazilian>
         <Spanish>Imperio acadio</Spanish>
-        <Italian>Impero Accadico</Italian>
+        <Italian>Impero accadico</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_AKKADIAN_SHORT_DESC</Tag>
@@ -98,7 +99,7 @@
         <German>albanisch</German>
         <Brazilian>Albanês</Brazilian>
         <Spanish>Albano</Spanish>
-        <Italian>Albanese</Italian>
+        <Italian>albanese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ALBANIA_DESC</Tag>
@@ -125,7 +126,7 @@
         <German>Angelsächsisch</German>
         <Brazilian>Anglo-saxão</Brazilian>
         <Spanish>Anglosajón</Spanish>
-        <Italian>Anglo-Sassone</Italian>
+        <Italian>anglosassone</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANGLO_SAXON_DESC</Tag>
@@ -134,7 +135,7 @@
         <German>Angelsächsisches Reich</German>
         <Brazilian>Império Anglo-Saxão</Brazilian>
         <Spanish>Imperio anglosajón</Spanish>
-        <Italian>Impero Anglo-Sassone</Italian>
+        <Italian>Impero anglosassone</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC</Tag>
@@ -143,7 +144,7 @@
         <German>Angelsachsen</German>
         <Brazilian>Anglo-Saxões</Brazilian>
         <Spanish>Anglosajones</Spanish>
-        <Italian>Anglo-Sassoni</Italian>
+        <Italian>Anglosassoni</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANISHNAABEK_ADJECTIVE</Tag>
@@ -188,6 +189,7 @@
         <Polish>Czirokezi</Polish>
         <Russian>Чероки</Russian>
         <ChineseSimp>切洛基</ChineseSimp>
+        <Italian>cherokee</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANIYONEGA_DESC</Tag>
@@ -196,7 +198,7 @@
         <German>Cherokee-Indianer</German>
         <Brazilian>Índios Cherokee</Brazilian>
         <Spanish>Indios cheroqui</Spanish>
-        <Italian>Indiani Cherokee</Italian>
+        <Italian>Indiani cherokee</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANIYONEGA_SHORT_DESC</Tag>
@@ -228,6 +230,7 @@
         <Korean>아파슈</Korean>
         <Russian>Апачи</Russian>
         <ChineseSimp>阿帕奇</ChineseSimp>
+        <Italian>apache</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_APACHE_DESC</Tag>
@@ -236,7 +239,7 @@
         <German>Apachen Reich</German>
         <Brazilian>Império Apache</Brazilian>
         <Spanish>Imperio apache</Spanish>
-        <Italian>Impero Apache</Italian>
+        <Italian>Impero apache</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_APACHE_SHORT_DESC</Tag>
@@ -263,7 +266,7 @@
         <German>argentinisch</German>
         <Brazilian>Argentino</Brazilian>
         <Spanish>Argentino</Spanish>
-        <Italian>Argentino</Italian>
+        <Italian>argentino</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ARGENTINA_DESC</Tag>
@@ -272,7 +275,7 @@
         <German>Argentinisches Reich</German>
         <Brazilian>Império Argentino</Brazilian>
         <Spanish>Imperio argentino</Spanish>
-        <Italian>Impero Argentino</Italian>
+        <Italian>Impero argentino</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ARGENTINA_SHORT_DESC</Tag>
@@ -291,13 +294,13 @@
         <German>armenisch</German>
         <Brazilian>Armênio</Brazilian>
         <Spanish>Armenio</Spanish>
-        <Italian>Armeno</Italian>
+        <Italian>armeno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ARMENIA_DESC</Tag>
         <English>Armenian Empire</English>
         <French>Armenie</French>
-        <Italian>Imperio Armeni</Italian>
+        <Italian>Impero armeno</Italian>
         <German>Armenisches Reich</German>
         <Brazilian>Império Arménio</Brazilian>
         <Spanish>Imperio armenio</Spanish>
@@ -319,6 +322,7 @@
         </French>
         <German>Ashantisch </German>
         <Spanish>Asante</Spanish>
+        <Italian>ashanti</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ASHANTI_DESC</Tag>
@@ -327,7 +331,7 @@
         <German>Aschantireich </German>
         <Brazilian>Império Ashanti</Brazilian>
         <Spanish>Imperio asante</Spanish>
-        <Italian>Impero Ashanti</Italian>
+        <Italian>Impero ashanti</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ASHANTI_SHORT_DESC</Tag>
@@ -345,7 +349,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Australisch</German>
-        <Italian>Australiano</Italian>
+        <Italian>australiano</Italian>
         <Spanish>Australiano</Spanish>
         <Brazilian>Australiano</Brazilian>
     </TEXT>
@@ -354,7 +358,7 @@
         <English>Australian Empire</English>
         <French>Australie</French>
         <German>Australisch Reich</German>
-        <Italian>Australiano Impero</Italian>
+        <Italian>Impero australiano</Italian>
         <Spanish>Australiano Imperio</Spanish>
         <Brazilian>Império Australiano</Brazilian>
     </TEXT>
@@ -374,7 +378,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Osterreichische</German>
-        <Italian>Austriaco</Italian>
+        <Italian>austriaco</Italian>
         <Spanish>Austriaco</Spanish>
         <Brazilian>Austríaco</Brazilian>
     </TEXT>
@@ -383,7 +387,7 @@
         <English>Austrian Empire</English>
         <French>Autriche</French>
         <German>Kaisertum Osterreich</German>
-        <Italian>Impero Austriaco</Italian>
+        <Italian>Impero austriaco</Italian>
         <Spanish>Imperio Austriaco</Spanish>
         <Brazilian>Império Austríaco</Brazilian>
     </TEXT>
@@ -408,7 +412,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Baktrian</Text>
+            <Text>battriano</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -430,7 +434,7 @@
         <German>Baktrisches Reich</German>
         <Brazilian>Império Bactriano</Brazilian>
         <Spanish>Imperio bactriano</Spanish>
-        <Italian>Impero della Bactria</Italian>
+        <Italian>Impero battriano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BAKTRIA_SHORT_DESC</Tag>
@@ -439,7 +443,7 @@
         <German>Baktrien</German>
         <Brazilian>Báctria</Brazilian>
         <Spanish>Bactria</Spanish>
-        <Italian>Bactria</Italian>
+        <Italian>Battria</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BANGLADESH_ADJECTIVE</Tag>
@@ -450,7 +454,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German> Bengalisch </German>
-        <Italian>Bengalese</Italian>
+        <Italian>bengalese</Italian>
         <Brazilian>Bengalesa</Brazilian>
         <Spanish>Bangladés</Spanish>
     </TEXT>
@@ -483,7 +487,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Batavian</Text>
+            <Text>batavo</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -508,7 +512,7 @@
             <Plural>0:0:0</Plural>
         </German>
         <Italian>
-            <Text>Batavian Empire</Text>
+            <Text>Impero batavo</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -533,7 +537,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Batavii</Text>
+            <Text>Batavia</Text>
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -555,7 +559,7 @@
         <German>belgisch</German>
         <Brazilian>Belga</Brazilian>
         <Spanish>Belga</Spanish>
-        <Italian>Belga</Italian>
+        <Italian>belga</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BELGIUM_DESC</Tag>
@@ -564,7 +568,7 @@
         <German>Belgisches Reich</German>
         <Brazilian>Império belga</Brazilian>
         <Spanish>Imperio belga</Spanish>
-        <Italian>Impero Belga</Italian>
+        <Italian>Impero belga</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BELGIUM_SHORT_DESC</Tag>
@@ -584,6 +588,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <Spanish>Benín</Spanish>
+        <Italian>del Benin</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BENIN_DESC</Tag>
@@ -592,6 +597,7 @@
         <German>Reich von Benin</German>
         <Brazilian>Império de Benim</Brazilian>
         <Spanish>Imperio benín</Spanish>
+        <Italian>Impero del Benin</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BENIN_SHORT_DESC</Tag>
@@ -614,7 +620,7 @@
         <Greek>Βραζιλιάνικα</Greek>
         <Spanish>Brasileño</Spanish>
         <Hungarian>Brazil</Hungarian>
-        <Italian>Brasiliano</Italian>
+        <Italian>brasiliano</Italian>
         <Dutch>Braziliaans</Dutch>
         <Polish>Brazylijczyk</Polish>
         <Portuguese>Português (Brasil)</Portuguese>
@@ -622,6 +628,7 @@
         <Russian>Бразильский</Russian>
         <ChineseSimp>巴西语（葡萄牙语？）</ChineseSimp>
         <Finnish>Brasilia</Finnish>
+        <Turkish>Brezilya Portekizcesi</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BRAZIL_DESC</Tag>
@@ -630,6 +637,7 @@
         <German>Brasilianisches Reich</German>
         <Brazilian>Império brasileiro</Brazilian>
         <Spanish>Imperio brasileño</Spanish>
+        <Italian>Impero del Brasile</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BRAZIL_SHORT_DESC</Tag>
@@ -638,6 +646,7 @@
         <German>Brasilien</German>
         <Brazilian>Brasil</Brazilian>
         <Spanish>Brasil</Spanish>
+        <Italian>Brasile</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BULGARIA_ADJECTIVE</Tag>
@@ -648,7 +657,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Bulgarisch</German>
-        <Italian>Bulgaro</Italian>
+        <Italian>bulgaro</Italian>
         <Spanish>Búlgaro</Spanish>
         <Catalan>Búlgar</Catalan>
         <Czech>Bulharština</Czech>
@@ -661,13 +670,15 @@
         <Russian>Болгарский</Russian>
         <ChineseSimp>保加利亚语</ChineseSimp>
         <Finnish>Bulgaria</Finnish>
+        <Polish>Bułgarski</Polish>
+        <Turkish>Bulgarca</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_BULGARIA_DESC</Tag>
         <English>Bulgarian Empire</English>
         <French>Bulgarie</French>
         <German>Bulgarisch Reich</German>
-        <Italian>Bulgaro Impero</Italian>
+        <Italian>Impero bulgaro</Italian>
         <Spanish>Búlgaro Imperio</Spanish>
         <Brazilian>Império Búlgaro</Brazilian>
     </TEXT>
@@ -714,7 +725,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Kanadisch</German>
-        <Italian>Canadese</Italian>
+        <Italian>canadese</Italian>
         <Spanish>Canadiense</Spanish>
         <Brazilian>Canadense</Brazilian>
     </TEXT>
@@ -723,7 +734,7 @@
         <English>Canadian Empire</English>
         <French>Canada</French>
         <German>Kanadisch Reich</German>
-        <Italian>Canadese Impero</Italian>
+        <Italian>Impero canadese</Italian>
         <Spanish>Canadiense Imperio</Spanish>
         <Brazilian>Império canadense</Brazilian>
     </TEXT>
@@ -769,6 +780,7 @@
         <German>chilenisch</German>
         <Brazilian>Chileno</Brazilian>
         <Spanish>Chileno</Spanish>
+        <Italian>cileno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CHILE_DESC</Tag>
@@ -777,11 +789,13 @@
         <German>Chilenisches Reich</German>
         <Brazilian>Império chileno</Brazilian>
         <Spanish>Imperio chileno</Spanish>
+        <Italian>Impero cileno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CHILE_SHORT_DESC</Tag>
         <English>Chile</English>
         <French>Chiliens</French>
+        <Italian>Cile</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CHOLA_ADJECTIVE</Tag>
@@ -815,6 +829,7 @@
         <German>kolumbianisch</German>
         <Brazilian>Colombiano</Brazilian>
         <Spanish>Colombiano</Spanish>
+        <Italian>colombiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_COLOMBIA_DESC</Tag>
@@ -823,6 +838,7 @@
         <German>Kolumbianisches Reich</German>
         <Brazilian>Império colombiano</Brazilian>
         <Spanish>Imperio colombiano</Spanish>
+        <Italian>Impero colombiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>
@@ -842,6 +858,7 @@
         <German>kongolesisch</German>
         <Brazilian>República Democrática do Congo</Brazilian>
         <Spanish>Congoleño</Spanish>
+        <Italian>congolese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CONGO_DESC</Tag>
@@ -850,6 +867,7 @@
         <German>Kongolesisches Reich</German>
         <Brazilian>Império Congo</Brazilian>
         <Spanish>Imperio congoleño</Spanish>
+        <Italian>Impero congolese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CONGO_SHORT_DESC</Tag>
@@ -868,6 +886,7 @@
         <German>kroatisch</German>
         <Brazilian>Croata</Brazilian>
         <Spanish>Croata</Spanish>
+        <Italian>croato</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CROATIA_DESC</Tag>
@@ -876,6 +895,7 @@
         <German>Kroatisches Reich</German>
         <Brazilian>Império Croata</Brazilian>
         <Spanish>Imperio croata</Spanish>
+        <Italian>Impero croato</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CROATIA_SHORT_DESC</Tag>
@@ -884,6 +904,7 @@
         <German>Kroatien</German>
         <Brazilian>Croácia</Brazilian>
         <Spanish>Croacia</Spanish>
+        <Italian>Croazia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CUBA_ADJECTIVE</Tag>
@@ -896,6 +917,7 @@
         <German>kubanisch</German>
         <Brazilian>Cubano</Brazilian>
         <Spanish>Cubano</Spanish>
+        <Italian>cubano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CUBA_DESC</Tag>
@@ -904,6 +926,7 @@
         <German>Kubanisches Reich</German>
         <Brazilian>Império cubano</Brazilian>
         <Spanish>Imperio cubano</Spanish>
+        <Italian>Impero cubano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CUBA_SHORT_DESC</Tag>
@@ -925,7 +948,7 @@
         <Greek>Τσέχικα</Greek>
         <Spanish>Checo</Spanish>
         <Hungarian>Cseh</Hungarian>
-        <Italian>Ceco</Italian>
+        <Italian>ceco</Italian>
         <Dutch>Tsjechisch</Dutch>
         <Polish>Czeski</Polish>
         <Portuguese>Tcheco</Portuguese>
@@ -933,6 +956,7 @@
         <Russian>Чешский</Russian>
         <ChineseSimp>捷克语</ChineseSimp>
         <Finnish>Tsekki</Finnish>
+        <Turkish>Çekçe</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CZECH_DESC</Tag>
@@ -941,6 +965,7 @@
         <German>Tschechisches Reich</German>
         <Brazilian>Império checo</Brazilian>
         <Spanish>Imperio checo</Spanish>
+        <Italian>Impero ceco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CZECH_SHORT_DESC</Tag>
@@ -952,7 +977,7 @@
         <Greek>Τσέχικα</Greek>
         <Spanish>Checo</Spanish>
         <Hungarian>Cseh</Hungarian>
-        <Italian>Ceco</Italian>
+        <Italian>Cechìa</Italian>
         <Dutch>Tsjechisch</Dutch>
         <Polish>Czeski</Polish>
         <Portuguese>Tcheco</Portuguese>
@@ -960,6 +985,7 @@
         <Russian>Чешский</Russian>
         <ChineseSimp>捷克语</ChineseSimp>
         <Finnish>Tsekki</Finnish>
+        <Turkish>Çekçe</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_DENMARK_ADJECTIVE</Tag>
@@ -975,7 +1001,7 @@
         <Greek>Δανέζικα</Greek>
         <Spanish>Danés</Spanish>
         <Hungarian>Dán</Hungarian>
-        <Italian>Danese</Italian>
+        <Italian>danese</Italian>
         <Dutch>Deens</Dutch>
         <Polish>Duński</Polish>
         <Portuguese>Dinamarquês</Portuguese>
@@ -983,6 +1009,8 @@
         <Russian>Датский</Russian>
         <ChineseSimp>丹麦语</ChineseSimp>
         <Finnish>Tanska</Finnish>
+        <Korean>덴마크어</Korean>
+        <Turkish>Danca</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_DENMARK_DESC</Tag>
@@ -991,6 +1019,7 @@
         <German>Dänisches Reich</German>
         <Brazilian>Império dinamarquês</Brazilian>
         <Spanish>Imperio danés</Spanish>
+        <Italian>Impero danese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC</Tag>
@@ -999,6 +1028,7 @@
         <German>Dänemark</German>
         <Brazilian>Dinamarca</Brazilian>
         <Spanish>Dinamarca</Spanish>
+        <Italian>Danimarca</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_DINNEHIH_ADJECTIVE</Tag>
@@ -1031,6 +1061,7 @@
         <German>etruskisch</German>
         <Brazilian>Etrusco</Brazilian>
         <Spanish>Etrusco</Spanish>
+        <Italian>etrusco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ETRUSCANS_DESC</Tag>
@@ -1039,6 +1070,7 @@
         <German>Etruskisches Reich</German>
         <Brazilian>Império Etrusco</Brazilian>
         <Spanish>Imperio etrusco</Spanish>
+        <Italian>Impero etrusco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ETRUSCANS_SHORT_DESC</Tag>
@@ -1046,6 +1078,7 @@
         <French>Etrusques</French>
         <Brazilian>Etruscos</Brazilian>
         <Spanish>Estruscos</Spanish>
+        <Italian>Etruria</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_FINLAND_ADJECTIVE</Tag>
@@ -1062,7 +1095,7 @@
         <Spanish>Finlandés</Spanish>
         <Finnish>Suomen</Finnish>
         <Hungarian>Magyar</Hungarian>
-        <Italian>Finlandese</Italian>
+        <Italian>finlandese</Italian>
         <Japanese>日本語</Japanese>
         <Korean>한국어</Korean>
         <Dutch>Fins</Dutch>
@@ -1071,6 +1104,7 @@
         <Brazilian>Finlandês</Brazilian>
         <Russian>Финский</Russian>
         <ChineseSimp>中文</ChineseSimp>
+        <Turkish>Fince</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_FINLAND_DESC</Tag>
@@ -1079,6 +1113,7 @@
         <German>Finnisches Reich</German>
         <Brazilian>Império finlandês</Brazilian>
         <Spanish>Imperio finés</Spanish>
+        <Italian>Impero finlandese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_FINLAND_SHORT_DESC</Tag>
@@ -1087,6 +1122,7 @@
         <German>Finnland</German>
         <Brazilian>Finlândia</Brazilian>
         <Spanish>Finlandia</Spanish>
+        <Italian>Finlandia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_GEORGIA_ADJECTIVE</Tag>
@@ -1200,6 +1236,7 @@
         <Spanish>Godo</Spanish>
         <German>gothisch</German>
         <Brazilian>Gótico</Brazilian>
+        <Italian>gotico</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_GOTHS_DESC</Tag>
@@ -1208,6 +1245,8 @@
         <Spanish>Imperio Godo</Spanish>
         <German>Gothisches Reich</German>
         <Brazilian>Império gótico</Brazilian>
+        <Italian>Impero gotico</Italian>
+        <Japanese>ゴート</Japanese>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_GOTHS_SHORT_DESC</Tag>
@@ -1215,6 +1254,7 @@
         <Spanish>Godo</Spanish>
         <German>Gothen</German>
         <Brazilian>Godos</Brazilian>
+        <Italian>Goti</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HARAPPA_ADJECTIVE</Tag>
@@ -1230,7 +1270,7 @@
         <German>Harappaner</German>
         <Spanish>Harappa</Spanish>
         <Finnish>Harappaani</Finnish>
-        <Italian>Harappana</Italian>
+        <Italian>harappana</Italian>
         <Japanese>ハラッパ</Japanese>
         <Korean>하라판</Korean>
         <Portuguese>Harapa</Portuguese>
@@ -1243,7 +1283,7 @@
         <English>Harappan Empire</English>
         <French>Harappa</French>
         <German>Harappan Reich</German>
-        <Italian>Harappan Impero</Italian>
+        <Italian>Impero harappan</Italian>
         <Spanish>Harappan Imperio</Spanish>
         <Brazilian>Império de Harappa</Brazilian>
     </TEXT>
@@ -1261,7 +1301,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Ungarische</German>
-        <Italian>Ungherese</Italian>
+        <Italian>ungherese</Italian>
         <Spanish>Húngaro</Spanish>
         <Czech>Maďarština</Czech>
         <Danish>Ungarsk</Danish>
@@ -1276,15 +1316,17 @@
         <ChineseSimp>匈牙利语</ChineseSimp>
         <Arabic>الهنغارية</Arabic>
         <Finnish>Unkari</Finnish>
+        <Turkish>Macarca</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HUNGARY_DESC</Tag>
         <English>Hungarian Empire</English>
         <French>Hongrie</French>
         <German>Ungarische Reich</German>
-        <Italian>Ungherese Impero</Italian>
+        <Italian>Impero ungherese</Italian>
         <Spanish>Húngaro Imperio</Spanish>
         <Brazilian>Império húngaro</Brazilian>
+        <Japanese>ハンガリー</Japanese>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HUNGARY_SHORT_DESC</Tag>
@@ -1307,6 +1349,7 @@
         <German>hunnisch</German>
         <Brazilian>Huno</Brazilian>
         <Spanish>Húnico</Spanish>
+        <Italian>unno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HUNS_DESC</Tag>
@@ -1316,12 +1359,14 @@
         <Hungarian>Hun birodalom</Hungarian>
         <Brazilian>Império huno</Brazilian>
         <Spanish>Imperio húnico</Spanish>
+        <Italian>Impero degli unni</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HUNS_SHORT_DESC</Tag>
         <English>Hunnia</English>
         <French>Huns</French>
         <German>Hunnien</German>
+        <Italian>Unnia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HURRIANS_ADJECTIVE</Tag>
@@ -1332,7 +1377,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Hurriter</German>
-        <Italian>Hurriti</Italian>
+        <Italian>urrita</Italian>
         <Spanish>Hurrita</Spanish>
         <Arabic>هوريان</Arabic>
         <Catalan>Hurrites</Catalan>
@@ -1344,13 +1389,14 @@
         <Brazilian>Hurrita</Brazilian>
         <Russian>Хуррития</Russian>
         <ChineseSimp>哈利</ChineseSimp>
+        <Turkish>Hurri</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_HURRIANS_DESC</Tag>
         <English>Hurrian Empire</English>
         <French>Peuple hourrite</French>
         <German>Hurriter Reich</German>
-        <Italian>Hurriti Impero</Italian>
+        <Italian>Impero urrita</Italian>
         <Spanish>Hurrita Imperio</Spanish>
         <Brazilian>Império hurrita</Brazilian>
     </TEXT>
@@ -1359,6 +1405,7 @@
         <English>Hurri</English>
         <French>Hourrites</French>
         <Spanish>Hurritas</Spanish>
+        <Italian>urriti</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_INDONESIA_ADJECTIVE</Tag>
@@ -1371,6 +1418,7 @@
         <German>indonesisch</German>
         <Brazilian>Indonésio</Brazilian>
         <Spanish>Indonesio</Spanish>
+        <Italian>indonesiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_INDONESIA_DESC</Tag>
@@ -1379,6 +1427,7 @@
         <German>Indonesisches Reich</German>
         <Brazilian>Império indonésio</Brazilian>
         <Spanish>Imperio indonesio</Spanish>
+        <Italian>Impero indonesiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_INDONESIA_SHORT_DESC</Tag>
@@ -1398,6 +1447,7 @@
         <German>iranisch</German>
         <Brazilian>Iraniano</Brazilian>
         <Spanish>Iraní</Spanish>
+        <Italian>iraniano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_IRAN_DESC</Tag>
@@ -1406,6 +1456,7 @@
         <German>Iranisches Reich</German>
         <Brazilian>Império iraniano</Brazilian>
         <Spanish>Imperio iraní</Spanish>
+        <Italian>Impero iraniano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_IRAN_SHORT_DESC</Tag>
@@ -1428,7 +1479,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Iraqi</Text>
+            <Text>iraqeno</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -1449,7 +1500,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Iraqi Empire</Text>
+            <Text>Impero d'Iraq</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -1490,7 +1541,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Irische</German>
-        <Italian>Irlandese</Italian>
+        <Italian>irlandese</Italian>
         <Spanish>Irlandas</Spanish>
         <Brazilian>Irlandês</Brazilian>
     </TEXT>
@@ -1499,7 +1550,7 @@
         <English>Irish Empire</English>
         <French>Irlande</French>
         <German>Irische Reich</German>
-        <Italian>Irlandese Impero</Italian>
+        <Italian>Impero irlandese</Italian>
         <Spanish>Irlandas Imperio</Spanish>
         <Brazilian>Império irlandês</Brazilian>
     </TEXT>
@@ -1521,7 +1572,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Israelischer</German>
-        <Italian>Israelo</Italian>
+        <Italian>israeliano</Italian>
         <Spanish>Israelí</Spanish>
         <Brazilian>Israelense</Brazilian>
     </TEXT>
@@ -1530,7 +1581,7 @@
         <English>Israeli Empire</English>
         <French>Israël</French>
         <German>Israelischer Reich</German>
-        <Italian>Israelo Impero</Italian>
+        <Italian>Impero d'Israele</Italian>
         <Spanish>Imperio Israelí</Spanish>
         <Brazilian>Império israelita</Brazilian>
     </TEXT>
@@ -1555,7 +1606,7 @@
         <Greek>Ιταλικά</Greek>
         <Spanish>Italiano</Spanish>
         <Hungarian>Olasz</Hungarian>
-        <Italian>Italiano</Italian>
+        <Italian>italiano</Italian>
         <Japanese>イタリア語</Japanese>
         <Korean>이탈리아어</Korean>
         <Dutch>Italiaans</Dutch>
@@ -1566,6 +1617,7 @@
         <ChineseSimp>------</ChineseSimp>
         <Arabic>الإيطالية</Arabic>
         <Finnish>Italia</Finnish>
+        <Turkish>İtalyanca</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ITALY_DESC</Tag>
@@ -1574,7 +1626,7 @@
         <German>Italienisches Reich</German>
         <Brazilian>Império Italiano</Brazilian>
         <Spanish>Imperio italiano</Spanish>
-        <Italian>Impero Italiano</Italian>
+        <Italian>Impero italiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ITALY_SHORT_DESC</Tag>
@@ -1617,6 +1669,7 @@
         <German>kasachisch</German>
         <Brazilian>Cazaque</Brazilian>
         <Spanish>Kazajo</Spanish>
+        <Italian>cazaco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_KAZAKH_DESC</Tag>
@@ -1625,6 +1678,7 @@
         <German>Kasachisches Reich</German>
         <Brazilian>Império cazaque</Brazilian>
         <Spanish>Imperio kazajo</Spanish>
+        <Italian>Impero cazaco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_KAZAKH_SHORT_DESC</Tag>
@@ -1633,6 +1687,7 @@
         <German>Kasachstan</German>
         <Brazilian>Cazaquistão</Brazilian>
         <Spanish>Kazajistán</Spanish>
+        <Italian>Kazakhistan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_KHAZARIA_ADJECTIVE</Tag>
@@ -1643,7 +1698,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Chasar</German>
-        <Italian>Cazar</Italian>
+        <Italian>cazaro</Italian>
         <Spanish>Jazar</Spanish>
     </TEXT>
     <TEXT>
@@ -1651,7 +1706,7 @@
         <English>Khazar Empire</English>
         <French>Peuple khazar</French>
         <German>Chasar Reich</German>
-        <Italian>Cazar Impero</Italian>
+        <Italian>Impero cazaro</Italian>
         <Spanish>Jazar Imperio</Spanish>
         <Brazilian>Império Khazar</Brazilian>
     </TEXT>
@@ -1675,6 +1730,7 @@
         <German>lettisch</German>
         <Brazilian>Letão</Brazilian>
         <Spanish>Letón</Spanish>
+        <Italian>lettone</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_LATVIA_DESC</Tag>
@@ -1683,6 +1739,7 @@
         <German>Lettisches Reich</German>
         <Brazilian>Império Letão</Brazilian>
         <Spanish>Imperio letón</Spanish>
+        <Italian>Impero lettone</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_LATVIA_SHORT_DESC</Tag>
@@ -1691,6 +1748,7 @@
         <German>Lettland</German>
         <Brazilian>Letônia</Brazilian>
         <Spanish>Letonia</Spanish>
+        <Italian>Lettonia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_LITHUANIA_ADJECTIVE</Tag>
@@ -1701,7 +1759,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Litauische</German>
-        <Italian>Lituano</Italian>
+        <Italian>lituano</Italian>
         <Spanish>Lituano</Spanish>
         <Brazilian>Lituano</Brazilian>
     </TEXT>
@@ -1710,7 +1768,7 @@
         <English>Lithuanian Empire</English>
         <French>Lituanie</French>
         <German>Litauische Reich</German>
-        <Italian>Lituano Impero</Italian>
+        <Italian>Impero lituano</Italian>
         <Spanish>Lituano Imperio</Spanish>
         <Brazilian>Império Lituano</Brazilian>
     </TEXT>
@@ -1732,13 +1790,14 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <Spanish>Lombardo</Spanish>
+        <Italian>longobardo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_LOMBARD_DESC</Tag>
         <English>Langobard Empire</English>
         <French>Royaume de Lombardie</French>
         <German>Langobard Reich</German>
-        <Italian>Langobard Impero</Italian>
+        <Italian>Impero longobardo</Italian>
         <Spanish>Impero Langobard</Spanish>
         <Brazilian>Império Langobard</Brazilian>
     </TEXT>
@@ -1748,6 +1807,7 @@
         <French>Lombards</French>
         <Brazilian>Lombardia</Brazilian>
         <Spanish>Lombardía</Spanish>
+        <Italian>Longobardia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MAGHREB_ADJECTIVE</Tag>
@@ -1760,6 +1820,7 @@
         <German>marokkanisch</German>
         <Brazilian>Marroquino</Brazilian>
         <Spanish>Marroquí</Spanish>
+        <Italian>marocchino</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MAGHREB_DESC</Tag>
@@ -1768,6 +1829,7 @@
         <German>Marokkanisches Reich</German>
         <Brazilian>Império marroquino</Brazilian>
         <Spanish>Imperio marroquí</Spanish>
+        <Italian>Impero del Marocco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MAGHREB_SHORT_DESC</Tag>
@@ -1776,6 +1838,7 @@
         <German>Marokko</German>
         <Brazilian>Marrocos</Brazilian>
         <Spanish>Marruecos</Spanish>
+        <Italian>Marocco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MAJAPAHIT_ADJECTIVE</Tag>
@@ -1814,7 +1877,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Malagasy</Text>
+            <Text>malgascio</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -1839,7 +1902,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Malagasy Empire</Text>
+            <Text>Impero malgascio</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -1889,6 +1952,7 @@
         <French>Empire songhaï</French>
         <Brazilian>Império Songhai</Brazilian>
         <Spanish>Imperio songhai</Spanish>
+        <Italian>Impero songhai</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MANDE_SHORT_DESC</Tag>
@@ -1927,6 +1991,7 @@
         <German>mamelukisch</German>
         <Brazilian>Mameluco</Brazilian>
         <Spanish>Mameluco</Spanish>
+        <Italian>mammelucco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MEGYPT_DESC</Tag>
@@ -1935,6 +2000,7 @@
         <German>Mamelukisches Reich</German>
         <Brazilian>Império Mameluco</Brazilian>
         <Spanish>Imperio mameluco</Spanish>
+        <Italian>Impero dei Mammelucchi</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MEGYPT_SHORT_DESC</Tag>
@@ -1943,6 +2009,7 @@
         <German>Mameluken</German>
         <Brazilian>Mamelucos</Brazilian>
         <Spanish>Mamelucos</Spanish>
+        <Italian>Mammelucchi</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MEXICO_ADJECTIVE</Tag>
@@ -1955,6 +2022,7 @@
         <German>mexikanisch</German>
         <Brazilian>Mexicano</Brazilian>
         <Spanish>Mexicano</Spanish>
+        <Italian>messicano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MEXICO_DESC</Tag>
@@ -1963,6 +2031,7 @@
         <German>Mexikanisches Reich</German>
         <Brazilian>Império mexicano</Brazilian>
         <Spanish>Imperio mexicano</Spanish>
+        <Italian>Impero messicano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
@@ -1971,6 +2040,7 @@
         <German>Mexiko</German>
         <Brazilian>México</Brazilian>
         <Spanish>México</Spanish>
+        <Italian>Messico</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MINOA</Tag>
@@ -2033,7 +2103,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Mykenische</German>
-        <Italian>Micenea</Italian>
+        <Italian>miceneo</Italian>
         <Spanish>Micénica</Spanish>
         <Brazilian>Micênica</Brazilian>
     </TEXT>
@@ -2042,7 +2112,7 @@
         <English>Mycenaean Empire</English>
         <French>Mycènes</French>
         <German>Mykenische Reich</German>
-        <Italian>Impero di Micenea</Italian>
+        <Italian>Impero minoico</Italian>
         <Spanish>Imperio de Micénica</Spanish>
         <Brazilian>Império micênico</Brazilian>
     </TEXT>
@@ -2076,6 +2146,7 @@
         <German>neuseeländisch</German>
         <Brazilian>Nova Zelândia</Brazilian>
         <Spanish>Neozelandés</Spanish>
+        <Italian>neozelandese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NEWZEALAND_DESC</Tag>
@@ -2084,6 +2155,7 @@
         <German>Neuseeländisches Reich</German>
         <Brazilian>Império de Nova Zelândia</Brazilian>
         <Spanish>Imperio neozelandés</Spanish>
+        <Italian>Impero neozelandese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NEWZEALAND_SHORT_DESC</Tag>
@@ -2092,6 +2164,7 @@
         <German>Neuseeland</German>
         <Brazilian>Nova Zelândia</Brazilian>
         <Spanish>Nueva Zelanda</Spanish>
+        <Italian>Nuova Zelanda</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NIGERIA_ADJECTIVE</Tag>
@@ -2106,6 +2179,7 @@
         <German>Nigerianisches Reich</German>
         <Brazilian>Império nigeriano</Brazilian>
         <Spanish>Imperio nigeriano</Spanish>
+        <Italian>Impero nigeriano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NIGERIA_SHORT_DESC</Tag>
@@ -2118,6 +2192,7 @@
         <German>nigerianisch</German>
         <Brazilian>Nigeriano</Brazilian>
         <Spanish>Nigeriano</Spanish>
+        <Italian>nigeriano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NORWAY_ADJECTIVE</Tag>
@@ -2130,6 +2205,7 @@
         <German>norwegisch</German>
         <Brazilian>Norueguês</Brazilian>
         <Spanish>Noruego</Spanish>
+        <Italian>norvegese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NORWAY_DESC</Tag>
@@ -2138,6 +2214,7 @@
         <German>Norwegisches Reich</German>
         <Brazilian>Império norueguês</Brazilian>
         <Spanish>Imperio noruego</Spanish>
+        <Italian>Impero norvegese</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
@@ -2166,20 +2243,21 @@
         <Spanish>Nubia</Spanish>
         <Finnish>Nuubia</Finnish>
         <Hungarian>Nubía</Hungarian>
-        <Italian>Nubiana</Italian>
+        <Italian>nubiano</Italian>
         <Japanese>ヌビア</Japanese>
         <Korean>누비아</Korean>
         <Portuguese>Núbia</Portuguese>
         <Brazilian>Núbia</Brazilian>
         <Russian>Нубия</Russian>
         <ChineseSimp>努比亚</ChineseSimp>
+        <Turkish>Nubia'lı</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_NUBIA_DESC</Tag>
         <English>Nubian Empire</English>
         <French>Royaume de Nubie</French>
         <German>Nubian Reich</German>
-        <Italian>Impero di Nubian</Italian>
+        <Italian>Impero nubiano</Italian>
         <Spanish>Imperio de Nubian</Spanish>
         <Brazilian>Império núbio</Brazilian>
     </TEXT>
@@ -2244,6 +2322,7 @@
         <German>pakistanisch</German>
         <Brazilian>Paquistanês</Brazilian>
         <Spanish>Paquistaní</Spanish>
+        <Italian>pakistano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PAKISTAN_DESC</Tag>
@@ -2252,6 +2331,7 @@
         <German>Pakistanisches Reich</German>
         <Brazilian>Império paquistanês</Brazilian>
         <Spanish>Imperio paquistaní</Spanish>
+        <Italian>Impero pakistano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PAKISTAN_SHORT_DESC</Tag>
@@ -2274,7 +2354,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Parthian</Text>
+            <Text>parto</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2293,6 +2373,7 @@
         <Brazilian>Parta</Brazilian>
         <Russian>Парфия</Russian>
         <ChineseSimp>帕提亚</ChineseSimp>
+        <Turkish>Pers</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PARTHIA_DESC</Tag>
@@ -2308,7 +2389,7 @@
             <Plural>0:0:0</Plural>
         </German>
         <Italian>
-            <Text>Parthian Empire</Text>
+            <Text>Impero parto</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2333,7 +2414,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Parthia</Text>
+            <Text>Partia</Text>
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2354,6 +2435,7 @@
         </French>
         <German>philippinisch</German>
         <Brazilian>Filipinas</Brazilian>
+        <Italian>filippino</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PHILIPPINES_DESC</Tag>
@@ -2362,6 +2444,7 @@
         <German>Philippinisches Reich</German>
         <Brazilian>Império filipino</Brazilian>
         <Spanish>Imperio filipino</Spanish>
+        <Italian>Impero delle Filippine</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PHILIPPINES_SHORT_DESC</Tag>
@@ -2370,6 +2453,7 @@
         <German>Philippinen</German>
         <Brazilian>Filipinas</Brazilian>
         <Spanish>Filipinas</Spanish>
+        <Italian>Le Filippine</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PHOENICIA_ADJECTIVE</Tag>
@@ -2386,7 +2470,7 @@
         <Spanish>Panteón fenicio</Spanish>
         <Finnish>foinikialainen</Finnish>
         <Hungarian>Föníciai</Hungarian>
-        <Italian>fenicia</Italian>
+        <Italian>fenicio</Italian>
         <Japanese>フェニキアの</Japanese>
         <Korean>페니키아</Korean>
         <Polish>fenicka</Polish>
@@ -2394,6 +2478,7 @@
         <Brazilian>Fenícia</Brazilian>
         <Russian>Финикийский пантеон:Финикийский пантеон:Финикийского пантеона:Финикийским пантеоном:Финикийскому пантеону</Russian>
         <ChineseSimp>腓尼基</ChineseSimp>
+        <Turkish>Fenike</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PHOENICIA_DESC</Tag>
@@ -2402,6 +2487,7 @@
         <German>Phönizianisches Reich</German>
         <Brazilian>Império fenício</Brazilian>
         <Spanish>Imperio fenicio</Spanish>
+        <Italian>Impero fenicio</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PHOENICIA_SHORT_DESC</Tag>
@@ -2410,6 +2496,7 @@
         <German>Phönizien</German>
         <Brazilian>Fenícia</Brazilian>
         <Spanish>Fenicia</Spanish>
+        <Italian>Fenicia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PICTS_ADJECTIVE</Tag>
@@ -2464,7 +2551,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Polnisch</German>
-        <Italian>Polacco</Italian>
+        <Italian>polacco</Italian>
         <Spanish>Polaco</Spanish>
         <Czech>Polština</Czech>
         <Danish>Polsk</Danish>
@@ -2478,13 +2565,14 @@
         <Russian>Польсикй</Russian>
         <ChineseSimp>波兰语</ChineseSimp>
         <Finnish>Puola</Finnish>
+        <Turkish>Lehçe</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_POLAND_DESC</Tag>
         <English>Polish Empire</English>
         <French>Pologne</French>
         <German>Polnisch Reich</German>
-        <Italian>Polacco Impero</Italian>
+        <Italian>Impero polacco</Italian>
         <Spanish>Polaco Imperio</Spanish>
         <Brazilian>Império polonês</Brazilian>
         <Polish>Imperium Polskie</Polish>
@@ -2508,7 +2596,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Polynesische</German>
-        <Italian>Polinesiana</Italian>
+        <Italian>polinesiano</Italian>
         <Spanish>Polinesiano</Spanish>
         <Arabic>البولينيزية</Arabic>
         <Catalan>Polinesis</Catalan>
@@ -2522,13 +2610,14 @@
         <Brazilian>Polinésia</Brazilian>
         <Russian>Полинезия</Russian>
         <ChineseSimp>玻利尼西亚</ChineseSimp>
+        <Turkish>Polinezya</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_POLYNESIA_DESC</Tag>
         <English>Polynesian Empire</English>
         <French>Polynésie</French>
         <German>Polynesische Reich</German>
-        <Italian>Polinesiana Impero</Italian>
+        <Italian>Impero polinesiano</Italian>
         <Spanish>Polinesiano Imperio</Spanish>
         <Brazilian>Império da Polinésia</Brazilian>
     </TEXT>
@@ -2555,7 +2644,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Romanian</Text>
+            <Text>romeno</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2580,7 +2669,7 @@
             <Plural>0:0:0</Plural>
         </German>
         <Italian>
-            <Text>Romanian Empire</Text>
+            <Text>Impero romeno</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2625,7 +2714,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Schotten</German>
-        <Italian>Scozzese</Italian>
+        <Italian>scozzese</Italian>
         <Spanish>Escocés</Spanish>
         <Brazilian>Escocês</Brazilian>
     </TEXT>
@@ -2634,7 +2723,7 @@
         <English>Scottish Empire</English>
         <French>Écosse</French>
         <German>Schotten Reich</German>
-        <Italian>Scozzese Impero</Italian>
+        <Italian>Impero scozzese</Italian>
         <Spanish>Escocés Imperio</Spanish>
         <Brazilian>Império escocês</Brazilian>
     </TEXT>
@@ -2662,7 +2751,7 @@
         <Spanish>Escita</Spanish>
         <Finnish>Skyytia</Finnish>
         <Hungarian>Szkíta</Hungarian>
-        <Italian>Scita</Italian>
+        <Italian>scita</Italian>
         <Japanese>スキタイ</Japanese>
         <Korean>스키타이</Korean>
         <Polish>Scytia</Polish>
@@ -2670,6 +2759,7 @@
         <Brazilian>Cita</Brazilian>
         <Russian>Скифия</Russian>
         <ChineseSimp>西徐亚</ChineseSimp>
+        <Turkish>İskit</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SCYTHIA_DESC</Tag>
@@ -2677,12 +2767,14 @@
         <French>Scythie</French>
         <Brazilian>Império escita</Brazilian>
         <Spanish>Imperio escita</Spanish>
+        <Italian>Impero della Scizia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SCYTHIA_SHORT_DESC</Tag>
         <English>Scythia</English>
         <French>Scythes</French>
         <Spanish>Escitia</Spanish>
+        <Italian>Scizia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SELEUKIA_ADJECTIVE</Tag>
@@ -2698,7 +2790,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Seleukid</Text>
+            <Text>selucida</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2722,7 +2814,7 @@
             <Plural>0:0:0</Plural>
         </German>
         <Italian>
-            <Text>Seleukid Empire</Text>
+            <Text>Impero seleucida</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2747,7 +2839,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Seleukeia</Text>
+            <Text>Impero seleucida</Text>
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2792,7 +2884,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Serbisch</German>
-        <Italian>Serba</Italian>
+        <Italian>serbo</Italian>
         <Spanish>Serbio</Spanish>
         <Brazilian>Sérvio</Brazilian>
     </TEXT>
@@ -2801,7 +2893,7 @@
         <English>Serbian Empire</English>
         <French>Serbie</French>
         <German>Serbisch Reich</German>
-        <Italian>Serba Impero</Italian>
+        <Italian>Impero serbo</Italian>
         <Spanish>Serbio Imperio</Spanish>
         <Brazilian>Império sérvio</Brazilian>
     </TEXT>
@@ -2826,6 +2918,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>siouxisch</German>
+        <Italian>sioux</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
@@ -2833,6 +2926,7 @@
         <French>Indiens Sioux</French>
         <German>Sioux Reich</German>
         <Brazilian>Império Sioux</Brazilian>
+        <Italian>Impero sioux </Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SIOUX_SHORT_DESC</Tag>
@@ -2852,7 +2946,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Somali</Text>
+            <Text>somalo</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2876,7 +2970,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Somali Empire</Text>
+            <Text>impero somalo</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -2923,6 +3017,7 @@
         <German>südafrikanisch</German>
         <Brazilian>Sul-Africano</Brazilian>
         <Spanish>Sudafricano</Spanish>
+        <Italian>sudafricano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SOUTH_AFRICA_DESC</Tag>
@@ -2931,6 +3026,7 @@
         <German>Südafrikanisches Reich</German>
         <Brazilian>Império Sul-Africano</Brazilian>
         <Spanish>Imperio sudafricano</Spanish>
+        <Italian>Impero del Sudafrica</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SOUTH_AFRICA_SHORT_DESC</Tag>
@@ -2939,6 +3035,7 @@
         <German>Südafrika</German>
         <Brazilian>África do Sul</Brazilian>
         <Spanish>Sudáfrica</Spanish>
+        <Italian>Sudafrica</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SWEDEN_ADJECTIVE</Tag>
@@ -2949,7 +3046,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Schwedish</German>
-        <Italian>Svedese</Italian>
+        <Italian>svedese</Italian>
         <Spanish>Suevo</Spanish>
         <Brazilian>Sueco</Brazilian>
     </TEXT>
@@ -2958,7 +3055,7 @@
         <English>Swedish Empire</English>
         <French>Royaume de Suède</French>
         <German>Schwedish Reich</German>
-        <Italian>Svedese Impero</Italian>
+        <Italian>Impero svedese</Italian>
         <Spanish>Suevo Imperio</Spanish>
         <Brazilian>Império Sueco</Brazilian>
     </TEXT>
@@ -2980,7 +3077,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>schweitzerisch</German>
-        <Italian>Svizzera</Italian>
+        <Italian>svizzero</Italian>
         <Brazilian>Suíça</Brazilian>
         <Spanish>Suizo</Spanish>
     </TEXT>
@@ -2989,7 +3086,7 @@
         <English>Swiss Empire</English>
         <French>Confédération suisse</French>
         <German>Schweizer Reich</German>
-        <Italian>Impero Svizzero</Italian>
+        <Italian>Impero svizzero</Italian>
         <Brazilian>Império suíço</Brazilian>
         <Spanish>Imperio suizo</Spanish>
     </TEXT>
@@ -3011,7 +3108,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Tibetische</German>
-        <Italian>Tibetana</Italian>
+        <Italian>tibetano</Italian>
         <Spanish>Tibetano</Spanish>
         <Brazilian>Tibetano</Brazilian>
     </TEXT>
@@ -3020,7 +3117,7 @@
         <English>Tibetan Empire</English>
         <French>Tibet</French>
         <German>Tibetische Reich</German>
-        <Italian>Tibetana Impero</Italian>
+        <Italian>Impero tibetano</Italian>
         <Spanish>Tibetano Imperio</Spanish>
         <Brazilian>Império tibetano</Brazilian>
     </TEXT>
@@ -3040,6 +3137,7 @@
         </French>
         <Brazilian>Timúrida</Brazilian>
         <Spanish>Timúrida</Spanish>
+        <Italian>timuride</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TIMURID_DESC</Tag>
@@ -3047,6 +3145,7 @@
         <French>Empire timouride</French>
         <Brazilian>Império Timúrida</Brazilian>
         <Spanish>Imperio timúrida</Spanish>
+        <Italian>Impero timuride</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TIMURID_SHORT_DESC</Tag>
@@ -3054,6 +3153,7 @@
         <French>Timourides</French>
         <Brazilian>Timúridas</Brazilian>
         <Spanish>Timúridas</Spanish>
+        <Italian>Impero timuride</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TOLTEC_ADJECTIVE</Tag>
@@ -3063,7 +3163,7 @@
             <Gender>Male:Female:Male:Female</Gender>
             <Plural>0:0:1:1</Plural>
         </French>
-        <Italian>Tolteca</Italian>
+        <Italian>tolteco</Italian>
         <Brazilian>Toltecas</Brazilian>
         <Spanish>Tolteca</Spanish>
     </TEXT>
@@ -3071,7 +3171,7 @@
         <Tag>TXT_KEY_CIV_TOLTEC_DESC</Tag>
         <English>Toltec Empire</English>
         <French>Peuple toltèque</French>
-        <Italian>Impero Tolteca</Italian>
+        <Italian>Impero tolteci</Italian>
         <Brazilian>Império tolteca</Brazilian>
         <Spanish>Imperio tolteca</Spanish>
     </TEXT>
@@ -3094,6 +3194,7 @@
         <German>trojanisch</German>
         <Brazilian>Cavalo de Tróia</Brazilian>
         <Spanish>Troyano</Spanish>
+        <Italian>troiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TROY_DESC</Tag>
@@ -3102,6 +3203,7 @@
         <German>Trojanisches Reich</German>
         <Brazilian>Império de Tróia</Brazilian>
         <Spanish>Imperio troyano</Spanish>
+        <Italian>Impero di Troia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TROY_SHORT_DESC</Tag>
@@ -3118,6 +3220,7 @@
         <Brazilian>Tróia</Brazilian>
         <Russian>Троя</Russian>
         <ChineseSimp>特洛伊</ChineseSimp>
+        <Italian>Troia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TUPI_ADJECTIVE</Tag>
@@ -3148,19 +3251,24 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Ukrainisch</German>
-        <Italian>Ucraino</Italian>
+        <Italian>ucraino</Italian>
         <Spanish>Ucraniano</Spanish>
         <Brazilian>Ucraniano</Brazilian>
         <Czech>Ukrajinština</Czech>
         <Greek>Ουκρανικά</Greek>
         <Russian>Украинский</Russian>
+        <Hungarian>Ukrán</Hungarian>
+        <Dutch>Oekraïens</Dutch>
+        <Polish>Ukraiński</Polish>
+        <Portuguese>Ucraniano </Portuguese>
+        <Turkish>Ukraynaca</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UKRAINE_DESC</Tag>
         <English>Ukrainian Empire</English>
         <French>Nation d'Ukraine</French>
         <German>Ukrainisch Reich</German>
-        <Italian>Ucraino Impero</Italian>
+        <Italian>Impero ucraino</Italian>
         <Spanish>Ucraniano Imperio</Spanish>
         <Brazilian>Império ucraniano</Brazilian>
     </TEXT>
@@ -3180,17 +3288,20 @@
             <Gender>Male:Female:Male:Female</Gender>
             <Plural>0:0:1:1</Plural>
         </French>
+        <Italian>uighuro</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UYGHUR_DESC</Tag>
         <English>Uyghur Empire</English>
         <French>Peuple ouïghour</French>
         <Brazilian>Império uigur</Brazilian>
+        <Italian>Impero degli uighuri</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UYGHUR_SHORT_DESC</Tag>
         <English>Uyghur</English>
         <French>Ouïghours</French>
+        <Italian>Uighuri</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VEDIC_ADJECTIVE</Tag>
@@ -3225,6 +3336,7 @@
         <German>venetianisch</German>
         <Brazilian>Veneziano</Brazilian>
         <Spanish>Veneciano</Spanish>
+        <Italian>veneziano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VENEZIA_DESC</Tag>
@@ -3233,6 +3345,7 @@
         <German>Venetianisches Reich</German>
         <Brazilian>Império veneziano</Brazilian>
         <Spanish>Imperio veneciano</Spanish>
+        <Italian>Impero veneziano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VENEZIA_SHORT_DESC</Tag>
@@ -3241,6 +3354,7 @@
         <German>Venedig</German>
         <Brazilian>Veneza</Brazilian>
         <Spanish>Venecia</Spanish>
+        <Italian>Venezia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VENEZUELA_ADJECTIVE</Tag>
@@ -3253,6 +3367,7 @@
         <German>venezuelisch</German>
         <Brazilian>Venezuelano</Brazilian>
         <Spanish>Venezolano</Spanish>
+        <Italian>venezuelano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VENEZUELA_DESC</Tag>
@@ -3261,6 +3376,7 @@
         <German>Venezuelisches Reich</German>
         <Brazilian>Império venezuelano</Brazilian>
         <Spanish>Imperio venezolano</Spanish>
+        <Italian>Impero venezuelano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VENEZUELA_SHORT_DESC</Tag>
@@ -3278,6 +3394,7 @@
         <German>vietnamesisch</German>
         <Brazilian>Vietnamita </Brazilian>
         <Spanish>Vietnamita</Spanish>
+        <Italian>vietnamita</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VIETNAM_DESC</Tag>
@@ -3286,6 +3403,7 @@
         <Spanish>Vietnam Empire</Spanish>
         <German>Vietnamesisches Reich</German>
         <Brazilian>Império vietnamita</Brazilian>
+        <Italian>Impero del Vietnam</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VIETNAM_SHORT_DESC</Tag>
@@ -3303,7 +3421,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>Waliser</German>
-        <Italian>Gallese</Italian>
+        <Italian>gallese</Italian>
         <Spanish>Galés</Spanish>
         <Brazilian>Galês</Brazilian>
     </TEXT>
@@ -3312,7 +3430,7 @@
         <English>Welsh Empire</English>
         <French>Pays de Galles</French>
         <German>Waliser Reich</German>
-        <Italian>Impero di Gallese</Italian>
+        <Italian>Impero gallese</Italian>
         <Spanish>Imperio Galés</Spanish>
         <Brazilian>Império Galês</Brazilian>
     </TEXT>
@@ -3389,7 +3507,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Yemeni</Text>
+            <Text>yemenita</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>
@@ -3414,7 +3532,7 @@
             <Plural>0</Plural>
         </German>
         <Italian>
-            <Text>Yemeni Empire</Text>
+            <Text>Impero dello Yemen</Text>
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Italian>

@@ -17,6 +17,7 @@
         <English>Temple of Ishtar</English>
         <French>Temple d'Ishtar</French>
         <German>Tempel von Ishtar</German>
+        <Italian>Tempio di Ishtar</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR_STRATEGY</Tag>
@@ -119,6 +120,8 @@
         <ChineseSimp>兵工厂</ChineseSimp>
         <Finnish>Asevarasto</Finnish>
         <Dutch>Arsenaal</Dutch>
+        <Korean>병기고</Korean>
+        <Turkish>Cephanelik</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ASHANTI_DRUMMING_STATION</Tag>
@@ -161,6 +164,7 @@
         <English>Baktrian Mint</English>
         <German>Baktrian Minze</German>
         <French>Menthe bactriane</French>
+        <Italian>Zecca battriana</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_BAKTRIA_MINT_STRATEGY</Tag>
@@ -247,6 +251,7 @@
     <TEXT>
         <Tag>TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY</Tag>
         <English>The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</English>
+        <French>Le [COLOR_BUILDING_TEXT]paya[COLOR_REVERT] est l'équivalent birman de l'[COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT]. Il procure une route commerciale supplémentaire dans la ville où il est construit.</French>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_CAER</Tag>
@@ -467,6 +472,7 @@
         <English>Venus Temple</English>
         <French>Temple de Venus</French>
         <German>Venus Tempel</German>
+        <Italian>Tempio di Venere</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_GREAT_TEMPLE_STRATEGY</Tag>
@@ -612,6 +618,7 @@
         <Brazilian>Oásis:Oásis</Brazilian>
         <Russian>Оазис:Оазис:Оазиса:Оазисом:Оазисам:Оазисов:Оазисах</Russian>
         <ChineseSimp>绿洲</ChineseSimp>
+        <Turkish>Vaha</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_KANEMBORNU_OASIS_STRATEGY</Tag>
@@ -819,6 +826,7 @@
         <English>Stone Head</English>
         <French>Tête en pierre</French>
         <German>Steinkopf</German>
+        <Italian>Testa di pietra</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_OLMEC_STONEHEAD_STRATEGY</Tag>
@@ -1105,6 +1113,7 @@
         <English>Cricket Ground</English>
         <French>Terrain de criquet</French>
         <German>Cricketplatz</German>
+        <Italian>Campo da cricket</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_WESTINDIES_CRICKETGROUND_STRATEGY</Tag>

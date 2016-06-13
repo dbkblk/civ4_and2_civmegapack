@@ -191,12 +191,13 @@
         <English>Platyvola</English>
         <Arabic>بلاتيفولا</Arabic>
         <Spanish>Plativola</Spanish>
+        <Greek>Πλατύβολα</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA34</Tag>
         <English>Tylissos</English>
         <Arabic>تيليسوس</Arabic>
-        <Greek>Τυλισός</Greek>
+        <Greek>Τύλισος</Greek>
         <Italian>Tylisos</Italian>
         <ChineseSimp>蒂里索斯</ChineseSimp>
         <Spanish>Tiliso</Spanish>
@@ -302,6 +303,7 @@
         </Spanish>
         <Arabic>الوست</Arabic>
         <ChineseSimp>阿尔斯特</ChineseSimp>
+        <Greek>Άαλστ</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AARHUS</Tag>
@@ -332,6 +334,7 @@
         <Russian>Аархус</Russian>
         <ChineseSimp>阿尔胡斯</ChineseSimp>
         <ChineseTrad>奥胡斯</ChineseTrad>
+        <Greek>Άαρχους</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABA</Tag>
@@ -859,6 +862,7 @@
         <Brazilian>Áden</Brazilian>
         <Russian>Аден</Russian>
         <ChineseSimp>亚丁</ChineseSimp>
+        <Greek>Άντεν</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADHICHHATRA</Tag>
@@ -1009,6 +1013,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Greek>Αιθιοπία</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AFAK</Tag>
@@ -1452,6 +1457,7 @@
         </Spanish>
         <Arabic>عقرا</Arabic>
         <ChineseSimp>阿克拉</ChineseSimp>
+        <Greek>Άκρα</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKRAGAS</Tag>
@@ -2226,6 +2232,7 @@
         <Polish>Aleksandria</Polish>
         <Russian>Александрия</Russian>
         <ChineseSimp>亚历山大</ChineseSimp>
+        <Greek>Αλεξάνδρεια</Greek>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA_ARACHOSIA</Tag>
@@ -4799,6 +4806,7 @@
         <Brazilian>Bagdá</Brazilian>
         <Russian>Багдад</Russian>
         <ChineseSimp>巴格达</ChineseSimp>
+        <Turkish>Bağdat</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAGO</Tag>
@@ -7705,6 +7713,7 @@
         <Russian>Брюссель</Russian>
         <ChineseSimp>布鲁塞尔</ChineseSimp>
         <Korean>브뤼셀</Korean>
+        <Turkish>Brüksel</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUCHAREST</Tag>
@@ -7812,6 +7821,7 @@
         <Brazilian>Bucara</Brazilian>
         <Russian>Бухара</Russian>
         <ChineseSimp>布哈拉</ChineseSimp>
+        <Turkish>Buhara</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BULAWEYO</Tag>
@@ -8938,6 +8948,7 @@
         <Tag>TXT_KEY_CITY_NAME_CARDENAS</Tag>
         <English>Cardenas</English>
         <Spanish>Cárdenas</Spanish>
+        <Italian>Cárdenas del Río</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CARIDAD</Tag>
@@ -9115,6 +9126,7 @@
         <Russian>Касабланка</Russian>
         <ChineseSimp>卡萨布兰卡</ChineseSimp>
         <Korean>카사블랑카</Korean>
+        <Brazilian>Casa Branca</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CASERTA</Tag>
@@ -9754,6 +9766,7 @@
         <Brazilian>Charsada</Brazilian>
         <Russian>Шарсадда</Russian>
         <ChineseSimp>萨尔沙达</ChineseSimp>
+        <Turkish>Çarseda</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHEEOHEE</Tag>
@@ -15651,6 +15664,7 @@
         <Polish>Genua</Polish>
         <Russian>Генуя</Russian>
         <ChineseSimp>热那亚</ChineseSimp>
+        <Turkish>Cenova</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GENOVA</Tag>
@@ -17358,6 +17372,7 @@
         <English>Havana</English>
         <French>La Havane</French>
         <Polish>Hawana</Polish>
+        <Italian>L'Avana</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HAVASUPAI</Tag>
@@ -18761,6 +18776,7 @@
         <Japanese>インドラプラシャ</Japanese>
         <Russian>Индрапратха</Russian>
         <ChineseSimp>因陀罗普罗斯泰</ChineseSimp>
+        <Czech>Indraprástha</Czech>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_INHAMBANE</Tag>
@@ -20079,6 +20095,7 @@
         <Brazilian>Cabul</Brazilian>
         <Russian>Кабул</Russian>
         <ChineseSimp>喀布尔</ChineseSimp>
+        <Turkish>Kabil</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KABWE</Tag>
@@ -26640,6 +26657,7 @@
         <Polish>Marrakesz</Polish>
         <Russian>Марракеш</Russian>
         <ChineseSimp>马拉喀什</ChineseSimp>
+        <Turkish>Marakeş</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MARTIN</Tag>
@@ -27755,6 +27773,7 @@
         <Brazilian>Mileto</Brazilian>
         <Russian>Милет</Russian>
         <ChineseSimp>米利托斯</ChineseSimp>
+        <Turkish>Milet</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MINNA</Tag>
@@ -30087,6 +30106,7 @@
         <Brazilian>Nicópolis</Brazilian>
         <Russian>Никополь</Russian>
         <ChineseSimp>尼克波利斯</ChineseSimp>
+        <Turkish>Niğbolu</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NIKWASI</Tag>
@@ -30863,6 +30883,7 @@
         <Korean>에아</Korean>
         <Russian>Эа</Russian>
         <ChineseSimp>欧伊</ChineseSimp>
+        <Turkish>OEA</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OGBOMOSO</Tag>
@@ -32753,6 +32774,7 @@
         <Japanese>パータリプトラ</Japanese>
         <Russian>Палипутра</Russian>
         <ChineseSimp>波吒利弗</ChineseSimp>
+        <Czech>Patna</Czech>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PATHEIN</Tag>
@@ -34211,6 +34233,7 @@
         <English>Port Said</English>
         <French>Port-Saïd</French>
         <Spanish>Puerto Saíd</Spanish>
+        <Italian>Porto Said</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORTMORE</Tag>
@@ -34533,6 +34556,7 @@
         <Polish>Praga</Polish>
         <Russian>Прага</Russian>
         <ChineseSimp>布拉格</ChineseSimp>
+        <Turkish>Prag</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PREROV</Tag>
@@ -36085,6 +36109,7 @@
         <Korean>라왈핀디</Korean>
         <Russian>Равалпинди</Russian>
         <ChineseSimp>拉瓦尔品第</ChineseSimp>
+        <Czech>Rávalpindí</Czech>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAWSON</Tag>
@@ -36592,6 +36617,7 @@
         <Brazilian>Roma</Brazilian>
         <Russian>Рим</Russian>
         <ChineseSimp>罗马</ChineseSimp>
+        <Turkish>Roma</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RONNE</Tag>
@@ -38689,6 +38715,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SASUN</Tag>
         <English>Sasun</English>
+        <Italian>Sason</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SATERE_MAWE</Tag>
@@ -38818,6 +38845,7 @@
         <Tag>TXT_KEY_CITY_NAME_SAWHAJ</Tag>
         <English>Sawhaj</English>
         <Spanish>Suhag</Spanish>
+        <Italian>Sawaj</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAYLAC</Tag>
@@ -39093,6 +39121,7 @@
         <English>Semey</English>
         <Polish>Semej</Polish>
         <Spanish>Seméy</Spanish>
+        <Italian>Semej</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SENJ</Tag>
@@ -39468,6 +39497,7 @@
         <English>Shibin al Kaum</English>
         <Polish>Kaum al Szibin</Polish>
         <Spanish>Shibin el-Kom</Spanish>
+        <Italian>Shibīn El Kom</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHIHEZI</Tag>
@@ -39627,6 +39657,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHUBRA_AL_KHAYMAH</Tag>
         <English>Shubra al Khaymah</English>
+        <Italian>Shubra El-Khema</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHUMEN</Tag>
@@ -39636,11 +39667,13 @@
         <Tag>TXT_KEY_CITY_NAME_SHUSHI</Tag>
         <English>Shushi</English>
         <French>Chouchi</French>
+        <Italian>Shusha</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHYMKENT</Tag>
         <English>Shymkent</English>
         <Spanish>Chimkent</Spanish>
+        <Italian>Şımkent</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIALKOT</Tag>
@@ -39896,6 +39929,7 @@
         <Japanese>シパン</Japanese>
         <Russian>Сипан</Russian>
         <ChineseSimp>西潘</ChineseSimp>
+        <Czech>Sipán</Czech>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIRACAE</Tag>
@@ -40001,6 +40035,7 @@
         <Tag>TXT_KEY_CITY_NAME_SISIAN</Tag>
         <English>Sisian</English>
         <Polish>Sisjan</Polish>
+        <Italian>Garakilse</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SITTWE</Tag>
@@ -41074,6 +41109,7 @@
         <Korean>수사</Korean>
         <Russian>Суса</Russian>
         <ChineseSimp>苏撒</ChineseSimp>
+        <Czech>Súsy</Czech>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUSAH</Tag>
@@ -41295,6 +41331,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SZEGED</Tag>
         <English>Szeged</English>
+        <Italian>Seghedino</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_T_EDN</Tag>
@@ -41811,6 +41848,7 @@
         <Tag>TXT_KEY_CITY_NAME_TALDYQORGAN</Tag>
         <English>Taldyqorgan</English>
         <Spanish>Taldykorgan</Spanish>
+        <Italian>Taldıqorğan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TALGAR</Tag>
@@ -42064,6 +42102,7 @@
         <Polish>Tanger</Polish>
         <Russian>Танжер</Russian>
         <ChineseSimp>丹吉尔</ChineseSimp>
+        <Turkish>Tanca'da</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TANTA</Tag>
@@ -43573,6 +43612,7 @@
         <Tag>TXT_KEY_CITY_NAME_TIGRANAKERT</Tag>
         <English>Tigranakert</English>
         <Polish>Tigranocerta</Polish>
+        <Italian>Tigranocerta</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIGUA</Tag>
@@ -44715,6 +44755,7 @@
         <Russian>Триполи</Russian>
         <ChineseSimp>的黎波里</ChineseSimp>
         <Korean>트리폴리</Korean>
+        <Turkish>Trablus</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRNAVA</Tag>
@@ -45265,6 +45306,7 @@
         <Korean>튀니스</Korean>
         <Russian>Тунис</Russian>
         <ChineseSimp>突尼斯</ChineseSimp>
+        <Turkish>Tunus</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUPAI</Tag>
@@ -45343,6 +45385,7 @@
         <English>Turkistan</English>
         <Polish>Turkiestan</Polish>
         <Spanish>Turquestán</Spanish>
+        <Italian>Turkestan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TURKU</Tag>
@@ -45651,6 +45694,7 @@
         <Brazilian>Tiro</Brazilian>
         <Russian>Тир</Russian>
         <ChineseSimp>泰尔</ChineseSimp>
+        <Turkish>Lastik</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TZINAPECUARO</Tag>
@@ -46788,6 +46832,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VEDADO</Tag>
         <English>Vedado</English>
+        <Italian>El Vedado</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VEDI</Tag>
@@ -46899,6 +46944,7 @@
         <English>Veliko Tarnovo</English>
         <Polish>Wielkie Tyrnowie</Polish>
         <Spanish>Veliko Tárnovo</Spanish>
+        <Italian>Veliko Tărnovo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VELZNA</Tag>
@@ -49069,6 +49115,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YARMUTI</Tag>
         <English>Yarmuti</English>
+        <Italian>Yarmuk</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YAVAPAI</Tag>
@@ -49170,6 +49217,7 @@
         <Tag>TXT_KEY_CITY_NAME_YEREVAN</Tag>
         <English>Yerevan</English>
         <Spanish>Ereván</Spanish>
+        <Italian>Jerevan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YESIL</Tag>
@@ -49564,6 +49612,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAHARA</Tag>
         <English>Zahara</English>
+        <Italian>al-Zahra</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAHEDAN</Tag>
@@ -49891,6 +49940,7 @@
         <English>Zhezkazgan</English>
         <Polish>Żezkazgan</Polish>
         <Spanish>Jezkazgan</Spanish>
+        <Italian>Jezkazgan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHONGQI</Tag>

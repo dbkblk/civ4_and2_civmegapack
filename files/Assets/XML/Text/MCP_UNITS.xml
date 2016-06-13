@@ -98,6 +98,7 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_ANGLO_SAXON_HUSCARL</Tag>
         <English>Huskarl</English>
+        <Italian>Uscarlo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ANGLO_SAXON_HUSCARL_STRATEGY</Tag>
@@ -155,6 +156,7 @@
         <English>Granadero a Caballo</English>
         <French>Grenadier à cheval</French>
         <Brazilian>Granadeiro a Cavalo</Brazilian>
+        <Italian>Granatiere a cavallo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ARGENTINA_CABALLO_STRATEGY</Tag>
@@ -535,6 +537,7 @@
         <Tag>TXT_KEY_UNIT_FINNISH_JAEGER</Tag>
         <English>Jaeger</English>
         <German>Jäger</German>
+        <Italian>Jäger</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FINNISH_JAEGER_STRATEGY</Tag>
@@ -721,6 +724,7 @@
         <Tag>TXT_KEY_UNIT_IRAN_REVOLUTIONARY_GUARD</Tag>
         <English>Revolutionary Guard</English>
         <French>Garde révolutionnaire</French>
+        <Italian>Guardiano della Rivoluzione</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_IRAN_REVOLUTIONARY_GUARD_STRATEGY</Tag>
@@ -882,6 +886,7 @@
         <Tag>TXT_KEY_UNIT_MAGHREB_CAVALRY</Tag>
         <English>Moorish Cavalry</English>
         <French>Cavalerie maure</French>
+        <Italian>Cavalleria moresca</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_MAGHREB_CAVALRY_STRATEGY</Tag>
@@ -980,6 +985,7 @@
         <English>Mamluk Warrior</English>
         <French>Mamelouk</French>
         <German>Mameluken Krieger</German>
+        <Italian>Guerriero mammelucco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_MEGYPT_MAMLUK_STRATEGY</Tag>
@@ -1339,6 +1345,7 @@
         <Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG</Tag>
         <English>Viet Cong</English>
         <French>Vietcong</French>
+        <Italian>Vietcong</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_VIETNAM_VIETCONG_STRATEGY</Tag>
@@ -1424,6 +1431,7 @@
         <Tag>TXT_KEY_UNIT_YORUBA</Tag>
         <English>Yoruba Horseman</English>
         <French>Cavalier yoruba</French>
+        <Italian>Cavalleria Yoruba</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_YORUBA_STRATEGY</Tag>

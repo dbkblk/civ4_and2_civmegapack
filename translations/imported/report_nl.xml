@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<root>
-    <entry file="MCP_BUILDINGS.xml" tag="TXT_KEY_BUILDING_ARSENAL">
-        <old_value/>
-        <new_value>Arsenaal</new_value>
-    </entry>
-</root>

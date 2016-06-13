@@ -150,6 +150,7 @@
         <English>Welcome [CT_NAME] I am [OUR_NAME] the leader of the noble [OUR_EMPIRE], greet you.  Shall I send my Cataphracts against yours? or shall we ride together to crush our enemies beneath our heals?</English>
         <French>Bienvenue, [CT_NAME]. Je suis [OUR_NAME], dirigeant du noble peuple parthe.  Dois-je envoyer mes cataphractes contre vous ? ou devons-nous chevaucher ensemble pour écraser l'ennemi ?</French>
         <Spanish>Bienvenido, [CT_NAME]. Yo, [OUR_NAME], líder del noble [OUR_EMPIRE], os saludo. ¿Envío a mis catafractos contra vos? ¿O cabalgaremos juntos para aplastar a nuestros enemigos bajo nuestros pies?</Spanish>
+        <Greek>Καλωσήρθες [CT_NAME] είμαι ο [OUR_NAME] ο αρχηγός των αριστοκρατικών [OUR_EMPIRE], σε χαιρετώ. Να στείλω τους Κατάφρακτούς μου εναντίων σου; Ή να ενώσουμε τις δυνάμεις μας για να τσακίσουμε τους εχθρούς μας;</Greek>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ATHEAS_1</Tag>
@@ -240,6 +241,7 @@
         <French>Je suis [OUR_NAME] des pictes. Pourquoi êtes-vous là ?</French>
         <Greek>Είμαι ο [OUR_NAME] της [OUR_EMPIRE]. Γιατί βρίσκεσαι εδώ;</Greek>
         <Spanish>Soy [OUR_NAME] del [OUR_EMPIRE]. ¿Qué hacéis aquí?</Spanish>
+        <Italian>Sono [OUR_NAME] del [OUR_EMPIRE]. Tu chi sei?</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_BRINNO_1</Tag>
@@ -287,6 +289,8 @@
         <Polish>Goráce pozdorowienia dla [CT_EMPIRE]. Jestem, [OUR_NAME], szukaj pokój ponad wszystkimi ziemskimi godnoäciami i zachowaj spokojne sumienie. </Polish>
         <Russian>Тепло приветствуем [CT_EMPIRE]. Я, [OUR_NAME], ищу мира со всей земной знатью, и совесть моя не терзает меня.</Russian>
         <ChineseSimp>向 [CT_EMPIRE] 致以亲切的问候. 我, [OUR_NAME], 一直寻求超越尘世的尊贵和寂静平和的良心.</ChineseSimp>
+        <Hungarian>Meleg üdvöletem, [CT_EMPIRE]. Én, [OUR_NAME], a minden földi méltóság felett álló békét keresem, és a csendes, nyugodt lelkiismeretet.</Hungarian>
+        <Brazilian>Saudações calorosas para o [CT_EMPIRE]. Eu,[OUR_NAME], procuro uma paz acima de todas as dignidades terrenas e ainda com a consciência tranquila. </Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CARDENAS_1</Tag>
@@ -361,6 +365,8 @@
         <Polish>Goráce pozdorowienia dla [CT_EMPIRE]. Jestem, [OUR_NAME], szukaj pokój ponad wszystkimi ziemskimi godnoäciami i zachowaj spokojne sumienie. </Polish>
         <Russian>Тепло приветствуем [CT_EMPIRE]. Я, [OUR_NAME], ищу мира со всей земной знатью, и совесть моя не терзает меня.</Russian>
         <ChineseSimp>向 [CT_EMPIRE] 致以亲切的问候. 我, [OUR_NAME], 一直寻求超越尘世的尊贵和寂静平和的良心.</ChineseSimp>
+        <Hungarian>Meleg üdvöletem, [CT_EMPIRE]. Én, [OUR_NAME], a minden földi méltóság felett álló békét keresem, és a csendes, nyugodt lelkiismeretet.</Hungarian>
+        <Brazilian>Saudações calorosas para o [CT_EMPIRE]. Eu,[OUR_NAME], procuro uma paz acima de todas as dignidades terrenas e ainda com a consciência tranquila. </Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CIVILIS_1</Tag>
@@ -405,6 +411,7 @@
         <English>Woe upon you [CT_NAME]. I am [OUR_NAME], lord of your destruction!</English>
         <French>Malheur à toi [CT_NAME]. Je suis [OUR_NAME], seigneur de la destruction !</French>
         <Spanish>Pobre de vos, [CT_NAME]. ¡Soy [OUR_NAME], señor de vuestra destrucción!</Spanish>
+        <Italian>Attento a te [CT_NAME]. Io sono [OUR_NAME], colui che ti distruggerà!</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CUNHAMBEBE_1</Tag>
@@ -433,6 +440,7 @@
         <Spanish>Greetings, [CT_NAME]. El juego no se pierde - o ganado - hasta que va la campana pasada.</Spanish>
         <Polish>Pozdrowienia, [CT_NAME]. Gra nie jest przegrana czy wygrana - tylko dzwony inaczej bijá</Polish>
         <Russian>Приветствуем, [CT_NAME]. Игра не проиграна, да и не выиграна, пока не прозвонит последний колокол.</Russian>
+        <Greek>Χαιρετισμούς, [CT_NAME]. Ο πόλεμος δε χάνεται, ή κερδίζεται, μέχρι να δοθεί και η τελευταία μάχη.</Greek>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CUZA_1</Tag>
@@ -661,6 +669,7 @@ così, voi perderete e io vincerò.</Italian>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JEZEBEL_1</Tag>
         <English>Praise be to Baal. I am [OUR_NAME].</English>
         <French>Que Baal soit loué. Je suis [OUR_NAME].</French>
+        <Italian>Sia lode a Baal. Sono [OUR_NAME].</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JINNAH_1</Tag>
@@ -685,7 +694,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Ciao! Mi chiedete qual è la cosa più grande del mondo, vorrei rispondere: E 'la gente, è la gente, è la gente!</Italian>
         <Spanish>¡Hola! Me pregunta qué es lo más grande en el mundo, voy a responder: Es la gente, es la gente, es la gente</Spanish>
         <Polish>Witaj! Zapytaj mnie co jest najlepszá rzeczá na ziemi, Ja Ci odpowiem: To ludzie, to ludzie, to ludzie!!</Polish>
-        <Brazilian>Olá! Me pergunte qual a melhor coisa do mundo, Eu vou responder: São as pessoas, São as pessoas, São as pessoas!</Brazilian>
+        <Brazilian>Olá! Pergunte-me qual a melhor coisa do mundo, Eu responderei: São as pessoas, São as pessoas, São as pessoas!</Brazilian>
         <Russian>Привет! Спроси меня, о величайшей вещи в мире и я отвечу тебе: Это люди, это люди, это люди!</Russian>
     </TEXT>
     <TEXT>
@@ -1020,6 +1029,8 @@ così, voi perderete e io vincerò.</Italian>
         <Russian>Приветствую. Я - [OUR_NAME], вождь Ирокезов. Хороший вождь не берет, он дает. Ты хороший вождь, [CT_NAME]?</Russian>
         <ChineseSimp>你好，我是[OUR_NAME]，[OUR_EMPIRE]的首领。一位好首领应该少索取，多奉献。请问你是一位好首领吗，[CT_NAME]？</ChineseSimp>
         <Czech>Buď zdráv. Já jsem [OUR_NAME], náčelník kmene [OUR_EMPIRE]. Dobrý náčelník nebere, ale dává. Jsi dobrým náčelníkem, [CT_NAME]?</Czech>
+        <Hungarian>Üdvözlet! Az én nevem [OUR_NAME], [OUR_EMPIRE] vezére. Egy jó vezér nem elvesz, hanem ad. Te jó vezér vagy, [CT_NAME]?</Hungarian>
+        <Brazilian>Saudações. Eu sou [OUR_NAME], chefe do [OUR_EMPIRE]. Um bom chefe não toma, ele dá. Você é um bom chefe, [CT_NAME]?</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_OWAIN_GLYNDWR_1</Tag>
@@ -1488,6 +1499,7 @@ così, voi perderete e io vincerò.</Italian>
         <English>Zounds!  More barbarian hordes!</English>
         <French>Zounds! D'autres hordes barbares !</French>
         <Greek>Να πάρει! Κι άλλες ορδές βαρβάρων!</Greek>
+        <Italian>Pazzesco! Altre orde di barbari!</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_WETTSTEIN_1</Tag>

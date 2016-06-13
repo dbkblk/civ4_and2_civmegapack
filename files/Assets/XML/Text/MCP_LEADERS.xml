@@ -23,6 +23,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Ablay</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AGAMEMNON</Tag>
@@ -37,13 +38,15 @@
         <Korean>아가멤논</Korean>
         <Russian>Агамемнон</Russian>
         <ChineseSimp>阿伽门农国王</ChineseSimp>
-        <Hungarian>Agamemnón
+        <Hungarian>Agamemnón&#xd;
  </Hungarian>
         <Brazilian>Agamenon</Brazilian>
+        <Portuguese>Agamenon</Portuguese>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AHMADINEJAD</Tag>
         <English>Ahmadinejad</English>
+        <Turkish>Ahmedinecad</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AJATASHATRU</Tag>
@@ -189,6 +192,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Antiokus</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_ARPAD</Tag>
@@ -281,6 +285,11 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>
+            <Text>Attila</Text>
+            <Gender>Female</Gender>
+            <Plural>0</Plural>
+        </Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AYAPEC</Tag>
@@ -288,6 +297,7 @@
         <Japanese>シパン</Japanese>
         <Russian>Сипан</Russian>
         <ChineseSimp>西潘</ChineseSimp>
+        <Czech>Sipán</Czech>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AYUB_KHAN</Tag>
@@ -301,10 +311,13 @@
         <Tag>TXT_KEY_LEADER_BAIBARS</Tag>
         <English>Baibars</English>
         <French>Baybars</French>
+        <Italian>Baybars</Italian>
+        <Turkish>Baybars</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_BAYANCHUR</Tag>
         <English>Bayanchur</English>
+        <Italian>Bayanchur Khan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_BEN_GURION</Tag>
@@ -410,12 +423,14 @@
         <Tag>TXT_KEY_LEADER_CAKSTE</Tag>
         <English>Cakste</English>
         <French>Čakste</French>
+        <Italian>Čakste</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CALGACUS</Tag>
         <English>Calgacus</English>
         <French>Calgacos</French>
         <Spanish>Calgaco</Spanish>
+        <Italian>Calgaco</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CANUTE</Tag>
@@ -423,17 +438,21 @@
         <French>Canute le magnifique</French>
         <German>Canute der Große</German>
         <Spanish>Canuto el Grande</Spanish>
+        <Italian>Canuto il Grande</Italian>
+        <Turkish>Knud büyük</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CARDENAS</Tag>
         <English>Cardenas</English>
         <Spanish>Cárdenas</Spanish>
+        <Italian>Cárdenas del Río</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CASIMIR</Tag>
         <English>Casimir</English>
         <Spanish>Casimiro</Spanish>
         <Polish>Kazimierz III Wielki</Polish>
+        <Italian>Casimiro</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CASTRO</Tag>
@@ -460,14 +479,17 @@
         <Tag>TXT_KEY_LEADER_CHAVEZ</Tag>
         <English>Chavez</English>
         <Spanish>Chávez</Spanish>
+        <Italian>Chávez</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CHE_BONG_NGA</Tag>
         <English>Che Bong Nga</English>
+        <Italian>Chế Bồng Nga</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CHRISTIAN_IV</Tag>
         <English>Christian IV</English>
+        <Italian>Cristiano IV</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CIVILIS</Tag>
@@ -568,6 +590,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Pampa kedisi</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CUNHAMBEBE</Tag>
@@ -637,6 +660,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_DAVID_IV</Tag>
         <English>David IV</English>
+        <Italian>Davide IV</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DECEBALUS</Tag>
@@ -709,6 +733,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Diodotus ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DONNACONA</Tag>
@@ -792,10 +817,12 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_FAISAL</Tag>
         <English>Faisal</English>
+        <Turkish>Faysal</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_FRANZ</Tag>
         <English>Franz Josef</English>
+        <Italian>Francesco Giuseppe</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_FSFORZA</Tag>
@@ -823,6 +850,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_GJERGJ_KASTRIOTI</Tag>
         <English>Kastrioti</English>
+        <Italian>Scanderbeg</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_GODWINSON</Tag>
@@ -851,6 +879,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_GUSTAV</Tag>
         <English>Gustavus Adolphus</English>
+        <Italian>Gustavo Adolfo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_HAAKON</Tag>
@@ -903,6 +932,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_HASINA</Tag>
         <English>Hasina</English>
+        <Italian>Sheikh Hasina</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_HASSAN</Tag>
@@ -957,6 +987,7 @@
         <Tag>TXT_KEY_LEADER_HUSSEIN</Tag>
         <English>Hussein</English>
         <French>Saddam Hussein</French>
+        <Turkish>Hüseyin</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_IDRIS</Tag>
@@ -995,10 +1026,12 @@
         <Tag>TXT_KEY_LEADER_JEZEBEL</Tag>
         <English>Jezebel</English>
         <French>Jézabel</French>
+        <Italian>Gezabele</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_JINNAH</Tag>
         <English>Jinnah</English>
+        <Turkish>Cinnah</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_JOGAILA</Tag>
@@ -1032,6 +1065,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Al-Kanemi</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_KEKKONEN</Tag>
@@ -1041,6 +1075,7 @@
         <Tag>TXT_KEY_LEADER_KHOMEINI</Tag>
         <English>Khomeini</English>
         <Spanish>Jomeini</Spanish>
+        <Turkish>Humeyni</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_KITRA</Tag>
@@ -1069,22 +1104,28 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_LARS_PORSENA</Tag>
         <English>Lars Porsena</English>
+        <Italian>Porsenna</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_LARS_TOLUMNIUS</Tag>
         <English>Lars Tolumnius</English>
+        <Italian>Tolumnio</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_LEOPOLD_I</Tag>
         <English>Leopold I</English>
         <French>Léopold I</French>
         <Spanish>Leopoldo I</Spanish>
+        <Italian>Leopoldo I</Italian>
+        <Turkish>Leopold ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_LEOPOLD_II</Tag>
         <English>Leopold II</English>
         <French>Léopold II</French>
         <Spanish>Leopoldo II</Spanish>
+        <Italian>Leopoldo II</Italian>
+        <Turkish>II. Leopold</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_LLYWELYN</Tag>
@@ -1142,10 +1183,12 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Kral</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MAGNUS</Tag>
         <English>Magnus</English>
+        <Italian>il Grande</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MAKEDA</Tag>
@@ -1174,6 +1217,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MALIK</Tag>
         <English>Malik Shah</English>
+        <Turkish>Malik Şah</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MANDELA</Tag>
@@ -1211,6 +1255,8 @@
         <Tag>TXT_KEY_LEADER_MARGRETE</Tag>
         <English>Margrete I</English>
         <Spanish>Margarita I</Spanish>
+        <Italian>Margherita I</Italian>
+        <Turkish>Margrete ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MARIA_THERESA</Tag>
@@ -1224,10 +1270,12 @@
         <Tag>TXT_KEY_LEADER_MARTI</Tag>
         <English>Marti</English>
         <Spanish>Martí</Spanish>
+        <Italian>José Martí</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MARY_STUART</Tag>
         <English>Mary Stuart</English>
+        <Italian>Maria Stuarda</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MASARYK</Tag>
@@ -1311,20 +1359,25 @@
         <Tag>TXT_KEY_LEADER_MIKHEIL</Tag>
         <English>Saakashvili</English>
         <French>Saakachvili</French>
+        <Italian>Mikhail Saakashvili</Italian>
+        <Turkish>Saakaşvili</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MINDAUGAS</Tag>
         <English>Mindaugas</English>
+        <Turkish>Mindaugas taç</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MINOS</Tag>
         <English>Minos</English>
+        <Italian>Minosse</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MITHRIDATES</Tag>
         <English>Mithridates</English>
         <French>Mithridate</French>
         <Spanish>Mitrídates</Spanish>
+        <Italian>Mitridate</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MOBUTU</Tag>
@@ -1337,10 +1390,14 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MUHAMMAD_REZA</Tag>
         <English>Muhammad Reza Shah</English>
+        <Italian>Scià Reza Pahlavi</Italian>
+        <Turkish>Muhammed Rıza Şah</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MUJIB</Tag>
         <English>Mujibur</English>
+        <Italian>Mujibur Rahman</Italian>
+        <Turkish>Mucibur</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MURADBEY</Tag>
@@ -1385,6 +1442,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_NASSER</Tag>
         <English>Nasser</English>
+        <Turkish>Nasır</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_NAUNG</Tag>
@@ -1394,6 +1452,7 @@
         <Tag>TXT_KEY_LEADER_NESTOR</Tag>
         <English>Nestor</English>
         <Spanish>Néstor</Spanish>
+        <Italian>Nestore</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_NIALL</Tag>
@@ -1518,6 +1577,8 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_OSEI</Tag>
         <English>Tutu I</English>
+        <Italian>Osei Tutu I</Italian>
+        <Turkish>Tutu ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_OSTENACO</Tag>
@@ -1526,14 +1587,17 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_OVONRAMWEN</Tag>
         <English>Ovonramwen</English>
+        <Italian>Overami</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_OWAIN_GLYNDWR</Tag>
         <English>Owain Glyndwr</English>
+        <Italian>Owain Glyndŵr</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_PAEZ</Tag>
         <English>Páez</English>
+        <Italian>José Antonio Páez</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_PASTRANA</Tag>
@@ -1607,6 +1671,7 @@
         <French>Piankhy</French>
         <German>Pije</German>
         <Spanish>Pianjy</Spanish>
+        <Italian>Piankhi</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_PO_NGBE</Tag>
@@ -1663,6 +1728,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_PREMPEH</Tag>
         <English>Prempeh</English>
+        <Italian>Prempeh I</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_RADAMA</Tag>
@@ -1675,6 +1741,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_RAJENDRA</Tag>
         <English>Rajendra</English>
+        <Turkish>Ersin</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_RISHI</Tag>
@@ -1687,6 +1754,7 @@
         <German>Robert I.</German>
         <Italian>Roberto I</Italian>
         <Spanish>Roberto I</Spanish>
+        <Turkish>Robert ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_RUGA</Tag>
@@ -1748,6 +1816,7 @@
         <Tag>TXT_KEY_LEADER_SANTA_ANNA</Tag>
         <English>Santa Anna</English>
         <Spanish>Santa Ana</Spanish>
+        <Italian>Sant'Anna</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SARGON</Tag>
@@ -1787,6 +1856,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Selevkos</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SEPE_TIARAJU</Tag>
@@ -1816,6 +1886,7 @@
         <German>Simeon I.</German>
         <Italian>Simeone I</Italian>
         <Spanish>Simeón I</Spanish>
+        <Turkish>Simeon ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SKILURUS</Tag>
@@ -1847,10 +1918,13 @@
         <Tag>TXT_KEY_LEADER_STEPHEN</Tag>
         <English>Stephen I</English>
         <Spanish>Esteban I</Spanish>
+        <Italian>Stefano I</Italian>
+        <Turkish>Stephen Ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SUHARTO</Tag>
         <English>Suharto</English>
+        <Turkish>Kütahya</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SUKARNO</Tag>
@@ -1880,12 +1954,14 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Sünni Ali</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SVIATOSLAV_I</Tag>
         <English>Sviatoslav I</English>
         <French>Sviatoslav Ier</French>
         <German>Swjatoslaw I.</German>
+        <Turkish>Sviatoslav ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TAHARQA</Tag>
@@ -1947,6 +2023,7 @@
         <English>Theodoric</English>
         <French>Théodoric</French>
         <Spanish>Teodorico</Spanish>
+        <Italian>Teodorico</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TIGRANES</Tag>
@@ -1960,6 +2037,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_TOGHRUL</Tag>
         <English>Toghrul</English>
+        <Turkish>Tuğrul</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TOMISLAV</Tag>
@@ -2056,6 +2134,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Turkish>Timoşenko</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_U_KIX_CHAN</Tag>
