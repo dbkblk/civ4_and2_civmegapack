@@ -18,7 +18,7 @@
  <string name="TXT_KEY_LEADER_ARSACES">Arsaces I</string>
  <string name="TXT_KEY_LEADER_ASKIA">Askia</string>
  <string name="TXT_KEY_LEADER_ATHEAS">Atheas</string>
- <string gender="Female" name="TXT_KEY_LEADER_ATTILA" plural="0">Attila</string>
+ <string plural="0" name="TXT_KEY_LEADER_ATTILA" gender="Female">Attila</string>
  <string name="TXT_KEY_LEADER_AYAPEC">Sipan</string>
  <string name="TXT_KEY_LEADER_AYUB_KHAN">Ayub Khan</string>
  <string name="TXT_KEY_LEADER_BADUR">Badur</string>

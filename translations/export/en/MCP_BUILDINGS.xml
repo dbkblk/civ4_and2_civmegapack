@@ -43,7 +43,7 @@
  <string name="TXT_KEY_BUILDING_BROCH">Broch</string>
  <string name="TXT_KEY_BUILDING_BROCH_STRATEGY">The [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], the Scottish replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</string>
  <string name="TXT_KEY_BUILDING_BURMA_PAYA">Paya</string>
- <string name="TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY">The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT]. It provides a gold bonus within the city it is built.</string>
+ <string name="TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY">The [COLOR_BUILDING_TEXT]Paya[COLOR_REVERT] is the Burmese replacement for the [COLOR_BUILDING_TEXT]Observatory[COLOR_REVERT]. It provides a trade bonus within the city it is built.</string>
  <string name="TXT_KEY_BUILDING_CAER">Caer</string>
  <string name="TXT_KEY_BUILDING_CHILE_COPPERWORKS">Copperworks</string>
  <string name="TXT_KEY_BUILDING_CHILE_COPPERWORKS_STRATEGY">[COLOR_BUILDING_TEXT]Copperworks[COLOR_REVERT] (the Chilean replacement for the [COLOR_BUILDING_TEXT]Factory[COLOR_REVERT]) increase a city's production and wealth at the cost of adding significant unhealthiness. They get an added bonus with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</string>

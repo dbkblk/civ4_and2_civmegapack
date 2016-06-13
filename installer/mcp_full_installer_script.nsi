@@ -7,7 +7,7 @@ SetCompressor /SOLID LZMA
 ;--------------------------------
 
   !include "MUI.nsh"
-  !define REVISION "1.6"
+  !define REVISION "1.7"
   !define /date DATE "%Y-%m"
   
 ; Unzip FPK module
@@ -192,10 +192,10 @@ LangString FINISH ${LANG_FRENCH} "Les nouvelles civilisations sont maintenant in
 ; Greek
 
 ; LangString WELCOME_TITLE ${LANG_GREEK} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_GREEK} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString WELCOME ${LANG_GREEK} "Αναθεώρηση: ${REVISION}\n\n Ο οδηγός εγκατάστασης θα σας βοηθήσει στη διαδικασία εγκατάστασης περισσότερων από 100 νέων πολιτισμών για τοCivilization IV: A New Dawn.\n\n Το mod θα εγκατασταθεί στην τωρινή θέση εγκατάστασης του Civilization IV: A New Dawn.\n\n Σημείωση: Η εγκατάσταση μπορεί να διαρκέσει μερικά λεπτά, παρακαλώ περιμένετε."
 ; LangString REQUIRED ${LANG_GREEK} "απαιτείται"
-; LangString DIRECTORY ${LANG_GREEK} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
-; LangString FINISH ${LANG_GREEK} "The new civilizations are now installed. Enjoy."
+; LangString DIRECTORY ${LANG_GREEK} "Ο οδηγός θα εγκαταστήσει το πακέτο επέκτασης στην τοποθεσία εγκατάστασης του Civilization IV: A New Dawn is installed.$\n Αν η επέκταση είχε προηγουμένως διαφορετική τοποθεσία εγκατάστασης, παρακαλώ επιλέξτε ανάλογα πριν προχωρήσετε."
+; LangString FINISH ${LANG_GREEK} "Οι νέοι πολιτισμοί έχουν πλέον εγκατασταθεί. Καλή διασκέδαση."
 
 ; Hungarian
 
@@ -211,7 +211,7 @@ LangString FINISH ${LANG_FRENCH} "Les nouvelles civilisations sont maintenant in
 ; LangString WELCOME ${LANG_ITALIAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
 ; LangString REQUIRED ${LANG_ITALIAN} "richiesto"
 ; LangString DIRECTORY ${LANG_ITALIAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
-; LangString FINISH ${LANG_ITALIAN} "The new civilizations are now installed. Enjoy."
+; LangString FINISH ${LANG_ITALIAN} "Adesso le nuove civiltà sono installate. Divertiti."
 
 ; Japanese
 
@@ -248,10 +248,10 @@ LangString FINISH ${LANG_FRENCH} "Les nouvelles civilisations sont maintenant in
 ; PortugueseBR
 
 ; LangString WELCOME_TITLE ${LANG_PORTUGUESEBR} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_PORTUGUESEBR} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString WELCOME ${LANG_PORTUGUESEBR} "Revisão: ${REVISION}\n\n Este assistente de configuração irá guiá-lo através da instalação de mais de 100 novas civilizações para Civilization IV: A New Dawn.\n\n O mod será extraído dentro da instalação atual de Civilization IV: A New Dawn.\n\n Nota: A instalação pode levar alguns minutos, por favor, seja paciente."
 ; LangString REQUIRED ${LANG_PORTUGUESEBR} "requerido"
-; LangString DIRECTORY ${LANG_PORTUGUESEBR} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
-; LangString FINISH ${LANG_PORTUGUESEBR} "The new civilizations are now installed. Enjoy."
+; LangString DIRECTORY ${LANG_PORTUGUESEBR} "O instalador irá instalar o pacote de expansão onde Civilization IV: A New Dawn estiver instalado. $\nIf o mod original está instalado em outra pasta, por favor, selecione a pasta correta antes de continuar."
+; LangString FINISH ${LANG_PORTUGUESEBR} "As novas civilizações estão instaladas agora. Aproveite."
 
 ; Russian
 
@@ -273,7 +273,7 @@ LangString FINISH ${LANG_FRENCH} "Les nouvelles civilisations sont maintenant in
 
 ; LangString WELCOME_TITLE ${LANG_TURKISH} "Civilization IV: A New Dawn - Mega Civ Pack"
 ; LangString WELCOME ${LANG_TURKISH} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
-; LangString REQUIRED ${LANG_TURKISH} "required"
+; LangString REQUIRED ${LANG_TURKISH} "gerekli"
 ; LangString DIRECTORY ${LANG_TURKISH} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
 ; LangString FINISH ${LANG_TURKISH} "The new civilizations are now installed. Enjoy."
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <root>
     <name>Mega. Civ. Pack</name>
-    <version>1.6</version>
+    <version>1.7</version>
 	<infoURL>https://raw.githubusercontent.com/dbkblk/civ4_and2_civmegapack/master/files/Assets/Modules/Custom_Civilizations_MCP/modInfo.xml</infoURL>
     <extrafiles>
     <!-- Add here all the files located outsite the mod Modules/ folder which are part of the mod. This will allow mod uninstallation. The parameter "default" should be set to 1 if the listed file replace a default mod file (= can't remove it without causing bug). Set it to 0 if this is safe to remove it. -->

@@ -1,4 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="MCP_INSTALLER_WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Pack</string>
   <string name="MCP_INSTALLER_REQUIRED">απαιτείται</string>
+  <string name="MCP_INSTALLER_WELCOME">Αναθεώρηση: ${REVISION}\n\n Ο οδηγός εγκατάστασης θα σας βοηθήσει στη διαδικασία εγκατάστασης περισσότερων από 100 νέων πολιτισμών για τοCivilization IV: A New Dawn.\n\n Το mod θα εγκατασταθεί στην τωρινή θέση εγκατάστασης του Civilization IV: A New Dawn.\n\n Σημείωση: Η εγκατάσταση μπορεί να διαρκέσει μερικά λεπτά, παρακαλώ περιμένετε.</string>
+  <string name="MCP_INSTALLER_DIRECTORY">Ο οδηγός θα εγκαταστήσει το πακέτο επέκτασης στην τοποθεσία εγκατάστασης του Civilization IV: A New Dawn is installed.$\n Αν η επέκταση είχε προηγουμένως διαφορετική τοποθεσία εγκατάστασης, παρακαλώ επιλέξτε ανάλογα πριν προχωρήσετε.</string>
+  <string name="MCP_INSTALLER_FINISH">Οι νέοι πολιτισμοί έχουν πλέον εγκατασταθεί. Καλή διασκέδαση.</string>
 </resources>
