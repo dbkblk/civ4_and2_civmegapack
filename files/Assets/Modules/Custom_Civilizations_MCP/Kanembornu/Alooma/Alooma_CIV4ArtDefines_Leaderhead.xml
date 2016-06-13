@@ -6,7 +6,7 @@
 	<LeaderheadArtInfos>
 		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_ALOOMA</Type>
-			<Button>Art/interface/LeaderHeads/Selassie.dds</Button>
+			<Button>,Art/Interface/Buttons/Empty.dds,Art/Interface/Buttons/Atlases/AND_misc_buttons.dds,7,4</Button>
 			<NIF>art/LeaderHeads/Selassie/huayna_capac.nif</NIF>
 			<KFM>art/LeaderHeads/Selassie/huayna_capac.kfm</KFM>
 			<NoShaderNIF>art/LeaderHeads/Selassie/huayna_capac_noshader.nif</NoShaderNIF>

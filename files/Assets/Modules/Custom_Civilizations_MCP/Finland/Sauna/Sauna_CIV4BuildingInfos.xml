@@ -26,8 +26,8 @@
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<FreeStartEra>ERA_RENAISSANCE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
-			<ObsoleteTech>TECH_MODERN_SANITATION</ObsoleteTech>
-			<PrereqTech>TECH_WATERWORKS</PrereqTech>
+			<ObsoleteTech>NONE</ObsoleteTech>
+			<PrereqTech>TECH_SANITATION</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
@@ -52,6 +52,7 @@
 			<bTeamShare>0</bTeamShare>
 			<bWater>0</bWater>
 			<bRiver>0</bRiver>
+			<bFreshWater>1</bFreshWater>
 			<bPower>0</bPower>
 			<bDirtyPower>0</bDirtyPower>
 			<bAreaCleanPower>0</bAreaCleanPower>
@@ -164,12 +165,7 @@
 			<DomainProductionModifiers/>
 			<BuildingHappinessChanges/>
 			<PrereqBuildingClasses/>
-			<BuildingClassNeededs>
-				<BuildingClassNeeded>
-					<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
-					<bNeededInCity>1</bNeededInCity>
-				</BuildingClassNeeded>
-			</BuildingClassNeededs>
+			<BuildingClassNeededs/>
 			<SpecialistYieldChanges/>
 			<BonusYieldModifiers/>
 			<ImprovementFreeSpecialists/>

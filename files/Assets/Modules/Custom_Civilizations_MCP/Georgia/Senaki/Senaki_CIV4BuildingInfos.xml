@@ -193,17 +193,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<iDCMAirbombMission>2</iDCMAirbombMission>
-			<TechCommerceChanges>
-				<TechCommerceChange>
-					<PrereqTech>TECH_MODERN_ART</PrereqTech>
-					<TechCommerce>
-						<iCommerce>0</iCommerce>
-						<iCommerce>0</iCommerce>
-						<iCommerce>2</iCommerce>
-						<iCommerce>0</iCommerce>
-					</TechCommerce>
-				</TechCommerceChange>
-			</TechCommerceChanges>
+			<TechCommerceChanges/>
 			<ReplaceBuildings>
 				<ReplaceBuilding>
 					<BuildingClassType>BUILDINGCLASS_MOVIETHEATRE</BuildingClassType>
