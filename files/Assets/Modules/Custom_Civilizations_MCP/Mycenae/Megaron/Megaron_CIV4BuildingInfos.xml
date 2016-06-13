@@ -28,7 +28,7 @@
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
-			<ObsoleteTech>TECH_WEARABLE_ELECTRONICS</ObsoleteTech>
+			<ObsoleteTech>TECH_COMMUNICATION_NETWORKS</ObsoleteTech>
 			<PrereqTech>TECH_DRAMA</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>

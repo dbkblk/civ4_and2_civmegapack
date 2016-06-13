@@ -209,10 +209,6 @@
 					<BuildingClassType>BUILDINGCLASS_PRESS_AGENCY</BuildingClassType>
 					<bReplace>1</bReplace>
 				</ReplaceBuilding>
-				<ReplaceBuilding>
-					<BuildingClassType>BUILDINGCLASS_PUBLISHING_HOUSE</BuildingClassType>
-					<bReplace>1</bReplace>
-				</ReplaceBuilding>
 			</ReplaceBuildings>
 		</BuildingInfo>
 	</BuildingInfos>

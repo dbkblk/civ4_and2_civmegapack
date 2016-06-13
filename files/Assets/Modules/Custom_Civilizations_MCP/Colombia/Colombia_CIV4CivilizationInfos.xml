@@ -13,7 +13,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_COLOMBIA</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_COLOMBIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_SPAIN</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
