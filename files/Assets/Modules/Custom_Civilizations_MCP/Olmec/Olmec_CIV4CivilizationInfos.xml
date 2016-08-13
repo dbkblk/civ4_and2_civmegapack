@@ -13,7 +13,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_OLMEC</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_OLMEC</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_MESO_AMERICA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_MESO_AMERICA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_SOUTH_AMERICA</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>

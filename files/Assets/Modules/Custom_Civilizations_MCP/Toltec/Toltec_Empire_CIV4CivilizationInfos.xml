@@ -16,7 +16,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_TOLTEC</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_TOLTEC</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_MESO_AMERICA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_AZTEC</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_SOUTH_AMERICA</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>

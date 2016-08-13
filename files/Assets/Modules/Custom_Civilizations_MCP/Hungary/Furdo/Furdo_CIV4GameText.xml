@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FURDO</Tag>
+		<English>Furdo</English>
+		<French>Thermes</French>
+		<German>Furdo</German>
+		<Italian>Furdo</Italian>
+		<Spanish>Furdo</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_FURDO_PEDIA</Tag>
+		<English>[TAB]Since Roman times, bathers have traveled to Budapest to seek out its natural baths.  Today, these hot springs still exist, but other manmade baths have been created.  The hot springs in Hungary contain radium and other minerals that contain unique healing properties.  During the Ottoman occupation of Hungary, numerous baths were built such as Rudas, Gellert, and Kiraly.  Other bath houses can be found in Hungary, such as Csaszar, Lukacs, Rac, Szechenyi, and Dagaly.</English>
+		<French>[TAB]Depuis l'époque romaine, les baigneurs se sont rendus à Budapest pour rechercher ses baignoires naturelles. Aujourd'hui, ces sources thermales existent encore, mais d'autres bains de l'homme ont été crés. Les sources thermales en Hongrie contiennent du radium et d'autres minéraux qui comprennent des propriétés curatives. Au cours de l'occupation ottomane de la Hongrie, de nombreux bains ont été construites telles que Rudas, Gellert, et Kiraly. Autres bain maisons peut être trouvée en Hongrie, comme Csaszar, Lukacs, Rac, Szechenyi, et Dagaly.</French>
+		<German>[TAB]Seit römischen Zeiten, die Badegäste haben reiste nach Budapest, um ihre natürlichen Bädern. Heute werden diese heißen Quellen noch vorhanden ist, aber auch andere Bäder Menschenhand geschaffen wurden. Die heißen Quellen in Ungarn enthalten Radium und anderen Mineralien, die einzigartige heilende Eigenschaften. Während der osmanischen Besetzung von Ungarn, zahlreiche Bäder gebaut wie Rudas, Gellert, und Kiraly. Andere Bad Häuser befinden sich in Ungarn, wie Csaszar, Lukacs, Rac, Szechenyi, und Dagaly.</German>
+		<Italian>[TAB]Fin dai tempi dei romani, i bagnanti sono recato a Budapest per cercare la sua naturale bagni. Oggi, queste sorgenti calde ancora esistono, ma altri manmade bagni sono stati creati. Le sorgenti calde in Ungheria contenere radio e di altri minerali che contengono unica proprietà curative. Durante l'occupazione ottomana di Ungheria, numerosi bagni sono stati costruiti come Rudas, Gellert, e Kiraly. Altri bagno case si possono trovare in Ungheria, come Csaszar, Lukacs, Rac, Szechenyi, e Dagaly.</Italian>
+		<Spanish>[TAB]Desde la época de los romanos, los bañistas han viajado a Budapest para buscar sus baños naturales. Hoy en día, estas termas todavía existen, pero otras artificiales baños se han creado. Las fuentes termales contienen Hungría en el radio y otros minerales que contienen propiedades curativas únicas. Durante la ocupación otomana de Hungría, numerosos baños fueron construidos como Rudas, Gellert, y Kiraly. Otras casas de baño se encuentran en Hungría, como Csaszar, Lukacs, Rac, Szechenyi, y Dagaly.</Spanish>
+	</TEXT>
+        <TEXT>
+		<Tag>TXT_KEY_BUILDING_FURDO_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], the Hungarian replacement for the [COLOR_BUILDING_TEXT]Bath House[COLOR_REVERT], offers bonus health.</English>
+		<French>Les [COLOR_BUILDING_TEXT]thermes[COLOR_REVERT], l'équivalent hongrois de la [COLOR_BUILDING_TEXT]maison des bains[COLOR_REVERT], offrent des bonus de santé.</French>
+		<German>Die [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], die Ungarische Ersatz für die [COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], bietet bonus gesundheit</German>
+		<Italian>L'[COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sostituzione unherese per il[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], offre des bonus de santé.</Italian>
+		<Spanish> El [COLOR_BUILDING_TEXT]Furdo[COLOR_REVERT], la sustitución de Hungría para el[COLOR_BUILDING_TEXT] Bath House[COLOR_REVERT], ofrece bono de la salud. </Spanish>
+	</TEXT>
+</Civ4GameText>

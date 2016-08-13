@@ -14,7 +14,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>art/Egypt/Mamluk/Mamluk.nif</NIF>
-			<KFM>Art/Units/Unique/Greek/Cavalry/Companion_Cavalry.kfm</KFM>
+			<KFM>Art/Units/Horse Archer/Greek/Companion_Cavalry.kfm</KFM>
 			<SHADERNIF/>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>

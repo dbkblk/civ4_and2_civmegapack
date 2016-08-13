@@ -101,8 +101,8 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iHealth>0</iHealth>
-			<iHealthPercentPerPopulation>15</iHealthPercentPerPopulation>
+			<iHealth>2</iHealth>
+			<iHealthPercentPerPopulation>0</iHealthPercentPerPopulation>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>

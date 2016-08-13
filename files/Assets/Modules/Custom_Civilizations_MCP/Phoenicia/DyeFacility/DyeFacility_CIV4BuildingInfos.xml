@@ -114,7 +114,7 @@
 			<iCoastalTradeRoutes>0</iCoastalTradeRoutes>
 			<iGlobalTradeRoutes>0</iGlobalTradeRoutes>
 			<iTradeRouteModifier>0</iTradeRouteModifier>
-			<iForeignTradeRouteModifier>50</iForeignTradeRouteModifier>
+			<iForeignTradeRouteModifier>0</iForeignTradeRouteModifier>
 			<iGlobalPopulationChange>0</iGlobalPopulationChange>
 			<iFreeTechs>0</iFreeTechs>
 			<iDefense>0</iDefense>
@@ -137,12 +137,7 @@
 			<StateReligionCommerces/>
 			<CommerceHappinesses/>
 			<ReligionChanges/>
-			<SpecialistCounts>
-				<SpecialistCount>
-					<SpecialistType>SPECIALIST_LAWYER</SpecialistType>
-					<iSpecialistCount>1</iSpecialistCount>
-				</SpecialistCount>
-			</SpecialistCounts>
+			<SpecialistCounts/>
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
@@ -192,7 +187,7 @@
 			<iDCMAirbombMission>2</iDCMAirbombMission>
 			<iForeignConnectedCommerce>1</iForeignConnectedCommerce>
 			<iCitiesRequiredPerForeignConnectedCity>3</iCitiesRequiredPerForeignConnectedCity>
-			<iMaxForeignConnectedCommerce>10</iMaxForeignConnectedCommerce>			
+			<iMaxForeignConnectedCommerce>50</iMaxForeignConnectedCommerce>			
 		</BuildingInfo>
 	</BuildingInfos>
 </Civ4BuildingInfos>

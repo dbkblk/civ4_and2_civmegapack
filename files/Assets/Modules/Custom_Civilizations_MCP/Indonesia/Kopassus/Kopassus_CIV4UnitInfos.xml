@@ -175,7 +175,7 @@
 			<iCultureGarrison>12</iCultureGarrison>
 			<iExtraCost>0</iExtraCost>
 			<iAsset>5</iAsset>
-			<iPower>117</iPower>
+			<iPower>121</iPower>
 			<UnitMeshGroups>
 				<iGroupSize>3</iGroupSize>
 				<fMaxSpeed>1.75</fMaxSpeed>
