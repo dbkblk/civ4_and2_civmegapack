@@ -30,7 +30,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>TECH_HUMANISM</ObsoleteTech>
-			<PrereqTech>TECH_BLOOD_CULT</PrereqTech>
+			<PrereqTech>TECH_CODE_OF_LAWS</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
