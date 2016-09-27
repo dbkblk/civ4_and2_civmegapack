@@ -27,7 +27,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>TECH_MECHANIZED_WARFARE</ObsoleteTech>
-			<PrereqTech>TECH_WHEEL</PrereqTech>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses>
