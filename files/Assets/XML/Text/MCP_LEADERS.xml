@@ -1811,6 +1811,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_SAN_MARTIN</Tag>
         <English>San Martin</English>
+        <Russian>Сан-Мартин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SANTA_ANNA</Tag>
@@ -1981,6 +1982,7 @@
         <Polish>Timur Wielki</Polish>
         <Russian>Тамерлан</Russian>
         <ChineseSimp>瘸子帖木儿</ChineseSimp>
+        <Dutch>Timoer Lenk</Dutch>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TECUMSEH</Tag>

@@ -72,6 +72,7 @@
         <Polish>Niech niebiosa błogosławiá cię, [CT_NAME]! Jestem [OUR_NAME], mádry i dobry władcá mojego narodu! Nie krępuj się darami, którymi za chwilę zacznę cię obsypywaâ!</Polish>
         <Russian>Да снизойдет на тебя дождь небесного благословения, [CT_NAME]! Я - [OUR_NAME], мудрый и великодушный правитель [OUR_EMPIRE:3]! Не стесняйся - начинай осыпать меня подношениями для своей же выгоды!</Russian>
         <ChineseSimp>来自天堂的祝福围绕着你，[CT_NAME]！我是[OUR_NAME]，[OUR_EMPIRE]聪慧而又仁慈的领袖！你在方便的时候就开始向我国进贡吧！</ChineseSimp>
+        <Brazilian>Decem os céus chuver bênçãos sobre você, [CT_NAME]! Eu sou [OUR_NAME], governante sábio e benevolente do [OUR_EMPIRE]! Sinta-se livre para começar a regar-me com o tributo que lhe for conveniente!</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ALFRED_1</Tag>

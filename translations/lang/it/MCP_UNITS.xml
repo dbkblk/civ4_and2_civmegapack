@@ -7,10 +7,12 @@
   <string name="TXT_KEY_UNIT_ANGLO_SAXON_HUSCARL_STRATEGY">in Italian</string>
   <string name="TXT_KEY_UNIT_ANIYONEGA_AYASTIGI">Ayastigi</string>
   <string name="TXT_KEY_UNIT_ARGENTINA_CABALLO">Granatiere a cavallo</string>
+  <string name="TXT_KEY_UNIT_ARMENIA_FEDAYEE">Fedayyìn</string>
   <string name="TXT_KEY_UNIT_ARSIYAH_STRATEGY">Questa è l\'unità precedente alla polvere da sparo più potente del gioco ed è particolarmente efficace prima della comparsa di [COLOR_UNIT_TEXT]granatieri[COLOR_REVERT] e [COLOR_UNIT_TEXT]cannoni[COLOR_REVERT].</string>
   <string name="TXT_KEY_UNIT_ASHANTI_TWAFO">Twafo</string>
   <string name="TXT_KEY_UNIT_AXEMAN_LATVIA">Axeman Latgalian</string>
   <string name="TXT_KEY_UNIT_AXEMAN_LATVIA_STRATEGY">Questa unità (il rimontaggio lettone per [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT]) può difendersi bene contro le unità della [COLOR_UNIT_TEXT]mischia ed ottiene un\'indennità contro i [COLOR_UNIT_TEXT]vagoni per il trasporto dei lingotti[COLOR_REVERT].</string>
+  <string name="TXT_KEY_UNIT_BOLIVARIAN_LIBERATADOR">Liberatador</string>
   <string name="TXT_KEY_UNIT_CHILE_CARABINIERS">Carabineros</string>
   <string name="TXT_KEY_UNIT_COLOMBIA_AUC">AUC</string>
   <string name="TXT_KEY_UNIT_COPPER_AXEMAN">Rame Guerriero con ascia</string>
@@ -21,6 +23,7 @@
   <string name="TXT_KEY_UNIT_FALXMAN_STRATEGY">The Getai\'s elite shock infantry. The [COLOR_UNIT_TEXT]Drapanai[COLOR_REVERT] replaces [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT] and is slightly more cheaper. Use it to counter melee attacks.</string>
   <string name="TXT_KEY_UNIT_FINNISH_JAEGER">Jäger</string>
   <string name="TXT_KEY_UNIT_GASINDII_STRATEGY">Questa unità potente del melee (il rimontaggio del Lombard per [COLOR_UNIT_TEXT] spearman [COLOR_REVERT]) ha un bordo generale contro altre unità a causa delle relative extra strength.</string>
+  <string name="TXT_KEY_UNIT_GOTHIC_CAVALRY">Cavalleria gotica</string>
   <string name="TXT_KEY_UNIT_GRENZER_STRATEGY">Questo potente gundpowder unit (austriaco per la sostituzione[COLOR_UNIT_TEXT] Rifleman[COLOR_REVERT]), è un eccellente difensore contro Riflemen.</string>
   <string name="TXT_KEY_UNIT_GRIVPANVAR">Grivpanvar</string>
   <string name="TXT_KEY_UNIT_HAJDUK">Aiducco</string>
@@ -44,7 +47,9 @@
   <string name="TXT_KEY_UNIT_MARYANNU_STRATEGY">Questo potente unità montate (il Hurriti per la sostituzione [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT]), ulteriori visibilità gamma.</string>
   <string name="TXT_KEY_UNIT_MEDJAY">Polizia di Medjay</string>
   <string name="TXT_KEY_UNIT_MEGYPT_MAMLUK">Guerriero mammelucco</string>
+  <string name="TXT_KEY_UNIT_MEXICO_RURALES">Rurales</string>
   <string name="TXT_KEY_UNIT_MOUNTIE_STRATEGY">Questo potente montato unit (Canadese sostituzione per la[COLOR_UNIT_TEXT] Mountd rifleman[COLOR_REVERT]), eccezionale quando difendono le città.</string>
+  <string name="TXT_KEY_UNIT_PHOENICIA_BIREME">Bireme</string>
   <string name="TXT_KEY_UNIT_PILIWNI_GHOSTDANCER">Ghost Dancer</string>
   <string name="TXT_KEY_UNIT_SOMALIA_GUULWADAYAAL">Guulwadayaal</string>
   <string name="TXT_KEY_UNIT_SPEAR_ELEPHANT">Elefante con germoglio</string>

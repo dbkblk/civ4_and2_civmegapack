@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="TXT_KEY_CIV_AKKADIAN_SHORT_DESC">Akkad</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apache</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apache</string>
   <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Braziliaans</string>
   <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Bulgaars</string>
   <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Tsjechisch</string>

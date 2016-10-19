@@ -14,10 +14,12 @@
   <string name="TXT_KEY_CITY_MINOA2">Festo</string>
   <string name="TXT_KEY_CITY_MINOA20">Kommos</string>
   <string name="TXT_KEY_CITY_MINOA21">Platanos</string>
+  <string name="TXT_KEY_CITY_MINOA22">Lebena</string>
   <string name="TXT_KEY_CITY_MINOA23">Paleocastro</string>
   <string name="TXT_KEY_CITY_MINOA24">Praisos</string>
   <string name="TXT_KEY_CITY_MINOA25">Mochlos</string>
   <string name="TXT_KEY_CITY_MINOA26">Armenoi</string>
+  <string name="TXT_KEY_CITY_MINOA27">Kamaizi</string>
   <string name="TXT_KEY_CITY_MINOA28">Monastiraki</string>
   <string name="TXT_KEY_CITY_MINOA29">Stylos</string>
   <string name="TXT_KEY_CITY_MINOA3">Malia</string>
@@ -220,12 +222,14 @@
   <string name="TXT_KEY_CITY_NAME_ATLACOMULCO">Atlacomulco</string>
   <string name="TXT_KEY_CITY_NAME_ATTAWAPISKAT">Attawapiskat</string>
   <string name="TXT_KEY_CITY_NAME_ATUONA">Atuona</string>
+  <string name="TXT_KEY_CITY_NAME_ATYRAU">Atyrau</string>
   <string name="TXT_KEY_CITY_NAME_AUCHI">Auchi</string>
   <string name="TXT_KEY_CITY_NAME_AUCKLAND">Auckland</string>
   <string name="TXT_KEY_CITY_NAME_AUGANDZER">Augandzer</string>
   <string name="TXT_KEY_CITY_NAME_AVELLINO">Avellino</string>
   <string name="TXT_KEY_CITY_NAME_AWABAKAL">Awabakal</string>
   <string name="TXT_KEY_CITY_NAME_AYODHYA">Ayodhya</string>
+  <string name="TXT_KEY_CITY_NAME_AZ_ZAQAZIQ">Zagazig</string>
   <string name="TXT_KEY_CITY_NAME_AZ_ZAWIYAH">Az-Zawiyah</string>
   <string name="TXT_KEY_CITY_NAME_AZ_ZAYDIYAH">Az-Zaydiyah</string>
   <string name="TXT_KEY_CITY_NAME_BAAWITING">Baawiting</string>
@@ -253,6 +257,7 @@
   <string name="TXT_KEY_CITY_NAME_BALAD">Balad</string>
   <string name="TXT_KEY_CITY_NAME_BALANKANCHE">Balankanche</string>
   <string name="TXT_KEY_CITY_NAME_BALIKPAPAN">Balikpapan</string>
+  <string name="TXT_KEY_CITY_NAME_BALKASH">Balchaš</string>
   <string name="TXT_KEY_CITY_NAME_BALKH">Balkh</string>
   <string name="TXT_KEY_CITY_NAME_BAMA">Bama</string>
   <string name="TXT_KEY_CITY_NAME_BAMENDA">Bamenda</string>
@@ -261,10 +266,12 @@
   <string name="TXT_KEY_CITY_NAME_BANDAR_LAMPUNG">Bandar Lampung</string>
   <string name="TXT_KEY_CITY_NAME_BANDUNG">Bandung</string>
   <string name="TXT_KEY_CITY_NAME_BANGHAZI">Banghazi</string>
+  <string name="TXT_KEY_CITY_NAME_BANI_SUWAYF">Beni Suef</string>
   <string name="TXT_KEY_CITY_NAME_BANJARMASIN">Banjarmasin</string>
   <string name="TXT_KEY_CITY_NAME_BANNOCK">Bannock</string>
   <string name="TXT_KEY_CITY_NAME_BANSKA_BYSTRICA">Banska Bystrica</string>
   <string name="TXT_KEY_CITY_NAME_BAQUBAH">Baqubah</string>
+  <string name="TXT_KEY_CITY_NAME_BARACOA">Baracoa</string>
   <string name="TXT_KEY_CITY_NAME_BARAWA">Barawa</string>
   <string name="TXT_KEY_CITY_NAME_BARCELONA">Barcelona</string>
   <string name="TXT_KEY_CITY_NAME_BARI">Bari</string>
@@ -282,7 +289,9 @@
   <string name="TXT_KEY_CITY_NAME_BATUMI">Batumi</string>
   <string name="TXT_KEY_CITY_NAME_BAUCHI">Bauchi</string>
   <string name="TXT_KEY_CITY_NAME_BAURU">Bauru</string>
+  <string name="TXT_KEY_CITY_NAME_BAUTA">Bauta</string>
   <string name="TXT_KEY_CITY_NAME_BAWKU">Bawku</string>
+  <string name="TXT_KEY_CITY_NAME_BAYAMO">Bayamo</string>
   <string name="TXT_KEY_CITY_NAME_BAYEZID">Bayezid</string>
   <string name="TXT_KEY_CITY_NAME_BAYHAN_AL_QISAB">Bayhan al-Qisab</string>
   <string name="TXT_KEY_CITY_NAME_BAYT_AL_FAQIH">Bayt al-Faqih</string>
@@ -302,6 +311,7 @@
   <string name="TXT_KEY_CITY_NAME_BENONI">Benoni</string>
   <string name="TXT_KEY_CITY_NAME_BERAT">Berat</string>
   <string name="TXT_KEY_CITY_NAME_BERBERA">Berbera</string>
+  <string name="TXT_KEY_CITY_NAME_BERD">Berd</string>
   <string name="TXT_KEY_CITY_NAME_BEREKUM">Berekum</string>
   <string name="TXT_KEY_CITY_NAME_BEREU">Bereu</string>
   <string name="TXT_KEY_CITY_NAME_BERGAMO">Bergamo</string>
@@ -340,6 +350,7 @@
   <string name="TXT_KEY_CITY_NAME_BOOSAASO">Boosaaso</string>
   <string name="TXT_KEY_CITY_NAME_BOTOSANI">Botosani</string>
   <string name="TXT_KEY_CITY_NAME_BOTSHABELO">Botshabelo</string>
+  <string name="TXT_KEY_CITY_NAME_BOURGAS">Burgas</string>
   <string name="TXT_KEY_CITY_NAME_BRAC">Brac</string>
   <string name="TXT_KEY_CITY_NAME_BRACAU">Bacau</string>
   <string name="TXT_KEY_CITY_NAME_BRAHMANBARIA">Brahmanbaria</string>
@@ -387,6 +398,7 @@
   <string name="TXT_KEY_CITY_NAME_CAGAYAN_DE_ORO">Cagayan de Oro</string>
   <string name="TXT_KEY_CITY_NAME_CAGLIARI">Cagliari</string>
   <string name="TXT_KEY_CITY_NAME_CAGUA">Cagua</string>
+  <string name="TXT_KEY_CITY_NAME_CAIMITO">Caimito</string>
   <string name="TXT_KEY_CITY_NAME_CAINTA">Cainta</string>
   <string name="TXT_KEY_CITY_NAME_CAIRO">Il Cairo</string>
   <string name="TXT_KEY_CITY_NAME_CAIT">Cait</string>
@@ -397,6 +409,7 @@
   <string name="TXT_KEY_CITY_NAME_CALAMBA">Calamba</string>
   <string name="TXT_KEY_CITY_NAME_CALEDONII">Caledonii</string>
   <string name="TXT_KEY_CITY_NAME_CALO">Calo</string>
+  <string name="TXT_KEY_CITY_NAME_CAMAGUEY">Puerto Principe</string>
   <string name="TXT_KEY_CITY_NAME_CAMPECHE">Campeche</string>
   <string name="TXT_KEY_CITY_NAME_CAMPINA_GRANDE">Campina Grande</string>
   <string name="TXT_KEY_CITY_NAME_CAMPINAS">Campinas</string>
@@ -409,6 +422,7 @@
   <string name="TXT_KEY_CITY_NAME_CARACAS">Caracas</string>
   <string name="TXT_KEY_CITY_NAME_CARAPICUIBA">Carapicuiba</string>
   <string name="TXT_KEY_CITY_NAME_CARDENAS">Cárdenas del Río</string>
+  <string name="TXT_KEY_CITY_NAME_CARIDAD">Caridad</string>
   <string name="TXT_KEY_CITY_NAME_CARLETONVILLE">Carletonville</string>
   <string name="TXT_KEY_CITY_NAME_CARNOCACAE">Carnocacae</string>
   <string name="TXT_KEY_CITY_NAME_CARTEIA">Carteia</string>
@@ -424,6 +438,8 @@
   <string name="TXT_KEY_CITY_NAME_CAVTAT">Cavtat</string>
   <string name="TXT_KEY_CITY_NAME_CAXIAS_DO_SUL">Caxias Do Sul</string>
   <string name="TXT_KEY_CITY_NAME_CAYENNE">Cayenne</string>
+  <string name="TXT_KEY_CITY_NAME_CAYO_COCO">Cayo Coco</string>
+  <string name="TXT_KEY_CITY_NAME_CAYO_LARGO">Cayo Largo del Sur</string>
   <string name="TXT_KEY_CITY_NAME_CE">Ce</string>
   <string name="TXT_KEY_CITY_NAME_CEBU">Cebu</string>
   <string name="TXT_KEY_CITY_NAME_CEEK">Ceek</string>
@@ -473,7 +489,10 @@
   <string name="TXT_KEY_CITY_NAME_CHUMASH">Chumash</string>
   <string name="TXT_KEY_CITY_NAME_CHUQUISACA">Chuquisaca</string>
   <string name="TXT_KEY_CITY_NAME_CIBECUE">Cibecue</string>
+  <string name="TXT_KEY_CITY_NAME_CIEGO_DE_AVILA">Ciego de Ávila</string>
+  <string name="TXT_KEY_CITY_NAME_CIENFUEGOS">Cienfuegos</string>
   <string name="TXT_KEY_CITY_NAME_CILEGON">Cilegon</string>
+  <string name="TXT_KEY_CITY_NAME_CILICIA">Cilicia</string>
   <string name="TXT_KEY_CITY_NAME_CIMAHI">Cimahi</string>
   <string name="TXT_KEY_CITY_NAME_CINTA_LARGA">Cinta Larga</string>
   <string name="TXT_KEY_CITY_NAME_CIREBON">Cirebon</string>
@@ -484,8 +503,10 @@
   <string name="TXT_KEY_CITY_NAME_CLEVSIN">Clevsin</string>
   <string name="TXT_KEY_CITY_NAME_CLUJNAPOCA">Cluj-Napoca</string>
   <string name="TXT_KEY_CITY_NAME_COBA">Coba</string>
+  <string name="TXT_KEY_CITY_NAME_COBRE">Santa Clara del Cobre</string>
   <string name="TXT_KEY_CITY_NAME_COCHITI">Cochiti</string>
   <string name="TXT_KEY_CITY_NAME_COLIMA">Colima</string>
+  <string name="TXT_KEY_CITY_NAME_COLON">Colón</string>
   <string name="TXT_KEY_CITY_NAME_COLONIA">Colonia Agrippensia</string>
   <string name="TXT_KEY_CITY_NAME_COMILLA">Comilla</string>
   <string name="TXT_KEY_CITY_NAME_COMO">Como</string>
@@ -561,6 +582,7 @@
   <string name="TXT_KEY_CITY_NAME_DIEN_BIEN_PHU">Dien Bien Phu</string>
   <string name="TXT_KEY_CITY_NAME_DIERE">Diere</string>
   <string name="TXT_KEY_CITY_NAME_DIFFA">Diffa</string>
+  <string name="TXT_KEY_CITY_NAME_DILMUN">Dilmun</string>
   <string name="TXT_KEY_CITY_NAME_DIMNAT_KHADIR">Dimnat Khadir</string>
   <string name="TXT_KEY_CITY_NAME_DINAJPUR">Dinajpur</string>
   <string name="TXT_KEY_CITY_NAME_DINAS_EIDDYN">Dinas Eiddyn</string>
@@ -568,6 +590,7 @@
   <string name="TXT_KEY_CITY_NAME_DISTAYOHI">Distayohi</string>
   <string name="TXT_KEY_CITY_NAME_DJADO">Djado</string>
   <string name="TXT_KEY_CITY_NAME_DJAKOVO">Djakovo</string>
+  <string name="TXT_KEY_CITY_NAME_DOBRICH">Dobrič</string>
   <string name="TXT_KEY_CITY_NAME_DOGONDOUTCHI">Dogondoutchi</string>
   <string name="TXT_KEY_CITY_NAME_DOKIDAUA">Dokidaua</string>
   <string name="TXT_KEY_CITY_NAME_DOME">Dome</string>
@@ -581,6 +604,7 @@
   <string name="TXT_KEY_CITY_NAME_DUBROVNIK">Dubrovnik</string>
   <string name="TXT_KEY_CITY_NAME_DUCOS">Ducos</string>
   <string name="TXT_KEY_CITY_NAME_DUGILUYI">Dugiluyi</string>
+  <string name="TXT_KEY_CITY_NAME_DUMYAT">Dumyat</string>
   <string name="TXT_KEY_CITY_NAME_DUNBLANE">Dunblane</string>
   <string name="TXT_KEY_CITY_NAME_DUNDURN">Dundurn</string>
   <string name="TXT_KEY_CITY_NAME_DUNEDIN">Dunedin</string>
@@ -590,6 +614,7 @@
   <string name="TXT_KEY_CITY_NAME_DURANGO">Durango</string>
   <string name="TXT_KEY_CITY_NAME_DURBAN">Durban</string>
   <string name="TXT_KEY_CITY_NAME_DURRES">Durres</string>
+  <string name="TXT_KEY_CITY_NAME_DVIN">Dvin</string>
   <string name="TXT_KEY_CITY_NAME_DZI_LIKESILAN">Dzi Likesilan</string>
   <string name="TXT_KEY_CITY_NAME_EBLA">Ebla</string>
   <string name="TXT_KEY_CITY_NAME_EBUSUS">Ebusus</string>
@@ -601,6 +626,7 @@
   <string name="TXT_KEY_CITY_NAME_EGO">Ego</string>
   <string name="TXT_KEY_CITY_NAME_EGOR">Egor</string>
   <string name="TXT_KEY_CITY_NAME_EHOR">Ehor</string>
+  <string name="TXT_KEY_CITY_NAME_EJMIASIN">Vagharshapat</string>
   <string name="TXT_KEY_CITY_NAME_EJURA">Ejura</string>
   <string name="TXT_KEY_CITY_NAME_EKBATANA">Ekbatana</string>
   <string name="TXT_KEY_CITY_NAME_EKO">Eko</string>
@@ -621,6 +647,7 @@
   <string name="TXT_KEY_CITY_NAME_EPIDII">Epidii</string>
   <string name="TXT_KEY_CITY_NAME_EPWORTH">Epworth</string>
   <string name="TXT_KEY_CITY_NAME_ERAKLEA">Eraklea</string>
+  <string name="TXT_KEY_CITY_NAME_ERIZA">Eriza</string>
   <string name="TXT_KEY_CITY_NAME_ERZURUM">Erzurum</string>
   <string name="TXT_KEY_CITY_NAME_ESBJERG">Esbjerg</string>
   <string name="TXT_KEY_CITY_NAME_ESLAMSHAHR">Eslamshahr</string>
@@ -668,6 +695,7 @@
   <string name="TXT_KEY_CITY_NAME_FUSTAT">Fustat</string>
   <string name="TXT_KEY_CITY_NAME_GAALKACYO">Gaalkacyo</string>
   <string name="TXT_KEY_CITY_NAME_GABAI">Gabai</string>
+  <string name="TXT_KEY_CITY_NAME_GABROVO">Gabrovo</string>
   <string name="TXT_KEY_CITY_NAME_GADES">Gades</string>
   <string name="TXT_KEY_CITY_NAME_GAGRA">Gagra</string>
   <string name="TXT_KEY_CITY_NAME_GAIMONOV">Gaimonov</string>
@@ -676,9 +704,11 @@
   <string name="TXT_KEY_CITY_NAME_GANDAJIKA">Gandajika</string>
   <string name="TXT_KEY_CITY_NAME_GANDARIS">Gandaris</string>
   <string name="TXT_KEY_CITY_NAME_GAO">Gao</string>
+  <string name="TXT_KEY_CITY_NAME_GARNI">Garni</string>
   <string name="TXT_KEY_CITY_NAME_GAROUA">Garoua</string>
   <string name="TXT_KEY_CITY_NAME_GAROWE">Garowe</string>
   <string name="TXT_KEY_CITY_NAME_GAULOS">Gaulos</string>
+  <string name="TXT_KEY_CITY_NAME_GAUNABO">Gaunabo</string>
   <string name="TXT_KEY_CITY_NAME_GAUTIGOTH">Gautigoth</string>
   <string name="TXT_KEY_CITY_NAME_GAVIAO">Gaviao</string>
   <string name="TXT_KEY_CITY_NAME_GAZA">Gaza</string>
@@ -717,12 +747,14 @@
   <string name="TXT_KEY_CITY_NAME_GUADALAJARA">Guadalajara</string>
   <string name="TXT_KEY_CITY_NAME_GUAJA">Guaja</string>
   <string name="TXT_KEY_CITY_NAME_GUALEGUAYCHU">GualeguayChu</string>
+  <string name="TXT_KEY_CITY_NAME_GUANABACOA">Guanabacoa</string>
   <string name="TXT_KEY_CITY_NAME_GUANARE">Guanare</string>
   <string name="TXT_KEY_CITY_NAME_GUANTANAMO">Guantanamo</string>
   <string name="TXT_KEY_CITY_NAME_GUARANI">Guarani</string>
   <string name="TXT_KEY_CITY_NAME_GUARENAS">Guarenas</string>
   <string name="TXT_KEY_CITY_NAME_GUATIRE">Guatire</string>
   <string name="TXT_KEY_CITY_NAME_GUBBI_GUBBI">Gubbi Gubbi</string>
+  <string name="TXT_KEY_CITY_NAME_GUINES">Guînes</string>
   <string name="TXT_KEY_CITY_NAME_GUJRANWALA">Gujranwala</string>
   <string name="TXT_KEY_CITY_NAME_GUJRAT">Gujrat</string>
   <string name="TXT_KEY_CITY_NAME_GUNAI">Gunai</string>
@@ -732,6 +764,7 @@
   <string name="TXT_KEY_CITY_NAME_GUUGU_YIMITHIRR">Guugu Yimithirr</string>
   <string name="TXT_KEY_CITY_NAME_GWALIER">Gwalier</string>
   <string name="TXT_KEY_CITY_NAME_GWERU">Gweru</string>
+  <string name="TXT_KEY_CITY_NAME_GYUMRI">Gyumri</string>
   <string name="TXT_KEY_CITY_NAME_HADERSLEV">Haderslev</string>
   <string name="TXT_KEY_CITY_NAME_HADITHA">Haditha</string>
   <string name="TXT_KEY_CITY_NAME_HADRIANI">Forum Hadriani</string>
@@ -782,12 +815,14 @@
   <string name="TXT_KEY_CITY_NAME_HOHOE">Hohoe</string>
   <string name="TXT_KEY_CITY_NAME_HOHOKAM">Hohokam</string>
   <string name="TXT_KEY_CITY_NAME_HOLBAEK">Holbaek</string>
+  <string name="TXT_KEY_CITY_NAME_HOLGUIN">Holguín</string>
   <string name="TXT_KEY_CITY_NAME_HOLSTEBRO">Holstebro</string>
   <string name="TXT_KEY_CITY_NAME_HOPI">Hopi</string>
   <string name="TXT_KEY_CITY_NAME_HORSENS">Horsens</string>
   <string name="TXT_KEY_CITY_NAME_HORSHOLM">Horsholm</string>
   <string name="TXT_KEY_CITY_NAME_HOTAN">Hotan</string>
   <string name="TXT_KEY_CITY_NAME_HRADEC_KRALOVE">Hradec Kralove</string>
+  <string name="TXT_KEY_CITY_NAME_HRAZDAN">Hrazdan</string>
   <string name="TXT_KEY_CITY_NAME_HUALPEN">Hualpen</string>
   <string name="TXT_KEY_CITY_NAME_HUAMBO">Huambo</string>
   <string name="TXT_KEY_CITY_NAME_HUANCACO">Huancaco</string>
@@ -807,6 +842,7 @@
   <string name="TXT_KEY_CITY_NAME_IFE">Ife</string>
   <string name="TXT_KEY_CITY_NAME_IGILGILIS">Igilgilis</string>
   <string name="TXT_KEY_CITY_NAME_IHIMWIRIN">Ihimwirin</string>
+  <string name="TXT_KEY_CITY_NAME_IJEVAN">Ijevan</string>
   <string name="TXT_KEY_CITY_NAME_IKAST">Ikast</string>
   <string name="TXT_KEY_CITY_NAME_IKONGO">Ikongo</string>
   <string name="TXT_KEY_CITY_NAME_IKORODU">Ikorodu</string>
@@ -873,6 +909,7 @@
   <string name="TXT_KEY_CITY_NAME_KABWE">Kabwe</string>
   <string name="TXT_KEY_CITY_NAME_KADOMA">Kadoma</string>
   <string name="TXT_KEY_CITY_NAME_KADUNA">Kaduna</string>
+  <string name="TXT_KEY_CITY_NAME_KAFR_AD_DAWWAR">Kafr al-Dawār</string>
   <string name="TXT_KEY_CITY_NAME_KAINAI">Kainai</string>
   <string name="TXT_KEY_CITY_NAME_KAJAANI">Kajaani</string>
   <string name="TXT_KEY_CITY_NAME_KAKATHIOKERTA">Kakathiokerta</string>
@@ -887,10 +924,13 @@
   <string name="TXT_KEY_CITY_NAME_KANANGA">Kananga</string>
   <string name="TXT_KEY_CITY_NAME_KANAUJ">Kanauj</string>
   <string name="TXT_KEY_CITY_NAME_KANDAHAR">Kandahar</string>
+  <string name="TXT_KEY_CITY_NAME_KANDYAGASH">Qandyaǧaš</string>
   <string name="TXT_KEY_CITY_NAME_KANGJU">Kangju</string>
   <string name="TXT_KEY_CITY_NAME_KANO">Kano</string>
+  <string name="TXT_KEY_CITY_NAME_KAPAN">Kapan</string>
   <string name="TXT_KEY_CITY_NAME_KAPISA">Kapisa</string>
   <string name="TXT_KEY_CITY_NAME_KARACHI">Karachi</string>
+  <string name="TXT_KEY_CITY_NAME_KARAGANDA">Karaganda</string>
   <string name="TXT_KEY_CITY_NAME_KARAJ">Karaj</string>
   <string name="TXT_KEY_CITY_NAME_KARAMAY">Karamay</string>
   <string name="TXT_KEY_CITY_NAME_KARBALA">Karbala</string>
@@ -900,6 +940,7 @@
   <string name="TXT_KEY_CITY_NAME_KARMANA">Karmana</string>
   <string name="TXT_KEY_CITY_NAME_KARMEL">Karmel</string>
   <string name="TXT_KEY_CITY_NAME_KARO">Karo</string>
+  <string name="TXT_KEY_CITY_NAME_KARS">Qers</string>
   <string name="TXT_KEY_CITY_NAME_KARSIDAUA">Karsidaua</string>
   <string name="TXT_KEY_CITY_NAME_KARTAIA">Kartaia</string>
   <string name="TXT_KEY_CITY_NAME_KARVINA">Karvina</string>
@@ -911,6 +952,7 @@
   <string name="TXT_KEY_CITY_NAME_KAUSAMBI">Kausambi</string>
   <string name="TXT_KEY_CITY_NAME_KAWIYI">Kawiyi</string>
   <string name="TXT_KEY_CITY_NAME_KAYTEJ">Kaytej</string>
+  <string name="TXT_KEY_CITY_NAME_KAZANLAK">Kazanlak</string>
   <string name="TXT_KEY_CITY_NAME_KEDIRI">Kediri</string>
   <string name="TXT_KEY_CITY_NAME_KELERMES">Kelermes</string>
   <string name="TXT_KEY_CITY_NAME_KENDARI">Kendari</string>
@@ -958,6 +1000,7 @@
   <string name="TXT_KEY_CITY_NAME_KOHAT">Kohat</string>
   <string name="TXT_KEY_CITY_NAME_KOKATHA">Kokatha</string>
   <string name="TXT_KEY_CITY_NAME_KOKKOLA">Kokkola</string>
+  <string name="TXT_KEY_CITY_NAME_KOKSHETAU">Kökşetaw</string>
   <string name="TXT_KEY_CITY_NAME_KOLDING">Kolding</string>
   <string name="TXT_KEY_CITY_NAME_KOLONAE">Kolonae</string>
   <string name="TXT_KEY_CITY_NAME_KOLWEZI">Kolwezi</string>
@@ -971,8 +1014,10 @@
   <string name="TXT_KEY_CITY_NAME_KORTRIJK">Kortrijk</string>
   <string name="TXT_KEY_CITY_NAME_KOSICE">Kosice</string>
   <string name="TXT_KEY_CITY_NAME_KOSO">Koso</string>
+  <string name="TXT_KEY_CITY_NAME_KOSTANAY">Qostanay</string>
   <string name="TXT_KEY_CITY_NAME_KOSTROMSKAYA">Kostromskaya</string>
   <string name="TXT_KEY_CITY_NAME_KOTA_BATU">Kota Batu</string>
+  <string name="TXT_KEY_CITY_NAME_KOTAYK">Kotayk</string>
   <string name="TXT_KEY_CITY_NAME_KOTKA">Kotka</string>
   <string name="TXT_KEY_CITY_NAME_KOUNGOU">Koungou</string>
   <string name="TXT_KEY_CITY_NAME_KOUTOU">Koutou</string>
@@ -998,6 +1043,7 @@
   <string name="TXT_KEY_CITY_NAME_KUSINARA">Kusinara</string>
   <string name="TXT_KEY_CITY_NAME_KUT">Kut</string>
   <string name="TXT_KEY_CITY_NAME_KUTAISI">Kutaisi</string>
+  <string name="TXT_KEY_CITY_NAME_KUTMICHEVITSA">Kutmichevitsa</string>
   <string name="TXT_KEY_CITY_NAME_KUYTUN">Kuytun</string>
   <string name="TXT_KEY_CITY_NAME_KWEKWE">Kwekwe</string>
   <string name="TXT_KEY_CITY_NAME_KYTOROS">Kytoros</string>
@@ -1081,9 +1127,11 @@
   <string name="TXT_KEY_CITY_NAME_MA_BIJAA_DASLAA">Ma Bijaa Daslaa</string>
   <string name="TXT_KEY_CITY_NAME_MACEIO">Maceio</string>
   <string name="TXT_KEY_CITY_NAME_MACURAP">Macurap</string>
+  <string name="TXT_KEY_CITY_NAME_MADARA">Madara</string>
   <string name="TXT_KEY_CITY_NAME_MADINA">Madina</string>
   <string name="TXT_KEY_CITY_NAME_MAEATAE">Maeatae</string>
   <string name="TXT_KEY_CITY_NAME_MAGADHAPURA">Magadhapura</string>
+  <string name="TXT_KEY_CITY_NAME_MAGAN">Magan</string>
   <string name="TXT_KEY_CITY_NAME_MAGO">Mago</string>
   <string name="TXT_KEY_CITY_NAME_MAHAJANGA">Mahajanga</string>
   <string name="TXT_KEY_CITY_NAME_MAHISSATI">Mahissati</string>
@@ -1431,6 +1479,7 @@
   <string name="TXT_KEY_CITY_NAME_PITYUS">Pityus</string>
   <string name="TXT_KEY_CITY_NAME_PLOCE">Ploce</string>
   <string name="TXT_KEY_CITY_NAME_PLOIESTI">Ploiesti</string>
+  <string name="TXT_KEY_CITY_NAME_PLOVDIV">Filippopoli</string>
   <string name="TXT_KEY_CITY_NAME_PLZEN">Plzen</string>
   <string name="TXT_KEY_CITY_NAME_POINTE_A_PITRE">Pointe a Pitre</string>
   <string name="TXT_KEY_CITY_NAME_POINTE_NOIRE">Pointe Noire</string>
@@ -1487,6 +1536,7 @@
   <string name="TXT_KEY_CITY_NAME_QAHATIKA">Qahatika</string>
   <string name="TXT_KEY_CITY_NAME_QAZVIN">Qazvin</string>
   <string name="TXT_KEY_CITY_NAME_QIANGQU">Qiangqu</string>
+  <string name="TXT_KEY_CITY_NAME_QINA">Qena</string>
   <string name="TXT_KEY_CITY_NAME_QUALATCHEE">Qualatchee</string>
   <string name="TXT_KEY_CITY_NAME_QUECHAN">Quechan</string>
   <string name="TXT_KEY_CITY_NAME_QUEENSTOWN">Queenstown</string>

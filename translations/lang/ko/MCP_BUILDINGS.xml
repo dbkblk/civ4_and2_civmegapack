@@ -2,5 +2,6 @@
 <resources>
   <string name="TXT_KEY_BUILDING_ARSENAL">병기고</string>
   <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">오아시스</string>
+  <string name="TXT_KEY_BUILDING_MEGYPT_EXHIBITION">박람회</string>
   <string name="TXT_KEY_BUILDING_MOCHE_HUACA">우아카</string>
 </resources>

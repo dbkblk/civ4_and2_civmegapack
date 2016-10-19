@@ -1,2 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources/>
+<resources>
+  <string name="TXT_KEY_CIV_ABORIGINES_ADJECTIVE">Aboridžinsko</string>
+  <string name="TXT_KEY_CIV_ABORIGINES_DESC">Aboridžinsko Carstvo</string>
+  <string name="TXT_KEY_CIV_ABORIGINES_SHORT_DESC">Aboridžini</string>
+  <string name="TXT_KEY_CIV_ADJECTIVE_MINOA">Minojsko</string>
+  <string name="TXT_KEY_CIV_AKKADIAN_ADJECTIVE">Akadsko</string>
+  <string name="TXT_KEY_CIV_AKKADIAN_DESC">Akadsko Carstvo</string>
+  <string name="TXT_KEY_CIV_AKKADIAN_SHORT_DESC">Akad</string>
+  <string name="TXT_KEY_CIV_ALBANIA_ADJECTIVE">Albansko</string>
+  <string name="TXT_KEY_CIV_ALBANIA_DESC">Albanija</string>
+  <string name="TXT_KEY_CIV_ALBANIA_SHORT_DESC">Albanija</string>
+  <string name="TXT_KEY_CIV_ANGLO_SAXON_ADJECTIVE">Anglo-saksonsko</string>
+  <string name="TXT_KEY_CIV_ANGLO_SAXON_DESC">Anglo-saksonsko Carstvo</string>
+  <string name="TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC">Anglosaksnonci</string>
+  <string name="TXT_KEY_CIV_ANISHNAABEK_DESC">Algonkuiansko Carstvo</string>
+  <string name="TXT_KEY_CIV_ANISHNAABEK_SHORT_DESC">Algonkuinci</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_ADJECTIVE">Čiroki</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_DESC">Čiroki Indijanci</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_SHORT_DESC">Čiroki</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apači</string>
+  <string name="TXT_KEY_CIV_APACHE_DESC">Apačko Carstvo</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apač</string>
+  <string name="TXT_KEY_CIV_ARGENTINA_ADJECTIVE">Argentinski</string>
+  <string name="TXT_KEY_CIV_ARGENTINA_DESC">Argentinsko Carstvo</string>
+  <string name="TXT_KEY_CIV_ARGENTINA_SHORT_DESC">Argentina</string>
+  <string name="TXT_KEY_CIV_ARMENIA_ADJECTIVE">Jermensko</string>
+  <string name="TXT_KEY_CIV_ARMENIA_DESC">Jermensko Carstvo</string>
+  <string name="TXT_KEY_CIV_ARMENIA_SHORT_DESC">Jermenija</string>
+  <string name="TXT_KEY_CIV_ASHANTI_ADJECTIVE">Ašanti</string>
+  <string name="TXT_KEY_CIV_ASHANTI_DESC">Ašantsko Carstvo</string>
+  <string name="TXT_KEY_CIV_ASHANTI_SHORT_DESC">Ašantian</string>
+  <string name="TXT_KEY_CIV_AUSTRALIA_ADJECTIVE">Australijsko</string>
+  <string name="TXT_KEY_CIV_AUSTRALIA_DESC">Australijsko Carstvo</string>
+  <string name="TXT_KEY_CIV_AUSTRALIA_SHORT_DESC">Australija</string>
+  <string name="TXT_KEY_CIV_AUSTRIA_ADJECTIVE">Austrijanac</string>
+  <string name="TXT_KEY_CIV_AUSTRIA_DESC">Austrijsko Carstvo</string>
+  <string name="TXT_KEY_CIV_AUSTRIA_SHORT_DESC">Austrija</string>
+</resources>

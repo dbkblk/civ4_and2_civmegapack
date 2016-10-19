@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources/>
+<resources>
+  <string name="TXT_KEY_CITY_NAME_AARHUS">Aarhus</string>
+  <string name="TXT_KEY_CITY_NAME_ACOMA">Acoma</string>
+  <string name="TXT_KEY_CITY_NAME_ADEN">Aden</string>
+  <string name="TXT_KEY_CITY_NAME_ALEXANDRIA">Alexandri</string>
+  <string name="TXT_KEY_CITY_NAME_ARMANT">Armant</string>
+  <string name="TXT_KEY_CITY_NAME_ARRETIUM">Arretium</string>
+  <string name="TXT_KEY_CITY_NAME_ARTAXATA">Artaxata</string>
+  <string name="TXT_KEY_CITY_NAME_ASHUR">Ashur</string>
+  <string name="TXT_KEY_CITY_NAME_ASYUT">Asyut</string>
+  <string name="TXT_KEY_CITY_NAME_AYODHYA">Ayodhya</string>
+  <string name="TXT_KEY_CITY_NAME_ROME">Rome</string>
+</resources>

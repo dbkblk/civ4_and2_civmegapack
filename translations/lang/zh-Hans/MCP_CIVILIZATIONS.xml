@@ -26,6 +26,8 @@
   <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">玻利尼西亚</string>
   <string name="TXT_KEY_CIV_SCYTHIA_ADJECTIVE">西徐亚</string>
   <string name="TXT_KEY_CIV_TROY_SHORT_DESC">特洛伊</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_SHORT_DESC">西印度群岛</string>
   <string name="TXT_KEY_CIV_XIONGNU_ADJECTIVE">匈奴</string>
   <string name="TXT_KEY_CIV_XIONGNU_SHORT_DESC">匈奴</string>
+  <string name="TXT_KEY_CIV_YEMEN_SHORT_DESC">也门</string>
 </resources>

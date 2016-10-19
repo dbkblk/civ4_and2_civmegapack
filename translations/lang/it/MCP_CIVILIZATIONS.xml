@@ -88,6 +88,9 @@
   <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">finlandese</string>
   <string name="TXT_KEY_CIV_FINLAND_DESC">Impero finlandese</string>
   <string name="TXT_KEY_CIV_FINLAND_SHORT_DESC">Finlandia</string>
+  <string name="TXT_KEY_CIV_GEORGIA_ADJECTIVE">georgiano</string>
+  <string name="TXT_KEY_CIV_GEORGIA_DESC">Impero georgiano</string>
+  <string name="TXT_KEY_CIV_GEORGIA_SHORT_DESC">Georgia</string>
   <string name="TXT_KEY_CIV_GETAI_ADJECTIVE">Geton</string>
   <string name="TXT_KEY_CIV_GETAI_DESC">Getic Empire</string>
   <string name="TXT_KEY_CIV_GETAI_SHORT_DESC">Getai</string>
@@ -124,6 +127,7 @@
   <string name="TXT_KEY_CIV_ITALY_DESC">Impero italiano</string>
   <string name="TXT_KEY_CIV_ITALY_SHORT_DESC">Italia</string>
   <string name="TXT_KEY_CIV_KANEMBORNU_ADJECTIVE">Kanem-Bornu</string>
+  <string name="TXT_KEY_CIV_KANEMBORNU_DESC">Impero di Kanem-Bornu</string>
   <string name="TXT_KEY_CIV_KANEMBORNU_SHORT_DESC">Kanem-Bornu</string>
   <string name="TXT_KEY_CIV_KAZAKH_ADJECTIVE">cazaco</string>
   <string name="TXT_KEY_CIV_KAZAKH_DESC">Impero cazaco</string>
@@ -252,7 +256,11 @@
   <string name="TXT_KEY_CIV_WALES_ADJECTIVE">gallese</string>
   <string name="TXT_KEY_CIV_WALES_DESC">Impero gallese</string>
   <string name="TXT_KEY_CIV_WALES_SHORT_DESC">Galles</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_ADJECTIVE">delle Indie occidentali</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_DESC">Impero delle Indie occidentali</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_SHORT_DESC">Indie occidentali</string>
   <string name="TXT_KEY_CIV_XIONGNU_ADJECTIVE">Xiongnu</string>
+  <string name="TXT_KEY_CIV_XIONGNU_DESC">Impero Xiongnu</string>
   <string name="TXT_KEY_CIV_XIONGNU_SHORT_DESC">Xiongnu</string>
   <string name="TXT_KEY_CIV_YEMEN_ADJECTIVE">yemenita</string>
   <string name="TXT_KEY_CIV_YEMEN_DESC">Impero dello Yemen</string>

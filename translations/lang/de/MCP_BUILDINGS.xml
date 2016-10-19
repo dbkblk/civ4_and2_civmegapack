@@ -1,13 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="TXT_KEY_BUILDING_ABORIGINES_BORARING">Boraring</string>
+  <string name="TXT_KEY_BUILDING_ABORIGINES_BORARING_STRATEGY">The Aborigines ersetzen den [COLOR_BUILDING_TEXT]Hinkelstein[COLOR_REVERT] durch denwith the [COLOR_BUILDING_TEXT]Boraring[COLOR_REVERT], welcher günstiger zu bauen ist.</string>
   <string name="TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR">Tempel von Ishtar</string>
+  <string name="TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR_STRATEGY">Ein [COLOR_BUILDING_TEXT]Tempel von Ishtar[COLOR_REVERT] ist ein [COLOR_BUILDING_TEXT]Bordell[COLOR_REVERT], das zwei Priester erlaubt.</string>
   <string name="TXT_KEY_BUILDING_ALBANIA_ILLOGOR">Llogor</string>
+  <string name="TXT_KEY_BUILDING_ALBANIA_ILLOGOR_STRATEGY">Die [COLOR_BUILDING_TEXT]Garnison[COLOR_REVERT] wird durch [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in der Albanischen Zivilisation ersetzt. Es gibt Schießpulver-Einheiten zusätzliche Erfahrung.</string>
   <string name="TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL">Versammlungshügel</string>
   <string name="TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL_STRATEGY">in German</string>
   <string name="TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN">Midewiwin</string>
+  <string name="TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_STRATEGY">[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (der Ersatz der Anishnaabek für den [COLOR_BUILDING_TEXT]Medizinmann[COLOR_REVERT]) ermöglichen es dir, pro Zug 1 zusätzlichen Bürger in einen Wissenschaftler zu verwandeln.</string>
   <string name="TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI">Didanawisgi</string>
   <string name="TXT_KEY_BUILDING_APACHE_BUTCHER">Smoke Haus</string>
+  <string name="TXT_KEY_BUILDING_APACHE_BUTCHER_STRATEGY">Das [COLOR_BUILDING_TEXT]Smoke Haus[COLOR_REVERT] erhöht den Wohlstand einer Stadt. Sie erhöhen auch die Zufriedenheit einer Stadt mit Zugang zu [COLOR_HIGHLIGHT_TEXT]Fellenz[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Elfenbein[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Seide[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Walen[COLOR_REVERT], or[COLOR_HIGHLIGHT_TEXT]Pferden[COLOR_REVERT].</string>
   <string name="TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO">Tanzstudio</string>
   <string name="TXT_KEY_BUILDING_ARMENIA_KHACHKAR">Khachkar</string>
   <string name="TXT_KEY_BUILDING_ARMUARIE">Armuarie</string>
@@ -21,6 +26,7 @@
   <string name="TXT_KEY_BUILDING_BATAVII_STABLE">Batavische Stallungen</string>
   <string name="TXT_KEY_BUILDING_BATAVII_STABLE_STRATEGY">The [COLOR_BUILDING_TEXT]Batavian Stable[COLOR_REVERT] replaces the [COLOR_BUILDING_TEXT]Knight\'s Stable[COLOR_REVERT] and provides an additional +5exp for all mounted units in the city in which it is built</string>
   <string name="TXT_KEY_BUILDING_BOLIVARIAN_CHUAOFIELD">Chuao Feld</string>
+  <string name="TXT_KEY_BUILDING_BOULEVARD_CIRCLE">Boulevard-Zirkel</string>
   <string name="TXT_KEY_BUILDING_BRAZIL_ESTADIO">Estadio de Futebol</string>
   <string name="TXT_KEY_BUILDING_BROCH">Broch</string>
   <string name="TXT_KEY_BUILDING_BROCH_STRATEGY">Die [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], die Schotten Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</string>
@@ -35,6 +41,7 @@
   <string name="TXT_KEY_BUILDING_CHORTEN_STRATEGY">Die [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], der Tibetische Ersatz für die [COLOR_BUILDING_TEXT]Denkmal[COLOR_REVERT], bietet bonus Glück.</string>
   <string name="TXT_KEY_BUILDING_CLOISTER">Kreuzgang</string>
   <string name="TXT_KEY_BUILDING_CLOISTER_STRATEGY">Das [COLOR_BUILDING_TEXT]Kreuzgang[COLOR_REVERT], der Lombard Wiedereinbau für das [COLOR_BUILDING_TEXT] Arena[COLOR_REVERT], adds a free priest.</string>
+  <string name="TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE">Kaffee-Gut</string>
   <string name="TXT_KEY_BUILDING_CONGO_NKISI">Nkisi</string>
   <string name="TXT_KEY_BUILDING_CORTEGIANE_ONESTE_STRATEGY">A [COLOR_BUILDING_TEXT]Cortigiane Oneste[COLOR_REVERT]is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that gives a free Artist.</string>
   <string name="TXT_KEY_BUILDING_CROATIA_KINGSTOWER">Königsturm</string>
@@ -52,11 +59,13 @@
   <string name="TXT_KEY_BUILDING_GREAT_TEMPLE">Venus Tempel</string>
   <string name="TXT_KEY_BUILDING_HAMBAR">Hambar</string>
   <string name="TXT_KEY_BUILDING_HAMBAR_STRATEGY">Die [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], die Serbisch Ersatz für die [COLOR_BUILDING_TEXT]Kornkammer[COLOR_REVERT], grants additional food  with corn.</string>
+  <string name="TXT_KEY_BUILDING_HARAPPAN_SEWER">Indus Kanal</string>
   <string name="TXT_KEY_BUILDING_HARAPPAN_SEWER_STRATEGY">Die [COLOR_BUILDING_TEXT]Kanalisation[COLOR_REVERT], die Harappan Ersatz für die [COLOR_BUILDING_TEXT]Sewer System[COLOR_REVERT] are available earlier and reduced espionage penalty.</string>
   <string name="TXT_KEY_BUILDING_HOCKEY_RINK">Hockeyeisbahnen</string>
   <string name="TXT_KEY_BUILDING_HOCKEY_RINK_STRATEGY">Die [COLOR_BUILDING_TEXT]Hockeyeisbahnen[COLOR_REVERT], die Kanadisch Ersatz für die [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], offers a free Celebrity in exchange for slight Maintenace.</string>
   <string name="TXT_KEY_BUILDING_HUNG_VEGVAR">Végvár</string>
   <string name="TXT_KEY_BUILDING_HUNS_CATTLE">Rinderherde</string>
+  <string name="TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS">Gewürz-Bestände</string>
   <string name="TXT_KEY_BUILDING_IRAN_SCIENCE">IMIDRO</string>
   <string name="TXT_KEY_BUILDING_IRAQ_MESMUSEUM">Mesopotamisches Museum</string>
   <string name="TXT_KEY_BUILDING_ITALY_CARNIVAL">Karneval</string>
@@ -65,14 +74,18 @@
   <string name="TXT_KEY_BUILDING_KOTEL">Kotel</string>
   <string name="TXT_KEY_BUILDING_KURGAN">Kurgan</string>
   <string name="TXT_KEY_BUILDING_KURGAN_STRATEGY">[COLOR_BUILDING_TEXT]Monumente[COLOR_REVERT] erhöhen den kulturellen Wert einer Stadt und ermöglichen die frühzeitige Ausdehnung der Stadtgrenzen. </string>
+  <string name="TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE">Berber Weide</string>
+  <string name="TXT_KEY_BUILDING_MAJAPAHIT_CAITRA">Caitra Tribut</string>
   <string name="TXT_KEY_BUILDING_MALAGASY_SALEGYHALL">Salegy Halle</string>
   <string name="TXT_KEY_BUILDING_MANDE_PORO">Poro</string>
   <string name="TXT_KEY_BUILDING_MAPUCHE_MOHEDAN">Toqui Hütte</string>
   <string name="TXT_KEY_BUILDING_MARAE">Marae</string>
   <string name="TXT_KEY_BUILDING_MARAE_STRATEGY">Die [COLOR_BUILDING_TEXT]Marae[COLOR_REVERT], die Polynesische Ersatz für die [COLOR_BUILDING_TEXT]Altar[COLOR_REVERT], bietet bonus kultur.</string>
+  <string name="TXT_KEY_BUILDING_MEGARON">Megaron</string>
   <string name="TXT_KEY_BUILDING_MEGYPT_EXHIBITION">Ausstellung</string>
   <string name="TXT_KEY_BUILDING_MENARA">Menara</string>
   <string name="TXT_KEY_BUILDING_MENARA_STRATEGY">Das [COLOR_BUILDING_TEXT]Menara [COLOR_REVERT], der Chamwiedereinbau für das [COLOR_BUILDING_TEXT]Schloß[COLOR_REVERT], liefert ein Hauptglück in deiner Stadt</string>
+  <string name="TXT_KEY_BUILDING_MEXICO_CHARREADA">Charreada Arena</string>
   <string name="TXT_KEY_BUILDING_MINOA_ANAKTORA">Anaktora</string>
   <string name="TXT_KEY_BUILDING_MOCHE_HUACA">Huaca</string>
   <string name="TXT_KEY_BUILDING_MUTAPA_ZIMBA">Zimba</string>
@@ -83,6 +96,7 @@
   <string name="TXT_KEY_BUILDING_PAKISTAN_ISI">ISI</string>
   <string name="TXT_KEY_BUILDING_PARTHIA">Frahangestan</string>
   <string name="TXT_KEY_BUILDING_PHILIPPINES_NIPA_HUT">Nipahütte</string>
+  <string name="TXT_KEY_BUILDING_PHOENICIA_DYE_FACILITY">Färbe-Anlage</string>
   <string name="TXT_KEY_BUILDING_PICTS_CRANNOG">Crannog</string>
   <string name="TXT_KEY_BUILDING_PILIAKALNIS">Piliakalnis</string>
   <string name="TXT_KEY_BUILDING_PILIAKALNIS_STRATEGY">Die [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], die Litauische Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], bietet bonus gesundheit.</string>
@@ -90,6 +104,7 @@
   <string name="TXT_KEY_BUILDING_RING">Kurash Ring</string>
   <string name="TXT_KEY_BUILDING_RINGFORT">Ringwall</string>
   <string name="TXT_KEY_BUILDING_RINGFORT_STRATEGY">Die [COLOR_BUILDING_TEXT]Ringfort[COLOR_REVERT], die Irische Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], bietet bonus verteidigung.</string>
+  <string name="TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES">Skythische Stallungen</string>
   <string name="TXT_KEY_BUILDING_SELEUKEION">Seleukeion</string>
   <string name="TXT_KEY_BUILDING_SELJUK_NIZAM">Nizamiyya</string>
   <string name="TXT_KEY_BUILDING_SOMALIA_MOGADISHU">Ajuuraanmarkt</string>
@@ -101,6 +116,7 @@
   <string name="TXT_KEY_BUILDING_TUPI_MALOCA">Maloca</string>
   <string name="TXT_KEY_BUILDING_URHOKPOTA">Urhokpota</string>
   <string name="TXT_KEY_BUILDING_URHOKPOTA_STRATEGY">The [COLOR_BUILDING_TEXT]Urhokpota[COLOR_REVERT] replaces Courthouse and it grants 1 Artist</string>
+  <string name="TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR">Kartätschen-Achse</string>
   <string name="TXT_KEY_BUILDING_VAULTED_GRANARY">Vaulted Getreidespeicher</string>
   <string name="TXT_KEY_BUILDING_VECHE">Wetsche Saal</string>
   <string name="TXT_KEY_BUILDING_VECHE_STRATEGY">[TAB]Die [COLOR_BUILDING_TEXT]Wetsche[COLOR_REVERT], die Ukrainisch Ersatz für die [COLOR_BUILDING_TEXT]Gerichtsgebäude[COLOR_REVERT], bietet Bonus Food.</string>

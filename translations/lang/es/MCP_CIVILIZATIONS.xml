@@ -91,6 +91,9 @@
   <string name="TXT_KEY_CIV_DENMARK_ADJECTIVE">Danés</string>
   <string name="TXT_KEY_CIV_DENMARK_DESC">Imperio danés</string>
   <string name="TXT_KEY_CIV_DENMARK_SHORT_DESC">Dinamarca</string>
+  <string name="TXT_KEY_CIV_DINNEHIH_ADJECTIVE">Dinnehih</string>
+  <string name="TXT_KEY_CIV_DINNEHIH_DESC">Imperio de Dinnehih</string>
+  <string name="TXT_KEY_CIV_DINNEHIH_SHORT_DESC">Dinnehih</string>
   <string name="TXT_KEY_CIV_ETRUSCANS_ADJECTIVE">Etrusco</string>
   <string name="TXT_KEY_CIV_ETRUSCANS_DESC">Imperio etrusco</string>
   <string name="TXT_KEY_CIV_ETRUSCANS_SHORT_DESC">Estruscos</string>
@@ -114,6 +117,7 @@
   <string name="TXT_KEY_CIV_HUNGARY_SHORT_DESC">Hungría</string>
   <string name="TXT_KEY_CIV_HUNS_ADJECTIVE">Húnico</string>
   <string name="TXT_KEY_CIV_HUNS_DESC">Imperio húnico</string>
+  <string name="TXT_KEY_CIV_HUNS_SHORT_DESC">Hunnia</string>
   <string name="TXT_KEY_CIV_HURRIANS_ADJECTIVE">Hurrita</string>
   <string name="TXT_KEY_CIV_HURRIANS_DESC">Hurrita Imperio</string>
   <string name="TXT_KEY_CIV_HURRIANS_SHORT_DESC">Hurritas</string>
@@ -214,6 +218,9 @@
   <string name="TXT_KEY_CIV_PICTS_ADJECTIVE">Picto</string>
   <string name="TXT_KEY_CIV_PICTS_DESC">Imperio picto</string>
   <string name="TXT_KEY_CIV_PICTS_SHORT_DESC">Pictia</string>
+  <string name="TXT_KEY_CIV_PILIWNI_ADJECTIVE">Piliwni</string>
+  <string name="TXT_KEY_CIV_PILIWNI_DESC">Imperio de Piliwni</string>
+  <string name="TXT_KEY_CIV_PILIWNI_SHORT_DESC">Piliwni</string>
   <string name="TXT_KEY_CIV_POLAND_ADJECTIVE">Polaco</string>
   <string name="TXT_KEY_CIV_POLAND_DESC">Polaco Imperio</string>
   <string name="TXT_KEY_CIV_POLAND_SHORT_DESC">Polonia</string>
@@ -239,6 +246,9 @@
   <string name="TXT_KEY_CIV_SERBIA_DESC">Serbio Imperio</string>
   <string name="TXT_KEY_CIV_SERBIA_SHORT_DESC">Serbia</string>
   <string name="TXT_KEY_CIV_SHORT_MINOA">Minoa</string>
+  <string name="TXT_KEY_CIV_SIOUX_ADJECTIVE">Sioux</string>
+  <string name="TXT_KEY_CIV_SIOUX_DESC">Imperio de Sioux</string>
+  <string name="TXT_KEY_CIV_SIOUX_SHORT_DESC">Sioux</string>
   <string name="TXT_KEY_CIV_SOMALIA_ADJECTIVE">Somali</string>
   <string name="TXT_KEY_CIV_SOMALIA_DESC">Somali Empire</string>
   <string name="TXT_KEY_CIV_SOMALIA_SHORT_DESC">Somalia</string>
@@ -263,9 +273,18 @@
   <string name="TXT_KEY_CIV_TROY_ADJECTIVE">Troyano</string>
   <string name="TXT_KEY_CIV_TROY_DESC">Imperio troyano</string>
   <string name="TXT_KEY_CIV_TROY_SHORT_DESC">Troy</string>
+  <string name="TXT_KEY_CIV_TUPI_ADJECTIVE">Tupi</string>
+  <string name="TXT_KEY_CIV_TUPI_DESC">Imperio de Tupi</string>
+  <string name="TXT_KEY_CIV_TUPI_SHORT_DESC">Tupi</string>
   <string name="TXT_KEY_CIV_UKRAINE_ADJECTIVE">Ucraniano</string>
   <string name="TXT_KEY_CIV_UKRAINE_DESC">Ucraniano Imperio</string>
   <string name="TXT_KEY_CIV_UKRAINE_SHORT_DESC">Ucrania</string>
+  <string name="TXT_KEY_CIV_UYGHUR_ADJECTIVE">Uyghur</string>
+  <string name="TXT_KEY_CIV_UYGHUR_DESC">Imperio de Uyghur</string>
+  <string name="TXT_KEY_CIV_UYGHUR_SHORT_DESC">Uyghur</string>
+  <string name="TXT_KEY_CIV_VEDIC_ADJECTIVE">Vedic</string>
+  <string name="TXT_KEY_CIV_VEDIC_DESC">Imperio de Vedic</string>
+  <string name="TXT_KEY_CIV_VEDIC_SHORT_DESC">Vedic</string>
   <string name="TXT_KEY_CIV_VENEZIA_ADJECTIVE">Veneciano</string>
   <string name="TXT_KEY_CIV_VENEZIA_DESC">Imperio veneciano</string>
   <string name="TXT_KEY_CIV_VENEZIA_SHORT_DESC">Venecia</string>
@@ -278,6 +297,9 @@
   <string name="TXT_KEY_CIV_WALES_ADJECTIVE">Galés</string>
   <string name="TXT_KEY_CIV_WALES_DESC">Imperio Galés</string>
   <string name="TXT_KEY_CIV_WALES_SHORT_DESC">País de Gales</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_ADJECTIVE">Indias del Oeste</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_DESC">Imperio de las indias del Oeste</string>
+  <string name="TXT_KEY_CIV_WESTINDIES_SHORT_DESC">Indias del Oeste</string>
   <string name="TXT_KEY_CIV_XIONGNU_ADJECTIVE">Xiongnu</string>
   <string name="TXT_KEY_CIV_XIONGNU_DESC">Imperio xiongnu</string>
   <string name="TXT_KEY_CIV_XIONGNU_SHORT_DESC">Xiongnu</string>

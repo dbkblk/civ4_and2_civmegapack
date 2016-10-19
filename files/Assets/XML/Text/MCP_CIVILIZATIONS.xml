@@ -13,6 +13,7 @@
         <Brazilian>Aborígine</Brazilian>
         <Spanish>Indígena</Spanish>
         <Italian>aborigeno</Italian>
+        <Russian>Аборигенский</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ABORIGINES_DESC</Tag>
@@ -23,6 +24,7 @@
         <Brazilian>Império Aborígine</Brazilian>
         <Spanish>Imperio indígena</Spanish>
         <Italian>Impero aborigeno</Italian>
+        <Russian>Аборигенская империя:Аборигенскую империю:Аборигенской империи:Аборигенской империей:Аборигенской империи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ABORIGINES_SHORT_DESC</Tag>
@@ -32,6 +34,7 @@
         <Brazilian>Aborígines</Brazilian>
         <Spanish>Aborigen</Spanish>
         <Italian>Aborigeno</Italian>
+        <Russian>Аборигены</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ADJECTIVE_MINOA</Tag>
@@ -66,6 +69,7 @@
         <Brazilian>Acadiano</Brazilian>
         <Spanish>Acadio</Spanish>
         <Italian>accadico</Italian>
+        <Russian>Аккадский</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_AKKADIAN_DESC</Tag>
@@ -75,6 +79,7 @@
         <Brazilian>Império Acadiano</Brazilian>
         <Spanish>Imperio acadio</Spanish>
         <Italian>Impero accadico</Italian>
+        <Russian>Аккадская империя:Аккадскую империю:Аккадской империи:Аккадской империей:Аккадской империи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_AKKADIAN_SHORT_DESC</Tag>
@@ -100,6 +105,7 @@
         <Brazilian>Albanês</Brazilian>
         <Spanish>Albano</Spanish>
         <Italian>albanese</Italian>
+        <Russian>Албанский</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ALBANIA_DESC</Tag>
@@ -107,6 +113,7 @@
         <French>Albanie</French>
         <German>Albanien</German>
         <Brazilian>Albânia</Brazilian>
+        <Russian>Албания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ALBANIA_SHORT_DESC</Tag>
@@ -114,6 +121,7 @@
         <French>Albanais</French>
         <German>Albanien</German>
         <Brazilian>Albânia</Brazilian>
+        <Russian>Албания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANGLO_SAXON_ADJECTIVE</Tag>
@@ -127,6 +135,7 @@
         <Brazilian>Anglo-saxão</Brazilian>
         <Spanish>Anglosajón</Spanish>
         <Italian>anglosassone</Italian>
+        <Russian>Англо-Саксонский</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANGLO_SAXON_DESC</Tag>
@@ -136,6 +145,7 @@
         <Brazilian>Império Anglo-Saxão</Brazilian>
         <Spanish>Imperio anglosajón</Spanish>
         <Italian>Impero anglosassone</Italian>
+        <Russian>Англо-Саксонская империя:Англо-Саксонскую империю:Англо-Саксонской империи:Англо-Саксонской империей:Англо-Саксонской империи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC</Tag>
@@ -145,6 +155,7 @@
         <Brazilian>Anglo-Saxões</Brazilian>
         <Spanish>Anglosajones</Spanish>
         <Italian>Anglosassoni</Italian>
+        <Russian>Англо-Саксы</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANISHNAABEK_ADJECTIVE</Tag>
@@ -157,6 +168,7 @@
         <German>Algonkin </German>
         <Brazilian>Algonquino</Brazilian>
         <Spanish>Algonquino</Spanish>
+        <Russian>Алгонкинский</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANISHNAABEK_DESC</Tag>
@@ -165,6 +177,7 @@
         <German>Algonkinisches Reich</German>
         <Brazilian>Império Algonquino</Brazilian>
         <Spanish>Imperio algonquino</Spanish>
+        <Russian>Алгонкинская Империя:Алгонкинскую Империю:Алгонкинской Империи:Алгонкинской Империей:Алгонкинской Империи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANISHNAABEK_SHORT_DESC</Tag>
@@ -172,6 +185,7 @@
         <French>Algonquins</French>
         <German>Algonkin </German>
         <Spanish>Algonquino</Spanish>
+        <Russian>Алгонкин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_ANIYONEGA_ADJECTIVE</Tag>
@@ -796,6 +810,7 @@
         <English>Chile</English>
         <French>Chiliens</French>
         <Italian>Cile</Italian>
+        <Russian>Чили</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CHOLA_ADJECTIVE</Tag>
@@ -812,6 +827,7 @@
         <French>Dynastie Chola</French>
         <Brazilian>Império Chola</Brazilian>
         <Spanish>Imperio chola</Spanish>
+        <German>Chola Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_CHOLA_SHORT_DESC</Tag>
@@ -1044,6 +1060,8 @@
         <English>Dinnehih Empire</English>
         <French>Indiens dinnehihs</French>
         <Brazilian>Império Dinnehih</Brazilian>
+        <German>Dinnehih Reich</German>
+        <Spanish>Imperio de Dinnehih</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_DINNEHIH_SHORT_DESC</Tag>
@@ -1079,6 +1097,7 @@
         <Brazilian>Etruscos</Brazilian>
         <Spanish>Estruscos</Spanish>
         <Italian>Etruria</Italian>
+        <German>Etrusker</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_FINLAND_ADJECTIVE</Tag>
@@ -1135,6 +1154,7 @@
         <German>georgisch</German>
         <Brazilian>Georgiano</Brazilian>
         <Spanish>Georgiano</Spanish>
+        <Italian>georgiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_GEORGIA_DESC</Tag>
@@ -1143,6 +1163,7 @@
         <German>Georgisches Reich</German>
         <Brazilian>Império georgiano</Brazilian>
         <Spanish>Imperio georgiano</Spanish>
+        <Italian>Impero georgiano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_GEORGIA_SHORT_DESC</Tag>
@@ -1652,6 +1673,8 @@
         <French>Royaume du Kanem-Bornou</French>
         <Brazilian>Império de Kanem-Bornu</Brazilian>
         <Spanish>Imperio Kanem-Bornu</Spanish>
+        <German>Kanem-Bornu Reich</German>
+        <Italian>Impero di Kanem-Bornu</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_KANEMBORNU_SHORT_DESC</Tag>
@@ -1791,6 +1814,7 @@
         </French>
         <Spanish>Lombardo</Spanish>
         <Italian>longobardo</Italian>
+        <German>Langobarden</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_LOMBARD_DESC</Tag>
@@ -1856,6 +1880,7 @@
         <French>Royaume de Majapahit</French>
         <Brazilian>Império Majapahit</Brazilian>
         <Spanish>Imperio mayapajit</Spanish>
+        <German>Majapahit Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MAJAPAHIT_SHORT_DESC</Tag>
@@ -1953,6 +1978,7 @@
         <Brazilian>Império Songhai</Brazilian>
         <Spanish>Imperio songhai</Spanish>
         <Italian>Impero songhai</Italian>
+        <German>Songhai Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MANDE_SHORT_DESC</Tag>
@@ -1974,6 +2000,7 @@
         <French>Peuple mapuche</French>
         <Brazilian>Império Mapuche</Brazilian>
         <Spanish>Imperio mapuche</Spanish>
+        <German>Mapuche Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MAPUCHE_SHORT_DESC</Tag>
@@ -2065,6 +2092,7 @@
         <French>Indiens moches</French>
         <Brazilian>Império de Moche</Brazilian>
         <Spanish>Imperio moche</Spanish>
+        <German>Moche Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MOCHE_SHORT_DESC</Tag>
@@ -2087,6 +2115,7 @@
         <French>Empire monomotapa</French>
         <Brazilian>Império de Mutapa</Brazilian>
         <Spanish>Imperio monomotapa</Spanish>
+        <German>Mutapa Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_MUTAPA_SHORT_DESC</Tag>
@@ -2294,6 +2323,7 @@
         <French>Peuple olmèque</French>
         <Brazilian>Império olmeca</Brazilian>
         <Spanish>Imperio olmeca</Spanish>
+        <German>Olmeken Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_OLMEC_SHORT_DESC</Tag>
@@ -2508,6 +2538,7 @@
         </French>
         <Brazilian>Picto</Brazilian>
         <Spanish>Picto</Spanish>
+        <German>Piktisch</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PICTS_DESC</Tag>
@@ -2515,6 +2546,7 @@
         <French>Tribu picte</French>
         <Brazilian>Império dos pictos</Brazilian>
         <Spanish>Imperio picto</Spanish>
+        <German>Piktisches Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PICTS_SHORT_DESC</Tag>
@@ -2536,6 +2568,8 @@
         <English>Piliwni Empire</English>
         <French>Indiens piliwnis</French>
         <Brazilian>Piliwni Império</Brazilian>
+        <German>Piliwni Reich</German>
+        <Spanish>Imperio de Piliwni</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_PILIWNI_SHORT_DESC</Tag>
@@ -2768,6 +2802,7 @@
         <Brazilian>Império escita</Brazilian>
         <Spanish>Imperio escita</Spanish>
         <Italian>Impero della Scizia</Italian>
+        <German>Skythisches Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SCYTHIA_SHORT_DESC</Tag>
@@ -2775,6 +2810,7 @@
         <French>Scythes</French>
         <Spanish>Escitia</Spanish>
         <Italian>Scizia</Italian>
+        <German>Skythien</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SELEUKIA_ADJECTIVE</Tag>
@@ -2860,6 +2896,7 @@
         </French>
         <Brazilian>Seljúcida</Brazilian>
         <Spanish>Selyuq</Spanish>
+        <German>Seldschuken</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SELJUK_DESC</Tag>
@@ -2867,6 +2904,7 @@
         <French>Dynastie Seldjouk</French>
         <Brazilian>Império Seljúcida</Brazilian>
         <Spanish>Imperio selyúcida</Spanish>
+        <German>Seldschukisches Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SELJUK_SHORT_DESC</Tag>
@@ -2874,6 +2912,7 @@
         <French>Seldjoukides</French>
         <Brazilian>Seljúcidas</Brazilian>
         <Spanish>Selyúcidas</Spanish>
+        <German>Seldschuken</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SERBIA_ADJECTIVE</Tag>
@@ -2927,6 +2966,7 @@
         <German>Sioux Reich</German>
         <Brazilian>Império Sioux</Brazilian>
         <Italian>Impero sioux </Italian>
+        <Spanish>Imperio de Sioux</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_SIOUX_SHORT_DESC</Tag>
@@ -3138,6 +3178,7 @@
         <Brazilian>Timúrida</Brazilian>
         <Spanish>Timúrida</Spanish>
         <Italian>timuride</Italian>
+        <German>Timuriden</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TIMURID_DESC</Tag>
@@ -3146,6 +3187,7 @@
         <Brazilian>Império Timúrida</Brazilian>
         <Spanish>Imperio timúrida</Spanish>
         <Italian>Impero timuride</Italian>
+        <German>Timuridisches Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TIMURID_SHORT_DESC</Tag>
@@ -3154,6 +3196,7 @@
         <Brazilian>Timúridas</Brazilian>
         <Spanish>Timúridas</Spanish>
         <Italian>Impero timuride</Italian>
+        <German>Timuriden</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TOLTEC_ADJECTIVE</Tag>
@@ -3166,6 +3209,7 @@
         <Italian>tolteco</Italian>
         <Brazilian>Toltecas</Brazilian>
         <Spanish>Tolteca</Spanish>
+        <German>Tolteken</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TOLTEC_DESC</Tag>
@@ -3174,6 +3218,7 @@
         <Italian>Impero tolteci</Italian>
         <Brazilian>Império tolteca</Brazilian>
         <Spanish>Imperio tolteca</Spanish>
+        <German>Toltekisches Reich</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TOLTEC_SHORT_DESC</Tag>
@@ -3182,6 +3227,7 @@
         <Italian>Toltechi</Italian>
         <Brazilian>Toltecas</Brazilian>
         <Spanish>Toltecas</Spanish>
+        <German>Tolteken</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TROY_ADJECTIVE</Tag>
@@ -3195,6 +3241,7 @@
         <Brazilian>Cavalo de Tróia</Brazilian>
         <Spanish>Troyano</Spanish>
         <Italian>troiano</Italian>
+        <Russian>Троянский</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TROY_DESC</Tag>
@@ -3204,6 +3251,7 @@
         <Brazilian>Império de Tróia</Brazilian>
         <Spanish>Imperio troyano</Spanish>
         <Italian>Impero di Troia</Italian>
+        <Russian>Троянская империя:Троянскую империю:Троянской империи:Троянской империей:Троянской империи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TROY_SHORT_DESC</Tag>
@@ -3236,6 +3284,8 @@
         <English>Tupi Empire</English>
         <French>Peuple tupi</French>
         <Brazilian>Império Tupi</Brazilian>
+        <German>Tupi Reich</German>
+        <Spanish>Imperio de Tupi</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_TUPI_SHORT_DESC</Tag>
@@ -3271,6 +3321,7 @@
         <Italian>Impero ucraino</Italian>
         <Spanish>Ucraniano Imperio</Spanish>
         <Brazilian>Império ucraniano</Brazilian>
+        <Russian>Украинская империя:Украинскую империю:Украинской империи:Украинской империей:Украинской империи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UKRAINE_SHORT_DESC</Tag>
@@ -3279,6 +3330,7 @@
         <Italian>Ucraina</Italian>
         <Spanish>Ucrania</Spanish>
         <Brazilian>Ucrânia</Brazilian>
+        <Russian>Украина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UYGHUR_ADJECTIVE</Tag>
@@ -3289,6 +3341,7 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <Italian>uighuro</Italian>
+        <German>Uyghuren</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UYGHUR_DESC</Tag>
@@ -3296,12 +3349,15 @@
         <French>Peuple ouïghour</French>
         <Brazilian>Império uigur</Brazilian>
         <Italian>Impero degli uighuri</Italian>
+        <German>Uyghurisches Reich</German>
+        <Spanish>Imperio de Uyghur</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_UYGHUR_SHORT_DESC</Tag>
         <English>Uyghur</English>
         <French>Ouïghours</French>
         <Italian>Uighuri</Italian>
+        <German>Uyghuren</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VEDIC_ADJECTIVE</Tag>
@@ -3312,18 +3368,22 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <Brazilian>Védica</Brazilian>
+        <German>Vediken</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VEDIC_DESC</Tag>
         <English>Vedic Empire</English>
         <French>Véda</French>
         <Brazilian>Império védico</Brazilian>
+        <German>Vedisches Reich</German>
+        <Spanish>Imperio de Vedic</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VEDIC_SHORT_DESC</Tag>
         <English>Vedic</English>
         <French>Védiques</French>
         <Brazilian>Védica</Brazilian>
+        <German>Vediken</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_VENEZIA_ADJECTIVE</Tag>
@@ -3451,6 +3511,8 @@
             <Plural>0:0:1:1</Plural>
         </French>
         <German>westindisch</German>
+        <Spanish>Indias del Oeste</Spanish>
+        <Italian>delle Indie occidentali</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_WESTINDIES_DESC</Tag>
@@ -3458,6 +3520,8 @@
         <French>Espace des Caraïbes</French>
         <German>Westindisches Reich</German>
         <Brazilian>Império das Índias ocidentais</Brazilian>
+        <Spanish>Imperio de las indias del Oeste</Spanish>
+        <Italian>Impero delle Indie occidentali</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_WESTINDIES_SHORT_DESC</Tag>
@@ -3465,6 +3529,9 @@
         <French>Caribéens</French>
         <German>West-Indien</German>
         <Brazilian>Índias ocidentais</Brazilian>
+        <Spanish>Indias del Oeste</Spanish>
+        <Italian>Indie occidentali</Italian>
+        <ChineseSimp>西印度群岛</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_XIONGNU_ADJECTIVE</Tag>
@@ -3484,6 +3551,8 @@
         <French>Peuple xiongnu</French>
         <Brazilian>Império Xiongnu</Brazilian>
         <Spanish>Imperio xiongnu</Spanish>
+        <German>Xiongnu Reich</German>
+        <Italian>Impero Xiongnu</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CIV_XIONGNU_SHORT_DESC</Tag>
@@ -3567,5 +3636,6 @@
             <Plural>0</Plural>
         </Spanish>
         <Brazilian>Iêmen</Brazilian>
+        <ChineseSimp>也门</ChineseSimp>
     </TEXT>
 </Civ4GameText>

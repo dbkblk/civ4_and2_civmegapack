@@ -11,6 +11,7 @@
         <Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING_STRATEGY</Tag>
         <English>The Aborigines replace the [COLOR_BUILDING_TEXT]Standing stone[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Bora Ring[COLOR_REVERT], which is cheaper to construct.</English>
         <French>Le [COLOR_BUILDING_TEXT]Standing stone[COLOR_REVERT] est remplacé par le [COLOR_BUILDING_TEXT]cercle bora[COLOR_REVERT] chez les aborigènes, qui est moins cher à construire.</French>
+        <German>The Aborigines ersetzen den [COLOR_BUILDING_TEXT]Hinkelstein[COLOR_REVERT] durch denwith the [COLOR_BUILDING_TEXT]Boraring[COLOR_REVERT], welcher günstiger zu bauen ist.</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR</Tag>
@@ -18,11 +19,14 @@
         <French>Temple d'Ishtar</French>
         <German>Tempel von Ishtar</German>
         <Italian>Tempio di Ishtar</Italian>
+        <Russian>Храм Иштар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR_STRATEGY</Tag>
         <English>A [COLOR_BUILDING_TEXT]Temple of Ishtar[COLOR_REVERT] is a [COLOR_BUILDING_TEXT]Brothel[COLOR_REVERT] that allows two Priests.</English>
         <French>Un [COLOR_BUILDING_TEXT]temple d'Ishtar[COLOR_REVERT] est un [COLOR_BUILDING_TEXT]bordel[COLOR_REVERT] qui permet deux prêtres.</French>
+        <German>Ein [COLOR_BUILDING_TEXT]Tempel von Ishtar[COLOR_REVERT] ist ein [COLOR_BUILDING_TEXT]Bordell[COLOR_REVERT], das zwei Priester erlaubt.</German>
+        <Italian>Il [COLOR_BUILDING_TEXT]Tempio di Ishtar[COLOR_REVERT] è un [COLOR_BUILDING_TEXT]Bordello[COLOR_REVERT] che fornisce due sacerdoti gratuti alla città.</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR</Tag>
@@ -32,12 +36,14 @@
         <Tag>TXT_KEY_BUILDING_ALBANIA_ILLOGOR_STRATEGY</Tag>
         <English>The [COLOR_BUILDING_TEXT]Garrison[COLOR_REVERT] is replaced by the [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in the Albanian civilization. It gives Gunpowder units extra experience.</English>
         <French>La [COLOR_BUILDING_TEXT]caserne[COLOR_REVERT] est remplacée par le [COLOR_BUILDING_TEXT]llogor[COLOR_REVERT] dans la civilisation albanais. Il procure de l'expérience supplémentaire aux unités à poudre à canon.</French>
+        <German>Die [COLOR_BUILDING_TEXT]Garnison[COLOR_REVERT] wird durch [COLOR_BUILDING_TEXT]Llogor[COLOR_REVERT] in der Albanischen Zivilisation ersetzt. Es gibt Schießpulver-Einheiten zusätzliche Erfahrung.</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL</Tag>
         <English>Moot Hill</English>
         <French>Concile collinaire</French>
         <German>Versammlungshügel</German>
+        <Italian>Collina del raduno</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ANGLO_SAXON_MOOT_HILL_STRATEGY</Tag>
@@ -50,11 +56,13 @@
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN</Tag>
         <English>Midewiwin</English>
+        <Italian>Grande società di medicina</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ANISHNAABEK_MIDEWIWIN_STRATEGY</Tag>
         <English>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (the Anishnaabek replacement for the [COLOR_BUILDING_TEXT]Healer's hut[COLOR_REVERT]) allow you to turn 1 extra citizen in the city into a Scientist.</English>
         <French>Les [COLOR_BUILDING_TEXT]midewiwins[COLOR_REVERT] (équivalent algonquin de la [COLOR_BUILDING_TEXT]Healer's hut[COLOR_REVERT]). Ces bâtiment offrent 1 scientifiques gratuits.</French>
+        <German>[COLOR_BUILDING_TEXT]Midewiwins[COLOR_REVERT] (der Ersatz der Anishnaabek für den [COLOR_BUILDING_TEXT]Medizinmann[COLOR_REVERT]) ermöglichen es dir, pro Zug 1 zusätzlichen Bürger in einen Wissenschaftler zu verwandeln.</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ANIYONEGA_DIDANAWISGI</Tag>
@@ -70,17 +78,20 @@
         <English>Smoke House</English>
         <French>Atelier de fumage</French>
         <German>Smoke Haus</German>
+        <Italian>Affumicatoio</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_APACHE_BUTCHER_STRATEGY</Tag>
         <English>[COLOR_BUILDING_TEXT]Smoke House[COLOR_REVERT] increase a city's wealth. They also increase the city's happiness with access to [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Silk[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Whales[COLOR_REVERT], or[COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT].</English>
         <French>L'[COLOR_BUILDING_TEXT]atelier de fumage[COLOR_REVERT] augmente la richesse de la ville. Il augmente aussi le bonheur grâce à l'accès à la [COLOR_HIGHLIGHT_TEXT]fourrure[COLOR_REVERT], à l'[COLOR_HIGHLIGHT_TEXT]ivoire[COLOR_REVERT], à la [COLOR_HIGHLIGHT_TEXT]soie[COLOR_REVERT],  aux [COLOR_HIGHLIGHT_TEXT]baleines[COLOR_REVERT], ou aux [COLOR_HIGHLIGHT_TEXT]chevaux[COLOR_REVERT].</French>
+        <German>Das [COLOR_BUILDING_TEXT]Smoke Haus[COLOR_REVERT] erhöht den Wohlstand einer Stadt. Sie erhöhen auch die Zufriedenheit einer Stadt mit Zugang zu [COLOR_HIGHLIGHT_TEXT]Fellenz[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Elfenbein[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Seide[COLOR_REVERT],  [COLOR_HIGHLIGHT_TEXT]Walen[COLOR_REVERT], or[COLOR_HIGHLIGHT_TEXT]Pferden[COLOR_REVERT].</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO</Tag>
         <English>Dance Studio</English>
         <French>Studio de danse</French>
         <German>Tanzstudio</German>
+        <Italian>Scuola di ballo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ARGENTINA_DANCESTUDIO_STRATEGY</Tag>
@@ -128,6 +139,7 @@
         <English>Drumming Station</English>
         <French>Salle des tambours</French>
         <German>Trommelstation</German>
+        <Italian>Stazione dei tamburi</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ASHANTI_DRUMMING_STATION_STRATEGY</Tag>
@@ -139,7 +151,7 @@
         <English>Athletics Complex</English>
         <French>Complexe athlétique</French>
         <German>Leichtathletik-Komplex</German>
-        <Italian>Atletica Complex</Italian>
+        <Italian>Complesso sportivo</Italian>
         <Spanish>Complejo de Atletismo</Spanish>
     </TEXT>
     <TEXT>
@@ -147,7 +159,7 @@
         <English>The [COLOR_BUILDING_TEXT]Athletics Complex[COLOR_REVERT], the Australian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</English>
         <French>Le [COLOR_BUILDING_TEXT]complexe athlétique[COLOR_REVERT] remplace le [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] pour l'Australie.</French>
         <German>Die [COLOR_BUILDING_TEXT]Leichtathletik-Komplex[COLOR_REVERT], die Australisch Ersatz für die [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</German>
-        <Italian>L'[COLOR_BUILDING_TEXT]Atletica Complex[COLOR_REVERT], la sostituzione Australiano per il [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT]</Italian>
+        <Italian>Il [COLOR_BUILDING_TEXT]Complesso sportivo[COLOR_REVERT], l'equivalente australiano dello [COLOR_BUILDING_TEXT]Stadio[COLOR_REVERT]</Italian>
         <Spanish>El [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT], la sustitución de Australiano para el [COLOR_BUILDING_TEXT]Coliseo[COLOR_REVERT]</Spanish>
     </TEXT>
     <TEXT>
@@ -221,6 +233,7 @@
         <Tag>TXT_KEY_BUILDING_BOULEVARD_CIRCLE</Tag>
         <English>Boulevard Circle</English>
         <French>Parc du boulevard</French>
+        <German>Boulevard-Zirkel</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO</Tag>
@@ -231,6 +244,7 @@
         <Tag>TXT_KEY_BUILDING_BRAZIL_ESTADIO_STRATEGY</Tag>
         <English>The Brazilian replacement for the [COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], provides a free Celebrity.</English>
         <French>L'équivalent brésilien de l'[COLOR_BUILDING_TEXT]Stadium[COLOR_REVERT] est le [COLOR_BUILDING_TEXT]stade de football[COLOR_REVERT], procure une célébrité.</French>
+        <Italian>L'equivalente brasiliano dello [COLOR_BUILDING_TEXT]Stadio[COLOR_REVERT] è l'[COLOR_BUILDING_TEXT]Estadio de Futbol[COLOR_REVERT], che fornisce un Personaggio famoso gratuito.</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_BROCH</Tag>
@@ -241,7 +255,7 @@
         <English>The [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], the Scottish replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</English>
         <French>Le [COLOR_BUILDING_TEXT]broch[COLOR_REVERT], équivalent écossais du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], empêche les ennemis d'envahir vos villes avant d'avoir de les avoir bombardées.</French>
         <German>Die [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], die Schotten Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</German>
-        <Italian>L'[COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], la sostituzione Scozzese per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</Italian>
+        <Italian>L'[COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], l'equivalente scozzese del [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], prevents enemies from invading, unless they bombard your city.</Italian>
         <Spanish> El [COLOR_BUILDING_TEXT]Broch[COLOR_REVERT], la sustitución de Escocés para el [COLOR_BUILDING_TEXT]Castillo[COLOR_REVERT], prevents enemies from invading, unless they bombard your city. </Spanish>
     </TEXT>
     <TEXT>
@@ -304,7 +318,7 @@
         <English>The [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], the Tibetan replacement for the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT], offers bonus happiness.</English>
         <French>Le [COLOR_BUILDING_TEXT]chorten[COLOR_REVERT], équivalent tibétain du [COLOR_BUILDING_TEXT]monument[COLOR_REVERT], offre un supplément de bonheur.</French>
         <German>Die [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], der Tibetische Ersatz für die [COLOR_BUILDING_TEXT]Denkmal[COLOR_REVERT], bietet bonus Glück.</German>
-        <Italian>L'[COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], il Tibetana sostituzione per il [COLOR_BUILDING_TEXT]Monumento[COLOR_REVERT], offre bonus di felicità.</Italian>
+        <Italian>Il [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], il Tibetana sostituzione per il [COLOR_BUILDING_TEXT]Monumento[COLOR_REVERT], offre bonus di felicità.</Italian>
         <Spanish>El [COLOR_BUILDING_TEXT]Chorten[COLOR_REVERT], el Tibetano reemplazo para el [COLOR_BUILDING_TEXT]Monumento[COLOR_REVERT], ofrece bono de la felicidad.</Spanish>
     </TEXT>
     <TEXT>
@@ -327,6 +341,7 @@
         <Tag>TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE</Tag>
         <English>Coffee Estate</English>
         <French>Commerce de café</French>
+        <German>Kaffee-Gut</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_COLOMBIA_COFFEE_ESTATE_STRATEGY</Tag>
@@ -397,6 +412,7 @@
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ETRURIA_FANUM</Tag>
         <English>Fanum</English>
+        <Italian>Fano</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ETRURIA_FANUM_STRATEGY</Tag>
@@ -488,13 +504,14 @@
         <English>The [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], the Serbian replacement for the [COLOR_BUILDING_TEXT]Granary[COLOR_REVERT], grants additional food and health with corn.</English>
         <French>Le [COLOR_BUILDING_TEXT]hambar[COLOR_REVERT], équivalent serbe du [COLOR_BUILDING_TEXT]grenier[COLOR_REVERT], procure de la nourriture supplémentaire et de la santé grâce au maïs.</French>
         <German>Die [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], die Serbisch Ersatz für die [COLOR_BUILDING_TEXT]Kornkammer[COLOR_REVERT], grants additional food  with corn.</German>
-        <Italian>L'[COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sostituzione Serba per il [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], grants additional food with and health corn.</Italian>
+        <Italian>L'[COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], l'equivalente serbo del [COLOR_BUILDING_TEXT]Granaio[COLOR_REVERT], grants additional food with and health corn.</Italian>
         <Spanish>El [COLOR_BUILDING_TEXT]Hambar[COLOR_REVERT], la sustitución de Serbio para el [COLOR_BUILDING_TEXT]Granero[COLOR_REVERT], grants additional food and health with corn.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER</Tag>
         <English>Indus Sewer</English>
         <French>Égoûts de l'Indus</French>
+        <German>Indus Kanal</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_HARAPPAN_SEWER_STRATEGY</Tag>
@@ -564,6 +581,7 @@
         <Tag>TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS</Tag>
         <English>Spice Stocks</English>
         <French>Marché aux épices</French>
+        <German>Gewürz-Bestände</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_INDONESIA_SPICESTOCKS_STRATEGY</Tag>
@@ -584,6 +602,7 @@
         <English>Mesopotamian Museum</English>
         <French>Musée mésopotamien</French>
         <German>Mesopotamisches Museum</German>
+        <Italian>Museo della Mesopotamia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_IRAQ_MESMUSEUM_STRATEGY</Tag>
@@ -630,6 +649,7 @@
         <English>Horse Farm</English>
         <French>Ferme de chevaux</French>
         <German>Pferdefarm</German>
+        <Italian>Maneggio</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_KAZAKH_HORSE_FARM_STRATEGY</Tag>
@@ -657,6 +677,7 @@
         <Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE</Tag>
         <English>Berber Pasture</English>
         <French>Pâturage berbere</French>
+        <German>Berber Weide</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_MAGHREB_BERBERPASTURE_STRATEGY</Tag>
@@ -667,6 +688,7 @@
         <Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA</Tag>
         <English>Caitra Tribute</English>
         <French>Hommage à Caitra</French>
+        <German>Caitra Tribut</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_MAJAPAHIT_CAITRA_STRATEGY</Tag>
@@ -726,6 +748,12 @@
         <English>Exhibition</English>
         <German>Ausstellung</German>
         <French>Exposition</French>
+        <Czech>Výstava</Czech>
+        <Italian>Esposizione</Italian>
+        <Korean>박람회</Korean>
+        <Brazilian>Exposição</Brazilian>
+        <Russian>Выставка</Russian>
+        <Turkish>Sergi</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_MEGYPT_EXHIBITION_STRATEGY</Tag>
@@ -815,6 +843,7 @@
         <English>Stockfish</English>
         <German>Stockfisch</German>
         <French>Stockfisch</French>
+        <Italian>Stoccafisso</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_NORWAY_FISHMARKET_STRATEGY</Tag>
@@ -841,6 +870,7 @@
         <Tag>TXT_KEY_BUILDING_PAKISTAN_ISI_STRATEGY</Tag>
         <English>The [COLOR_BUILDING_TEXT]ISI[COLOR_REVERT] are the Pakistani replacement for the [COLOR_BUILDING_TEXT]Intelligence Agency[COLOR_REVERT]. It provides extra EXP for Gunpowder Units.</English>
         <French>L'[COLOR_BUILDING_TEXT]ISI[COLOR_REVERT] est l'équivalent pakistanais de l'[COLOR_BUILDING_TEXT]agence de renseignements[COLOR_REVERT]. Elle procure de l'expérience supplémentaire aux unités à poudre à canon.</French>
+        <Italian>L'[COLOR_BUILDING_TEXT]ISI[COLOR_REVERT] è l'equivalente pakistano dei [COLOR_BUILDING_TEXT]Servizi segreti[COLOR_REVERT]. Fornisce XP extra alle unità con armi da fuoco.</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_PARTHIA</Tag>
@@ -866,6 +896,7 @@
         <Tag>TXT_KEY_BUILDING_PHOENICIA_DYE_FACILITY</Tag>
         <English>Dye Facility</English>
         <French>Teinturier</French>
+        <German>Färbe-Anlage</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_PHOENICIA_DYE_FACILITY_STRATEGY</Tag>
@@ -875,6 +906,7 @@
     <TEXT>
         <Tag>TXT_KEY_BUILDING_PICTS_CRANNOG</Tag>
         <English>Crannog</English>
+        <Italian>Crannóg</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_PICTS_CRANNOG_STRATEGY</Tag>
@@ -890,7 +922,7 @@
         <English>The [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], the Lithuanian replacement for the [COLOR_BUILDING_TEXT]Castle[COLOR_REVERT], offers bonus health.</English>
         <French>Le [COLOR_BUILDING_TEXT]piliakalnis[COLOR_REVERT], équivalent lituanien du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], procure un bonus de santé.</French>
         <German>Die [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], die Litauische Ersatz für die [COLOR_BUILDING_TEXT]Schloss[COLOR_REVERT], bietet bonus gesundheit.</German>
-        <Italian>L'[COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], la sostituzione Lituano per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di salute.</Italian>
+        <Italian>[COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], la sostituzione Lituano per il [COLOR_BUILDING_TEXT]Castello[COLOR_REVERT], offre bonus di salute.</Italian>
         <Spanish> El [COLOR_BUILDING_TEXT]Piliakalnis[COLOR_REVERT], la sustitución de Lituano para el [COLOR_BUILDING_TEXT]Castillo[COLOR_REVERT], ofrece bono de la salud. </Spanish>
     </TEXT>
     <TEXT>
@@ -932,6 +964,8 @@
         <Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES</Tag>
         <English>Scythian Stables</English>
         <French>Écuries scythes</French>
+        <German>Skythische Stallungen</German>
+        <Italian>Scuderia scita</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_SCYTHIA_SCYTHIANSTABLES_STRATEGY</Tag>
@@ -962,6 +996,7 @@
         <English>Ajuuraan Market</English>
         <French>Marché ajuuraan</French>
         <German>Ajuuraanmarkt</German>
+        <Italian>Mercato ajuuraan</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_SOMALIA_MOGADISHU_STRATEGY</Tag>
@@ -980,6 +1015,7 @@
     <TEXT>
         <Tag>TXT_KEY_BUILDING_SWISS_ZOLL</Tag>
         <English>Zoll</English>
+        <Italian>Polizia di confine</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_SWISS_ZOLL_STRATEGY</Tag>
@@ -1013,6 +1049,7 @@
         <English>Trojan Agora</English>
         <French>Agora troyenne</French>
         <German>Trojanische Agora</German>
+        <Italian>Agorà di Troia</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_TROY_AGORA_STRATEGY</Tag>
@@ -1043,6 +1080,7 @@
         <Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR</Tag>
         <English>Grape Arbor</English>
         <French>Tonelle de vin</French>
+        <German>Kartätschen-Achse</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_UYGHUR_GRAPEARBOR_STRATEGY</Tag>

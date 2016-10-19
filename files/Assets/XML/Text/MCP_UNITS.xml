@@ -167,6 +167,7 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE</Tag>
         <English>Fedayee</English>
+        <Italian>Fedayyìn</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE_STRATEGY</Tag>
@@ -581,6 +582,7 @@
         <English>Gothic Cavalry</English>
         <French>Cavalerie gothique</French>
         <German>Gothische Kavallerie</German>
+        <Italian>Cavalleria gotica</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOTHIC_CAVALRY_STRATEGY</Tag>

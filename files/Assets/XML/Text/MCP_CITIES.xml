@@ -22,6 +22,7 @@
         <Arabic>أركالوتشوري</Arabic>
         <Greek>Αρκαλοχώρι</Greek>
         <ChineseSimp>阿卡洛科里</ChineseSimp>
+        <Russian>Аркалохори</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA11</Tag>
@@ -30,18 +31,21 @@
         <Greek>Ακρωτίρι</Greek>
         <ChineseSimp>阿科罗提利</ChineseSimp>
         <Spanish>Acrotiri</Spanish>
+        <Russian>Акротири</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA12</Tag>
         <English>Zominthos</English>
         <Arabic>زومينثوس</Arabic>
         <Greek>Ζώμινθος</Greek>
+        <Russian>Зоминто</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA13</Tag>
         <English>Pseira</English>
         <Arabic>بسيرا</Arabic>
         <Greek>Ψείρα Λασιθίου</Greek>
+        <Russian>Псеира</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA14</Tag>
@@ -50,12 +54,14 @@
         <Greek>Βασιλική</Greek>
         <ChineseSimp>瓦西利基</ChineseSimp>
         <Spanish>Vasilikí</Spanish>
+        <Russian>Василики</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA15</Tag>
         <English>Karfi</English>
         <Arabic>كارفي</Arabic>
         <Greek>Καρφί</Greek>
+        <Russian>Карфи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA16</Tag>
@@ -64,23 +70,27 @@
         <Greek>Πύργος</Greek>
         <ChineseSimp>皮尔戈斯</ChineseSimp>
         <Spanish>Pirgos</Spanish>
+        <Russian>Пиргос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA17</Tag>
         <English>Fournu Korfi</English>
         <Greek>Κορφή Φούρνου</Greek>
+        <Russian>Корфи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA18</Tag>
         <English>Agia Pelagia</English>
         <Greek>Αγία Πελαγία</Greek>
         <ChineseSimp>格亚.匹拉格亚</ChineseSimp>
+        <Russian>Агия-Пелагия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA19</Tag>
         <English>Archanes</English>
         <Arabic>أرتشانيس</Arabic>
         <Greek>Αρχάνες</Greek>
+        <Russian>Арханес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA2</Tag>
@@ -89,12 +99,14 @@
         <Greek>Φαιστός</Greek>
         <Italian>Festo</Italian>
         <Spanish>Festo</Spanish>
+        <Russian>Фест</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA20</Tag>
         <English>Kommos</English>
         <Arabic>كوموس</Arabic>
         <Greek>Κομμός</Greek>
+        <Russian>Комос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA21</Tag>
@@ -103,12 +115,15 @@
         <Greek>Πλάτανος</Greek>
         <ChineseSimp>普拉塔诺斯</ChineseSimp>
         <Spanish>Plátanos</Spanish>
+        <Russian>Платанос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA22</Tag>
         <English>Lebana</English>
         <Arabic>لیبانى</Arabic>
         <Greek>Λεβάνα</Greek>
+        <Italian>Lebena</Italian>
+        <Russian>Лебана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA23</Tag>
@@ -117,29 +132,34 @@
         <Greek>Παλαίκαστρο</Greek>
         <Italian>Paleocastro</Italian>
         <ChineseSimp>帕莱卡斯特罗</ChineseSimp>
+        <Russian>Палекастро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA24</Tag>
         <English>Praisos</English>
         <Arabic>بريسوس</Arabic>
         <Greek>Πραισός</Greek>
+        <Russian>Неа-Пресос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA25</Tag>
         <English>Mochlos</English>
         <Arabic>مخلص</Arabic>
         <Greek>Μόχλος</Greek>
+        <Russian>Мохлос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA26</Tag>
         <English>Armenoi</English>
         <Arabic>أرمينوي</Arabic>
         <Greek>Αρμένοι</Greek>
+        <Russian>Армени</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA27</Tag>
         <English>Kamaizi</English>
         <Arabic>كاميزي</Arabic>
+        <Russian>Камаиси</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA28</Tag>
@@ -147,6 +167,7 @@
         <Arabic>موناستيراكي</Arabic>
         <Greek>Μοναστηράκι</Greek>
         <ChineseSimp>莫纳斯蒂拉基</ChineseSimp>
+        <Russian>Монастираки</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA29</Tag>
@@ -154,12 +175,14 @@
         <Arabic>ستايلس</Arabic>
         <Greek>Στύλος</Greek>
         <Spanish>Stilos</Spanish>
+        <Russian>Стилос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA3</Tag>
         <English>Malia</English>
         <Greek>Μάλια</Greek>
         <ChineseSimp>马利亚</ChineseSimp>
+        <Russian>Малия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA30</Tag>
@@ -167,6 +190,7 @@
         <Arabic>كلامي</Arabic>
         <Greek>Καλάμι</Greek>
         <ChineseSimp>卡拉迈</ChineseSimp>
+        <Russian>Калами</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA31</Tag>
@@ -177,6 +201,7 @@
         <Italian>La Canea</Italian>
         <ChineseSimp>干尼亚</ChineseSimp>
         <Spanish>La Canea</Spanish>
+        <Russian>Кхания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA32</Tag>
@@ -185,6 +210,7 @@
         <Greek>Μάλεμε</Greek>
         <Italian>Maléme</Italian>
         <ChineseSimp>马莱迈</ChineseSimp>
+        <Russian>Малем</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA33</Tag>
@@ -192,6 +218,7 @@
         <Arabic>بلاتيفولا</Arabic>
         <Spanish>Plativola</Spanish>
         <Greek>Πλατύβολα</Greek>
+        <Russian>Плативола</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA34</Tag>
@@ -201,10 +228,12 @@
         <Italian>Tylisos</Italian>
         <ChineseSimp>蒂里索斯</ChineseSimp>
         <Spanish>Tiliso</Spanish>
+        <Russian>Тайлиссос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA35</Tag>
         <English>Myxorrouma</English>
+        <Russian>Миксорума</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA4</Tag>
@@ -213,12 +242,14 @@
         <Italian>Zakros</Italian>
         <ChineseSimp>加藤扎克罗斯</ChineseSimp>
         <Spanish>Kato Zakro</Spanish>
+        <Russian>Като-Закрос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA5</Tag>
         <English>Agia Triada</English>
         <Greek>Αγία Τριάδα</Greek>
         <Italian>Agía Triáda</Italian>
+        <Russian>Агиа-Триада</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA6</Tag>
@@ -227,6 +258,7 @@
         <Greek>Γουρνιά</Greek>
         <ChineseSimp>谷尼亚</ChineseSimp>
         <Spanish>Gurnia</Spanish>
+        <Russian>Гурния</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA7</Tag>
@@ -236,6 +268,7 @@
         <Italian>Cidonia</Italian>
         <ChineseSimp>基多尼亚</ChineseSimp>
         <Spanish>Cidonia</Spanish>
+        <Russian>Кидония</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA8</Tag>
@@ -244,6 +277,7 @@
         <Greek>Γαλατάς</Greek>
         <ChineseSimp>加拉塔斯</ChineseSimp>
         <Spanish>Gálatas</Spanish>
+        <Russian>Галатас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_MINOA9</Tag>
@@ -251,6 +285,7 @@
         <Arabic>إيوكتاس</Arabic>
         <Italian>Juktas</Italian>
         <ChineseSimp>爱奥克塔斯</ChineseSimp>
+        <Russian>Юктас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AALBORG</Tag>
@@ -277,6 +312,7 @@
         </Spanish>
         <Arabic>البورغ</Arabic>
         <ChineseSimp>奥尔堡</ChineseSimp>
+        <Russian>Ольборг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AALST</Tag>
@@ -304,6 +340,7 @@
         <Arabic>الوست</Arabic>
         <ChineseSimp>阿尔斯特</ChineseSimp>
         <Greek>Άαλστ</Greek>
+        <Russian>Алст</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AARHUS</Tag>
@@ -361,6 +398,7 @@
         </Spanish>
         <Arabic>أبا</Arabic>
         <ChineseSimp>阿伯</ChineseSimp>
+        <Russian>Аба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABAJ_TAKALIK</Tag>
@@ -387,6 +425,7 @@
         </Spanish>
         <Arabic>تاكاليك اباج</Arabic>
         <ChineseSimp>阿巴赫·塔卡里克</ChineseSimp>
+        <Russian>Абах Такалик</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABBOTTABAD</Tag>
@@ -413,6 +452,7 @@
         </Spanish>
         <Arabic>أبوت آباد</Arabic>
         <ChineseSimp>阿伯塔巴德</ChineseSimp>
+        <Russian>Абботтабад</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABECHE</Tag>
@@ -440,6 +480,7 @@
         <Arabic>أبشي</Arabic>
         <Polish>Abéché</Polish>
         <ChineseSimp>阿贝歇</ChineseSimp>
+        <Russian>Абеше</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABEOKUTA</Tag>
@@ -466,6 +507,7 @@
         </Spanish>
         <Arabic>أبيوكوتا</Arabic>
         <ChineseSimp>阿贝奥库塔</ChineseSimp>
+        <Russian>Абеокута</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABOVIAN</Tag>
@@ -473,6 +515,7 @@
         <Arabic>أبوبيان</Arabic>
         <Italian>Abovyan</Italian>
         <Spanish>Abovyan</Spanish>
+        <Russian>Абовян</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABS</Tag>
@@ -497,6 +540,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Абс</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ABUJA</Tag>
@@ -524,6 +568,7 @@
         <Arabic>أبوجا</Arabic>
         <Polish>Abudża</Polish>
         <ChineseSimp>阿布贾</ChineseSimp>
+        <Russian>Абуджа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACAPULCO</Tag>
@@ -550,6 +595,7 @@
         </Spanish>
         <Arabic>أكابولكو</Arabic>
         <ChineseSimp>阿卡普尔科</ChineseSimp>
+        <Russian>Акапулько</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACARIGUA</Tag>
@@ -577,6 +623,7 @@
         <Arabic>أكاريجوا</Arabic>
         <Polish>Acarígua</Polish>
         <ChineseSimp>阿卡里瓜</ChineseSimp>
+        <Russian>Акаригуа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACATLAN</Tag>
@@ -603,6 +650,7 @@
         </Spanish>
         <Arabic>أكاتلان</Arabic>
         <ChineseSimp>阿卡特兰</ChineseSimp>
+        <Russian>Акатлан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACCO</Tag>
@@ -627,6 +675,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Акко</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACCRA</Tag>
@@ -653,6 +702,7 @@
         </Spanish>
         <Arabic>أكرا</Arabic>
         <ChineseSimp>阿克拉</ChineseSimp>
+        <Russian>Акра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACHOLLA</Tag>
@@ -678,6 +728,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أكولا</Arabic>
+        <Russian>Ачолла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACHOMAWI</Tag>
@@ -704,6 +755,7 @@
         </Spanish>
         <Arabic>أشوماوي</Arabic>
         <ChineseSimp>艾可玛维</ChineseSimp>
+        <Russian>Ачомави</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACHRA</Tag>
@@ -729,6 +781,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أكرا</Arabic>
+        <Russian>Ахра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACIDAVA</Tag>
@@ -754,6 +807,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أسيدافا</Arabic>
+        <Russian>Акидава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ACOMA</Tag>
@@ -807,6 +861,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ад-Дахи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AD_DAWR</Tag>
@@ -831,6 +886,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эд-Даур</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADEN</Tag>
@@ -888,6 +944,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أدهيكهاترا</Arabic>
+        <Russian>Ахиччхатра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADO_EKITI</Tag>
@@ -913,6 +970,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿多埃基蒂</ChineseSimp>
+        <Russian>Адо-Экити</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADOGIT</Tag>
@@ -938,6 +996,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أدوجيت</Arabic>
+        <Russian>Адогит</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADRESTEIA</Tag>
@@ -963,6 +1022,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أدريستيا</Arabic>
+        <Russian>Адрастия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ADRIA</Tag>
@@ -989,6 +1049,7 @@
         </Spanish>
         <Arabic>ادريا</Arabic>
         <ChineseSimp>阿德里亚</ChineseSimp>
+        <Russian>Адрия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AETHIOPIA</Tag>
@@ -1014,6 +1075,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Greek>Αιθιοπία</Greek>
+        <Russian>Эфиопия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AFAK</Tag>
@@ -1039,6 +1101,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>عفك</Arabic>
+        <Russian>Афак</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AFLAO</Tag>
@@ -1065,6 +1128,7 @@
         </Spanish>
         <Arabic>أفﻻو</Arabic>
         <ChineseSimp>阿夫劳</ChineseSimp>
+        <Russian>Афлао</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGADE</Tag>
@@ -1073,6 +1137,7 @@
         <Italian>Akkad</Italian>
         <ChineseSimp>阿卡得</ChineseSimp>
         <Spanish>Agadé</Spanish>
+        <Russian>Аккаде</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGADIR</Tag>
@@ -1099,6 +1164,7 @@
         </Spanish>
         <Arabic>أغادير</Arabic>
         <ChineseSimp>阿加迪尔</ChineseSimp>
+        <Russian>Агадир</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGBATANA</Tag>
@@ -1125,6 +1191,7 @@
         </Spanish>
         <Arabic> أجباتانا</Arabic>
         <ChineseSimp>埃克巴坦那</ChineseSimp>
+        <Russian>Экбатана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGONA_SWEDRU</Tag>
@@ -1151,6 +1218,7 @@
         </Spanish>
         <Arabic>سويدرو</Arabic>
         <ChineseSimp>斯韦德鲁</ChineseSimp>
+        <Russian>Седру</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGRIGENTO</Tag>
@@ -1177,6 +1245,7 @@
         </Spanish>
         <Arabic>أغريجنتو</Arabic>
         <ChineseSimp>阿格里琴托</ChineseSimp>
+        <Russian>Агридженто</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AGUASCALIENTES</Tag>
@@ -1203,6 +1272,7 @@
         </Spanish>
         <Arabic>اغواسكالينتس</Arabic>
         <ChineseSimp>阿瓜斯卡连特斯</ChineseSimp>
+        <Russian>Агуаскальентес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AHELMIL</Tag>
@@ -1228,6 +1298,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أهيلميل</Arabic>
+        <Russian>Ахельмил</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AHMADPUR</Tag>
@@ -1254,6 +1325,7 @@
         </Spanish>
         <Arabic>أهمادبور</Arabic>
         <ChineseSimp>艾哈迈德布尔</ChineseSimp>
+        <Russian>Ахмадпур</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AHVAZ</Tag>
@@ -1280,6 +1352,7 @@
         </Spanish>
         <Arabic>أهواز</Arabic>
         <ChineseSimp>阿瓦士</ChineseSimp>
+        <Russian>Ахваз</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AITAPE</Tag>
@@ -1306,6 +1379,7 @@
         </Spanish>
         <Arabic>ايتاب</Arabic>
         <ChineseSimp>艾塔佩</ChineseSimp>
+        <Russian>Аитап</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AIZIS</Tag>
@@ -1331,6 +1405,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أيزيس</Arabic>
+        <Russian>Аизис</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AJDABIYA</Tag>
@@ -1357,6 +1432,7 @@
         </Spanish>
         <Arabic>إجدابيا</Arabic>
         <Polish>Adżdabija</Polish>
+        <Russian>Адждабия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKCHIN</Tag>
@@ -1381,6 +1457,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ак Чин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKHALTSIKHI</Tag>
@@ -1406,6 +1483,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أخالتسيخي</Arabic>
+        <Russian>Ахалцихе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKIM_ODA</Tag>
@@ -1431,6 +1509,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿克木小田</ChineseSimp>
+        <Russian>Аким Ода</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKRA</Tag>
@@ -1458,6 +1537,7 @@
         <Arabic>عقرا</Arabic>
         <ChineseSimp>阿克拉</ChineseSimp>
         <Greek>Άκρα</Greek>
+        <Russian>Акра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKRAGAS</Tag>
@@ -1484,6 +1564,7 @@
         </Spanish>
         <Arabic>أكراجاس</Arabic>
         <ChineseSimp>阿克拉加斯</ChineseSimp>
+        <Russian>Акрагас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKSU</Tag>
@@ -1510,12 +1591,14 @@
         </Spanish>
         <Arabic>أكسو</Arabic>
         <ChineseSimp>阿克苏</ChineseSimp>
+        <Russian>Аксу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKTAU</Tag>
         <English>Aktau</English>
         <Arabic>أكتاو</Arabic>
         <ChineseSimp>阿克套</ChineseSimp>
+        <Russian>Актау</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKTOBE</Tag>
@@ -1523,6 +1606,7 @@
         <Arabic>أكتوبي</Arabic>
         <Italian>Aqtöbe</Italian>
         <ChineseSimp>阿克托别</ChineseSimp>
+        <Russian>Актобе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKUARWA</Tag>
@@ -1548,6 +1632,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>أكواروا</Arabic>
+        <Russian>Акуара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AKURE</Tag>
@@ -1574,6 +1659,7 @@
         </Spanish>
         <Arabic>اكوري</Arabic>
         <ChineseSimp>阿库雷</ChineseSimp>
+        <Russian>Акуре</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_BAYDA</Tag>
@@ -1601,6 +1687,7 @@
         <Arabic>البيضاء</Arabic>
         <Polish>Al Bajda</Polish>
         <ChineseSimp>这是个村子的名字啊。。。。。。</ChineseSimp>
+        <Russian>Эль-Байда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_DIWANIYAH</Tag>
@@ -1626,6 +1713,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>الديوانية</Arabic>
+        <Russian>Эд-Дивания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_FAYYUM</Tag>
@@ -1635,6 +1723,7 @@
         <Italian>Fayyum</Italian>
         <ChineseSimp>阿法尤姆</ChineseSimp>
         <Spanish>Al Fayún</Spanish>
+        <Russian>Эль-Файюм</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_GHAYDAH</Tag>
@@ -1661,11 +1750,13 @@
         </Spanish>
         <Arabic>الغيضة</Arabic>
         <Polish>Al Ghajda</Polish>
+        <Russian>Эль-Гайда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_GHURDAGAH</Tag>
         <English>Al Ghurdagah</English>
         <Arabic>الغردقة</Arabic>
+        <Russian>Хургада</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_GIZA</Tag>
@@ -1675,6 +1766,7 @@
         <Italian>Giza</Italian>
         <ChineseSimp>阿尔吉萨</ChineseSimp>
         <Spanish>Al Guiza</Spanish>
+        <Russian>Аль-Гиза</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_HILLAH</Tag>
@@ -1702,6 +1794,7 @@
         <Arabic>الحلة</Arabic>
         <Polish>Al-Hilla</Polish>
         <ChineseSimp>希拉</ChineseSimp>
+        <Russian>Хилла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_HUDAYDAH</Tag>
@@ -1728,6 +1821,7 @@
         </Spanish>
         <Arabic>الحديدة</Arabic>
         <Polish>Al Hudaydah</Polish>
+        <Russian>Ходейда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_JABAR_AL_AKHDAR</Tag>
@@ -1753,6 +1847,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Al-Dżabal al-Akhdar</Polish>
+        <Russian>Эль-Джебель-Эль-Ахдар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_JIFARAH</Tag>
@@ -1777,12 +1872,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аль-Джифара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_JIZAH</Tag>
         <English>Al Jizah</English>
         <Arabic>الجيزة</Arabic>
         <Spanish>Al Guiza</Spanish>
+        <Russian>Гиза</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_KENITRA</Tag>
@@ -1808,6 +1905,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿盖尼特拉</ChineseSimp>
+        <Russian>Кенитра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MAHABISHAH</Tag>
@@ -1832,11 +1930,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аль-Махабиша</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MAHALLAH_AL_KUBRA</Tag>
         <English>Al Mahallah al Kubra</English>
         <Italian>El-Mahalla El-Kubra</Italian>
+        <Russian>Эль-Махалла-эль-Кубра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MAHWIT</Tag>
@@ -1862,6 +1962,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>迈赫维特</ChineseSimp>
+        <Russian>Махвит</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MANSURA</Tag>
@@ -1871,6 +1972,7 @@
         <Polish>Al-Mansura</Polish>
         <ChineseSimp>阿曼苏拉</ChineseSimp>
         <Spanish>Al Mansurá</Spanish>
+        <Russian>Эль-Мансура</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MARAWIAH</Tag>
@@ -1895,6 +1997,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Маравиа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MARQAB</Tag>
@@ -1919,6 +2022,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Маркаб</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MINYA</Tag>
@@ -1927,6 +2031,7 @@
         <Polish>Al-Minya</Polish>
         <ChineseSimp>阿明亚</ChineseSimp>
         <Spanish>Al Menia</Spanish>
+        <Russian>Эль-Минья</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MUKALLA</Tag>
@@ -1951,6 +2056,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Мукалла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_MUKHA</Tag>
@@ -1976,6 +2082,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>穆哈</ChineseSimp>
+        <Russian>Моха</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_QAIM</Tag>
@@ -2001,6 +2108,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Al Kaim</Polish>
+        <Russian>Эль-Кайм</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_QUSAYR</Tag>
@@ -2008,12 +2116,14 @@
         <Italian>Al-Qusayr</Italian>
         <ChineseSimp>阿古赛尔</ChineseSimp>
         <Spanish>Al Quseir</Spanish>
+        <Russian>Эль-Кусайр</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AL_UQSUR</Tag>
         <English>Al Uqsur</English>
         <Italian>Luxor</Italian>
         <Spanish>Al Lúxor</Spanish>
+        <Russian>Луксор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALALIA</Tag>
@@ -2038,6 +2148,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Алалия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALAMOS</Tag>
@@ -2063,6 +2174,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿拉莫斯</ChineseSimp>
+        <Russian>Аламос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALANIA</Tag>
@@ -2088,6 +2200,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>北奥塞梯</ChineseSimp>
+        <Russian>Алания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALAVERDI</Tag>
@@ -2095,6 +2208,7 @@
         <Polish>Alawerdi</Polish>
         <ChineseSimp>阿拉韦尔迪</ChineseSimp>
         <Spanish>Alaverdí</Spanish>
+        <Russian>Алаверди</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALBANIANIS</Tag>
@@ -2144,6 +2258,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>艾伯顿</ChineseSimp>
+        <Russian>Элбертон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALBULENA</Tag>
@@ -2168,6 +2283,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Албулена</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALESSANDRIA</Tag>
@@ -2193,6 +2309,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>亚历山德里亚</ChineseSimp>
+        <Russian>Алессандрия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDREIAARIANA</Tag>
@@ -2218,6 +2335,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Aleksandria - Ariana</Polish>
+        <Russian>Александрия Ариана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA</Tag>
@@ -2233,6 +2351,7 @@
         <Russian>Александрия</Russian>
         <ChineseSimp>亚历山大</ChineseSimp>
         <Greek>Αλεξάνδρεια</Greek>
+        <Dutch>Alexandri</Dutch>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA_ARACHOSIA</Tag>
@@ -2259,6 +2378,7 @@
         </Spanish>
         <Polish>Aleksandria Arachosia</Polish>
         <ChineseSimp>亚历山大·汤斯曼</ChineseSimp>
+        <Russian>Александрия Арахосия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDRIA_ESCHATE</Tag>
@@ -2284,17 +2404,20 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Aleksandria Eschate</Polish>
+        <Russian>Александрия Эсхата</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALEXANDROPOL</Tag>
         <English>Alexandropol</English>
         <Italian>Gyumri</Italian>
         <Spanish>Alexándropol</Spanish>
+        <Russian>Александрополь</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALGA</Tag>
         <English>Alga</English>
         <ChineseSimp>阿尔加</ChineseSimp>
+        <Russian>Алга</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALKHANOUM</Tag>
@@ -2320,6 +2443,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Ai Chanoum</Polish>
+        <Russian>Ай-Ханум</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALMATY</Tag>
@@ -2327,10 +2451,12 @@
         <Polish>Ałma-Ata</Polish>
         <ChineseSimp>阿拉木图</ChineseSimp>
         <Spanish>Almatý</Spanish>
+        <Russian>Алматы</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALMENDARES</Tag>
         <English>Almendares</English>
+        <Russian>Альмендарес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALTAY</Tag>
@@ -2356,6 +2482,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿尔泰</ChineseSimp>
+        <Russian>Алтай</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ALYAWARRE</Tag>
@@ -2428,6 +2555,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аманайе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMANINDEUA</Tag>
@@ -2452,6 +2580,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ананиндеуа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMARAH</Tag>
@@ -2477,6 +2606,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Amara</Polish>
+        <Russian>Амара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBATONDRAZAKA</Tag>
@@ -2502,6 +2632,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安巴通德拉扎卡</ChineseSimp>
+        <Russian>Амбатундразака</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBOASARY</Tag>
@@ -2527,6 +2658,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安布阿萨里</ChineseSimp>
+        <Russian>Амбоасари</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBOHIMANGA</Tag>
@@ -2552,6 +2684,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安布希曼加</ChineseSimp>
+        <Russian>Амбохиманга</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBON</Tag>
@@ -2577,6 +2710,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安汶岛</ChineseSimp>
+        <Russian>Амбон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMBOVOMBE</Tag>
@@ -2602,6 +2736,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安布文贝</ChineseSimp>
+        <Russian>Амбовомбе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMECA</Tag>
@@ -2627,6 +2762,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿梅卡</ChineseSimp>
+        <Russian>Амека</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AMPARAFARAVOLA</Tag>
@@ -2652,6 +2788,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安帕拉法拉武拉</ChineseSimp>
+        <Russian>Ампарафаравола</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AN_NUQAT_AL_KHAMS</Tag>
@@ -2677,6 +2814,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安努加特海姆斯</ChineseSimp>
+        <Russian>Эн-Нугат-эль-Хумс</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANACO</Tag>
@@ -2702,6 +2840,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿纳科</ChineseSimp>
+        <Russian>Анако</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANAPOLIS</Tag>
@@ -2728,6 +2867,7 @@
         </Spanish>
         <Polish>Anápolis</Polish>
         <ChineseSimp>安纳波利斯</ChineseSimp>
+        <Russian>Анаполис</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANCHIACOS</Tag>
@@ -2752,6 +2892,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Анхиалос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANCONA</Tag>
@@ -2777,6 +2918,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安科纳</ChineseSimp>
+        <Russian>Анкона</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANDERLECHT</Tag>
@@ -2802,6 +2944,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安德来特</ChineseSimp>
+        <Russian>Андерлехт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANGELES</Tag>
@@ -2827,6 +2970,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp> 安杰利斯</ChineseSimp>
+        <Russian>Анджелес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANGOCHE</Tag>
@@ -2852,12 +2996,14 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安戈谢</ChineseSimp>
+        <Russian>Ангоше</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANI</Tag>
         <English>Ani</English>
         <ChineseSimp>阿尼</ChineseSimp>
         <Spanish>An</Spanish>
+        <Russian>Ани</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANMATYERRE</Tag>
@@ -2882,6 +3028,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Анматьер</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANNABA</Tag>
@@ -2907,11 +3054,13 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安纳巴</ChineseSimp>
+        <Russian>Аннаба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANSHAN</Tag>
         <English>Anshan</English>
         <ChineseSimp>鞍山</ChineseSimp>
+        <Russian>Аньшань</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTAKARINJA</Tag>
@@ -2936,6 +3085,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Антакаринья</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTANANARIVO</Tag>
@@ -2961,6 +3111,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安塔那那利佛</ChineseSimp>
+        <Russian>Антананариву</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTANIFOTSY</Tag>
@@ -2986,6 +3137,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安塔尼富齐</ChineseSimp>
+        <Russian>Антанифутси</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTIOCHEIA</Tag>
@@ -3010,6 +3162,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Антиохия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTIOCHEIAMARGIANE</Tag>
@@ -3034,6 +3187,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Антиохия-Маргиана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTIPOLO</Tag>
@@ -3059,6 +3213,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安蒂波洛</ChineseSimp>
+        <Russian>Антиполо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTOFAGASTA</Tag>
@@ -3084,6 +3239,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安托法加斯塔</ChineseSimp>
+        <Russian>Антофагаста</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTSIRABE</Tag>
@@ -3109,6 +3265,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安齐拉贝</ChineseSimp>
+        <Russian>Анцирабе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTSIRANANA</Tag>
@@ -3134,6 +3291,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安齐拉纳纳</ChineseSimp>
+        <Russian>Анциранана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ANTWERPEN</Tag>
@@ -3159,6 +3317,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>安特卫普</ChineseSimp>
+        <Russian>Антверпен</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AORNOS</Tag>
@@ -3183,6 +3342,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аорнос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_APAMEIA</Tag>
@@ -3207,6 +3367,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Апамея</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_APATZINGA</Tag>
@@ -3231,6 +3392,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Апацинган</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_APIAKA</Tag>
@@ -3255,6 +3417,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Апиака</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_APOULON</Tag>
@@ -3279,6 +3442,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Апоулон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AR_RUTBA</Tag>
@@ -3303,6 +3467,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эр-Рутба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARABELA</Tag>
@@ -3328,6 +3493,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿拉贝拉</ChineseSimp>
+        <Russian>Арабелла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARACAJU</Tag>
@@ -3353,6 +3519,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿拉卡茹</ChineseSimp>
+        <Russian>Аракажу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAD</Tag>
@@ -3378,6 +3545,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿拉德</ChineseSimp>
+        <Russian>Арад</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAK</Tag>
@@ -3403,15 +3571,18 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿拉克</ChineseSimp>
+        <Russian>Эрак</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAL</Tag>
         <English>Aral</English>
+        <Russian>Арал</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARARAT</Tag>
         <English>Ararat</English>
         <ChineseSimp>阿勒山</ChineseSimp>
+        <Russian>Арарат</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARAWETE</Tag>
@@ -3436,6 +3607,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аравете</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARBIL</Tag>
@@ -3461,6 +3633,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿比尔</ChineseSimp>
+        <Russian>Эрбиль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARCINNA</Tag>
@@ -3485,6 +3658,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Арцина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARCOBADARA</Tag>
@@ -3509,6 +3683,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аркобадара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARDABIL</Tag>
@@ -3534,11 +3709,13 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿尔达比勒</ChineseSimp>
+        <Russian>Ардебиль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARDAHAN</Tag>
         <English>Ardahan</English>
         <ChineseSimp>阿尔达汉</ChineseSimp>
+        <Russian>Ардахан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AREIA</Tag>
@@ -3564,6 +3741,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>沙</ChineseSimp>
+        <Russian>Арея</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARGEDAUON</Tag>
@@ -3588,6 +3766,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аргидава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARIMA</Tag>
@@ -3613,6 +3792,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>有马</ChineseSimp>
+        <Russian>Арима</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARITA</Tag>
@@ -3638,6 +3818,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>有田</ChineseSimp>
+        <Russian>Арита</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARLON</Tag>
@@ -3663,6 +3844,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿尔隆</ChineseSimp>
+        <Russian>Арлон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARMANT</Tag>
@@ -3677,11 +3859,13 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARMANUM</Tag>
         <English>Armanum</English>
+        <Russian>Арманум</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARMAVIR</Tag>
         <English>Armavir</English>
         <ChineseSimp>阿尔马维尔</ChineseSimp>
+        <Russian>Армавир</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AROCHER</Tag>
@@ -3731,6 +3915,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿伦特</ChineseSimp>
+        <Russian>Аранта</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARRETIUM</Tag>
@@ -3785,6 +3970,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿罗约松索</ChineseSimp>
+        <Russian>Арройо-Сонсо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARSAKIA</Tag>
@@ -3810,11 +3996,13 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿萨基亚</ChineseSimp>
+        <Russian>Арсакия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTASHAT</Tag>
         <English>Artashat</English>
         <ChineseSimp>阿尔塔沙特</ChineseSimp>
+        <Russian>Арташат</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTAXATA</Tag>
@@ -3849,6 +4037,7 @@
         <Tag>TXT_KEY_CITY_NAME_ARTEMISA</Tag>
         <English>Artemisa</English>
         <ChineseSimp>阿特米萨</ChineseSimp>
+        <Russian>Артемиса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARTUX</Tag>
@@ -3874,6 +4063,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿图什</ChineseSimp>
+        <Russian>Артуш</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARVAD</Tag>
@@ -3899,6 +4089,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿瓦德</ChineseSimp>
+        <Russian>Арвад</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARYANAH</Tag>
@@ -3925,10 +4116,12 @@
         </Spanish>
         <Polish>Ariana</Polish>
         <ChineseSimp>艾尔亚奈</ChineseSimp>
+        <Russian>Арьяна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ARZNI</Tag>
         <English>Arzni</English>
+        <Russian>Арзни</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASAAK</Tag>
@@ -3953,6 +4146,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Асаак</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASAMANKESE</Tag>
@@ -3978,6 +4172,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿萨曼凯塞</ChineseSimp>
+        <Russian>Асаманкес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASH_SHIHR</Tag>
@@ -4002,6 +4197,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эш-Шихр</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASHAIMAN</Tag>
@@ -4026,6 +4222,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ашаиман</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASHBURTON</Tag>
@@ -4051,11 +4248,13 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿什伯顿</ChineseSimp>
+        <Russian>Ашбертон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASHTARAK</Tag>
         <English>Ashtarak</English>
         <ChineseSimp>阿什塔拉克</ChineseSimp>
+        <Russian>Аштарак</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASHUR</Tag>
@@ -4085,6 +4284,7 @@
         <Polish>Aszur</Polish>
         <Russian>Ашшур</Russian>
         <ChineseSimp>亚述</ChineseSimp>
+        <Korean>아수르</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASIOPOLIS</Tag>
@@ -4109,6 +4309,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Азиополис</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASKANIA</Tag>
@@ -4133,12 +4334,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Аскания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASTANA</Tag>
         <English>Astana</English>
         <ChineseSimp>阿斯塔纳</ChineseSimp>
         <Spanish>Astaná</Spanish>
+        <Russian>Астана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASWAN</Tag>
@@ -4148,6 +4351,7 @@
         <Polish>Asuan</Polish>
         <ChineseSimp>阿斯旺</ChineseSimp>
         <Spanish>Asuán</Spanish>
+        <Russian>Асуан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ASYUT</Tag>
@@ -4186,6 +4390,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Атак</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATAZTA</Tag>
@@ -4215,6 +4420,7 @@
         <Tag>TXT_KEY_CITY_NAME_ATBASAR</Tag>
         <English>Atbasar</English>
         <ChineseSimp>阿特巴萨尔</ChineseSimp>
+        <Russian>Атбасар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATINA</Tag>
@@ -4265,6 +4471,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿特拉科穆尔科</ChineseSimp>
+        <Russian>Атлакомулько</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATTAWAPISKAT</Tag>
@@ -4290,6 +4497,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>阿塔瓦皮斯基特</ChineseSimp>
+        <Russian>Аттавапискат</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATUONA</Tag>
@@ -4315,11 +4523,13 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp> 阿图奥纳</ChineseSimp>
+        <Russian>Атуона</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ATYRAU</Tag>
         <English>Atyrau</English>
         <ChineseSimp>阿特劳</ChineseSimp>
+        <Russian>Атырау</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AUCHI</Tag>
@@ -4345,6 +4555,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>奥奇</ChineseSimp>
+        <Russian>Аучи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AUCKLAND</Tag>
@@ -4370,6 +4581,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>奥克兰</ChineseSimp>
+        <Russian>Окленд</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AUGANDZER</Tag>
@@ -4419,6 +4631,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp> 阿韦利诺</ChineseSimp>
+        <Russian>Авеллино</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AWABAKAL</Tag>
@@ -4443,6 +4656,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Авабакал</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AYODHYA</Tag>
@@ -4471,11 +4685,14 @@
         <Japanese>アヨーディヤ</Japanese>
         <Russian>Айютия</Russian>
         <ChineseSimp>阿尤德亚</ChineseSimp>
+        <Korean>아요디아</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AZ_ZAQAZIQ</Tag>
         <English>Az Zaqaziq</English>
         <ChineseSimp>阿斯宰加济格</ChineseSimp>
+        <Italian>Zagazig</Italian>
+        <Russian>Эз-Заказик</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AZ_ZAWIYAH</Tag>
@@ -4501,6 +4718,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>扎维耶</ChineseSimp>
+        <Russian>Эз-Завия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_AZ_ZAYDIYAH</Tag>
@@ -4525,6 +4743,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эз-Зейдия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAAWITING</Tag>
@@ -4549,10 +4768,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баватинг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BABERT</Tag>
         <English>Babert</English>
+        <Russian>Баберт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAC_LIEU</Tag>
@@ -4578,6 +4799,7 @@
             <Plural>0</Plural>
         </Spanish>
         <ChineseSimp>薄寮</ChineseSimp>
+        <Russian>Бакльеу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAC_NINH</Tag>
@@ -4602,6 +4824,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бакнинь</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BACHU</Tag>
@@ -4626,6 +4849,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Байджу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BACOLOD</Tag>
@@ -4650,6 +4874,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баколод</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BACOOR</Tag>
@@ -4674,6 +4899,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бакоор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BADOU</Tag>
@@ -4698,6 +4924,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баду</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAFILO</Tag>
@@ -4722,6 +4949,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бафило</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAFOUSSAM</Tag>
@@ -4746,6 +4974,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бафусам</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAGAN</Tag>
@@ -4770,6 +4999,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баган</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAGHDAD</Tag>
@@ -4831,6 +5061,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баго</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAGUIO</Tag>
@@ -4855,6 +5086,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Багио</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAHAWALNAGAR</Tag>
@@ -4879,6 +5111,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бахавалнагар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAHAWALPUR</Tag>
@@ -4903,6 +5136,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бахавалпур</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAHIA_BLANCA</Tag>
@@ -4927,6 +5161,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баия-Бланка</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAIAMARE</Tag>
@@ -4951,6 +5186,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бая-Маре</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAIDOA</Tag>
@@ -4976,6 +5212,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Baydhabo</Polish>
+        <Russian>Байдоа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAIJI</Tag>
@@ -5000,6 +5237,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бейджи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAJIL</Tag>
@@ -5024,6 +5262,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баджиль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAKHTARAN</Tag>
@@ -5048,6 +5287,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бахтаран</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAKTRA</Tag>
@@ -5072,6 +5312,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бактра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BALAD</Tag>
@@ -5096,6 +5337,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Балад</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BALANKANCHE</Tag>
@@ -5120,6 +5362,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баланканче</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BALIKPAPAN</Tag>
@@ -5144,11 +5387,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баликпапан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BALKASH</Tag>
         <English>Balkash</English>
         <Spanish>Baljash</Spanish>
+        <Italian>Balchaš</Italian>
+        <Russian>Балхаш</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BALKH</Tag>
@@ -5204,6 +5450,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бама</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAMENDA</Tag>
@@ -5228,6 +5475,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баменда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANDA_ACEH</Tag>
@@ -5252,6 +5500,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Банда-Ачех</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANDAR_E_ABBAS</Tag>
@@ -5276,6 +5525,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бандар э Аббас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANDAR_LAMPUNG</Tag>
@@ -5300,6 +5550,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бандар-Лампунг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANDUNG</Tag>
@@ -5324,6 +5575,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бандунг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANGHAZI</Tag>
@@ -5348,12 +5600,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бенгази</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANI_SUWAYF</Tag>
         <English>Bani Suwayf</English>
         <French>Bani Sowayf</French>
         <Spanish>Beni Suef</Spanish>
+        <Italian>Beni Suef</Italian>
+        <Russian>Бени-Суэйф</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANJARMASIN</Tag>
@@ -5378,6 +5633,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Банджармасин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANNOCK</Tag>
@@ -5402,6 +5658,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баннок</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BANSKA_BYSTRICA</Tag>
@@ -5426,6 +5683,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Банска-Бистрица</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAQUBAH</Tag>
@@ -5451,10 +5709,12 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Bakuba</Polish>
+        <Russian>Баакуба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARACOA</Tag>
         <English>Baracoa</English>
+        <Russian>Баракоа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARAWA</Tag>
@@ -5480,6 +5740,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Baraawe</Polish>
+        <Russian>Барава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARCELONA</Tag>
@@ -5537,6 +5798,7 @@
         <Japanese>バリ</Japanese>
         <Russian>Бари</Russian>
         <ChineseSimp>巴里</ChineseSimp>
+        <Korean>바리</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARINAS</Tag>
@@ -5561,6 +5823,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баринас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARISAL</Tag>
@@ -5585,6 +5848,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Барисал</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BARQUISIMETO</Tag>
@@ -5609,6 +5873,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баркисимето</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BASIANA</Tag>
@@ -5633,6 +5898,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Басиана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BASRA</Tag>
@@ -5689,6 +5955,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бассар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BASSE_TERRE</Tag>
@@ -5713,6 +5980,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бас-Тер</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BASSEIN</Tag>
@@ -5737,6 +6005,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бассейн</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BATAM</Tag>
@@ -5761,6 +6030,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Батам</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BATANGAS</Tag>
@@ -5785,6 +6055,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Батангас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BATNA</Tag>
@@ -5809,6 +6080,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Батна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BATUMI</Tag>
@@ -5861,6 +6133,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Баучи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAURU</Tag>
@@ -5885,10 +6158,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бауру</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAUTA</Tag>
         <English>Bauta</English>
+        <Russian>Баута</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAWKU</Tag>
@@ -5913,10 +6188,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бавку</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAYAMO</Tag>
         <English>Bayamo</English>
+        <Russian>Байамо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAYEZID</Tag>
@@ -5942,6 +6219,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Bajazyd</Polish>
+        <Russian>Баязид</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAYHAN_AL_QISAB</Tag>
@@ -5966,6 +6244,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Байхан-эль-Кисаб</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BAYT_AL_FAQIH</Tag>
@@ -5990,6 +6269,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Байт-эль-Факих</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEIRA</Tag>
@@ -6014,6 +6294,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бейра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEKASI</Tag>
@@ -6038,6 +6319,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бекаси</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BELED_WEYNE</Tag>
@@ -6062,6 +6344,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Белед Вейне</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BELEM</Tag>
@@ -6086,6 +6369,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Белен</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BELFORD_ROXO</Tag>
@@ -6110,6 +6394,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Белфорд Роксо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BELISCE</Tag>
@@ -6134,6 +6419,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Белишче</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BELO_HORIZONTE</Tag>
@@ -6158,6 +6444,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Белу-Оризонти</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BELO_TSIRIBIHINA</Tag>
@@ -6182,6 +6469,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Белу-Цирибихина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEN_TRE</Tag>
@@ -6206,6 +6494,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бенче</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BENGKULU</Tag>
@@ -6230,6 +6519,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бенгкулу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BENGUELA</Tag>
@@ -6254,6 +6544,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бенгела</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BENI_MELLAL</Tag>
@@ -6278,6 +6569,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бени Меллаль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BENIN_CITY</Tag>
@@ -6302,6 +6594,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бенин-Сити</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BENONI</Tag>
@@ -6326,6 +6619,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бенони</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERAT</Tag>
@@ -6350,6 +6644,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Берат</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERBERA</Tag>
@@ -6378,11 +6673,13 @@
         <Japanese>ベルベラ</Japanese>
         <Russian>Бербера</Russian>
         <ChineseSimp>柏柏拉</ChineseSimp>
+        <Korean>베르바라</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERD</Tag>
         <English>Berd</English>
         <French>DIRDE</French>
+        <Russian>Берд</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEREKUM</Tag>
@@ -6407,6 +6704,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Берекум</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEREU</Tag>
@@ -6431,6 +6729,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Берея</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERGAMO</Tag>
@@ -6455,6 +6754,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бергамо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERGEN</Tag>
@@ -6506,6 +6806,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Берг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERTOUA</Tag>
@@ -6530,6 +6831,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бертуа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BERYTUS</Tag>
@@ -6554,6 +6856,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бейрут</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BESKRA</Tag>
@@ -6578,6 +6881,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бискра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BETIM</Tag>
@@ -6602,6 +6906,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бетин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BEUGUEN</Tag>
@@ -6650,6 +6955,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бьенхоа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BIGAGOTEEL</Tag>
@@ -6698,6 +7004,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бимбисарапури</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BINJAI</Tag>
@@ -6722,6 +7029,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бинджай</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BIOGRAD</Tag>
@@ -6746,6 +7054,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Биоград</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BISENZIO</Tag>
@@ -6770,6 +7079,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бизенцио</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BITLIS</Tag>
@@ -6778,6 +7088,7 @@
         <Japanese>ビトリス</Japanese>
         <Russian>Битлис</Russian>
         <ChineseSimp>比特利斯</ChineseSimp>
+        <Korean>비틀리스</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BJELOVAR</Tag>
@@ -6802,6 +7113,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Беловар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BLACK_HILLS</Tag>
@@ -6826,6 +7138,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Блэк-Хиллс</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BLAGOVESCENSK</Tag>
@@ -6850,6 +7163,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Благовещенск</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BLARIACO</Tag>
@@ -6898,6 +7212,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бленхейм</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BLOEMFONTEIN</Tag>
@@ -6922,6 +7237,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Блумфонтейн</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BLUE_CREEK</Tag>
@@ -6946,6 +7262,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Голубой Залив</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BLUMENAU</Tag>
@@ -6970,6 +7287,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Блуменау</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOGOR</Tag>
@@ -6994,6 +7312,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Богор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOGRA</Tag>
@@ -7022,6 +7341,7 @@
         <Japanese>ボグラ</Japanese>
         <Russian>Богра</Russian>
         <ChineseSimp>伯格拉</ChineseSimp>
+        <Korean>보그라</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOKSBURG</Tag>
@@ -7046,6 +7366,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Боксбург</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOLE</Tag>
@@ -7070,6 +7391,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бол</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOLGATANGA</Tag>
@@ -7094,6 +7416,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Болгатанга</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOLOGNA</Tag>
@@ -7119,6 +7442,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Bolonia</Polish>
+        <Russian>Болонья</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOLZANO</Tag>
@@ -7143,6 +7467,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Больцано</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOMA</Tag>
@@ -7167,6 +7492,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бома</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOMIE</Tag>
@@ -7215,6 +7541,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бораме</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOOSAASO</Tag>
@@ -7239,6 +7566,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Босасо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOTOSANI</Tag>
@@ -7264,6 +7592,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Botoşani</Polish>
+        <Russian>Ботошани</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOTSHABELO</Tag>
@@ -7288,12 +7617,15 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ботшабело</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BOURGAS</Tag>
         <English>Bourgas</English>
         <Polish>Burgas</Polish>
         <Spanish>Burgas</Spanish>
+        <Italian>Burgas</Italian>
+        <Russian>Бургас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAC</Tag>
@@ -7318,6 +7650,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брач</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRACAU</Tag>
@@ -7342,6 +7675,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бакэу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAHMANBARIA</Tag>
@@ -7366,6 +7700,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брахманбария</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAILA</Tag>
@@ -7390,6 +7725,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брэила</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAKPAN</Tag>
@@ -7414,6 +7750,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бракпан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRASILIA</Tag>
@@ -7438,6 +7775,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бразилиа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRASOV</Tag>
@@ -7462,6 +7800,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брашов</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRATISLAVA</Tag>
@@ -7487,6 +7826,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Bratysława</Polish>
+        <Russian>Братислава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRAZZAVILLE</Tag>
@@ -7511,6 +7851,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Браззавиль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRESCIA</Tag>
@@ -7535,6 +7876,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брешиа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRIDGETOWN</Tag>
@@ -7559,6 +7901,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бриджтаун</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRIHADRATHAPURA</Tag>
@@ -7583,6 +7926,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брихадратапура</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRINDISI</Tag>
@@ -7607,6 +7951,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бриндизи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRNO</Tag>
@@ -7631,6 +7976,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брно</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BROD</Tag>
@@ -7655,6 +8001,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брод</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRUGGE</Tag>
@@ -7679,6 +8026,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Брюгге</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BRUSSEL</Tag>
@@ -7738,6 +8086,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бухарест</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUENOS_AIRES</Tag>
@@ -7762,6 +8111,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Буэнос-Айрес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUKAVU</Tag>
@@ -7786,6 +8136,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Букаву</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUKHARA</Tag>
@@ -7846,6 +8197,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Булавайо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BULLAXAAR</Tag>
@@ -7870,6 +8222,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Булаксари</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUNIA</Tag>
@@ -7894,6 +8247,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Буниа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUNURONG</Tag>
@@ -7918,6 +8272,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бунуронг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BURARRA</Tag>
@@ -7942,6 +8297,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бурарра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BURCO</Tag>
@@ -7966,6 +8322,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бурко</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUREWALA</Tag>
@@ -7990,6 +8347,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Буревала</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BURRIDAVA</Tag>
@@ -8014,6 +8372,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Буридава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BURUNGUM</Tag>
@@ -8038,6 +8397,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бурунгум</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUTEMBO</Tag>
@@ -8062,6 +8422,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бутембо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUTRINT</Tag>
@@ -8086,6 +8447,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бутринти</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUTUAN</Tag>
@@ -8110,6 +8472,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бутуана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUULO_BERDE</Tag>
@@ -8134,6 +8497,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бууло Берде</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUUR_HAKABA</Tag>
@@ -8158,6 +8522,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Буур-Хакабе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BUZAU</Tag>
@@ -8182,6 +8547,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Бузэу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_BYBLOS</Tag>
@@ -8678,6 +9044,7 @@
         <Tag>TXT_KEY_CITY_NAME_CAMAGUEY</Tag>
         <English>Camaguey</English>
         <Spanish>Camagüey</Spanish>
+        <Italian>Puerto Principe</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAMPECHE</Tag>
@@ -8919,6 +9286,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Каракас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CARAPICUIBA</Tag>
@@ -9323,10 +9691,12 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAYO_COCO</Tag>
         <English>Cayo Coco</English>
+        <Russian>Кайо-Коко</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CAYO_LARGO</Tag>
         <English>Cayo Largo</English>
+        <Italian>Cayo Largo del Sur</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CE</Tag>
@@ -9375,6 +9745,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Себу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CEEK</Tag>
@@ -9543,6 +9914,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чагуанас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHALCATZINGO</Tag>
@@ -9687,6 +10059,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Харакс</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHARLEROI</Tag>
@@ -9711,6 +10084,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Шарлеруа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHARLOTTE_AMALIE</Tag>
@@ -9735,6 +10109,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Шарлотта-Амалия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHARSADDA</Tag>
@@ -9815,6 +10190,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чемеуэви</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHERSONESUS</Tag>
@@ -9839,6 +10215,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Херсонес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHERTOMLYK</Tag>
@@ -9863,6 +10240,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чертомлык</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHETUMAL</Tag>
@@ -9887,6 +10265,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Четумаль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHIATURA</Tag>
@@ -9911,6 +10290,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чиатура</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHIBUTO</Tag>
@@ -9935,6 +10315,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чибуто</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHICHIIL_DA_KIZH</Tag>
@@ -9983,6 +10364,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чиуауа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHILE</Tag>
@@ -10007,6 +10389,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чили</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHILLAN</Tag>
@@ -10031,6 +10414,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чильяне</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHIMALPAN</Tag>
@@ -10079,6 +10463,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Шимойо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHINHOYI</Tag>
@@ -10127,6 +10512,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чиниот</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHINKULTIC</Tag>
@@ -10200,6 +10586,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Mandi Chishtian</Polish>
+        <Russian>Чиштиан-Манди</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHITTAGONG</Tag>
@@ -10278,6 +10665,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Хомутов</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHORESMII</Tag>
@@ -10330,6 +10718,7 @@
         <Japanese>チョータ</Japanese>
         <Russian>Чота</Russian>
         <ChineseSimp>查塔</ChineseSimp>
+        <Korean>초타</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHOWMOHONI</Tag>
@@ -10378,6 +10767,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Крайстчёрч</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHRYSE</Tag>
@@ -10402,6 +10792,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Хриса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHUADANGA</Tag>
@@ -10474,6 +10865,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чумаш</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CHUQUISACA</Tag>
@@ -10498,6 +10890,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чукисака</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CIBECUE</Tag>
@@ -10527,10 +10920,13 @@
         <Tag>TXT_KEY_CITY_NAME_CIEGO_DE_AVILA</Tag>
         <English>Ciego de Avila</English>
         <Spanish>Ciego de Ávila</Spanish>
+        <Italian>Ciego de Ávila</Italian>
+        <Russian>Сьего де Авила</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CIENFUEGOS</Tag>
         <English>Cienfuegos</English>
+        <Russian>Сьенфуэгос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CILEGON</Tag>
@@ -10560,6 +10956,7 @@
         <Tag>TXT_KEY_CITY_NAME_CILICIA</Tag>
         <English>Cilicia</English>
         <French>Cilicie</French>
+        <Russian>Киликии</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CIMAHI</Tag>
@@ -10680,6 +11077,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сьюдад-Боливар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CIUDAD_JUAREZ</Tag>
@@ -10704,6 +11102,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сьюдад-Хуарес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CIUDAD_OJEDA</Tag>
@@ -10728,6 +11127,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сьюдад Охеда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CLEVSIN</Tag>
@@ -10752,6 +11152,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Клевсин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CLUJNAPOCA</Tag>
@@ -10776,6 +11177,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Клуж-Напока</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COBA</Tag>
@@ -10805,10 +11207,12 @@
         <Japanese>コバ</Japanese>
         <Russian>Коба</Russian>
         <ChineseSimp>考巴</ChineseSimp>
+        <Korean>코바</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COBRE</Tag>
         <English>Cobre</English>
+        <Italian>Santa Clara del Cobre</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COCHITI</Tag>
@@ -10857,11 +11261,14 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Колима</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COLON</Tag>
         <English>Colon</English>
         <Spanish>Colón</Spanish>
+        <Italian>Colón</Italian>
+        <Russian>Колон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COLONIA</Tag>
@@ -10910,6 +11317,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Комилла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COMO</Tag>
@@ -10934,6 +11342,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Комо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COMODORO_RIVADAVIA</Tag>
@@ -10958,6 +11367,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Комодоро Ривадавия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CONCEPCION</Tag>
@@ -10982,6 +11392,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Консепсьон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CONCEPCIZ_EL_BERMEJO</Tag>
@@ -11006,6 +11417,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Консепсьон дель Бермехо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CONCORDIA</Tag>
@@ -11319,6 +11731,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Козенца</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COSTANOAN</Tag>
@@ -11367,6 +11780,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Котсумальгуапа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COXS_BAZAR</Tag>
@@ -11391,6 +11805,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Кокс Базар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_COYOTERO</Tag>
@@ -11535,6 +11950,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Куа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CUAMBE</Tag>
@@ -11559,6 +11975,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Цуамбе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CUIABA</Tag>
@@ -11607,6 +12024,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сьюдад-Гуаяна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CULHUACAN</Tag>
@@ -11704,6 +12122,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Кунео</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CURICO</Tag>
@@ -11729,6 +12148,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Curicó</Polish>
+        <Russian>Курико</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_CURITIBA</Tag>
@@ -11874,6 +12294,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Ad-Dachla</Polish>
+        <Russian>Дахла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DALAT</Tag>
@@ -12003,6 +12424,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Даматуру</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DAMNONII</Tag>
@@ -12099,6 +12521,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DARDANIA</Tag>
@@ -12267,6 +12690,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дечин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DEMETROPOLIS</Tag>
@@ -12347,6 +12771,7 @@
         <Japanese>デル</Japanese>
         <Russian>Дер</Russian>
         <ChineseSimp>德尔</ChineseSimp>
+        <Korean>데르</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DERA_GHAZI_KHAN</Tag>
@@ -12371,6 +12796,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дера Гази Хан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DHAKA</Tag>
@@ -12425,6 +12851,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дамар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DHARUG</Tag>
@@ -12473,6 +12900,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Диас-Суфал</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DIADEMA</Tag>
@@ -12497,6 +12925,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Диадема</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DIARRHYTOS</Tag>
@@ -12593,6 +13022,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дьен Бьен Фу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DIERE</Tag>
@@ -12695,6 +13125,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Динаджпур</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DINAS_EIDDYN</Tag>
@@ -12815,10 +13246,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дьяково</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DOBRICH</Tag>
         <English>Dobrich</English>
+        <Italian>Dobrič</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DOGONDOUTCHI</Tag>
@@ -12843,6 +13276,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Догондучи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DOKIDAUA</Tag>
@@ -12915,6 +13349,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Донго</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DOORNIK</Tag>
@@ -13035,6 +13470,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дреница</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DROBETATURNUSEVERIN</Tag>
@@ -13059,6 +13495,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дробета-Турну-Северин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DUBROVNIK</Tag>
@@ -13084,6 +13521,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Dubrownik</Polish>
+        <Russian>Дубровник</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DUCOS</Tag>
@@ -13136,6 +13574,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DUMYAT</Tag>
         <English>Dumyat</English>
+        <Russian>Дамиэт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DUNBLANE</Tag>
@@ -13280,6 +13719,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дура-Европос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DURANGO</Tag>
@@ -13304,6 +13744,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дуранго</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DURBAN</Tag>
@@ -13328,6 +13769,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дурбан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DURRES</Tag>
@@ -13352,11 +13794,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Дуррес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DVIN</Tag>
         <English>Dvin</English>
         <Polish>Dwin</Polish>
+        <Russian>Двин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_DZI_LIKESILAN</Tag>
@@ -13385,6 +13829,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EBLA</Tag>
         <English>Ebla</English>
+        <Russian>Эбла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EBUSUS</Tag>
@@ -13410,6 +13855,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Sandic</Polish>
+        <Russian>Ибица</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ECH_CHELIFF</Tag>
@@ -13434,6 +13880,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эш-Шелифф</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EDE</Tag>
@@ -13517,6 +13964,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Effon-Alaiye</Polish>
+        <Russian>Эффон Алайе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EGO</Tag>
@@ -13593,6 +14041,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EJMIASIN</Tag>
         <English>Ejmiasin</English>
+        <Italian>Vagharshapat</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EJURA</Tag>
@@ -13665,6 +14114,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эко</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_AZUZUL</Tag>
@@ -13689,6 +14139,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Асусуль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_BOULAIDA</Tag>
@@ -13713,6 +14164,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Боулаида</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_BRUJO</Tag>
@@ -13737,6 +14189,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Брухо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_DJAZAIR</Tag>
@@ -13761,6 +14214,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Джазаир</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_LIMON</Tag>
@@ -13785,6 +14239,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Лимоне</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_MANATI</Tag>
@@ -13809,6 +14264,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Манати</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_QUISCO</Tag>
@@ -13833,6 +14289,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Киско</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EL_TIGRE</Tag>
@@ -13857,6 +14314,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эль-Тигре</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ELIZAVETINSKAYA</Tag>
@@ -13881,6 +14339,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Елизаветинская</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_EMSHITEPE</Tag>
@@ -13905,6 +14364,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Емши-Тепе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ENDE</Tag>
@@ -13929,6 +14389,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Энде</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ENSENADA</Tag>
@@ -14085,6 +14546,7 @@
         <Japanese>エルズルム</Japanese>
         <Russian>Эрзурум</Russian>
         <ChineseSimp>埃尔祖卢姆</ChineseSimp>
+        <Korean>에르주룸</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ESBJERG</Tag>
@@ -16177,6 +16639,7 @@
         <Hungarian>Nagy Bulgar</Hungarian>
         <French>Grand Bulgare</French>
         <Polish>Wielki Bulgar</Polish>
+        <Spanish>Gran Bulgar</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GREAT_HIWASSEE</Tag>
@@ -16530,6 +16993,7 @@
         <English>Guines</English>
         <Polish>Guînes</Polish>
         <Spanish>Güines</Spanish>
+        <Italian>Guînes</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_GUJRANWALA</Tag>
@@ -16949,6 +17413,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Halabdży</Polish>
+        <Russian>Халабджа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HALLIN</Tag>
@@ -17965,6 +18430,7 @@
         <Tag>TXT_KEY_CITY_NAME_HOLGUIN</Tag>
         <English>Holguin</English>
         <Spanish>Holguín</Spanish>
+        <Italian>Holguín</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_HOLSTEBRO</Tag>
@@ -18777,6 +19243,7 @@
         <Russian>Индрапратха</Russian>
         <ChineseSimp>因陀罗普罗斯泰</ChineseSimp>
         <Czech>Indraprástha</Czech>
+        <Korean>인드라프라스타</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_INHAMBANE</Tag>
@@ -19315,6 +19782,7 @@
         <Japanese>イサパ</Japanese>
         <Russian>Ицапа</Russian>
         <ChineseSimp>伊扎帕</ChineseSimp>
+        <Korean>이사파</Korean>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_IZEE_DIGHIN</Tag>
@@ -20173,6 +20641,7 @@
         <Tag>TXT_KEY_CITY_NAME_KAFR_AD_DAWWAR</Tag>
         <English>Kafr ad Dawwar</English>
         <Spanish>Kafr el-Dawwar</Spanish>
+        <Italian>Kafr al-Dawār</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KAINAI</Tag>
@@ -20524,6 +20993,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KANDYAGASH</Tag>
         <English>Kandyagash</English>
+        <Italian>Qandyaǧaš</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KANGJU</Tag>
@@ -20875,6 +21345,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KARS</Tag>
         <English>Kars</English>
+        <Italian>Qers</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KARSIDAUA</Tag>
@@ -22283,6 +22754,7 @@
         <Tag>TXT_KEY_CITY_NAME_KOKSHETAU</Tag>
         <English>Kokshetau</English>
         <Polish>Kokszetau</Polish>
+        <Italian>Kökşetaw</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOLDING</Tag>
@@ -22607,6 +23079,7 @@
         <Tag>TXT_KEY_CITY_NAME_KOSTANAY</Tag>
         <English>Kostanay</English>
         <Polish>Kustanaj</Polish>
+        <Italian>Qostanay</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_KOSTROMSKAYA</Tag>
@@ -26958,6 +27431,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Моламьяйн</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MAXIXE</Tag>
@@ -27372,6 +27846,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мелитополь</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MENDOZA</Tag>
@@ -27396,6 +27871,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мендоса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MENINX</Tag>
@@ -27444,6 +27920,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мерки</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MERGUI</Tag>
@@ -27468,6 +27945,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мергуи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MERIDA</Tag>
@@ -27521,6 +27999,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Меру</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MESA_GRANDE</Tag>
@@ -27545,6 +28024,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Меса-Гранде</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MESHED</Tag>
@@ -27569,6 +28049,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мешхед</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MESSINA</Tag>
@@ -27594,6 +28075,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Mesyna</Polish>
+        <Russian>Мессина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MEXICALI</Tag>
@@ -27618,6 +28100,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мехикали</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MEXICO_CITY</Tag>
@@ -27643,6 +28126,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Meksyk</Polish>
+        <Russian>Мехико</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIANWALI</Tag>
@@ -27667,6 +28151,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Миянвали</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIDDELFART</Tag>
@@ -27691,6 +28176,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Миддельфарт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIDRAND</Tag>
@@ -27739,6 +28225,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Миккели</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MILETOS</Tag>
@@ -27798,6 +28285,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Минна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIQUAN</Tag>
@@ -27826,6 +28314,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIRAMAR</Tag>
         <English>Miramar</English>
+        <Russian>Мирамар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MIRPUR_KHAS</Tag>
@@ -27850,6 +28339,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мирпур-Хас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MISIONES</Tag>
@@ -27874,6 +28364,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мисьонес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MISRATAH</Tag>
@@ -27923,6 +28414,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Митхилы</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MLADA_BOLESLAV</Tag>
@@ -27947,6 +28439,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Млада-Болеслав</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MLJET</Tag>
@@ -27971,6 +28464,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Млет</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOCABA</Tag>
@@ -27995,6 +28489,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мокуба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOCOLLOPE</Tag>
@@ -28043,6 +28538,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Модена</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOESKROEN</Tag>
@@ -28067,6 +28563,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мускрон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOGADISHU</Tag>
@@ -28092,6 +28589,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Mogadiszu</Polish>
+        <Russian>Могадишо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOHAMMEDIA</Tag>
@@ -28116,6 +28614,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мохаммедия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOHAVE</Tag>
@@ -28140,6 +28639,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мохаве</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOHENJO_DARO</Tag>
@@ -28164,6 +28664,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мохенджо-Даро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MONACHE</Tag>
@@ -28212,6 +28713,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Монклова</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MONDOU</Tag>
@@ -28288,6 +28790,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Монтего-Бей</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MONTEPUEZ</Tag>
@@ -28312,6 +28815,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Монтепвезе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MONTERREY</Tag>
@@ -28336,6 +28840,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Монтеррей</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MONYWA</Tag>
@@ -28360,6 +28865,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Монива</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOONIYAANG</Tag>
@@ -28408,6 +28914,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Морелия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MORONDAVA</Tag>
@@ -28432,6 +28939,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мурундава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MORONI</Tag>
@@ -28456,6 +28964,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Морони</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOSA</Tag>
@@ -28504,6 +29013,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Мост</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_MOSUL</Tag>
@@ -29474,6 +29984,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Натал</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NAVAJO</Tag>
@@ -30210,6 +30721,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Нишапур</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NISIBIN</Tag>
@@ -30239,6 +30751,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Нитра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NJIMI</Tag>
@@ -30335,6 +30848,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ногалес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NONGATL</Tag>
@@ -30383,6 +30897,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Нунгар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NOSY_VARIKA</Tag>
@@ -30528,6 +31043,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Нове Замки</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NUEVA_GERONA</Tag>
@@ -30536,6 +31052,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NUEVITAS</Tag>
         <English>Nuevitas</English>
+        <Russian>Нуэвитас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_NUEVO_LEON</Tag>
@@ -31004,6 +31521,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ока</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OKABA</Tag>
@@ -31393,6 +31911,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Опатия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OPAVA</Tag>
@@ -31669,6 +32188,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Ostrawa</Polish>
+        <Russian>Острава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OSTROGOTH</Tag>
@@ -31837,6 +32357,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ойо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_OZURGETI</Tag>
@@ -32526,6 +33047,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Парамарибо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PARANAQUE</Tag>
@@ -32551,6 +33073,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Parañaque</Polish>
+        <Russian>Параньяке</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PARANI</Tag>
@@ -32623,6 +33146,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пардубице</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PARINTINTIN</Tag>
@@ -32671,6 +33195,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Парма</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PARNII</Tag>
@@ -32927,6 +33452,7 @@
         <Tag>TXT_KEY_CITY_NAME_PAVLODAR</Tag>
         <English>Pavlodar</English>
         <Polish>Pawłodar</Polish>
+        <Russian>Павлодар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PAZYRYK</Tag>
@@ -33344,6 +33870,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Перуджа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PERUSNA</Tag>
@@ -33476,6 +34003,7 @@
         <Tag>TXT_KEY_CITY_NAME_PETROPAVL</Tag>
         <English>Petropavl</English>
         <Polish>Pietropawłowsk</Polish>
+        <Russian>Петропавловск</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PHASIS</Tag>
@@ -33597,6 +34125,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пьедрас-Неграс</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PIEGAN</Tag>
@@ -33962,6 +34491,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PLOVDIV</Tag>
         <English>Plovdiv</English>
+        <Italian>Filippopoli</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PLZEN</Tag>
@@ -34227,6 +34757,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Порт-оф-Спейн</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORT_SAID</Tag>
@@ -34234,6 +34765,7 @@
         <French>Port-Saïd</French>
         <Spanish>Puerto Saíd</Spanish>
         <Italian>Porto Said</Italian>
+        <Russian>Порт-Саид</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORTMORE</Tag>
@@ -34258,6 +34790,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Портмор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORTO_ALEGRE</Tag>
@@ -34282,6 +34815,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Порту-Алегри</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PORVOO</Tag>
@@ -34306,6 +34840,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Порвоо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_POSADAS</Tag>
@@ -34330,6 +34865,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Посадас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_POTANA</Tag>
@@ -34474,6 +35010,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Поважска Бистрица</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_POZEGA</Tag>
@@ -34605,6 +35142,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Президенти-Пруденти</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PRESOV</Tag>
@@ -34702,6 +35240,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Приштина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PRIZREN</Tag>
@@ -34726,6 +35265,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Призрен</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PROME</Tag>
@@ -34870,6 +35410,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэбло</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUENTE_ALTO</Tag>
@@ -34894,6 +35435,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэнте-Альто</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_CABELLO</Tag>
@@ -34918,6 +35460,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто Кабельо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_EGMONT</Tag>
@@ -34942,6 +35485,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто Эгмонт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_LA_CRUZ</Tag>
@@ -34966,6 +35510,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто-ла-Крус</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_MADRYN</Tag>
@@ -34990,6 +35535,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто-Мадрин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_MONTT</Tag>
@@ -35014,6 +35560,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто-Монт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_SANTA_CRUZ</Tag>
@@ -35038,6 +35585,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто-Санта-Крус</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUERTO_VALLARTA</Tag>
@@ -35062,6 +35610,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пуэрто-Вальярта</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUKEKOHE</Tag>
@@ -35086,6 +35635,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пукекохе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PULA</Tag>
@@ -35110,6 +35660,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пула</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PULLUM</Tag>
@@ -35158,10 +35709,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Пунта-Аренас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUNTA_BRAVA</Tag>
         <English>Punta Brava</English>
+        <Russian>Пунта-Брава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_PUNTO_FIJO</Tag>
@@ -35319,6 +35872,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QINA</Tag>
         <English>Qina</English>
+        <Italian>Qena</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QUALATCHEE</Tag>
@@ -35517,6 +36071,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Кесон-Сити</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QUI_NHON</Tag>
@@ -35565,6 +36120,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Кильота</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QUILPUE</Tag>
@@ -35589,6 +36145,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Килпуэ</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_QUIRIGUA</Tag>
@@ -35624,6 +36181,7 @@
         <English>Qyzyl-Orda</English>
         <Polish>Qyzyl Ordy</Polish>
         <Spanish>Quizilordá</Spanish>
+        <Russian>Кызыл Орда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAB</Tag>
@@ -35648,6 +36206,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Раб</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RABAT</Tag>
@@ -35672,6 +36231,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рабат</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RACH_GIA</Tag>
@@ -35720,6 +36280,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рафаэла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAHIMYAR_KHAN</Tag>
@@ -35798,6 +36359,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рахапура</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAJSHAHI</Tag>
@@ -36001,6 +36563,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рашт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAUMA</Tag>
@@ -36025,6 +36588,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Раума</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RAUMARIKER</Tag>
@@ -36134,6 +36698,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Росон</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RECIFE</Tag>
@@ -36158,6 +36723,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ресифи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_REGGIO_CALABRIA</Tag>
@@ -36183,6 +36749,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Reggio di Calabria</Polish>
+        <Russian>Реджо-ди-Калабрия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_REGGIO_EMILIA</Tag>
@@ -36207,6 +36774,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Реджо-Эмилия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RESISTENCIA</Tag>
@@ -36231,6 +36799,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ресистенсия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_REYNOSA</Tag>
@@ -36255,6 +36824,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рейноса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RHAGAE</Tag>
@@ -36384,6 +36954,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Ribeirão Preto</Polish>
+        <Russian>Рибейран-Прету</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIDA</Tag>
@@ -36480,6 +37051,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рио-Куарто</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIO_DE_JANEIRO</Tag>
@@ -36533,6 +37105,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рио-Гальегос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIO_GRANDE</Tag>
@@ -36557,6 +37130,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рио-Гранде</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RIO_NEGRO</Tag>
@@ -36581,6 +37155,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рио-Негро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ROME</Tag>
@@ -36988,6 +37563,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Rustawi</Polish>
+        <Russian>Рустави</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RUSTENBURG</Tag>
@@ -37012,6 +37588,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Рюстенбург</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_RUSUCURRU</Tag>
@@ -37084,6 +37661,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сайдаха</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SADIQABAD</Tag>
@@ -37108,6 +37686,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Садикабад</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAFAQIS</Tag>
@@ -37156,6 +37735,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сафи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAGINAW</Tag>
@@ -37231,6 +37811,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сахивале</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAIDPUR</Tag>
@@ -37423,6 +38004,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сальта</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SALVADOR</Tag>
@@ -37447,6 +38029,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сальвадор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAMARINDA</Tag>
@@ -37471,6 +38054,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Самаринда</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAMARQAND</Tag>
@@ -37532,6 +38116,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Samarze</Polish>
+        <Russian>Самарра</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAMAWAH</Tag>
@@ -37556,6 +38141,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Эс-Самава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAMOBAR</Tag>
@@ -37580,6 +38166,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Самобор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_ANDRES</Tag>
@@ -37604,6 +38191,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Андрес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_ANTONIO</Tag>
@@ -37656,6 +38244,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Бернардо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_CARLOS_DE_BARILOCHE</Tag>
@@ -37680,6 +38269,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Карлос-де-Барилоче</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_CRISTOBAL</Tag>
@@ -37704,6 +38294,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Кристобаль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_FELIPE</Tag>
@@ -37728,6 +38319,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Фелипе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_FERNANDO</Tag>
@@ -37752,6 +38344,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Фернандо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_FERNANDO_DEL_VALLE</Tag>
@@ -37776,6 +38369,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Фернандо-дель-Валье</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_IGNACIO</Tag>
@@ -37800,6 +38394,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Игнасио</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_JOSE_DE_MORO</Tag>
@@ -37824,6 +38419,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Хосе-де-Моро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_JOSE_DEL_MONTE</Tag>
@@ -37848,6 +38444,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Хосе-дель-Монте</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_JOSE_DOS_CAMPOS</Tag>
@@ -37872,6 +38469,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Хосе-дус-Кампус</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_JUAN</Tag>
@@ -37896,6 +38494,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Хуан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_LORENZO</Tag>
@@ -37920,6 +38519,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Лоренцо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_LUIS</Tag>
@@ -37944,6 +38544,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Луис</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_LUIS_POTOSI</Tag>
@@ -37968,6 +38569,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Луис-Потоси</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_MARTIN</Tag>
@@ -37992,6 +38594,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Мартин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_MIGUEL_DE_TUCUMAN</Tag>
@@ -38016,6 +38619,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Мигель-де-Тукуман</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_NICOLE</Tag>
@@ -38040,6 +38644,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан Николь</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAN_PEDRO</Tag>
@@ -38064,6 +38669,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Педро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANA</Tag>
@@ -38088,6 +38694,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сане</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANANDAJ</Tag>
@@ -38113,11 +38720,13 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Sanandadż</Polish>
+        <Russian>Сенендедж</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANCTI_SPIRITUS</Tag>
         <English>Sancti Spiritus</English>
         <Spanish>Sancti Spíritus</Spanish>
+        <Russian>Санкти-Спиритус</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANDIA</Tag>
@@ -38170,6 +38779,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTA_CLARA</Tag>
         <English>Santa Clara</English>
+        <Russian>Санта-Клара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTA_CRUZ</Tag>
@@ -38252,6 +38862,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Санта-Роза</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTA_ROSALIA</Tag>
@@ -38276,6 +38887,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Санта Росалия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTAREM</Tag>
@@ -38300,6 +38912,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сантарен</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTIAGO</Tag>
@@ -38332,6 +38945,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сантьяго-дель-Эстеро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SANTOS</Tag>
@@ -38356,6 +38970,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сантос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAO_CAETANO</Tag>
@@ -38380,6 +38995,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Каэтано</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAO_LUIS</Tag>
@@ -38404,6 +39020,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Луис</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAO_PAULO</Tag>
@@ -38428,6 +39045,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан-Паулу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAO_VINCENTE</Tag>
@@ -38452,6 +39070,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сан Висенте</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SAPA</Tag>
@@ -38476,6 +39095,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сапа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SARAMANA</Tag>
@@ -38581,6 +39201,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сарх</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SARI</Tag>
@@ -38788,6 +39409,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сату-Маре</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SATURNIA</Tag>
@@ -39491,6 +40113,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Шибиргана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHIBIN_AL_KAUM</Tag>
@@ -39658,16 +40281,19 @@
         <Tag>TXT_KEY_CITY_NAME_SHUBRA_AL_KHAYMAH</Tag>
         <English>Shubra al Khaymah</English>
         <Italian>Shubra El-Khema</Italian>
+        <Russian>Шубра-Эль-Хайма</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHUMEN</Tag>
         <English>Shumen</English>
+        <Russian>Шумен</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHUSHI</Tag>
         <English>Shushi</English>
         <French>Chouchi</French>
         <Italian>Shusha</Italian>
+        <Russian>Шуши</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SHYMKENT</Tag>
@@ -39826,6 +40452,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сиксика</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SILKEBORG</Tag>
@@ -39902,6 +40529,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Синт-Никлас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIPAN</Tag>
@@ -39978,6 +40606,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сиракузы</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIRAJGANJ</Tag>
@@ -40002,6 +40631,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сираджгандж</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SIS</Tag>
@@ -40030,6 +40660,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сисак</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SISIAN</Tag>
@@ -40285,6 +40916,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOFIA</Tag>
         <English>Sofia</English>
+        <Russian>София</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOKOTO</Tag>
@@ -40309,6 +40941,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сокото</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOLACE</Tag>
@@ -40381,6 +41014,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Солин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOLOCHA</Tag>
@@ -40430,6 +41064,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Sołocha</Polish>
+        <Russian>Солоха</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOMERSET_WEST</Tag>
@@ -40454,6 +41089,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сомерсет-Уэст</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOROCABA</Tag>
@@ -40478,6 +41114,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сорокаба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SOTOUBOUA</Tag>
@@ -40675,10 +41312,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Стадаконе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STARA_ZAGORA</Tag>
         <English>Stara Zagora</English>
+        <Russian>Стара Загора</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STEPANAKERT</Tag>
@@ -40708,6 +41347,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Św.</Polish>
+        <Russian>Сент-Джордж</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STIF</Tag>
@@ -40733,6 +41373,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>STIF</Polish>
+        <Russian>Стиф</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STJOHNS</Tag>
@@ -40758,6 +41399,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>St John's</Polish>
+        <Russian>Сент-Джонс</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_STOBIS</Tag>
@@ -40786,6 +41428,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUBARTU</Tag>
         <English>Subartu</English>
+        <Russian>Субарту</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUEHANS</Tag>
@@ -40862,6 +41505,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сухум</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUKABUMI</Tag>
@@ -40886,6 +41530,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сукабуми</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUKHUMI</Tag>
@@ -40911,6 +41556,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Suchumi</Polish>
+        <Russian>Сухуми</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUKKUR</Tag>
@@ -40935,6 +41581,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Суккуре</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SULAYMANIYAH</Tag>
@@ -40959,6 +41606,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сулеймания</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SUMA</Tag>
@@ -41230,6 +41878,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Свободный</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_SYKIDABA</Tag>
@@ -42214,6 +42863,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARAZ</Tag>
         <English>Taraz</English>
+        <Russian>Тараз</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARGUJIU</Tag>
@@ -42239,6 +42889,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Târgu Jiu</Polish>
+        <Russian>Тыргу Жиу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARGUMURES</Tag>
@@ -42264,6 +42915,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Târgu Mureş</Polish>
+        <Russian>Тыргу Муреш</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARHUNAH</Tag>
@@ -42288,6 +42940,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тархуне</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TARLAC</Tag>
@@ -42379,6 +43032,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Taszkent</Polish>
+        <Russian>Ташкент</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TASHKURGAN</Tag>
@@ -42548,6 +43202,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тауранга</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TAURI</Tag>
@@ -42625,6 +43280,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тбилиси</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TCHAMBA</Tag>
@@ -42649,6 +43305,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чамба</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TECHIMAN</Tag>
@@ -42866,6 +43523,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тема</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEMBE</Tag>
@@ -42890,6 +43548,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тембе</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEMBISA</Tag>
@@ -42914,6 +43573,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тембиса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEMUCO</Tag>
@@ -42938,6 +43598,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Темуко</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TENEDOS</Tag>
@@ -42962,6 +43623,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тенедос</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEOLOYUCAN</Tag>
@@ -42986,6 +43648,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Теолоюкан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEOPANTECUANITLAN</Tag>
@@ -43034,6 +43697,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Теплице</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TEPOZITLAN</Tag>
@@ -43106,6 +43770,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Терезина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TERMEZ</Tag>
@@ -43130,6 +43795,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Термез</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TESHIE</Tag>
@@ -43251,6 +43917,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Tétouan</Polish>
+        <Russian>Тетуан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TETZMOLIUHUACAN</Tag>
@@ -43323,6 +43990,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тева</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_THAI_NGUYEN</Tag>
@@ -43347,6 +44015,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тайский Нгуен</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_THATON</Tag>
@@ -43613,6 +44282,7 @@
         <English>Tigranakert</English>
         <Polish>Tigranocerta</Polish>
         <Italian>Tigranocerta</Italian>
+        <Russian>Тигранакерт</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIGUA</Tag>
@@ -43685,6 +44355,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тихуана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIKRIT</Tag>
@@ -43709,6 +44380,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тикрит</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TILIMSEN</Tag>
@@ -43782,6 +44454,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тимару</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIMBISHA</Tag>
@@ -43806,6 +44479,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тимбиша</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIMISOARA</Tag>
@@ -43830,6 +44504,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тимишоара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIRANA</Tag>
@@ -43854,6 +44529,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тирана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TIVARI</Tag>
@@ -43878,6 +44554,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тивари</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TKIBULI</Tag>
@@ -43902,6 +44579,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Ткибули</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TLAPACOYA</Tag>
@@ -44222,6 +44900,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тонгва</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TONGWANCHENG</Tag>
@@ -44318,6 +44997,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Турин</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TORREON</Tag>
@@ -44414,6 +45094,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Товста</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TOWAJAALE</Tag>
@@ -44640,6 +45321,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тренто</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRES_ZAPOTES</Tag>
@@ -44664,6 +45346,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Трес-Сапотес</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TREVISO</Tag>
@@ -44688,6 +45371,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тревизо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRIER</Tag>
@@ -44724,6 +45408,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRINIDAD</Tag>
         <English>Trinidad</English>
+        <Russian>Тринидад</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TRIPOLI</Tag>
@@ -44780,6 +45465,7 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Трнава</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TROGIR</Tag>
@@ -44804,6 +45490,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Трогир</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TROPOJA</Tag>
@@ -44828,6 +45515,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тропоя</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TROWULAN</Tag>
@@ -44852,6 +45540,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тровулан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TROY</Tag>
@@ -45102,6 +45791,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Чикапа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TSIHOMBE</Tag>
@@ -45150,6 +45840,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Цхалтубо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TSKHINVALI</Tag>
@@ -45175,6 +45866,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Cchinwali</Polish>
+        <Russian>Цхинвали</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUAMOTU</Tag>
@@ -45199,6 +45891,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Туамоту</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUBU</Tag>
@@ -45223,6 +45916,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тубу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TULA</Tag>
@@ -45386,6 +46080,7 @@
         <Polish>Turkiestan</Polish>
         <Spanish>Turquestán</Spanish>
         <Italian>Turkestan</Italian>
+        <Russian>Туркестан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TURKU</Tag>
@@ -45410,6 +46105,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Турку</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TURMERO</Tag>
@@ -45530,6 +46226,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тутонг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUTTUL</Tag>
@@ -45562,6 +46259,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Туусула</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUVALU</Tag>
@@ -45586,6 +46284,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Тувалу</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TUXTLA_GUTIERREZ</Tag>
@@ -45659,6 +46358,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Tyraspol</Polish>
+        <Russian>Тиры</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_TYRE</Tag>
@@ -45743,6 +46443,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Уберландия</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_UDINE</Tag>
@@ -46426,6 +47127,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Уусикаупунки</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VAASA</Tag>
@@ -46450,6 +47152,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вааса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VACOMAGI</Tag>
@@ -46579,6 +47282,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Валенсуэла</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VALPARAISO</Tag>
@@ -46603,6 +47307,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вальпараисо</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VALPOVO</Tag>
@@ -46627,6 +47332,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Валпово</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VAN</Tag>
@@ -46641,6 +47347,7 @@
         <Tag>TXT_KEY_CITY_NAME_VANADZOR</Tag>
         <English>Vanadzor</English>
         <Polish>Wanadzor</Polish>
+        <Russian>Ванадзор</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VANTAA</Tag>
@@ -46665,6 +47372,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вантаа</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VANUATU</Tag>
@@ -46689,10 +47397,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вануату</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VARADERO</Tag>
         <English>Varadero</English>
+        <Russian>Варадеро</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VARANASI</Tag>
@@ -46780,6 +47490,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VARNA</Tag>
         <English>Varna</English>
+        <Russian>Варна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VASUMATI</Tag>
@@ -46837,6 +47548,7 @@
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VEDI</Tag>
         <English>Vedi</English>
+        <Russian>Веди</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VEII</Tag>
@@ -46861,6 +47573,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вейи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VEJLE</Tag>
@@ -46885,6 +47598,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вайле</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VELCH</Tag>
@@ -46938,6 +47652,7 @@
         <Tag>TXT_KEY_CITY_NAME_VELIKI_PRESLAV</Tag>
         <English>Veliki Preslav</English>
         <Spanish>Preslav</Spanish>
+        <Russian>Великий Преслав</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VELIKO_TARNOVO</Tag>
@@ -46945,6 +47660,7 @@
         <Polish>Wielkie Tyrnowie</Polish>
         <Spanish>Veliko Tárnovo</Spanish>
         <Italian>Veliko Tărnovo</Italian>
+        <Russian>Велико Тырново</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VELZNA</Tag>
@@ -46969,6 +47685,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Велзна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VENADO_TUERTO</Tag>
@@ -47041,6 +47758,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Венеция</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VENICONES</Tag>
@@ -47089,6 +47807,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Веракрус</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VEREENIGING</Tag>
@@ -47166,6 +47885,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вервье</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VERWOERDBURG</Tag>
@@ -47286,6 +48006,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Виборг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VICENZA</Tag>
@@ -47374,6 +48095,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вьедма</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VIET_TRI</Tag>
@@ -47422,6 +48144,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вихари</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VILA VELHA</Tag>
@@ -47470,10 +48193,12 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вилья-Алемана</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VILLA_CLARA</Tag>
         <English>Villa Clara</English>
+        <Russian>Вилья-Клара</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VILLAHERMOSA</Tag>
@@ -47498,6 +48223,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вильяэрмоса</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VILLARRICA</Tag>
@@ -47522,6 +48248,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вильяррика</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VINA_DEL_MAR</Tag>
@@ -47546,6 +48273,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Винья-дель-Мар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VINDOMIA</Tag>
@@ -47594,6 +48322,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Винь</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VINH_LONG</Tag>
@@ -47618,6 +48347,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Винь Лонг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VINKOVCI</Tag>
@@ -47642,6 +48372,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Винковцы</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VIRATANAGARA</Tag>
@@ -47810,6 +48541,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вордингборг</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VOTADINI</Tag>
@@ -47834,11 +48566,13 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вотадины</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VRACA</Tag>
         <English>Vraca</English>
         <Spanish>Vratsa</Spanish>
+        <Russian>Враца</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VUKOJEBINA</Tag>
@@ -47863,6 +48597,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вукоебина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_VUKOVAR</Tag>
@@ -47887,6 +48622,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вуковар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_WA</Tag>
@@ -48439,6 +49175,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вестонария</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_WHAKATANE</Tag>
@@ -48463,6 +49200,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Факатане</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_WHANGAREI</Tag>
@@ -48487,6 +49225,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Вангареи</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_WHARAN</Tag>
@@ -48847,6 +49586,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Халосток</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_XIA</Tag>
@@ -49015,6 +49755,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Яна</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YANGON</Tag>
@@ -49188,6 +49929,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Енанджаун</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YENDI</Tag>
@@ -49212,16 +49954,19 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Йенди</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YEREVAN</Tag>
         <English>Yerevan</English>
         <Spanish>Ereván</Spanish>
         <Italian>Jerevan</Italian>
+        <Russian>Ереван</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YESIL</Tag>
         <English>Yesil</English>
+        <Russian>Есиль</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YINING</Tag>
@@ -49294,6 +50039,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Джокьякарта</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YOLNGU</Tag>
@@ -49438,6 +50184,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Юма</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_YUPI</Tag>
@@ -49487,6 +50234,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Забид</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZACATECAS</Tag>
@@ -49511,6 +50259,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Сакатекас</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZACATOLLAN</Tag>
@@ -49559,6 +50308,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Задар</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZADRAKATA</Tag>
@@ -49608,11 +50358,13 @@
             <Plural>0</Plural>
         </Spanish>
         <Polish>Zagrzeb</Polish>
+        <Russian>Загреб</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAHARA</Tag>
         <English>Zahara</English>
         <Italian>al-Zahra</Italian>
+        <German>Sahara</German>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAHEDAN</Tag>
@@ -49637,6 +50389,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Захедан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAHKO</Tag>
@@ -49661,6 +50414,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Заху</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAMBOANGA</Tag>
@@ -49685,6 +50439,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Замбоанга</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZANJAN</Tag>
@@ -49709,6 +50464,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Зенджан</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZAPRESIC</Tag>
@@ -49733,6 +50489,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Запрешич</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZARANJ</Tag>
@@ -49759,6 +50516,7 @@
         </Spanish>
         <Arabic>زارانج</Arabic>
         <Polish>Zarandż</Polish>
+        <Russian>Зарандж</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZARGIDAUA</Tag>
@@ -49860,6 +50618,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Зелея</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZENODOTIUM</Tag>
@@ -49910,6 +50669,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>تشاو</Arabic>
+        <Russian>Чжао</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHENSHU</Tag>
@@ -49941,6 +50701,7 @@
         <Polish>Żezkazgan</Polish>
         <Spanish>Jezkazgan</Spanish>
         <Italian>Jezkazgan</Italian>
+        <Russian>Жезказган</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZHONGQI</Tag>
@@ -49965,6 +50726,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Шонки</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZIA</Tag>
@@ -50015,6 +50777,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>زيلينا</Arabic>
+        <Russian>Жилина</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZINDER</Tag>
@@ -50040,6 +50803,7 @@
             <Plural>0</Plural>
         </Spanish>
         <Arabic>زيندر</Arabic>
+        <Russian>Зиндер</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZINJIBAR</Tag>
@@ -50136,6 +50900,7 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </Spanish>
+        <Russian>Зондер</Russian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_CITY_NAME_ZORO</Tag>

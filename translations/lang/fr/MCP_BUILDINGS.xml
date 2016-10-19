@@ -43,7 +43,6 @@
   <string name="TXT_KEY_BUILDING_BROCH">Broch</string>
   <string name="TXT_KEY_BUILDING_BROCH_STRATEGY">Le [COLOR_BUILDING_TEXT]broch[COLOR_REVERT], équivalent écossais du [COLOR_BUILDING_TEXT]château[COLOR_REVERT], empêche les ennemis d\'envahir vos villes avant d\'avoir de les avoir bombardées.</string>
   <string name="TXT_KEY_BUILDING_BURMA_PAYA">Paya</string>
-  <string name="TXT_KEY_BUILDING_BURMA_PAYA_STRATEGY">Le [COLOR_BUILDING_TEXT]paya[COLOR_REVERT] est l\'équivalent birman de l\'[COLOR_BUILDING_TEXT]Scriptorium[COLOR_REVERT]. Il procure une route commerciale supplémentaire dans la ville où il est construit.</string>
   <string name="TXT_KEY_BUILDING_CAER">Caer</string>
   <string name="TXT_KEY_BUILDING_CHILE_COPPERWORKS">Usine de cuivre</string>
   <string name="TXT_KEY_BUILDING_CHILE_COPPERWORKS_STRATEGY">L\'[COLOR_BUILDING_TEXT]usine de cuivre[COLOR_REVERT] (équivalent chilien de l\'[COLOR_BUILDING_TEXT]usine[COLOR_REVERT]) augmente la production et la richesse de la ville au détriment d\'un peu d\'insalubrité. Le bonus est amélioré avec le [COLOR_HIGHLIGHT_TEXT]cuivre[COLOR_REVERT].</string>
