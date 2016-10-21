@@ -7,7 +7,7 @@ SetCompressor /SOLID LZMA
 ;--------------------------------
 
   !include "MUI.nsh"
-  !define REVISION "1.7"
+  !define REVISION "1.8.2"
   !define /date DATE "%Y-%m"
   
 ; Unzip FPK module
@@ -184,10 +184,10 @@ LangString FINISH ${LANG_FRENCH} "Les nouvelles civilisations sont maintenant in
 ; German
 
 ; LangString WELCOME_TITLE ${LANG_GERMAN} "Civilization IV: A New Dawn - Mega Civ Pack"
-; LangString WELCOME ${LANG_GERMAN} "Revision: ${REVISION}\n\n This setup wizard will guide you through the installation of more than 100 new civilizations for Civilization IV: A New Dawn.\n\n The mod will be extracted into your Civilization IV: A New Dawn current installation.\n\n Note: The installation can take some minutes, please be patient."
+; LangString WELCOME ${LANG_GERMAN} "Revision: ${REVISION}\n\n Dieser Setup-Assistent führt Sie durch die Installation von mehr als 100 neuen Zivilisationen für Civilization IV: A New Dawn.\n\n Die Mod wird in Ihre derzeitige Civilization IV: A New Dawn Installation entpackt.\n\n Hinweis: Die Installation kann einige Minuten dauern, bitte haben Sie ein wenig Geduld."
 ; LangString REQUIRED ${LANG_GERMAN} "benötigt"
-; LangString DIRECTORY ${LANG_GERMAN} "Setup will install the expansion pack where Civilization IV: A New Dawn is installed.$\nIf the original mod is installed in another folder, please select it before to continue."
-; LangString FINISH ${LANG_GERMAN} "The new civilizations are now installed. Enjoy."
+; LangString DIRECTORY ${LANG_GERMAN} "Das Setup wird das Expansionspaket dort installieren, wo bereits Civilization IV: A New Dawn installiert ist.$\nWenn die ursprüngliche Mod in einem anderen Verzeichnis installiert ist, wählen Sie diesen bitte, bevor Sie fortfahren."
+; LangString FINISH ${LANG_GERMAN} "Die neuen Zivilisationen sind jetzt installiert. Viel Vergnügen!"
 
 ; Greek
 

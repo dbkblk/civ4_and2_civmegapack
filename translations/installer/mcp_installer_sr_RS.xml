@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="MCP_INSTALLER_WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Pack</string>
+  <string name="MCP_INSTALLER_REQUIRED">potrebno</string>
+  <string name="MCP_INSTALLER_WELCOME">Revizija: ${REVISION}\n\n Ovaj čarobnjak će instalirati preko 100 novih civilizacija u Civilization IV: A New Dawn.\n\n Mod će biti raspakovan u trenutnu instalaciju Civilization IV: A New Dawn.\n\n Pažnja: Instalacija će potrajati koji minut, molimo budite strpljivi.</string>
+  <string name="MCP_INSTALLER_DIRECTORY">Instalacija će instalirati ekspanziju na lokaciji na kojoj je instalirana Civilization IV: A New Dawn.$\nIf originalni mod se instalira u drugom folderu, molimo izaberite pre nego što nastavimo.</string>
+  <string name="MCP_INSTALLER_FINISH">Nove civilizacije su instalirane. Uživajte.</string>
+</resources>

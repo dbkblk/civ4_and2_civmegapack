@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[and-modules.mcp_installer]
+file_filter = mcp_installer_<lang>.xml
+source_file = mcp_installer_en.xml
+source_lang = en
+type = ANDROID

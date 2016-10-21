@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_BUILDING_ARSENAL">Cephanelik</string>
+  <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">Vaha</string>
+  <string name="TXT_KEY_BUILDING_MEGYPT_EXHIBITION">Sergi</string>
+  <string name="TXT_KEY_BUILDING_MOCHE_HUACA">Huaca</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_BUILDING_ARSENAL">Zbrojnice</string>
+  <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">Oáza</string>
+  <string name="TXT_KEY_BUILDING_MEGYPT_EXHIBITION">Výstava</string>
+  <string name="TXT_KEY_BUILDING_MOCHE_HUACA">Huaka</string>
+</resources>

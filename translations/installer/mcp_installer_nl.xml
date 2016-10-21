@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="MCP_INSTALLER_WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Pakket</string>
+  <string name="MCP_INSTALLER_REQUIRED">vereist</string>
+  <string name="MCP_INSTALLER_WELCOME">Herziening: ${REVISION}\n\n Dit installatieprogramma leidt je door de installatie van meer dan 100 nieuwe beschavingen voor Civilization IV: A New Dawn.\n\n De wordt uitgepakt in de map van de huidige installatie van Civilization IV: A New Dawn.\n\n Let wel: De installatie kan een paar minuten duren, even geduld alsjeblieft.</string>
+  <string name="MCP_INSTALLER_DIRECTORY">Het installatieprogramma installeert het uitbreidingspakket op de plek waar Civilization IV: A New Dawn is geïnstalleerd.$\nAls de originele mod in een andere map is geïnstalleerd, selecteer die dan alvorens door te gaan.</string>
+  <string name="MCP_INSTALLER_FINISH">De nieuwe beschavingen zijn nu geïnstalleerd. Veel plezier.</string>
+</resources>
