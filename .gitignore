@@ -2,7 +2,7 @@
 ## Materials
 #############
 _materials_/
-installer/patch/*
+patch/*
 
 #################
 ## Eclipse
