@@ -21,7 +21,7 @@ SetCompressor /SOLID LZMA
 Name "Civilization IV: A New Dawn - Mega civ. pack"
 
 ; The file to write
-OutFile "rand_mcp_full_installer_${DATE}_${REVISION}.exe"
+OutFile "..\rand_mcp_full_installer_${DATE}_${REVISION}.exe"
 
 ; The default installation directory
 InstallDir "$DOCUMENTS\My Games\Beyond the sword\Mods\Rise of Mankind - A New Dawn\"

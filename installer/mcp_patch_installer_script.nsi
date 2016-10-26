@@ -8,7 +8,7 @@ SetCompressor /SOLID LZMA
 
   !include "MUI.nsh"
   !define REVISION "1.8"
-  !define BASE_REVISION "1.7"
+  !define BASE_REVISION "1.6"
   !define /date DATE "%Y-%m"
   
 ; Unzip FPK module
@@ -22,7 +22,7 @@ SetCompressor /SOLID LZMA
 Name "Civilization IV: A New Dawn - Mega civ. pack"
 
 ; The file to write
-OutFile "rand_mcp_patch_${BASE_REVISION}_to_${REVISION}.exe"
+OutFile "..\rand_mcp_patch_${BASE_REVISION}_to_${REVISION}.exe"
 
 ; The default installation directory
 InstallDir "$DOCUMENTS\My Games\Beyond the sword\Mods\Rise of Mankind - A New Dawn\"
@@ -133,5 +133,3 @@ Delete "$INSTDIR\Assets\XML\Text\MCP_UNITS_PEDIA.xml"
 Delete "$INSTDIR\mcp_uninstall.exe"
 
 SectionEnd
-
-
