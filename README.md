@@ -10,7 +10,7 @@ The Mega Civilization Pack add more than 100 new civilizations to the game. Each
 
 - Download the latest full installer and the latest patch if available.
 - Latest full installer: [version 1.7](https://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_full_installer_2016-06_1.7.exe/download)
-- Latest patch: [version 1.7 -> 1.8](https://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_patch_1.7_to_1.8.exe/download)
+- Latest patch: [version 1.7 -> 1.8.2](https://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_patch_1.7_to_1.8.2.exe/download)
 - Install using both installer and patch (if any) to the Rise of Mankind mod folder.
 - Start the launcher and click on "Community -> Modules -> Mega Civ Pack" to enable/disable the mod.
 

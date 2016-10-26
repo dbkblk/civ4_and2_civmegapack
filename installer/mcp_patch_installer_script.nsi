@@ -7,8 +7,8 @@ SetCompressor /SOLID LZMA
 ;--------------------------------
 
   !include "MUI.nsh"
-  !define REVISION "1.8"
-  !define BASE_REVISION "1.6"
+  !define REVISION "1.8.2"
+  !define BASE_REVISION "1.7"
   !define /date DATE "%Y-%m"
   
 ; Unzip FPK module
