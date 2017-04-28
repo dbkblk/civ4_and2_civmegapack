@@ -1,6 +1,6 @@
 ; Download  latest translations from Transifex
 SetWorkingDir, %A_ScriptDir%\translations\main
-RunWait, %A_ScriptDir%\tools\tx.exe pull -a 
+RunWait, %A_ScriptDir%\tools\tx.exe pull -a -f
 
 ; Import translations from the downloaded to the mod files
 SetWorkingDir, %A_ScriptDir%\tools

@@ -100,7 +100,7 @@
 			<PrereqReligion>NONE</PrereqReligion>
 			<PrereqCorporation>NONE</PrereqCorporation>
 			<PrereqBuilding>NONE</PrereqBuilding>
-			<PrereqTech>TECH_ARMORED_CAVALRY</PrereqTech>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
 			<TechTypes>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>

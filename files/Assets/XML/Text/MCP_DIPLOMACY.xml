@@ -9,6 +9,8 @@
         <Spanish>La paz es el mayor reto. Es hora de pagar, [CT_NAME].</Spanish>
         <Greek>Η ειρήνη είναι η μεγαλύτερη μάχη, καιρός να ξεπληρώσουμε, [CT_NAME].</Greek>
         <Polish>Pokój to największa walka, przyszedł czas zapłaty [CT_NAME].</Polish>
+        <Arabic>السلام هو أكبر صراع,الوقت للدفع, [CT_NAME].</Arabic>
+        <Brazilian>Manter a paz é a grande luta. Está na hora de acertar as contas, [CT_NAME].</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ABLAY_1</Tag>
@@ -16,6 +18,7 @@
         <French>Bonjour, [CT_NAME] ! Vos déambulations vous ont conduit sur la steppe kazakh. Je vous conseille d'être amical avec notre peuple, car ce sont nos terres !</French>
         <Greek>Γεια, [CT_NAME]! Οι περιπλανήσεις σας σας έχουν φέρει στη [OUR_CIV_ADJ] στέπα. Σας συμβουλεύω να είστε φιλικοί με τον [OUR_CIV_ADJ] λαό, γιατί αυτή είναι η γη μας!</Greek>
         <Spanish>¡Hola, [CT_NAME]! Vuestras exploraciones os han traído a la estepa [OUR_CIV_ADJ]. Os aconsejo que seáis amable con la gente [OUR_CIV_ADJ], ¡estas son nuestras tierras!</Spanish>
+        <Brazilian>Olá, [CT_NAME]! Suas peregrinações o trouxeram às estepes de [OUR_CIV_ADJ]. Eu o aconselho a ser amigável com as pessoas de [OUR_CIV_ADJ], porque essa é nossa terra!</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1</Tag>
@@ -28,6 +31,7 @@
         <Hungarian>Üdvözlet! Én [OUR_NAME] vagyok, [OUR_EMPIRE] hercege, és minden ellenség legyőzője. Mondd hát, barát vagy, vagy ellenség?</Hungarian>
         <Polish>Pozdrowienia. Jestem [OUR_NAME], Ksiáëę [OUR_EMPIRE], oraz pogromca wszystkich wrogów. Powiedz mi jesteä przyjacielem czy wrogiem ?</Polish>
         <Russian>Приветствую тебя. Я [OUR_NAME], Принц [OUR_EMPIRE], и победитель всех врагов. Скажи мне, ты друг или враг?</Russian>
+        <Brazilian>Saudações. Eu sou [OUR_NAME], Príncipe de [OUR_EMPIRE] e destruidor de todos os inimigos.  Diga-me, você é amigo ou inimigo?</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_AHMADINEJAD_1</Tag>
@@ -35,6 +39,8 @@
         <French>Salutations, [CT_NAME]. La république islamique n'a jamais menacé et ne menacera jamais aucun pays.</French>
         <Greek>Σας χαιρετώ, [CT_NAME]. Η Ισλαμική Δημοκρατία δεν έχει ποτέ απειλήσει και ποτέ δεν θα απειλήσει καμιά χώρα.</Greek>
         <Spanish>Saludos, [CT_NAME]. La República islámica jamás ha amenazado ni amenazará a ningún país.</Spanish>
+        <Italian>Salve, [CT_NAME]. La Repubblica Islamica non ha mai minacciato alcun paese nè mai lo farà.</Italian>
+        <Brazilian>Saudações, [CT_NAME]. A República Islâmica nunca ameaçou qualquer país nem jamais o fará.</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_AJATASHATRU_1</Tag>
@@ -56,6 +62,7 @@
         <French>Salutations ! Je suis [OUR_NAME] des [OUR_EMPIRE]. Lorsque je parle de batailles, je raconte souvent que "Plus épais est le foin, plus facile il est à tondre".</French>
         <Greek>Σας χαιρετώ! Είμαι ο [OUR_NAME] της [OUR_EMPIRE]. Όταν πρόκειται να γίνει μάχη, λέω συχνά "Όσο παχύτερο είναι το άχυρο, τόσο πιο εύκολο είναι να κουρευτεί."</Greek>
         <Spanish>¡Saludos! Soy [OUR_NAME] del [OUR_EMPIRE]. Como siempre digo en batalla, "cuanto más espesa la paja, más fácil de sesgar."</Spanish>
+        <Italian>Salute! Io sono [OUR_NAME] di [OUR_EMPIRE]. Come dico spesso quando si tratta di dar battaglia "Quanto più il fieno è fitto, tanto meglio lo si taglia!".</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1</Tag>
@@ -73,6 +80,7 @@
         <Russian>Да снизойдет на тебя дождь небесного благословения, [CT_NAME]! Я - [OUR_NAME], мудрый и великодушный правитель [OUR_EMPIRE:3]! Не стесняйся - начинай осыпать меня подношениями для своей же выгоды!</Russian>
         <ChineseSimp>来自天堂的祝福围绕着你，[CT_NAME]！我是[OUR_NAME]，[OUR_EMPIRE]聪慧而又仁慈的领袖！你在方便的时候就开始向我国进贡吧！</ChineseSimp>
         <Brazilian>Decem os céus chuver bênçãos sobre você, [CT_NAME]! Eu sou [OUR_NAME], governante sábio e benevolente do [OUR_EMPIRE]! Sinta-se livre para começar a regar-me com o tributo que lhe for conveniente!</Brazilian>
+        <Turkish>Cennetler sana bereket yağdırsın, [CT_NAME]! Ben [OUR_NAME], [OUR_EMPIRE] medeniyetinin bilge ve yardımsever yöneticisiyim! Bana haraç yağdırmaktan çekinme!</Turkish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ALFRED_1</Tag>
@@ -133,6 +141,7 @@
         <Brazilian>Sinto-me honrado em conhecer-te, [CT_NAME]. Espero que nossas duas nações sejam capazes de viver em paz e amizade.</Brazilian>
         <Russian>Для меня честь встретить Вас, [CT_NAME]. Я надеюсь, что наши две нации будут в состоянии жить в мире и дружбе.</Russian>
         <ChineseSimp> 很荣幸认识你，[CT_NAME]。我希望我们两国能够长久友好和平地相处。</ChineseSimp>
+        <Turkish>Seninle tanışmaktan onur duydum, [CT_NAME]. Umarım uluslarımız barış ve dostluk içerisinde yaşarlar.</Turkish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ARPAD_1</Tag>
@@ -186,6 +195,7 @@
         <French>Ah, [CT_NAME] ! Bienvenue chez les timourides ! S'il y a un paradis sur terre, c'est celui là, c'est celui là, c'est celui là.</French>
         <Greek>Αα, [CT_NAME]! Καλωσορίσατε στην [OUR_EMPIRE]! Αν υπάρχει ένας παράδεισος στη γη είναι αυτός, είναι αυτός, είναι αυτός.</Greek>
         <Spanish>¡Ah, [CT_NAME]! ¡Os damos la bienvenida al [OUR_EMPIRE]! Si existe el paraíso terrenal, aquí es, aquí es, aquí es.</Spanish>
+        <Italian>Ah, [CT_NAME]! Benvenuto in [OUR_EMPIRE]! Se s'è un paradiso sulla terra, è qui, è qui, senza dubbio qui.</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_BAIBARS_1</Tag>
@@ -292,6 +302,7 @@
         <ChineseSimp>向 [CT_EMPIRE] 致以亲切的问候. 我, [OUR_NAME], 一直寻求超越尘世的尊贵和寂静平和的良心.</ChineseSimp>
         <Hungarian>Meleg üdvöletem, [CT_EMPIRE]. Én, [OUR_NAME], a minden földi méltóság felett álló békét keresem, és a csendes, nyugodt lelkiismeretet.</Hungarian>
         <Brazilian>Saudações calorosas para o [CT_EMPIRE]. Eu,[OUR_NAME], procuro uma paz acima de todas as dignidades terrenas e ainda com a consciência tranquila. </Brazilian>
+        <Turkish>[CT_EMPIRE] medeniyetine sıcak selamlar. Ben, [OUR_NAME], tüm dünyevi haysiyetlerin üzerinde bir barış, sağlam ve sessiz bir vicdan gözetiyorum. </Turkish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CARDENAS_1</Tag>
@@ -368,6 +379,7 @@
         <ChineseSimp>向 [CT_EMPIRE] 致以亲切的问候. 我, [OUR_NAME], 一直寻求超越尘世的尊贵和寂静平和的良心.</ChineseSimp>
         <Hungarian>Meleg üdvöletem, [CT_EMPIRE]. Én, [OUR_NAME], a minden földi méltóság felett álló békét keresem, és a csendes, nyugodt lelkiismeretet.</Hungarian>
         <Brazilian>Saudações calorosas para o [CT_EMPIRE]. Eu,[OUR_NAME], procuro uma paz acima de todas as dignidades terrenas e ainda com a consciência tranquila. </Brazilian>
+        <Turkish>[CT_EMPIRE] medeniyetine sıcak selamlar. Ben, [OUR_NAME], tüm dünyevi haysiyetlerin üzerinde bir barış, sağlam ve sessiz bir vicdan gözetiyorum. </Turkish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CIVILIS_1</Tag>
@@ -473,11 +485,13 @@
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DECEBALUS_1</Tag>
         <English>Welcome [CT_NAME] I the great and powerful [OUR_NAME] greet you.  Shall we live in peace or shall the warlike peoples of the [OUR_CIV_SHORT] pillage the [CT_EMPIRE]</English>
         <French>Bienvenue, [CT_NAME]. Moi, le grand et puissant [OUR_NAME] vous salue.  Vivons en paix ou les guerriers gètes de mon peuple pilleront les [CT_EMPIRE] !</French>
+        <Spanish>Bienvenido [CT_NAME] Yo el gran y poderoso [OUR_NAME] le saludo. Viviremos en paz o llevaremos a las gentes [OUR_CIV_SHORT] a saquear el [CT_EMPIRE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DEMETRIUS_1</Tag>
         <English>Hello [CT_NAME].  They say that there is a first time for everything, but I have yet to lose a battle.  Keep that in mind when challenging "the Invincible."</English>
         <French>Bonjour [CT_NAME].  Ils disent qu'il y a une première fois pour tout, mais je n'ai toujours pas perdu de bataille. Souvenez-vous en quand vous combattrez 'l'invicible'.</French>
+        <Spanish>Hola [CT_NAME]. Dicen que hay una primera vez para todo, pero yo todavía no he perdido una batalla. Tenga eso en cuenta cuando desafía al "invencible."</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DIODOTUS_1</Tag>
@@ -490,12 +504,14 @@
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DONNACONA_1</Tag>
         <English>The great [OUR_CIV_ADJ] people welcome you, [CT_NAME]. Let us tell you tales of a golden kingdom...</English>
         <French>Le grand peuple [OUR_CIV_ADJ] vous souhaite la bienvenue, [CT_NAME]. Laissez moi vous conter les histoires du royaume d'or...</French>
+        <Spanish>Las grandes gentes de [OUR_CIV_ADJ] le dan la bienvenida, [CT_NAME]. Permítanos contarle historias de un reino dorado...</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DUFOUR_1</Tag>
         <English>I am [OUR_NAME], builder of bridges, both diplomatic and physical.</English>
         <French>Je suis [OUR_NAME], bâtisseur de ponts, diplomatiquement ou physiquement.</French>
         <Spanish>Soy [OUR_NAME], constructor de puentes, tanto diplomáticos como físicos.</Spanish>
+        <Italian>Sono [OUR_NAME], il costruttore di ponti: sia diplomatici che fisici.</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DUSAN_1</Tag>
@@ -511,6 +527,7 @@
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_DUVALIER_1</Tag>
         <English>Greetings from [OUR_EMPIRE], [CT_NAME]. Any decision you make against me, you will make against us all. I know the will of the people for I AM the people!</English>
         <French>Salutations des Caraïbes, [CT_NAME]. Chaque décision que vous prendrez contre moi, vous la prendrez contre nous tous. Je connais le souhait de mon peuple car JE SUIS le peuple !</French>
+        <Spanish>Saludos desde [OUR_EMPIRE], [CT_NAME]. Cualquier decisión que tome contra mí, usted estará contra todos nosotros. ¡Conozco la voluntad de la gente porque yo SOY la gente!</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ENHEDUANNA_1</Tag>
@@ -524,21 +541,25 @@
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ENRICO_DANDOLO_1</Tag>
         <English>I am [OUR_NAME].  Just because I am blind does not mean I cannot see what you are up to, [CT_NAME].</English>
         <French>Je suis [OUR_NAME].  Ce n'est pas parce que je suis aveugle que je ne peux pas voir ce que vous préparez, [CT_NAME].</French>
+        <Spanish>Yo soy [OUR_NAME]. Sólo porque sea ciego no significa que no vea de qué es usted capaz, [CT_NAME].</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_EUCRATIDES_1</Tag>
         <English>I am [OUR_NAME] of [OUR_CIV_SHORT].  I have taken my throne by force, and I shall take your's by force as well if you cross me.</English>
         <French>Je suis [OUR_NAME] du peuple [OUR_CIV_SHORT].  J'ai pris mon trône de force, et je pourrais bien prendre aussi le votre si vous m'y poussez.</French>
+        <Spanish>Yo soy [OUR_NAME] de [OUR_CIV_SHORT]. He tomado mi trono por la fuerza, y tomaré el suyo por la fuerza también si me desafía.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_EWUARE_1</Tag>
         <English>I am [OUR_NAME] of the great [OUR_EMPIRE]. We will wary of you like a rotting tooth, and chewing slowly in the meantime.</English>
         <French>Je suis [OUR_NAME] des grands béninois. Nous vous traiterons comme une dent pourrie, mais nous mâcherons lentement.</French>
+        <Spanish>Yo soy [OUR_NAME] del gran [OUR_EMPIRE]. Desconfiaremos de usted como de un diente podrido, y le masacraremos lentamente mientras tanto.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_FAISAL_1</Tag>
         <English>You cannot destroy the will of the [OUR_CIV_ADJ] people.  If you dare conquor us, we will rise up against you; assist us, and you will prosper.</English>
         <French>Vous ne pouvez pas détruire la volonté du peuple irakien.  Si vous osez nous conquérir, nous nous élèverons devant vous; aidez-nous, et vous prospererez.</French>
+        <Spanish>No puede destruir la voluntad de la gente de [OUR_CIV_ADJ]. Si osa conquistarnos, nos alzaremos contra usted; ayúdenos, y prosperará.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_FRANZ_1</Tag>
@@ -548,21 +569,25 @@
         <Italian>Salute a te, [CT_NAME]. Lavoriamo fianco a fianco. Si dice che il successo abbia più di un padre.</Italian>
         <Polish>Pozdrawiam Cię, [CT_NAME]. Pracujmy ramię w ramię. Powiedziane jest, ëe ten sukces ma więcej nië jednego ojca.</Polish>
         <Russian>День добрый, [CT_NAME]. Давайте работать рука об руку, и тогда мы придем к успеху куда быстрее чем наши предки.</Russian>
+        <Spanish>Saludos, [CT_NAME]. Permítanos trabajar codo con codo. Se dice que el éxito tiene más de un padre.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GAJAH_MADA_1</Tag>
         <English>Selamat [CT_NAME], I am [OUR_NAME] of the [OUR_EMPIRE]. I have vowed not to taste any spice. As long as I can not unify Nusantara, I will not taste any spice. Before I conquer Gurun, Seram, Tanjungpura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Tumasik, I will never taste any spice.</English>
         <French>Selamat [CT_NAME], Je suis [OUR_NAME] des majapahit. J'ai fais le voeu de ne goûter aucune épice. Tant que je n'aurais pas unifié Nusantara, je ne goûterais aucune épice. Avant que je ne conquiert Gurun, Seram, Tanjungpura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Tumasik, je ne goûterais aucune épice.</French>
+        <Spanish>Selamat [CT_NAME], soy [OUR_NAME] de [OUR_EMPIRE]. He jurado no probar ninguna especia. Mientras no pueda unificar Nusantara, no probaré ninguna especia. Antes de que conquiste Gurun, Seram, Tanjungpura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Tumasik, no probaré ninguna especia.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GARIBALDI_1</Tag>
         <English>I offer neither pay, nor quarters, nor food, [CT_NAME]; I offer only hunger, thirst, forced marches, battles and death. </English>
         <French>Je ne paie pas, n'offre jamais de quartiers, ni de nourriture, [CT_NAME]; J'offre seulement la famine, la haine, les marches forcées, les batailles et la mort. </French>
+        <Spanish>No ofrezco pago, ni cuartos, ni comida, [CT_NAME]; Sólo ofrezco hambre, sed, marchas forzadas, batallas y muerte. </Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GERONIMO_1</Tag>
         <English>Be sure to stay off my people's land; my people have good aim and are ready to die for their freedom.</English>
         <French>Restez à distance de mes terres; mon peuple sait viser et est prêt à mourir pour sa liberté.</French>
+        <Spanish>Asegúrese de permanecer fuera de la tierra de mi gente; mi gente tiene buena voluntad y está lista para morir por su libertad.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GJERGJ_KASTRIOTI_1</Tag>
@@ -572,36 +597,43 @@
         <Italian>Possa Dio benedire te e la tua tribù, [CT_NAME]! Accetta la mia ospitalità e celebriamo assieme la pace fra i nostri popoli!</Italian>
         <Polish>Niech Bóg błogosławi Ciebie i Twoje plemie, [CT_NAME]!  Zaakceptuj mojá goäcinnoäâ, poniewniewaë chcemy äwiętowaâ pokój między naszymi ludami!</Polish>
         <Russian>Возможно Бог благословил вас и все ваше племя [CT_NAME]! Примите мое гостепреимство как знак торжества в честь мира между нашими народами!</Russian>
+        <Spanish>¡Dios le bendiga a usted y a toda su tribu, [CT_NAME]! ¡Acepte mi hospitalidad para celebrar la paz entre nuestra gente!</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GODWINSON_1</Tag>
         <English>Hello [CT_NAME].  I inherited my throne fair and square, I swear.</English>
         <French>Bonjour [CT_NAME].  J'ai hérité du trône et de la couronne, je le jure.</French>
+        <Spanish>Hola [CT_NAME]. Heredé mi trono de forma justa y honesta, lo juro.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GUSTAV_1</Tag>
         <English>I am [OUR_NAME], here to speak with [CT_NAME] on behalf of the people of the [OUR_EMPIRE]. I seek peace and mutual respect, but am prepare if neither should be met.</English>
         <French>Je suis [OUR_NAME], ici pour parler avec [CT_NAME] sur l'honneur du peuple suédois. Je recherche la paix et le respect mutuel mais je suis prêt si aucun des deux n'est là.</French>
+        <Spanish>Yo soy [OUR_NAME], estoy aquí para hablar con [CT_NAME] en nombre del pueblo de [OUR_EMPIRE]. Busco paz y respeto mutuo, pero estoy preparado para lo que ocurra.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HAAKON_1</Tag>
         <English>I represent all people of [OUR_CIV_SHORT], and I will not support those who do not fufill that duty to their people.</English>
         <French>Je représente le peuple de Norvège, et je ne supporterais pas ceux qui ne représentent pas le souhait de leur peuple.</French>
+        <Spanish>Represento al pueblo de [OUR_CIV_SHORT], y no apoyaré a aquellos que no cumplan el deber de su gente.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HAAKONSON_1</Tag>
         <English>I am [OUR_NAME].  I will make sure that your people are taken care of if someone happens to conquer you.</English>
         <French>Je suis [OUR_NAME].  Je m'assurerais de prendre soin de votre peuple si jamais quelqu'un venait à vous conquérir.</French>
+        <Spanish>Yo soy [OUR_NAME]. Me aseguraré de que su gente esté bien atendida si alguien intenta conquistarle.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HASINA_1</Tag>
         <English>Greetings, [CT_NAME]! I am [OUR_NAME] of the [OUR_EMPIRE]. Let us join forces to lead our countries to the cherished goals!</English>
         <French>Salutations, [CT_NAME] ! Je suis [OUR_NAME] du peuple [OUR_EMPIRE]. Joignons nos forces pour mener nos pays vers une vie meilleure !</French>
+        <Spanish>¡Saludos, [CT_NAME]! ¡Soy [OUR_NAME] de [OUR_EMPIRE]. Permítanos unir fuerzas para llevar a nuestros países hacia los amados objetivos!</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HASSAN_1</Tag>
         <English>I, [OUR_NAME], come to you with honest words and an even temper. One who is not moved by words, [CT_NAME], is not moved by the stick.</English>
         <French>Moi, [OUR_NAME], vient à vous avec d'honêtes paroles et un tempérament modéré. Celui qui n'est pas poussé par les mots, [CT_NAME], n'est pas poussé par le bâton.</French>
+        <Spanish>Yo, [OUR_NAME], vengo a usted con palabras honestas y buen talante. Uno que no se emociona por las palabras, [CT_NAME], no se emociona por el palo.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HECTOR_1</Tag>
@@ -611,6 +643,7 @@
         <Italian>Io sono [OUR_NAME] dei [OUR_CIV_SHORT]. Mi attengo a tre regole nella mia vita. Onora gli dei, ama la tua donna, difendi la tua patria.</Italian>
         <Polish>Jestem [OUR_NAME] z [OUR_CIV_SHORT]. Przestrzegam trzech praw w moim ëyciu. Szanuj bogów, kochaj swojá kobietę, i chroń swój naród.</Polish>
         <Russian>Я [OUR_NAME] из [OUR_CIV_SHORT]. Я соблюдаю в своей жизни три правила. Честь богам, любовь женщине и защиту твоей стране. </Russian>
+        <Spanish>Yo soy [OUR_NAME] de [OUR_CIV_SHORT]. He tolerado tres leyes en mi vida. Honrar a los dioses, amar a tu esposa, y defiende tu país.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HIDALGO_1</Tag>
@@ -620,6 +653,7 @@
         <Italian>Possano le benedizioni del Cielo scendere su di te, [CT_NAME]. Io sono [OUR_NAME] dei [OUR_CIV_SHORT]. Messicani, Viva Mexico!</Italian>
         <Polish>Niebo błogosławi Cię, [CT_NAME]. Jestem [OUR_NAME] z [OUR_CIV_SHORT]. Mexicanos, Viva Mexico!</Polish>
         <Russian>Может на тебе блогословение Небес, [CT_NAME]. Я [OUR_NAME] из [OUR_CIV_SHORT]. Мексиканцы, Виви Мексика!</Russian>
+        <Spanish>Que las bendiciones del Cielo estén contigo, [CT_NAME]. Soy [OUR_NAME] de [OUR_CIV_SHORT]. ¡Mexicanos, Viva Mexico!</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HIRAM_1</Tag>
@@ -629,6 +663,7 @@
         <Italian>Salute. Io sono [OUR_NAME] di [OUR_EMPIRE]. Io sono abituato a lavorare in oro ed in argento, in rame, in ferro, in pietre, ed in legname, ed in porpora, in violaceo, in bisso, ed in iscarlatto; e fare qualunque sorte d’intaglio, e di disegno di qualunque cosa mi sia proposta.</Italian>
         <Polish>Pozdrowienia. Jestem [OUR_NAME] z [OUR_EMPIRE]. Jestem szkolony, by pracowaâ w złocie, srebrze, brázie, ëelazie, kamieniu, lesie i w fiolecie, niebieskim i szkarłatnych tkaninach i pięknym płótnie i zrobiâ wszystkie rodzaje sztychu i wykonaâ jakieä projekty..</Polish>
         <Russian>Приветствую тебя. Я [OUR_NAME] из [OUR_EMPIRE]. Я учился работать с золотом, серебром, бронзой, железом, камнем и деревом, а также красить ткани пурпурной, синей, и багровой краской. Также я могу создать любую гравюру, и разумеется смогу выполнить любой заказ, что ты можешь поручить мне. </Russian>
+        <Spanish>Saludos. Soy [OUR_NAME] de [OUR_EMPIRE]. Estoy entrenado en trabajar con oro, plata, bronce, hierro, piedra y madera, y en tejidos púrpura, azul y carmesí y escelente lino, y hacer todo tipo de grabados y ejecutar cualquier diseño que me sea asignado.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HO_CHI_MINH_1</Tag>
@@ -645,37 +680,44 @@ così, voi perderete e io vincerò.</Italian>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HUS_1</Tag>
         <English>Greetings, [CT_NAME]. I am [OUR_NAME], if you strike me down, I will become more powerful than you can imagine.  However, if you join my reformation, we can rid the world of corruption.</English>
         <French>Salutations, [CT_NAME]. Je suis [OUR_NAME]. Si vous me frappez, je deviendrais bien plus puissant que vous ne pouvez l'imaginer. Cependant, si vous rejoignez mon empire reformé, nous pourrons débarrasser le monde de la corruption.</French>
+        <Spanish>Saludos, [CT_NAME]. Soy [OUR_NAME], si usted me derriba, me haré más poderoso de lo que pueda imaginar. No obstante, si se une a mi reforma, podemos librar al mundo de la corrupción.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HUSSEIN_1</Tag>
         <English>We will remain ever steadfast [CT_NAME].The [OUR_EMPIRE] is not intimidated by the size of the army or the type of hardware the enemy brings.</English>
         <French>Nous resterons toujours inébranlables, [CT_NAME]. Les irakiens ne sont pas intimidés par la taille de l'armée ou le type de matériel que l'ennemi emporte avec lui.</French>
+        <Spanish>Permaneceremos firmes [CT_NAME]. [OUR_EMPIRE] no se ve intimidado por el tamaño del ejército o por el tipo de hardware que el enemigo trae.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_IDRIS_1</Tag>
         <English>Greetings, [CT_NAME]. I am [OUR_NAME] of the [OUR_EMPIRE]. Love truth even if it harms you, and hate lies even if they serve you. These are words of wisdom to live by.</English>
         <French>Salutations, [CT_NAME]. Je suis [OUR_NAME] des marocains. L'amour croît même s'il te blesse, et la haine te ment même si elle te dessert. Tels sont les mots de la sagesse.</French>
+        <Spanish>Saludos, [CT_NAME]. Soy [OUR_NAME] de [OUR_EMPIRE]. Ame la verdad incluso si le hiere, y odie las mentiras incluso si le sirven. Esas son palabras de sabiduría por las que vivir.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ITHOBAAL_1</Tag>
         <English>The [OUR_EMPIRE] has colonies all over the known world, bringing in unimaginable riches.  Send your envoys, and we shall trade; send your armies, and be annihilated.</English>
         <French>La Phénicie dispose de colonies de par le monde connu, nous apportant d'inombrables richesses. Envoyez vos émissaires et nous commerçerons; envoyez vos armées et vous serez annihilés.</French>
+        <Spanish>[OUR_EMPIRE] tiene colonias por todo el mundo conocido, trayendo a inimaginables ricos. Envie sus convoys, y comerciaremos; envie sus ejercitos, y sea aniquilado.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JANYBEK_1</Tag>
         <English>Hello, [CT_NAME]! You may have heard rumors about the terror of the horde, those rumors have been exaggerated.</English>
         <French>Bonjour, [CT_NAME] ! Vous avez surement entendu des rumeurs à propos de la terreur que répand notre horde, mais ces rumeurs sont surement exagérées.</French>
+        <Spanish>¡Hola, [CT_NAME]! Puede haber oído rumores sobre el terror de la horda, esos rumores han sido exagerados.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JEZEBEL_1</Tag>
         <English>Praise be to Baal. I am [OUR_NAME].</English>
         <French>Que Baal soit loué. Je suis [OUR_NAME].</French>
         <Italian>Sia lode a Baal. Sono [OUR_NAME].</Italian>
+        <Spanish>Alabado sea Baal. Soy [OUR_NAME].</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JINNAH_1</Tag>
         <English>I have no doubt in my mind that a large body of us visualize [OUR_CIV_SHORT] as people's government.  Either you seize it by force or get it by agreement.</English>
         <French>Je n'ai aucun doute qu'un grand nombre d'entre nous voit les [OUR_CIV_SHORT] comme un gouvernement populaire; que vous l'ayez pris par la force ou suite à un accord.</French>
+        <Spanish>No tengo duda en mi mente de que un gran cuerpo de nosotros visualiza [OUR_CIV_SHORT] como el gobierno del pueblo. Si lo toma por la fuerza o por convenio.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JOGAILA_1</Tag>
@@ -702,6 +744,7 @@ così, voi perderete e io vincerò.</Italian>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KANEMI_1</Tag>
         <English>You can discuss the almighty and the prophet with me or you can simply convert now.  What do you say [CT_NAME]?</English>
         <French>Vous pouvez discuter terreur et prophétie avec moi ou simplement vous convertir maintenant. Qu'en pensez vous, [CT_NAME]?</French>
+        <Spanish>Puede debatir el todopoderoso y al profeta conmigo o puede simplemente convertirse ahora. ¿Qué dice, [CT_NAME]?</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KEKKONEN_1</Tag>
@@ -711,6 +754,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Benvenuto, [CT_NAME] di [CT_EMPIRE]. Una discussione divide, ma la pace costruisce. Costruiamo assieme.</Italian>
         <Polish>Witam, [CT_NAME] z [CT_EMPIRE]. Kłótnie niszczá, pokój buduje. Zbudujmy go razem.</Polish>
         <Russian>Добро пожаловать, [CT_NAME] из [CT_EMPIRE]. Доводы разрушают, но мирное время помогает строительству. Так давайте же строить вместе.</Russian>
+        <Spanish>Bienvenido, [CT_NAME] de [CT_EMPIRE]. Una discusión rasga, pero la paz construye. Permítanos construir juntos.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KHOMEINI_1</Tag>
@@ -732,21 +776,25 @@ così, voi perderete e io vincerò.</Italian>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KOSSUTH_1</Tag>
         <English>Revolutions sweeps over the continent!  It is time now time for action; join our ranks or be consumed by our hordes!</English>
         <French>Les révoltes pullulent sur le continent ! Il est temps d'agir; joignez nos rangs ou soyez ravagés par nos hordes !</French>
+        <Spanish>¡Las revoluciones arrasan por el continente! Es hora de actuar; únase a nuestras filas o sea consumido por nuestras hordas!</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KRUGER_1</Tag>
         <English>Welcome to the free land of the people of the [OUR_EMPIRE]! We do hope you enjoy your brief visit, [CT_NAME].</English>
         <French>Bienvenue sur la terre libérée du peuple sud-africain ! Nous espérons que vous apprécierez votre brève visite, [CT_NAME].</French>
+        <Spanish>¡Bienvenido a la tierra libre del pueblo de [OUR_EMPIRE]! Esperamos que disfrute su breve visita, [CT_NAME].</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LANGE_1</Tag>
         <English>God does not help me; I can't remember the last time I saw him in the caucuses.</English>
         <French>Dieu ne m'aide pas; je ne me souviens même plus de la dernière fois où je l'ai vu dans les caucus.</French>
+        <Spanish>Dios no me ayuda; No puedo recordar la última vez que le vi en la reunión electoral.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LAPU_1</Tag>
         <English>The people of the [OUR_EMPIRE] believe that those who want, find many ways to get. Those who do not, make excuses. I, [CT_NAME], am not one to make excuses.</English>
         <French>Le peuple de Philippine croit que ceux qui désirent quelquechose trouvent des moyens de l'avoir. Ceux qui ne veulent pas, trouvent des excuses. Moi, [CT_NAME], je ne suis pas du genre à trouver des excuses.</French>
+        <Spanish>La gente de [OUR_EMPIRE] cree que aquellos que quieren, encuentran muchas formas de conseguirlo. Aquellos que no quieren, dan excusas. Yo, [CT_NAME], no soy de los que dan excusas.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LARS_PORSENA_1</Tag>
@@ -756,16 +804,19 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Per i Nove Dei, io giuro che la grande casa di Tarquinio non sopporterà più i torti! Saluti, [CT_NAME], Io sono [OUR_NAME] di [OUR_EMPIRE].</Italian>
         <Polish>Na 9 bogów, Przysięgam, ëe w wielkim domu Tarquin nie doäwiadczysz zła! Pozdrowienia, [CT_NAME], Jestem [OUR_NAME] z [OUR_EMPIRE].</Polish>
         <Russian>Девятью богами я клянусь, что великий дом Таркуин не будет страдать когда либо! Приветствую, [CT_NAME], Я [OUR_NAME] из [OUR_EMPIRE].</Russian>
+        <Spanish>¡Por los Nueve Dioses, juro que la gran casa de Tarquin no sufrirá mas! Saludos, [CT_NAME], soy [OUR_NAME] de [OUR_EMPIRE].</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LARS_TOLUMNIUS_1</Tag>
         <English>Hopefully the fate of the [OUR_EMPIRE] will not be decided by a dice roll.</English>
         <French>Bien heureusement, la destinée du peuple étrusque ne se décidera pas sur un lancé de dés.</French>
+        <Spanish>Afortunadamente el destino de [OUR_EMPIRE] no se decidirá al azar.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LEOPOLD_II_1</Tag>
         <English>I am [OUR_NAME] of the [OUR_EMPIRE]. I come seeking only to promote exploration and advance knowledge.</English>
         <French>Je sui [OUR_NAME] de Belgique. Je recherche avant tout à promouvoir l'exploration et la connaissance avancée.</French>
+        <Spanish>Soy [OUR_NAME] de [OUR_EMPIRE]. Sólo vengo a promocionar la exploración y el conocimiento avanzado.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LLYWELYN_1</Tag>
@@ -785,6 +836,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>"Chi vuol esser lieto sia: del doman non v'è certezza" Io sono [OUR_NAME] di [OUR_EMPIRE].</Italian>
         <Polish>"Ktokolwiek chce byâ szczęäliwy, niech będzie: o jutrze nikt nic nie wie." Jestem [OUR_NAME] z [OUR_EMPIRE].</Polish>
         <Russian>"Кто бы не хотел счастья пусть получит его так, "О будущем неизвестно." Я [OUR_NAME] из [OUR_EMPIRE].</Russian>
+        <Spanish>"Cualquiera quiere ser feliz, déjele serlo: de mañana no se sabe nada." Soy [OUR_NAME] de [OUR_EMPIRE].</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MACDONALD_1</Tag>
@@ -794,6 +846,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Salute! Io sono [OUR_NAME] di [OUR_EMPIRE]. Ti offriamo l'amicizia della generosa nazione di [OUR_CIV_SHORT]! </Italian>
         <Polish>Pozdrowienia! Jestem [OUR_NAME] z [OUR_EMPIRE]. Oferujemy Ci przyjaéń z najcudowniejszym narodem [OUR_CIV_SHORT]!</Polish>
         <Russian>Приветствую вас! Я [OUR_NAME] из [OUR_EMPIRE]. Вы предлагаем вам дружбу славнейшей нации [OUR_CIV_SHORT]!</Russian>
+        <Spanish>¡Saludos! Soy [OUR_NAME] de [OUR_EMPIRE]. Le ofrecemos la amistad de la gloriosa nación de [OUR_CIV_SHORT]!</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MACKENZIEKING_1</Tag>
@@ -803,36 +856,44 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Sono [OUR_NAME] e ti offro l'amicizia di [OUR_EMPIRE]. Dopo tutto, [CT_NAME], quello che conta nel governare è quello che preveniamo, più di quello che facciamo.</Italian>
         <Polish>Jestem [OUR_NAME] i oferuje Ci przyjaéń z [OUR_EMPIRE]. Po wszystkim, [CT_NAME], to to, co zapobiegamy, nië co robimy.</Polish>
         <Russian>Я [OUR_NAME] и я предлагаю дружбу с [OUR_EMPIRE]. После всего, [CT_NAME], что мы предотвратили лучше согласится с этим, чем расплачиваться со счетами в правительстве.</Russian>
+        <Spanish>Yo soy [OUR_NAME] y le ofrezco la amistad de [OUR_EMPIRE]. Después de todo, [CT_NAME], eso es por lo que lo evitamos, antes de que lo que hagamos cuente más en el Gobierno.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MAGNUS_1</Tag>
         <English>Loyalty is as fickle as a king's favor, [CT_NAME].</English>
         <French>La loyauté est aussi inconstante que les faveurs d'un roi, [CT_NAME].</French>
+        <Spanish>La lealtad es tan caprichosa como el favor de un rey, [CT_NAME].</Spanish>
+        <Italian>La fedeltà è volubile come il favore di un re, [CT_NAME].</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MAKEDA_1</Tag>
         <English>Riches and happiness to you, [CT_NAME] of the [CT_EMPIRE]. Enjoy our hospitality but bear in mind that a foreigner should always be well behaved.</English>
         <French>Prospérité et bonheur à vous, [CT_NAME] des [CT_EMPIRE]. Appréciez notre hospitalité mais gardez à l'esprit qu'un étranger sera toujours bien traité.</French>
+        <Spanish>Riqueza y felicidad para usted, [CT_NAME] de [CT_EMPIRE]. Disfrute de nuestra hospitalidad pero recuerde que un extranjero siempre debe comportarse bien.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MALIK_1</Tag>
         <English>The Great [OUR_EMPIRE] welcomes you [CT_NAME].  Raise even a dinner knife against us, and we weill ransom you back to your own empire.</English>
         <French>La grande dynastie seldjouk vous souhaite la bienvenue, [CT_NAME].  Élevez ne serait-ce qu'un couteau de repas contre nous, et nous demanderons un rançon pour que vous puissiez rentrer dans votre empire.</French>
+        <Spanish>El Gran [OUR_EMPIRE] le da la bienvenida, [CT_NAME]. Alce un simple cuchillo de cocina contra nosotros, y le devolveremos a su propio imperio.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MANDELA_1</Tag>
         <English>Greetings, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. In my country we go to prison first and then become President.</English>
         <French>Bienvenue, [CT_NAME]. Je suis [OUR_NAME] de l'Afrique du Sud. Dans mon pays, nous allons d'abord en prison, puis nous devenons Président.</French>
+        <Spanish>Saludos, [CT_NAME]. Soy [OUR_NAME] de [OUR_CIV_SHORT]. En mi país vamos primiero a prisión y después nos convertimos en presidentes.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MANNERHEIM_1</Tag>
         <English>Welcome, [CT_NAME] of the [CT_EMPIRE]. I will reclaim what our great nation has lost.</English>
         <French>Bienvenue, [CT_NAME] des [CT_EMPIRE]. Je reprendrais ce que notre grande nation a perdu</French>
+        <Spanish>Bienvenido, [CT_NAME] de [CT_EMPIRE]. Reclamaré lo que nuestra gran nación ha perdido.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MARCOS_1</Tag>
         <English>The  [OUR_EMPIRE] can be great. It is my articles of faith, and Divine Providence has willed that you and I can now translate this faith into deeds.</English>
         <French>Le peuple philippine peut être honoré. Ce sont mes articles de foi, et la providence divine a souhaité que vous et moi traduisont cette foi en des actes.</French>
+        <Spanish>[OUR_EMPIRE] puede ser grande. Son mis artículos de fe y la Divina Providencia ha querido que usted y yo podamos convertir esta fe en hechos.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MARGRETE_1</Tag>
@@ -842,6 +903,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Salute, [CT_NAME] di [CT_EMPIRE]. Sono [OUR_NAME] di [OUR_CIV_SHORT], sebbene tu possa chiamarmi "Margrete, per grazia di Dio figlia di Valdemar Daneking e legittima erede di Danimarca". Di cosa desideri parlare?</Italian>
         <Polish>Pozdrowienia, [CT_NAME] z [CT_EMPIRE]. Jestem [OUR_NAME] z [OUR_CIV_SHORT], chociaë moëesz zadzwoniâ do mnie "Margrete, przez wdzięk Boga, córki Waldemara Daneking's i legalnego spadkobiercy Danii". Co to ty zechcieâ mówiâ?</Polish>
         <Russian>Приветствия, [CT_NAME] из [CT_EMPIRE]. Я [OUR_NAME] из [OUR_CIV_SHORT], хотя вы можете звать меня "Маргарет, божественная грация, дочь Вальдемара Датского короля, и законной наследницей Дании". О чем вы желали поговорить со мной? </Russian>
+        <Spanish>Saludos, [CT_NAME] de [CT_EMPIRE]. Soy [OUR_NAME] de [OUR_CIV_SHORT], aunque puede llamarme "Margrete, por la gracia de Dios, la hija de Valdemar Daneking, y la legítima heredera de Denmark". ¿De qué desea hablar?</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MARIA_THERESA_1</Tag>
@@ -857,6 +919,7 @@ così, voi perderete e io vincerò.</Italian>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MARTI_1</Tag>
         <English>What a surprise...I'm [OUR_NAME] of the powerful nation of [OUR_EMPIRE], bend to my wishes or suffer the consequences.</English>
         <French>Quelle suprise ! Je suis [OUR_NAME] de la puissante nation cubaine; pliez-vous à mes souhaits ou souffrez des conséquences.</French>
+        <Spanish>Qué sorpresa... Soy [OUR_NAME] de la poderosa nación de [OUR_EMPIRE], dobléguese a mis deseos o sufra las consecuencias.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MARY_STUART_1</Tag>
@@ -866,6 +929,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Sono [OUR_NAME] di [OUR_EMPIRE]. Essere gentili con tutti, voler bene a molti ed amare pochi, essere necessari e desiderati da coloro che amiamo. Questo è certamente quanto di più simile esista alla felicità, [CT_NAME]. </Italian>
         <Polish>Jestem [OUR_NAME] z [OUR_EMPIRE]. Uprzejmoäâ dla wszystkiego, do jak wielu i kochaj kilku, byâ potrzebny i poszukiwany przez tych, kochanych, jest na pewno najbliëszej tego, ëe moëemy zmierzaâ do szczęäcia, [CT_NAME]. </Polish>
         <Russian>Я [OUR_NAME] из [OUR_EMPIRE]. Как и свойственно всем, нравится многое, но любят немногое. Нуждатся и искать любовь, это определенно самый близкий путь к счастью, [CT_NAME]. </Russian>
+        <Spanish>Soy [OUR_NAME] de [OUR_EMPIRE]. Ser amable con todos, gustar a muchos y amar a pocos, ser necesitados y queridos por aquellos que amamos, es ciertamente lo más cerca que podemos estar de la felicidad, [CT_NAME]. </Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MASARYK_1</Tag>
@@ -875,6 +939,7 @@ così, voi perderete e io vincerò.</Italian>
         <Italian>Salute, [CT_NAME]. Sono [OUR_NAME], non temere e non rubare.</Italian>
         <Polish>Pozdrowienia, [CT_NAME]. Jestem [OUR_NAME], nie bój się i nie kradnij.</Polish>
         <Russian>Приветствия, [CT_NAME]. Я [OUR_NAME], не боюсь и не прячусь. </Russian>
+        <Spanish>Saludos, [CT_NAME]. Soy [OUR_NAME], no tema y no robe.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MATTHIAS_1</Tag>
@@ -900,11 +965,13 @@ così, voi perderete e io vincerò.</Italian>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MENZIES_1</Tag>
         <English>Welcome, [CT_NAME] of the [CT_EMPIRE], in warmth and best wishes. The greatest enemy to joy and high hopes is the cultivation of bitterness.</English>
         <French>Bienvenue, [CT_NAME] des [CT_EMPIRE], puissions-nous être chaleureux et exaucer vos voeux. Le pire ennemi de la joie et de l'espoir est de toujours souhaiter le meilleur.</French>
+        <Spanish>Bienvenido, [CT_NAME] de [CT_EMPIRE], en calidez y mejores deseos. El mayor enemigo de la alegría y gran esperanza en el cultivo de la amargura.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MIKHEIL_1</Tag>
         <English>We will work together, [CT_NAME], but I remain forever faithful to the people of [OUR_EMPIRE].</English>
         <French>Nous travaillerons ensemble, [CT_NAME], mais je serais toujours redevable au peuple géorgien.</French>
+        <Spanish>Trabajaremos juntos, [CT_NAME], pero siempre me mantengo fiel a la gente de [OUR_EMPIRE].</Spanish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MINDAUGAS_1</Tag>
@@ -1032,6 +1099,7 @@ così, voi perderete e io vincerò.</Italian>
         <Czech>Buď zdráv. Já jsem [OUR_NAME], náčelník kmene [OUR_EMPIRE]. Dobrý náčelník nebere, ale dává. Jsi dobrým náčelníkem, [CT_NAME]?</Czech>
         <Hungarian>Üdvözlet! Az én nevem [OUR_NAME], [OUR_EMPIRE] vezére. Egy jó vezér nem elvesz, hanem ad. Te jó vezér vagy, [CT_NAME]?</Hungarian>
         <Brazilian>Saudações. Eu sou [OUR_NAME], chefe do [OUR_EMPIRE]. Um bom chefe não toma, ele dá. Você é um bom chefe, [CT_NAME]?</Brazilian>
+        <Turkish>Selamlar. Ben [OUR_NAME], [OUR_EMPIRE] imparatorluğunun şefi. İyi bir şey verdiğini almaz. Sen iyi bir şef misin, [CT_NAME]?</Turkish>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_OWAIN_GLYNDWR_1</Tag>
@@ -1115,6 +1183,7 @@ così, voi perderete e io vincerò.</Italian>
         <English>Let us drink to a good future, [CT_NAME].</English>
         <French>Buvons à un futur prospère, [CT_NAME].</French>
         <Spanish>Brindemos por un buen futuro, [CT_NAME].</Spanish>
+        <Italian>Brindiamo ad un futuro migliore, [CT_NAME].</Italian>
     </TEXT>
     <TEXT>
         <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_RADEN_WIJAYA_1</Tag>

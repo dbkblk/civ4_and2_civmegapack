@@ -3,6 +3,7 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_ABORIGINES_NULLA_NULLA</Tag>
         <English>Nulla Nulla</English>
+        <Arabic>لا عقوبه لاعقوبه</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ABORIGINES_NULLA_NULLA_STRATEGY</Tag>
@@ -16,74 +17,38 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_AGEMA</Tag>
         <English>Baktrioi Agemata</English>
-        <French>
-            <Text>Baktrioi Agemata</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Baktrioi Agemata</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Baktrioi Agemata</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Baktrioi Agemata</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_AGEMA_STRATEGY</Tag>
         <English>This powerful melee unit (the Baktrian replacement for the [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) gets a strength increase and has a bonus when attacking cities.</English>
         <French>Cette puissante unité de combat rapproché (l'équivalent du [COLOR_UNIT_TEXT]lancier[COLOR_REVERT]) obtient une amélioration de puissance et dispose d'un bonus d'attaque de ville.</French>
         <Brazilian>Esta poderosa unidade de corpo a corpo(a substituição de Bactriano para o [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT]) recebe uma força aumentar e tem um bônus quando ataca cidades.</Brazilian>
+        <Spanish>Espa poderosa unidad de melé (la sustitución del Baktrian para el [COLOR_UNIT_TEXT]Lancero[COLOR_REVERT]) obtiene un aumento de fuerza y tiene un bonus al atacar ciudades.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_AKKADIAN_COMPOSITE_BOWMAN</Tag>
         <English>Composite Bowman</English>
         <French>Archer composite</French>
         <Brazilian>Arqueiro Composto</Brazilian>
+        <Spanish>Arquero compuesto</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_AKKADIAN_COMPOSITE_BOWMAN_STRATEGY</Tag>
         <English>The [COLOR_UNIT_TEXT]Composite Bowman[COLOR_REVERT] (the Akkadian replacement for the [COLOR_UNIT_TEXT]Archer[COLOR_REVERT]) start with Shock 1 and get an extra first strike chance.</English>
         <French>L'[COLOR_UNIT_TEXT]archer composite[COLOR_REVERT] (équivalent akkadien de l'[COLOR_UNIT_TEXT]archer[COLOR_REVERT]) démarre avec la promotion 'choc I' et obtient une première attaque supplémentaire.</French>
         <Brazilian>O [COLOR_UNIT_TEXT]Arqueiro Composto[COLOR_REVERT] (a substituição Acadiana para o [COLOR_UNIT_TEXT]Arqueiro[COLOR_REVERT]) começa com choque 1 e tem uma chance extra de primeiro ataque.</Brazilian>
+        <Spanish>El [COLOR_UNIT_TEXT]Arquero Compuesto[COLOR_REVERT] (la sustitución del acadio para el [COLOR_UNIT_TEXT]Arquero[COLOR_REVERT]) empieza con Choque 1 y obtiene una posibilidad extra extra en el primer golpe.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ALAE</Tag>
         <English>Alae Miliaria</English>
-        <French>
-            <Text>Alae Miliaria</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Alae Miliaria</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Alae Miliaria</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Alae Miliaria</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ALAE_STRATEGY</Tag>
         <English>This powerful Mounted unit (the Batavian replacement for the [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT]) this accustomed to fight in the very swampy regions of their country, so do not get negative when attacking swamp tiles. Furthermore, gets the Amphibious promotion.</English>
         <French>Cette puissante unité montée (équivalent de l'[COLOR_UNIT_TEXT]archer monté[COLOR_REVERT]) est habituée à combattre dans les régions marécageuses, et n'en subit pas les pénalités. Elle reçoit la promotion 'amphibie'.</French>
         <Brazilian>Esta poderosa unidade montada (a substituição Batava para o [COLOR_UNIT_TEXT]Cavalo Arqueiro[COLOR_REVERT]) está acostumado a lutar nas regiões pantanosas de seu país, então não fica negativo quando ataca na região de pântano. Além disso, recebe a promoção anfíbia.</Brazilian>
+        <Spanish>Esta poderosa unidad montada (la sustitución del Batavian para el [COLOR_UNIT_TEXT]Arquero Montado[COLOR_REVERT]) acostumbra a luchar en las regiones muy pantanosas de su país, así que no es malo al atacar baldosas pantanosas. Además, obtiene la promoción Anfibio.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ALBANIAN_LIGHT_GUERILLA_CAVALRY</Tag>
@@ -94,6 +59,7 @@
         <English>This quick mounted unit (the Albanian replacement for the [COLOR_UNIT_TEXT]Knight[COLOR_REVERT]) gets 1-2 first strikes, along with a chance of withdrawing from battle.</English>
         <French>Cette unité monté rapide (tl'équivalent albanais du [COLOR_UNIT_TEXT]chevalier[COLOR_REVERT]) a deux premières attaques, et une chance de repli plus élevée.</French>
         <Brazilian>Esta unidade montada rápida (a substituição albanês para o [COLOR_UNIT_TEXT]Cavaleiro[COLOR_REVERT]) obtém 1-2 primeiros golpes, juntamente com uma chance de retirar da batalha.</Brazilian>
+        <Spanish>Esta rápida unidad montada (la sustitución albana para el [COLOR_UNIT_TEXT]Caballero[COLOR_REVERT]) obtiene 1-2 primeros golpes, con una probabilidad de retirarse de la batalla.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ANGLO_SAXON_HUSCARL</Tag>
@@ -112,38 +78,20 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_ANIYONEGA_AYASTIGI</Tag>
         <English>Ayastigi</English>
-        <French>
-            <Text>Ayastigi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Ayastigi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Ayastigi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Ayastigi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ANIYONEGA_AYASTIGI_STRATEGY</Tag>
         <English>Build [COLOR_UNIT_TEXT]Ayastigi[COLOR_REVERT] for quick, early defense for your cities. This unit replaces [COLOR_UNIT_TEXT]Warriors[COLOR_REVERT] and gets an additional bonus in melee combat.</English>
         <French>Recruter un [COLOR_UNIT_TEXT]ayastigi[COLOR_REVERT] pour une défense primitive rapide de vos villes. Cette unité remplace les [COLOR_UNIT_TEXT]guerriers[COLOR_REVERT] et possède un bonus supplémentaire de combat rapproché.</French>
         <Brazilian>Construa [COLOR_UNIT_TEXT]Ayastigi[COLOR_REVERT] para uma rápida, defesa pioneira para suas cidades. Esta unidade substitui [COLOR_UNIT_TEXT]Guerreiros[COLOR_REVERT] e obtém um bônus adicional no combate corpo a corpo.</Brazilian>
+        <Spanish>Produzca [COLOR_UNIT_TEXT]Ayastigi[COLOR_REVERT] para una rápida defensa de sus ciudades. Esta unidad reemplaza a los [COLOR_UNIT_TEXT]Guerreros[COLOR_REVERT] y obtiene un bonus adicional en combate cuerpo a cuerpo.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES</Tag>
         <English>Red Sleeves Warrior</English>
         <French>Guerrier manches rouges</French>
         <Brazilian>Guerreiro das Mangas Vermelhas</Brazilian>
+        <Spanish>Guerrero de mangas rojas</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_APACHE_REDSLEEVES_STRATEGY</Tag>
@@ -163,6 +111,7 @@
         <English>The Argentinian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] is slightly more powerful and gets an added bonus against Gunpowder units.</English>
         <French>L'équivalent argentin de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT] est légèrement plus puissante et possède un bonus contre les unités à poudre à canon.</French>
         <Brazilian>A subistituição argentina para a [COLOR_UNIT_TEXT]Cavalaria[COLOR_REVERT] é levemente mais poderosa obtém um bônus adicional contra unidades Pólvora.</Brazilian>
+        <Spanish>La sustitución argentina para la [COLOR_UNIT_TEXT]Caballería[COLOR_REVERT] es ligeramente más poderosa y obtiene un bonus añadido contra unidades de pólvora.</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE</Tag>
@@ -173,6 +122,7 @@
         <Tag>TXT_KEY_UNIT_ARMENIA_FEDAYEE_STRATEGY</Tag>
         <English>This most powerful mounted unit (the Armenian replacement for the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]) is particularly effective in open terrain and can withdraw from combat.  The [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] also receives the [COLOR_HIGHLIGHT_TEXT]Pinch I[COLOR_REVERT] promotion when built and is able of pillaging enemy territory efficiently.</English>
         <French>L'unité montée la plus puissante (l'équivalent arménien de la [COLOR_UNIT_TEXT]cavalerie[COLOR_REVERT]) est particulièrement efficace sur terrain ouvert et peut se replier en combat.  Le [COLOR_UNIT_TEXT]fedayee[COLOR_REVERT] reçoit également la promotion [COLOR_HIGHLIGHT_TEXT]tenaille I[COLOR_REVERT] et présente un grand potentiel pour piller le territoire ennemi.</French>
+        <Brazilian>Essa poderosa unidade montada (A substituta dos Armênios para a [COLOR_UNIT_TEXT]Cavalaria[COLOR_REVERT]) é particularmente eficiente em terreno aberto e pode se retirar do combate.  A [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] também recebe a promoção [COLOR_HIGHLIGHT_TEXT]Opressão I[COLOR_REVERT] quando recrutada e treinada para pilhagem eficiente em território inimigo.</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ARSIYAH</Tag>
@@ -190,31 +140,12 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_ASHANTI_TWAFO</Tag>
         <English>Twafo</English>
-        <French>
-            <Text>Twafo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Twafo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Twafo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Twafo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ASHANTI_TWAFO_STRATEGY</Tag>
         <English>The [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] replaces the traditional Arquebusier and has a bonus when defending cities.</English>
         <French>Le [COLOR_UNIT_TEXT]twafo[COLOR_REVERT] remplace l'arquebusier et dispose d'un bonus de défense des villes.</French>
+        <Brazilian>O [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] substitui o tradicional Arcabuseiro e possui um bônus ao defender cidades.</Brazilian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ATLANTES_WARRIOR</Tag>
@@ -301,26 +232,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_CHILE_CARABINIERS</Tag>
         <English>Carabineros</English>
-        <French>
-            <Text>Carabineros</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Carabineros</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Carabineros</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Carabineros</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Brazilian>Carabineiros</Brazilian>
     </TEXT>
     <TEXT>
@@ -340,26 +251,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_COLOMBIA_AUC</Tag>
         <English>AUC</English>
-        <French>
-            <Text>AUC</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>AUC</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>AUC</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>AUC</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_COLOMBIA_AUC_STRATEGY</Tag>
@@ -420,21 +311,6 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Hussite Infantry</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Hussite Infantry</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Hussite Infantry</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CZECH_HUSSITE_STRATEGY</Tag>
@@ -460,21 +336,6 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Code Talker</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Code Talker</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Code Talker</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_DINNEHIH_CODETALKER_STRATEGY</Tag>
@@ -495,26 +356,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_FALXMAN</Tag>
         <English>Drapanai</English>
-        <French>
-            <Text>Drapanai</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Drapanai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Drapanai</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Drapanai</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FALXMAN_STRATEGY</Tag>
@@ -549,11 +390,13 @@
         <Tag>TXT_KEY_UNIT_GALLEAS</Tag>
         <English>Great Galeass</English>
         <French>Grande galéasse</French>
+        <Italian>Grande galeazza</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GALLEAS_STRATEGY</Tag>
         <English>The [COLOR_UNIT_TEXT]Great Galleas[COLOR_REVERT] serves as an upgraded [COLOR_UNIT_TEXT]Galleass[COLOR_REVERT], though fighting better on coasts.</English>
         <French>La [COLOR_UNIT_TEXT]grande galéasse[COLOR_REVERT] est une amélioration de la [COLOR_UNIT_TEXT]galéasse[COLOR_REVERT], qui combat mieux sur les côtes.</French>
+        <Italian>La [COLOR_UNIT_TEXT]Grande galeazza[COLOR_REVERT] è un miglioramento della [COLOR_UNIT_TEXT]Galeazza[COLOR_REVERT], ed è progettata per combattere meglio lungo le coste.</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GASINDII</Tag>
@@ -604,26 +447,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_GRIVPANVAR</Tag>
         <English>Grivpanvar</English>
-        <French>
-            <Text>Grivpanvar</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Grivpanvar</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Grivpanvar</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Grivpanvar</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GRIVPANVAR_STRATEGY</Tag>
@@ -662,26 +485,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_HIGHLANDER</Tag>
         <English>Highlander</English>
-        <French>
-            <Text>Highlander</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Highlander</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Highlander</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Highlander</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_HIGHLANDER_STRATEGY</Tag>
@@ -741,21 +544,6 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Republican Guard</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Republican Guard</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Republican Guard</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Brazilian>Guarda Republicano</Brazilian>
     </TEXT>
     <TEXT>
@@ -781,21 +569,6 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Iron Helm</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Iron Helm</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Iron Helm</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_KANEMBORNU_IRONHELM_STRATEGY</Tag>
@@ -908,26 +681,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_MALAGASY_MENALAMBA</Tag>
         <English>Menalamba</English>
-        <French>
-            <Text>Menalamba</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Menalamba</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Menalamba</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Menalamba</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_MALAGASY_MENALAMBA_STRATEGY</Tag>
@@ -1129,21 +882,6 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Ghost Dancer</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Ghost Dancer</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Ghost Dancer</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PILIWNI_GHOSTDANCER_STRATEGY</Tag>
@@ -1174,26 +912,6 @@
     <TEXT>
         <Tag>TXT_KEY_UNIT_SOMALIA_GUULWADAYAAL</Tag>
         <English>Guulwadayaal</English>
-        <French>
-            <Text>Guulwadayaal</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Guulwadayaal</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Guulwadayaal</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Guulwadayaal</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_SOMALIA_GUULWADAYAAL_STRATEGY</Tag>
@@ -1245,21 +963,6 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Thorakitai Argyraspidai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Thorakitai Argyraspidai</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Thorakitai Argyraspidai</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_THORAKITAI_STRATEGY</Tag>
@@ -1313,21 +1016,6 @@
             <Gender>Female</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Vanatori de Munte</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Vanatori de Munte</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Vanatori de Munte</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_VANATORI_STRATEGY</Tag>
@@ -1408,21 +1096,6 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>Maqil Warrior</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Maqil Warrior</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Maqil Warrior</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_YEMEN_MAQILWARRIOR_STRATEGY</Tag>

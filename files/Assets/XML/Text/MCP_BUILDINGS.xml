@@ -6,6 +6,7 @@
         <French>Cercle bora</French>
         <German>Boraring</German>
         <Brazilian>Círculo de Bora</Brazilian>
+        <Arabic>حلقه بورا</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_ABORIGINES_BORARING_STRATEGY</Tag>
@@ -20,6 +21,7 @@
         <German>Tempel von Ishtar</German>
         <Italian>Tempio di Ishtar</Italian>
         <Russian>Храм Иштар</Russian>
+        <Arabic>معبد اشتير</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR_STRATEGY</Tag>
@@ -540,26 +542,6 @@
     <TEXT>
         <Tag>TXT_KEY_BUILDING_HUNG_VEGVAR</Tag>
         <English>Végvár</English>
-        <French>
-            <Text>Végvár</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Végvár</Text>
-            <Gender>Female</Gender>
-            <Plural>1</Plural>
-        </German>
-        <Italian>
-            <Text>Végvár</Text>
-            <Gender>Female</Gender>
-            <Plural>0:1</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Végvár</Text>
-            <Gender>Female</Gender>
-            <Plural>0:1</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_HUNG_VEGVAR_STRATEGY</Tag>
@@ -754,6 +736,10 @@
         <Brazilian>Exposição</Brazilian>
         <Russian>Выставка</Russian>
         <Turkish>Sergi</Turkish>
+        <Greek>Έκθεση</Greek>
+        <Spanish>Exhibición</Spanish>
+        <Polish>Wystawa</Polish>
+        <ChineseSimp>展览会</ChineseSimp>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_BUILDING_MEGYPT_EXHIBITION_STRATEGY</Tag>

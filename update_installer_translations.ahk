@@ -1,6 +1,6 @@
 ; Download  latest translations from Transifex
 SetWorkingDir, %A_ScriptDir%\translations\installer
-RunWait, %A_ScriptDir%\tools\tx.exe pull -a
+RunWait, %A_ScriptDir%\tools\tx.exe pull -a -f
 
 ; # Input latest version string #
 SetWorkingDir, %A_ScriptDir%\installer
@@ -88,10 +88,10 @@ Loop, Files, %A_ScriptDir%\translations\main\installer_*.xml
                 ;msgbox % find replace
             }
         }
-    }    
+    }
 }
 
 ; Save modified file
-FileAppend, %inst%, %A_WorkingDir%\installer_translations.nsi  
+FileAppend, %inst%, %A_WorkingDir%\installer_translations.nsi
 
 Msgbox, Process had ended. If new translations were added, check the file "installer/mcp_full_installer_script.nsi" and uncomment the following lines (remove the '`;'):`n- `;!insertmacro MUI_LANGUAGE "thelanguage"`n- `; thelanguage`n; LangString WELCOME_TITLE ${LANG_THELANGUAGE} "etc."

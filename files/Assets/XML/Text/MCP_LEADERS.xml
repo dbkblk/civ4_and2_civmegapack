@@ -3,27 +3,8 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_ABLAY</Tag>
         <English>Ablai</English>
-        <French>
-            <Text>Ablai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Ablai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Ablai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Ablai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Ablay</Turkish>
+        <Arabic>ابلاى</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AGAMEMNON</Tag>
@@ -38,7 +19,7 @@
         <Korean>아가멤논</Korean>
         <Russian>Агамемнон</Russian>
         <ChineseSimp>阿伽门农国王</ChineseSimp>
-        <Hungarian>Agamemnón&#xd;
+        <Hungarian>Agamemnón
  </Hungarian>
         <Brazilian>Agamenon</Brazilian>
         <Portuguese>Agamenon</Portuguese>
@@ -86,50 +67,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_ALFRED</Tag>
         <English>Alfred</English>
-        <French>
-            <Text>Alfred</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Alfred</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Alfred</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Alfred</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_ALOOMA</Tag>
         <English>Alooma</English>
-        <French>
-            <Text>Alooma</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Alooma</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Alooma</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Alooma</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AMANISHABHETO</Tag>
@@ -140,26 +81,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_AMINA</Tag>
         <English>Amina</English>
-        <French>
-            <Text>Amina</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Amina</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Amina</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Amina</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_ANDRANIK</Tag>
@@ -172,26 +93,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_ANTIOCHUS</Tag>
         <English>Antiochus</English>
-        <French>
-            <Text>Antiochus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Antiochus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Antiochus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Antiochus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Antiokus</Turkish>
     </TEXT>
     <TEXT>
@@ -208,50 +109,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_ARSACES</Tag>
         <English>Arsaces I</English>
-        <French>
-            <Text>Arsaces I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Arsaces I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Arsaces I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Arsaces I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_ASKIA</Tag>
         <English>Askia</English>
-        <French>
-            <Text>Askia</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Askia</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Askia</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Askia</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_ATHEAS</Tag>
@@ -298,6 +159,7 @@
         <Russian>Сипан</Russian>
         <ChineseSimp>西潘</ChineseSimp>
         <Czech>Sipán</Czech>
+        <Arabic>سيبان</Arabic>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_AYUB_KHAN</Tag>
@@ -341,26 +203,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_BOTHA</Tag>
         <English>Botha</English>
-        <French>
-            <Text>Botha</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Botha</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Botha</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Botha</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_BRIDEI</Tag>
@@ -370,26 +212,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_BRINNO</Tag>
         <English>Brinno</English>
-        <French>
-            <Text>Brinno</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Brinno</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Brinno</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Brinno</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_BULAN</Tag>
@@ -398,26 +220,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_BUREBISTA</Tag>
         <English>Burebista</English>
-        <French>
-            <Text>Burebista</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Burebista</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Burebista</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Burebista</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CAKSTE</Tag>
@@ -439,7 +241,7 @@
         <German>Canute der Große</German>
         <Spanish>Canuto el Grande</Spanish>
         <Italian>Canuto il Grande</Italian>
-        <Turkish>Knud büyük</Turkish>
+        <Turkish>Büyük Knud</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CARDENAS</Tag>
@@ -494,26 +296,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_CIVILIS</Tag>
         <English>Julius Civilis</English>
-        <French>
-            <Text>Julius Civilis</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Julius Civilis</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Julius Civilis</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Julius Civilis</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_CLARK</Tag>
@@ -522,74 +304,14 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_COCHISE</Tag>
         <English>Cochise</English>
-        <French>
-            <Text>Cochise</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Cochise</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Cochise</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Cochise</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_COLLINS</Tag>
         <English>Collins</English>
-        <French>
-            <Text>Collins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Collins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Collins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Collins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_COLOCOLO</Tag>
         <English>Colocolo</English>
-        <French>
-            <Text>Colocolo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Colocolo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Colocolo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Colocolo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Pampa kedisi</Turkish>
     </TEXT>
     <TEXT>
@@ -607,50 +329,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_CUZA</Tag>
         <English>Cuza</English>
-        <French>
-            <Text>Cuza</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Cuza</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Cuza</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Cuza</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DAAR</Tag>
         <English>Daar</English>
-        <French>
-            <Text>Daar</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Daar</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Daar</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Daar</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DAVID</Tag>
@@ -665,99 +347,19 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_DECEBALUS</Tag>
         <English>Decebalus</English>
-        <French>
-            <Text>Decebalus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Decebalus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Decebalus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Decebalus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DEMETRIUS</Tag>
         <English>Demetrius</English>
-        <French>
-            <Text>Demetrius</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Demetrius</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Demetrius</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Demetrius</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DIODOTUS</Tag>
         <English>Diodotus I</English>
-        <French>
-            <Text>Diodotus I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Diodotus I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Diodotus I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Diodotus I</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Diodotus ben</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DONNACONA</Tag>
         <English>Donnacona</English>
-        <French>
-            <Text>Donnacona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Donnacona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Donnacona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Donnacona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_DUFOUR</Tag>
@@ -789,26 +391,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_EUCRATIDES</Tag>
         <English>Eucratides</English>
-        <French>
-            <Text>Eucratides</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Eucratides</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Eucratides</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Eucratides</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_EWUARE</Tag>
@@ -855,26 +437,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_GODWINSON</Tag>
         <English>Harold Godwinson</English>
-        <French>
-            <Text>Harold Godwinson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Harold Godwinson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Harold Godwinson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Harold Godwinson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_GUSTAV</Tag>
@@ -884,50 +446,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_HAAKON</Tag>
         <English>Haakon VII</English>
-        <French>
-            <Text>Haakon VII</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Haakon VII</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Haakon VII</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Haakon VII</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_HAAKONSON</Tag>
         <English>Haakonsson</English>
-        <French>
-            <Text>Haakonsson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Haakonsson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Haakonsson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Haakonsson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_HASINA</Tag>
@@ -958,26 +480,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_HUS</Tag>
         <English>Jan Hus</English>
-        <French>
-            <Text>Jan Hus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Jan Hus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Jan Hus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Jan Hus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Arabic>يان Hus</Arabic>
         <Korean>얀 후스</Korean>
         <Russian>Ян Гус</Russian>
@@ -1001,26 +503,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_JANYBEK</Tag>
         <English>Janybek</English>
-        <French>
-            <Text>Janybek</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Janybek</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Janybek</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Janybek</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_JEZEBEL</Tag>
@@ -1050,21 +532,6 @@
             <Gender>Male</Gender>
             <Plural>0</Plural>
         </French>
-        <German>
-            <Text>al-Kanemi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>al-Kanemi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>al-Kanemi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Al-Kanemi</Turkish>
     </TEXT>
     <TEXT>
@@ -1139,50 +606,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MACDONALD</Tag>
         <English>MacDonald</English>
-        <French>
-            <Text>MacDonald</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>MacDonald</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>MacDonald</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>MacDonald</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MACKENZIEKING</Tag>
         <English>King</English>
-        <French>
-            <Text>King</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>King</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>King</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>King</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Kral</Turkish>
     </TEXT>
     <TEXT>
@@ -1193,26 +620,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MAKEDA</Tag>
         <English>Makeda</English>
-        <French>
-            <Text>Makeda</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Makeda</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Makeda</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Makeda</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MALIK</Tag>
@@ -1222,26 +629,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MANDELA</Tag>
         <English>Mandela</English>
-        <French>
-            <Text>Mandela</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Mandela</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Mandela</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Mandela</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MANNERHEIM</Tag>
@@ -1280,26 +667,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MASARYK</Tag>
         <English>Masaryk</English>
-        <French>
-            <Text>Masaryk</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Masaryk</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Masaryk</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Masaryk</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MATTHIAS</Tag>
@@ -1310,50 +677,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_MEHAI</Tag>
         <English>Mihai</English>
-        <French>
-            <Text>Mihai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Mihai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Mihai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Mihai</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MENZIES</Tag>
         <English>Menzies</English>
-        <French>
-            <Text>Menzies</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Menzies</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Menzies</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Menzies</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_MIKHEIL</Tag>
@@ -1418,26 +745,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_NARBONA</Tag>
         <English>Narbona</English>
-        <French>
-            <Text>Narbona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Narbona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Narbona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Narbona</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_NASSER</Tag>
@@ -1457,122 +764,22 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_NIALL</Tag>
         <English>Niall Noigiallach</English>
-        <French>
-            <Text>Niall Noigiallach</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Niall Noigiallach</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Niall Noigiallach</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Niall Noigiallach</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_NIMI</Tag>
         <English>Nimi</English>
-        <French>
-            <Text>Nimi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Nimi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Nimi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Nimi</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_NUWAS</Tag>
         <English>Dhu Nuwas</English>
-        <French>
-            <Text>Dhu Nuwas</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Dhu Nuwas</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Dhu Nuwas</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Dhu Nuwas</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_OBASANJO</Tag>
         <English>Obasanjo</English>
-        <French>
-            <Text>Obasanjo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Obasanjo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Obasanjo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Obasanjo</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_OHIGGINS</Tag>
         <English>O'Higgins</English>
-        <French>
-            <Text>O'Higgins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>O'Higgins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>O'Higgins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>O'Higgins</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_OSEI</Tag>
@@ -1606,50 +813,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_PATTERSON</Tag>
         <English>Patterson</English>
-        <French>
-            <Text>Patterson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Patterson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Patterson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Patterson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_PEARSON</Tag>
         <English>Pearson</English>
-        <French>
-            <Text>Pearson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Pearson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Pearson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Pearson</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_PEDRO_II</Tag>
@@ -1680,50 +847,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_PONTIAC</Tag>
         <English>Pontiac</English>
-        <French>
-            <Text>Pontiac</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Pontiac</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Pontiac</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Pontiac</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_POPAY</Tag>
         <English>Po'pay</English>
-        <French>
-            <Text>Po'pay</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Po'pay</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Po'pay</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Po'pay</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_PREMPEH</Tag>
@@ -1759,50 +886,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_RUGA</Tag>
         <English>Ruga</English>
-        <French>
-            <Text>Ruga</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Ruga</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Ruga</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Ruga</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SAAD</Tag>
         <English>Sa'ad ad-Din II</English>
-        <French>
-            <Text>Sa'ad ad-Din II</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Sa'ad ad-Din II</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Sa'ad ad-Din II</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Sa'ad ad-Din II</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SALAMASINA</Tag>
@@ -1837,26 +924,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_SELEUCUS</Tag>
         <English>Seleucus</English>
-        <French>
-            <Text>Seleucus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Seleucus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Seleucus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Seleucus</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Selevkos</Turkish>
     </TEXT>
     <TEXT>
@@ -1866,10 +933,12 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_SHAMBARA</Tag>
         <English>Shambara</English>
+        <Italian>Sambara</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SHAUSHTATAR</Tag>
         <English>Shaushtatar</English>
+        <Italian>Shaushtatar II</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SHINSAWBU</Tag>
@@ -1894,6 +963,7 @@
         <English>Skilurus</English>
         <French>Scilurus</French>
         <Spanish>Escíloro</Spanish>
+        <Italian>Skules</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SOBIESKI</Tag>
@@ -1910,6 +980,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_SONGTSEN</Tag>
         <English>Songtsen</English>
+        <Italian>Songtsen Gampo</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_STAMBOLOV</Tag>
@@ -1925,7 +996,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_SUHARTO</Tag>
         <English>Suharto</English>
-        <Turkish>Kütahya</Turkish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_SUKARNO</Tag>
@@ -1963,6 +1033,7 @@
         <French>Sviatoslav Ier</French>
         <German>Swjatoslaw I.</German>
         <Turkish>Sviatoslav ben</Turkish>
+        <Italian>Svjatoslav I</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TAHARQA</Tag>
@@ -1987,26 +1058,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_TECUMSEH</Tag>
         <English>Tecumseh</English>
-        <French>
-            <Text>Tecumseh</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Tecumseh</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Tecumseh</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Tecumseh</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TENGRI_BOGU</Tag>
@@ -2031,6 +1082,7 @@
         <Tag>TXT_KEY_LEADER_TIGRANES</Tag>
         <English>Tigranes</English>
         <French>Tigrane</French>
+        <Italian>Tigrane il Grande</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TITO</Tag>
@@ -2052,26 +1104,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_TOQUI_LAUTARO</Tag>
         <English>Toqui Lautaro</English>
-        <French>
-            <Text>Toqui Lautaro</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Toqui Lautaro</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Toqui Lautaro</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Toqui Lautaro</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TOUSSAINT</Tag>
@@ -2080,26 +1112,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_TRUDEAU</Tag>
         <English>Trudeau</English>
-        <French>
-            <Text>Trudeau</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Trudeau</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Trudeau</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Trudeau</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_TRUNG</Tag>
@@ -2116,26 +1128,6 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_TYMOSHENKO</Tag>
         <English>Tymoshenko</English>
-        <French>
-            <Text>Tymoshenko</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Tymoshenko</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Tymoshenko</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Tymoshenko</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </Spanish>
         <Turkish>Timoşenko</Turkish>
     </TEXT>
     <TEXT>
@@ -2149,6 +1141,7 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_VARGAS</Tag>
         <English>Vargas</English>
+        <Italian>Getúlio Vargas</Italian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_VIJAYALAYA</Tag>
@@ -2166,50 +1159,10 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_WALESA</Tag>
         <English>Walesa</English>
-        <French>
-            <Text>Walesa</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Walesa</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Walesa</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Walesa</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_WENCESLAUS</Tag>
         <English>Wenceslaus</English>
-        <French>
-            <Text>Wenceslaus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Wenceslaus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Wenceslaus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Wenceslaus</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_WETTSTEIN</Tag>
@@ -2218,74 +1171,14 @@
     <TEXT>
         <Tag>TXT_KEY_LEADER_WILLIAMS</Tag>
         <English>Williams</English>
-        <French>
-            <Text>Williams</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Williams</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Williams</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Williams</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_WINNEMUCCA</Tag>
         <English>Winnemucca</English>
-        <French>
-            <Text>Winnemucca</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Winnemucca</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Winnemucca</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Winnemucca</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_WOVOKA</Tag>
         <English>Wovoka</English>
-        <French>
-            <Text>Wovoka</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </French>
-        <German>
-            <Text>Wovoka</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </German>
-        <Italian>
-            <Text>Wovoka</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Italian>
-        <Spanish>
-            <Text>Wovoka</Text>
-            <Gender>Male</Gender>
-            <Plural>0</Plural>
-        </Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_LEADER_YAGAN</Tag>
