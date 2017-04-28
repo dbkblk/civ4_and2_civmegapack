@@ -1,0 +1,1187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry tag="TXT_KEY_CITY_NAME_ACARIGUA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Guanare</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AL_BAYDA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Al Bayda</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AL_DIWANIYAH" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Divaniye</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AL_HILLAH" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Hilla</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AL_HUDAYDAH" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Al Hudaydah</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AL_JABAR_AL_AKHDAR" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Al Jabal al-Akhdar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_ALANIA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Alanya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_ALEXANDROPOL" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Gümrü</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_ALMATY" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Almatı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AMARAH" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Amara</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_AN_NUQAT_AL_KHAMS" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Bir Nuqat al-Khams</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_ARBIL" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Erbil</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BAQUBAH" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Bakuba</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BARCELONA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Barselona</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BASSEIN" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Bassein ya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BATUMI" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Batum</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BENGUELA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Benguela, Angola</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BENI_MELLAL" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Beni Mellal</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BLUE_CREEK" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Mavi Creek</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_BOLE" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>BOLE</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_CHILE" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Şili</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_TROY" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Truva</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_TYRE" file="MCP_CITIES.xml">
+        <old_value>Tyre</old_value>
+        <new_value/>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_VALENCIA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>Valensiya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ABORIGINES_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Aborijin</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ABORIGINES_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Aborjin İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ABORIGINES_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Aborjinler</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AKKADIAN_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Akad</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AKKADIAN_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Akad İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AKKADIAN_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Akad</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ALBANIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Arnavut</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ALBANIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Arnavutluk</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ALBANIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Arnavutluk</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANGLO_SAXON_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Anglo-Sakson</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANGLO_SAXON_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Anglo-Sakson İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANGLO_SAXON_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Anglo-Saksonlar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANISHNAABEK_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Algonkin</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANISHNAABEK_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Algonkin İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANISHNAABEK_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Algonkin</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ANIYONEGA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Cherokee Kızıl Derilileri</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_APACHE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Apaçi</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_APACHE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Apaçi İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_APACHE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Apaçi</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ARGENTINA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Arjantinli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ARGENTINA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Arjantin İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ARGENTINA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Arjantin</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ARMENIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ermeni</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ARMENIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ermeni İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ARMENIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ermeni</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ASHANTI_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ashanti İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ASHANTI_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ashantin</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AUSTRALIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Avustralya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AUSTRALIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Avustralya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AUSTRALIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Avustralya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AUSTRIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Avusturyalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AUSTRIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Avusturya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_AUSTRIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Avusturya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BAKTRIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Baktrian İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BAKTRIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Baktrian</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BANGLADESH_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Bangladeşli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BANGLADESH_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Bangladeş İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BANGLADESH_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Bangladeş</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BATAVII_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Batavi</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BATAVII_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Batavi İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BELGIUM_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Belçikalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BELGIUM_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Belçika İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BELGIUM_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Belçika</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BENIN_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Benin İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BRAZIL_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Brezilya Portekizcesi</old_value>
+        <new_value>Brezilyalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BRAZIL_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Brezilya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BRAZIL_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Brezilya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BULGARIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Bulgarca</old_value>
+        <new_value>Bulgar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BULGARIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Bulgar İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BULGARIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Bulgaristan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BURMA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Birmanya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BURMA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Birman İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_BURMA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Birma</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CANADA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kanadalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CANADA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kanada İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CANADA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kanada</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHAMPA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Cham İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHILE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Şilili</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHILE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Şili İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHILE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Şili</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHOLA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Çola</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHOLA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Çola İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CHOLA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Çola</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_COLOMBIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kolombiyalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_COLOMBIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kolombiyalı İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_COLOMBIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kolombiya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CONGO_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kongolu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CONGO_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kongo İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CONGO_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kongo</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CROATIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hırvat</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CROATIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hırvat İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CROATIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hırvatistan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CUBA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kübalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CUBA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Küba İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CUBA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Küba</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CZECH_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Çekçe</old_value>
+        <new_value>Çek</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CZECH_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Çek İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_CZECH_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Çekçe</old_value>
+        <new_value>Çek</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_DENMARK_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Danca</old_value>
+        <new_value>Danimarkalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_DENMARK_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Danimarka İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_DENMARK_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Danimarka</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_DINNEHIH_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Dinnehih İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ETRUSCANS_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Etrüsk</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ETRUSCANS_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Etrüsk İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ETRUSCANS_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Etrüskler</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_FINLAND_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Fince</old_value>
+        <new_value>Fin</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_FINLAND_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Fin İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_FINLAND_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Finlandiya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GEORGIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gürcü</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GEORGIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gürcü İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GEORGIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gürcistan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GETAI_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Getic İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GOTHS_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gotik</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GOTHS_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gotik İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_GOTHS_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gotlar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HARAPPA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Harappan İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HUNGARY_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Macarca</old_value>
+        <new_value>Macar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HUNGARY_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Macar İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HUNGARY_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Macaristan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HUNS_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hun</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HUNS_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hun İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HUNS_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hunya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_HURRIANS_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hurri İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_INDONESIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Endonezya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_INDONESIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Endonezya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_INDONESIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Endonezya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRAN_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İran</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRAN_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İran İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRAN_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İran</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRAQ_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Irak</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRAQ_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Irak İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRAQ_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Irak</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRELAND_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İrlandalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRELAND_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İrlanda İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_IRELAND_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İrlanda</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ISRAEL_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsrailli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ISRAEL_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsrail İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ISRAEL_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsrail</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ITALY_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>İtalyanca</old_value>
+        <new_value>İtalyan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ITALY_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İtalyan İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ITALY_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İtalya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KANEMBORNU_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kanem-Bornulu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KANEMBORNU_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kanem-Bornu İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KAZAKH_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kazak</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KAZAKH_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kazak İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KAZAKH_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Kazakistan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KHAZARIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hazarlı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KHAZARIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hazar İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_KHAZARIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hazarya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LATVIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Leton</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LATVIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Letonya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LATVIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Letonya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LITHUANIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Litvan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LITHUANIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Litvanya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LITHUANIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Litvanya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LOMBARD_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Langobard İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_LOMBARD_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Langobardiya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAGHREB_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Faslı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAGHREB_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Fas İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAGHREB_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Fas</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAJAPAHIT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Majapahit İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MALAGASY_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Madagaskar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MALAGASY_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Madagaskar İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MALAGASY_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Madagaskar</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MANDE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Songhay</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MANDE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Songhay İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MANDE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Songhay</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAPUCHE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Mapuçen</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAPUCHE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Mapuçe İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MAPUCHE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Mapuçe</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MEGYPT_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Memlüklü</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MEGYPT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Memlük İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MEGYPT_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Memlükler</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MEXICO_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Meksikalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MEXICO_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Meksika İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MEXICO_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Meksika</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MINOA" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Minoan İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MOCHE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Moche İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MUTAPA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Mutapan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MUTAPA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Mutapa İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MYCENAE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Miken</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MYCENAE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Miken İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MYCENAE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Mikenya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NEWZEALAND_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Yeni Zelanda</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NEWZEALAND_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Yeni Zelanda İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NEWZEALAND_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Yeni Zelanda</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NIGERIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Nijerya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NIGERIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Nijerya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NIGERIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Nijeryan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NORWAY_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Norveçli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NORWAY_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Norveç İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NORWAY_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Norveç</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NUBIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Nubian İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_OLMEC_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Olmec İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PAKISTAN_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Pakistanlı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PAKISTAN_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Pakistan İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PARTHIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Pers</old_value>
+        <new_value>Persli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PARTHIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Pers İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PARTHIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Persiya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PHILIPPINES_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Filipinli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PHILIPPINES_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Filipin İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PHILIPPINES_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Filipinler</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PHOENICIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Fenike</old_value>
+        <new_value>Feniken</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PHOENICIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Fenike İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PHOENICIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Finike</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PICTS_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Piktli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PICTS_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Pikt İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PICTS_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Piktland</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PILIWNI_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Piliwni İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_POLAND_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Lehçe</old_value>
+        <new_value>Leh</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_POLAND_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Leh İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_POLAND_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Polonya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_POLYNESIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Polinezya</old_value>
+        <new_value>Polinezyan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_POLYNESIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Polinezya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Polinezya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ROMANIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Romen</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ROMANIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Romen İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ROMANIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Romanya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SCOTLAND_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İskoç</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SCOTLAND_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İskoç İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SCOTLAND_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İskoçya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SCYTHIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>İskit</old_value>
+        <new_value>İskitli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SCYTHIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İskit İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SCYTHIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İskitya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SELEUKIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Seleukid İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SELEUKIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Seleukeiya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SELJUK_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Selçuklu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SELJUK_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Selçuklu İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SELJUK_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Selçuklular</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SERBIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Sırp</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SERBIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Sırp İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SERBIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Sırbistan</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SIOUX_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Siyu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SIOUX_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Siyu İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SIOUX_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Siyu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SOMALIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Somali İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SOMALIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Somalya</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SOUTH_AFRICA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Güney Afrikalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SOUTH_AFRICA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Güney Afrika İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SOUTH_AFRICA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Güney Afrika</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsveçli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SWEDEN_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsveç İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsveç</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SWITZERLAND_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsviçreli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SWITZERLAND_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsviçre İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_SWITZERLAND_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>İsviçre</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TIBET_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Tibetli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TIBET_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Tibet İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TIMURID_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Timuri</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TIMURID_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Timuri İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TIMURID_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Timurlular</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TOLTEC_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Toltek</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TOLTEC_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Toltek İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TOLTEC_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Toltekler</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TROY_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Truvalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TROY_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Truva İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TROY_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Truva</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_TUPI_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Tupi İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UKRAINE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value>Ukraynaca</old_value>
+        <new_value>Ukraynalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UKRAINE_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ukrayna İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UKRAINE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Ukrayna</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UYGHUR_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Uygur</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UYGHUR_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Uygur İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UYGHUR_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Uygur</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VEDIC_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Vedik</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VEDIC_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Vedik İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VEDIC_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Vedik</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VENEZIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Venedikli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VENEZIA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Venedik İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VENEZIA_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Venedik</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VENEZUELA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Venezuelalı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VENEZUELA_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Venezuela İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VIETNAM_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Vietnamlı</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_VIETNAM_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Vietnam İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_WALES_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Gal</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_WALES_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Galya İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_WALES_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Galler</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_WESTINDIES_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Batı Hintli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_WESTINDIES_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Batı Hint İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_WESTINDIES_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Batı Hint Adaları</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_XIONGNU_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hun</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_XIONGNU_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hun İmparatorluğu</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_XIONGNU_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Hun</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_YEMEN_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Yemenli</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_YEMEN_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>Yemen İmparatorluğu</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Cennetler sana bereket yağdırsın, [CT_NAME]! Ben [OUR_NAME], [OUR_EMPIRE] medeniyetinin bilge ve yardımsever yöneticisiyim! Bana haraç yağdırmaktan çekinme!</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Seninle tanışmaktan onur duydum, [CT_NAME]. Umarım uluslarımız barış ve dostluk içerisinde yaşarlar.</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_CANUTE_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>[CT_EMPIRE] medeniyetine sıcak selamlar. Ben, [OUR_NAME], tüm dünyevi haysiyetlerin üzerinde bir barış, sağlam ve sessiz bir vicdan gözetiyorum. </new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_CHRISTIAN_IV_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>[CT_EMPIRE] medeniyetine sıcak selamlar. Ben, [OUR_NAME], tüm dünyevi haysiyetlerin üzerinde bir barış, sağlam ve sessiz bir vicdan gözetiyorum. </new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_OSTENACO_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Selamlar. Ben [OUR_NAME], [OUR_EMPIRE] imparatorluğunun şefi. İyi bir şey verdiğini almaz. Sen iyi bir şef misin, [CT_NAME]?</new_value>
+    </entry>
+    <entry tag="TXT_KEY_LEADER_CANUTE" file="MCP_LEADERS.xml">
+        <old_value>Knud büyük</old_value>
+        <new_value>Büyük Knud</new_value>
+    </entry>
+    <entry tag="TXT_KEY_LEADER_SUHARTO" file="MCP_LEADERS.xml">
+        <old_value>Suharto</old_value>
+        <new_value/>
+    </entry>
+</root>

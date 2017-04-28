@@ -2,5 +2,6 @@
 <resources>
   <string name="TXT_KEY_BUILDING_ARSENAL">兵工厂</string>
   <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">绿洲</string>
+  <string name="TXT_KEY_BUILDING_MEGYPT_EXHIBITION">展览会</string>
   <string name="TXT_KEY_BUILDING_MOCHE_HUACA">华卡</string>
 </resources>

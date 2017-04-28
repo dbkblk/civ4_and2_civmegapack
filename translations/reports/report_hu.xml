@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry tag="TXT_KEY_LEADER_AGAMEMNON" file="MCP_LEADERS.xml">
+        <old_value>Agamemnón&#xd;
+ </old_value>
+        <new_value>Agamemnón
+ </new_value>
+    </entry>
+</root>

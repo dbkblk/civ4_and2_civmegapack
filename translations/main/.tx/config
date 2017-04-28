@@ -12,11 +12,6 @@ file_filter = <lang>/MCP_BUILDINGS_PEDIA.xml
 source_file = en/MCP_BUILDINGS_PEDIA.xml
 source_lang = en
 
-[and-civilopedia-strings.mcp_buildings_strategy]
-file_filter = <lang>/MCP_BUILDINGS_STRATEGY.xml
-source_file = en/MCP_BUILDINGS_STRATEGY.xml
-source_lang = en
-
 [and-modules.mcp_cities]
 file_filter = <lang>/MCP_CITIES.xml
 source_file = en/MCP_CITIES.xml
@@ -47,11 +42,6 @@ file_filter = <lang>/MCP_LEADERS_PEDIA.xml
 source_file = en/MCP_LEADERS_PEDIA.xml
 source_lang = en
 
-[and-modules.mcp_misc]
-file_filter = <lang>/MCP_MISC.xml
-source_file = en/MCP_MISC.xml
-source_lang = en
-
 [and-modules.mcp_units]
 file_filter = <lang>/MCP_UNITS.xml
 source_file = en/MCP_UNITS.xml
@@ -60,9 +50,4 @@ source_lang = en
 [and-civilopedia-strings.mcp_units_pedia]
 file_filter = <lang>/MCP_UNITS_PEDIA.xml
 source_file = en/MCP_UNITS_PEDIA.xml
-source_lang = en
-
-[and-civilopedia-strings.mcp_units_strategy]
-file_filter = <lang>/MCP_UNITS_STRATEGY.xml
-source_file = en/MCP_UNITS_STRATEGY.xml
 source_lang = en

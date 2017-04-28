@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="TXT_KEY_BUILDING_ABORIGINES_BORARING">حلقه بورا</string>
+  <string name="TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR">معبد اشتير</string>
   <string name="TXT_KEY_BUILDING_ARSENAL">الترسانة </string>
   <string name="TXT_KEY_BUILDING_MOCHE_HUACA">هواكا</string>
 </resources>

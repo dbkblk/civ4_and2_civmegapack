@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CIV_ADJECTIVE_MINOA">Minoana</string>
+  <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Português (Brasil)</string>
+  <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Búlgaro</string>
+  <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Tcheco</string>
+  <string name="TXT_KEY_CIV_CZECH_SHORT_DESC">Tcheco</string>
+  <string name="TXT_KEY_CIV_DENMARK_ADJECTIVE">Dinamarquês</string>
+  <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">Finlandês</string>
+  <string name="TXT_KEY_CIV_HARAPPA_ADJECTIVE">Harapa</string>
+  <string name="TXT_KEY_CIV_HUNGARY_ADJECTIVE">Húngaro</string>
+  <string name="TXT_KEY_CIV_HURRIANS_ADJECTIVE">Hurrita</string>
+  <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">Italiano</string>
+  <string name="TXT_KEY_CIV_MYCENAE_SHORT_DESC">Micenas</string>
+  <string name="TXT_KEY_CIV_NUBIA_ADJECTIVE">Núbia</string>
+  <string name="TXT_KEY_CIV_OLMEC_ADJECTIVE">Olmeca</string>
+  <string name="TXT_KEY_CIV_OLMEC_SHORT_DESC">Olmeca</string>
+  <string name="TXT_KEY_CIV_PARTHIA_ADJECTIVE">Parta</string>
+  <string name="TXT_KEY_CIV_PHOENICIA_ADJECTIVE">Fenícia</string>
+  <string name="TXT_KEY_CIV_POLAND_ADJECTIVE">Polonês</string>
+  <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">Polinésia</string>
+  <string name="TXT_KEY_CIV_SCYTHIA_ADJECTIVE">Cita</string>
+  <string name="TXT_KEY_CIV_TROY_SHORT_DESC">Tróia</string>
+  <string name="TXT_KEY_CIV_UKRAINE_ADJECTIVE">Ucraniano </string>
+</resources>

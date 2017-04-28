@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UZBEK_KHA</Tag>
+		<English>Khwarizmian Horse Archer</English>
+		<French>Khwarizmian Horse Archer</French>
+		<German>Khwarizmian Horse Archer</German>
+		<Italian>Khwarizmian Horse Archer</Italian>
+		<Spanish>Khwarizmian Horse Archer</Spanish>
+	</TEXT>
+    	<TEXT>
+		<Tag>TXT_KEY_UNIT_UZBEK_KHA_PEDIA</Tag>
+		<English>[TAB]Khwarezm were a series of states centered on the Amu Darya river delta of the former Aral Sea, in Greater Iran (now modern Uzbekistan), extending across the Ust-Urt plateau and possibly as far west as the eastern shores of the northern Caspian Sea. To the south it bordered Khorasan, to the north the kingdom of Alans, to the southeast Kangju and Sogdian Transoxiana, and on the northeast with the Huns of Transoxiana. Its capitals were Old Urgench and, from the 17th century on, Khiva, when Khwarezm became known as the Khanate of Khiva.</English>
+		<French>[TAB]Khwarezm were a series of states centered on the Amu Darya river delta of the former Aral Sea, in Greater Iran (now modern Uzbekistan), extending across the Ust-Urt plateau and possibly as far west as the eastern shores of the northern Caspian Sea. To the south it bordered Khorasan, to the north the kingdom of Alans, to the southeast Kangju and Sogdian Transoxiana, and on the northeast with the Huns of Transoxiana. Its capitals were Old Urgench and, from the 17th century on, Khiva, when Khwarezm became known as the Khanate of Khiva.</French>
+		<German>[TAB]Khwarezm were a series of states centered on the Amu Darya river delta of the former Aral Sea, in Greater Iran (now modern Uzbekistan), extending across the Ust-Urt plateau and possibly as far west as the eastern shores of the northern Caspian Sea. To the south it bordered Khorasan, to the north the kingdom of Alans, to the southeast Kangju and Sogdian Transoxiana, and on the northeast with the Huns of Transoxiana. Its capitals were Old Urgench and, from the 17th century on, Khiva, when Khwarezm became known as the Khanate of Khiva.</German>
+		<Italian>[TAB]Khwarezm were a series of states centered on the Amu Darya river delta of the former Aral Sea, in Greater Iran (now modern Uzbekistan), extending across the Ust-Urt plateau and possibly as far west as the eastern shores of the northern Caspian Sea. To the south it bordered Khorasan, to the north the kingdom of Alans, to the southeast Kangju and Sogdian Transoxiana, and on the northeast with the Huns of Transoxiana. Its capitals were Old Urgench and, from the 17th century on, Khiva, when Khwarezm became known as the Khanate of Khiva.</Italian>
+		<Spanish>[TAB]Khwarezm were a series of states centered on the Amu Darya river delta of the former Aral Sea, in Greater Iran (now modern Uzbekistan), extending across the Ust-Urt plateau and possibly as far west as the eastern shores of the northern Caspian Sea. To the south it bordered Khorasan, to the north the kingdom of Alans, to the southeast Kangju and Sogdian Transoxiana, and on the northeast with the Huns of Transoxiana. Its capitals were Old Urgench and, from the 17th century on, Khiva, when Khwarezm became known as the Khanate of Khiva.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UZBEK_KHA_STRATEGY</Tag>
+		<English>The Uzbek [COLOR_UNIT_TEXT]Khwarizmian Horse Archer[COLOR_REVERT] replaces the  [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] and has a 20% chance to withdraw from combat.</English>
+		<French>The Uzbek [COLOR_UNIT_TEXT]Khwarizmian Horse Archer[COLOR_REVERT] replaces the  [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] and has a 20% chance to withdraw from combat.</French>
+		<German>The Uzbek [COLOR_UNIT_TEXT]Khwarizmian Horse Archer[COLOR_REVERT] replaces the  [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] and has a 20% chance to withdraw from combat.</German>
+		<Italian>The Uzbek [COLOR_UNIT_TEXT]Khwarizmian Horse Archer[COLOR_REVERT] replaces the  [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] and has a 20% chance to withdraw from combat.</Italian>
+		<Spanish>The Uzbek [COLOR_UNIT_TEXT]Khwarizmian Horse Archer[COLOR_REVERT] replaces the  [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] and has a 20% chance to withdraw from combat.</Spanish>
+	</TEXT>
+</Civ4GameText>	

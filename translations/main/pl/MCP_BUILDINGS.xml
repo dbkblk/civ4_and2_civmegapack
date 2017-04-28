@@ -2,5 +2,6 @@
 <resources>
   <string name="TXT_KEY_BUILDING_ARSENAL">Arsenał</string>
   <string name="TXT_KEY_BUILDING_KANEMBORNU_OASIS">Oaza</string>
+  <string name="TXT_KEY_BUILDING_MEGYPT_EXHIBITION">Wystawa</string>
   <string name="TXT_KEY_BUILDING_MOCHE_HUACA">Huaca</string>
 </resources>

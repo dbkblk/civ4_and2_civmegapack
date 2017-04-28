@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="MCP_INSTALLER_WELCOME_TITLE">Civilization IV: A New Dawn - Mega Civ Paketi</string>
   <string name="MCP_INSTALLER_REQUIRED">gerekli</string>
+  <string name="MCP_INSTALLER_FINISH">Yeni medeniyetler yüklendi. İyi eğlenceler.</string>
 </resources>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">Satakoon taivaasta siunaukset päällenne, [CT_NAME]! Olen [OUR_NAME], viisas ja hyväntahtoinen johtaja! Alkakaahan vain aivan vapaasti osoittaa kunnioitusta minulle!</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">Minulla on kunnia tavata teidät, [CT_NAME]. Toivon, että kaksi kansaamme kykynee rauhalliseen yhteiseloon ja ystävyyteen.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Choikhana_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_UZBEK_CHOIKHANA</Type>
+			<LSystem>LSYSTEM_1x1</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.6</fScale>
+			<fInterfaceScale>0.8</fInterfaceScale>
+			<NIF>Modules/Custom_Civilizations_MCP/Uzbek/Choikhana/Seowan.nif</NIF>
+			<KFM/>
+			<Button>Modules/Custom_Civilizations_MCP/Uzbek/Choikhana/Choik.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

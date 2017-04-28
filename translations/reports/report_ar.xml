@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry tag="TXT_KEY_BUILDING_ABORIGINES_BORARING" file="MCP_BUILDINGS.xml">
+        <old_value/>
+        <new_value>حلقه بورا</new_value>
+    </entry>
+    <entry tag="TXT_KEY_BUILDING_AKKADIAN_TEMPLE_ISHTAR" file="MCP_BUILDINGS.xml">
+        <old_value/>
+        <new_value>معبد اشتير</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_HATRA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>هاترا</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_MILETOS" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>ميليتوس</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_PALMYRA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>تدمر</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_PATALIPUTRA" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>باتاليبوترا</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_SAN_ANTONIO" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>سان أنطونيو</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_SANTIAGO" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>سانتياغو</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CITY_NAME_SIPAN" file="MCP_CITIES.xml">
+        <old_value/>
+        <new_value>سيبان</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_ADJECTIVE_MINOA" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>مينوان</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_MYCENAE_SHORT_DESC" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>موكناي</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_NUBIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>نوبيون</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_PARTHIA_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>فرثيا</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHARLES_V_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>السلام هو أكبر صراع,الوقت للدفع, [CT_NAME].</new_value>
+    </entry>
+    <entry tag="TXT_KEY_LEADER_ABLAY" file="MCP_LEADERS.xml">
+        <old_value/>
+        <new_value>ابلاى</new_value>
+    </entry>
+    <entry tag="TXT_KEY_LEADER_AYAPEC" file="MCP_LEADERS.xml">
+        <old_value/>
+        <new_value>سيبان</new_value>
+    </entry>
+    <entry tag="TXT_KEY_UNIT_ABORIGINES_NULLA_NULLA" file="MCP_UNITS.xml">
+        <old_value/>
+        <new_value>لا عقوبه لاعقوبه</new_value>
+    </entry>
+</root>

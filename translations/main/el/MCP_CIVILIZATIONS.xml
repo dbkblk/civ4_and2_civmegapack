@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CIV_ABORIGINES_SHORT_DESC">Αβορίγινες</string>
+  <string name="TXT_KEY_CIV_AKKADIAN_SHORT_DESC">Akkad</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apache</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apache</string>
+  <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Βραζιλιάνικα</string>
+  <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Βουλγαρικά</string>
+  <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Τσέχικα</string>
+  <string name="TXT_KEY_CIV_CZECH_SHORT_DESC">Τσέχικα</string>
+  <string name="TXT_KEY_CIV_DENMARK_ADJECTIVE">Δανέζικα</string>
+  <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">Φινλανδικά</string>
+  <string name="TXT_KEY_CIV_HUNGARY_ADJECTIVE">Ουγκαρέζικα</string>
+  <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">Ιταλικά</string>
+  <string name="TXT_KEY_CIV_POLAND_ADJECTIVE">Πολωνικά</string>
+  <string name="TXT_KEY_CIV_UKRAINE_ADJECTIVE">Ουκρανικά</string>
+</resources>

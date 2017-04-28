@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry tag="AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHARLES_V_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Manter a paz é a grande luta. Está na hora de acertar as contas, [CT_NAME].</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_ABLAY_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Olá, [CT_NAME]! Suas peregrinações o trouxeram às estepes de [OUR_CIV_ADJ]. Eu o aconselho a ser amigável com as pessoas de [OUR_CIV_ADJ], porque essa é nossa terra!</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_AGAMEMNON_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Saudações. Eu sou [OUR_NAME], Príncipe de [OUR_EMPIRE] e destruidor de todos os inimigos.  Diga-me, você é amigo ou inimigo?</new_value>
+    </entry>
+    <entry tag="AI_DIPLO_FIRST_CONTACT_LEADER_AHMADINEJAD_1" file="MCP_DIPLOMACY.xml">
+        <old_value/>
+        <new_value>Saudações, [CT_NAME]. A República Islâmica nunca ameaçou qualquer país nem jamais o fará.</new_value>
+    </entry>
+    <entry tag="TXT_KEY_UNIT_ARMENIA_FEDAYEE_STRATEGY" file="MCP_UNITS.xml">
+        <old_value/>
+        <new_value>Essa poderosa unidade montada (A substituta dos Armênios para a [COLOR_UNIT_TEXT]Cavalaria[COLOR_REVERT]) é particularmente eficiente em terreno aberto e pode se retirar do combate.  A [COLOR_UNIT_TEXT]Fedayee[COLOR_REVERT] também recebe a promoção [COLOR_HIGHLIGHT_TEXT]Opressão I[COLOR_REVERT] quando recrutada e treinada para pilhagem eficiente em território inimigo.</new_value>
+    </entry>
+    <entry tag="TXT_KEY_UNIT_ASHANTI_TWAFO_STRATEGY" file="MCP_UNITS.xml">
+        <old_value/>
+        <new_value>O [COLOR_UNIT_TEXT]Twafo[COLOR_REVERT] substitui o tradicional Arcabuseiro e possui um bônus ao defender cidades.</new_value>
+    </entry>
+</root>

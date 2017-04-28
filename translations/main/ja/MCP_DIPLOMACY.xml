@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">[CT_NAME]よ、天の祝福がそなたにあらんことを！　余は[OUR_NAME]、賢明にして慈悲深き[OUR_EMPIRE]の支配者である！　そなたが望むなら、いくらでも貢物を持ってきてかまわんぞ！</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">[CT_NAME]よ、お会いできて光栄だ。この2つの国が良き友として平和に共存できることを願う。</string>
+</resources>

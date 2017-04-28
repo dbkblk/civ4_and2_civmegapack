@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Shaybani_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SHAYBANI</Type>
+			<Button>Modules/Custom_Civilizations_MCP/Uzbek/Shaybani/Shaybani.dds</Button>
+			<NIF>Modules/Custom_Civilizations_MCP/Uzbek/Shaybani/tokugawa.nif</NIF>
+			<KFM>Modules/Custom_Civilizations_MCP/Uzbek/Shaybani/tokugawa.kfm</KFM>
+			<NoShaderNIF>Modules/Custom_Civilizations_MCP/Uzbek/Shaybani/tokugawa.nif</NoShaderNIF>
+			<BackgroundKFM>Modules/Custom_Civilizations_MCP/Uzbek/Shaybani/montezuma_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

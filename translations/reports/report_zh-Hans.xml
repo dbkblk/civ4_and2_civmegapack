@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <entry tag="TXT_KEY_BUILDING_MEGYPT_EXHIBITION" file="MCP_BUILDINGS.xml">
+        <old_value/>
+        <new_value>展览会</new_value>
+    </entry>
+    <entry tag="TXT_KEY_CIV_UKRAINE_ADJECTIVE" file="MCP_CIVILIZATIONS.xml">
+        <old_value/>
+        <new_value>乌克兰语</new_value>
+    </entry>
+</root>

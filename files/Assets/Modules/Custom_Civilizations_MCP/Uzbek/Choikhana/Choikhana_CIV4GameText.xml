@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UZBEK_CHOIKHANA</Tag>
+		<English>Chaikhana</English>
+		<French>Chaikhana</French>
+		<German>Chaikhana</German>
+		<Italian>Chaikhana</Italian>
+		<Spanish>Chaikhana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UZBEK_CHOIKHANA_STRATEGY</Tag>
+		<English>The Uzbeks replace the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Choikhana[COLOR_REVERT], which provides extra happiness with spice and sugar, and a small commerce bonus.</English>
+		<French>The Uzbeks replace the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Choikhana[COLOR_REVERT], which provides extra happiness with spice and sugar, and a small commerce bonus.</French>
+		<German>The Uzbeks replace the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Choikhana[COLOR_REVERT], which provides extra happiness with spice and sugar, and a small commerce bonus.</German>
+		<Italian>The Uzbeks replace the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Choikhana[COLOR_REVERT], which provides extra happiness with spice and sugar, and a small commerce bonus.</Italian>
+		<Spanish>The Uzbeks replace the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT] with the [COLOR_BUILDING_TEXT]Choikhana[COLOR_REVERT], which provides extra happiness with spice and sugar, and a small commerce bonus.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UZBEK_CHOIKHANA_PEDIA</Tag>
+		<English>[TAB]The word Chaikhana comes from the two words Chai- meaning tea in Chinese, and Khana- meaning house in Persian. The choixonas appeared in Central Asia because of both the hot climate, which requires one to drink a lot; and Islam, which forbids believers to drink alcoholic beverages.[PARAGRAPH:1] Green tea thus became the most popular drink in these regions, and the Choixona became a place of conversation and tea-drinking. It became the cultural centre of Uzbek mahallas. Here also encounter with foreigners occured and news from other countries could be heard. Today the choixona is the second most visited place in Central Asia, after the mosque.</English>
+		<French>[TAB]The word Chaikhana comes from the two words Chai- meaning tea in Chinese, and Khana- meaning house in Persian. The choixonas appeared in Central Asia because of both the hot climate, which requires one to drink a lot; and Islam, which forbids believers to drink alcoholic beverages.[PARAGRAPH:1] Green tea thus became the most popular drink in these regions, and the Choixona became a place of conversation and tea-drinking. It became the cultural centre of Uzbek mahallas. Here also encounter with foreigners occured and news from other countries could be heard. Today the choixona is the second most visited place in Central Asia, after the mosque.</French>
+		<German>[TAB]The word Chaikhana comes from the two words Chai- meaning tea in Chinese, and Khana- meaning house in Persian. The choixonas appeared in Central Asia because of both the hot climate, which requires one to drink a lot; and Islam, which forbids believers to drink alcoholic beverages.[PARAGRAPH:1] Green tea thus became the most popular drink in these regions, and the Choixona became a place of conversation and tea-drinking. It became the cultural centre of Uzbek mahallas. Here also encounter with foreigners occured and news from other countries could be heard. Today the choixona is the second most visited place in Central Asia, after the mosque.</German>
+		<Italian>[TAB]The word Chaikhana comes from the two words Chai- meaning tea in Chinese, and Khana- meaning house in Persian. The choixonas appeared in Central Asia because of both the hot climate, which requires one to drink a lot; and Islam, which forbids believers to drink alcoholic beverages.[PARAGRAPH:1] Green tea thus became the most popular drink in these regions, and the Choixona became a place of conversation and tea-drinking. It became the cultural centre of Uzbek mahallas. Here also encounter with foreigners occured and news from other countries could be heard. Today the choixona is the second most visited place in Central Asia, after the mosque.</Italian>
+		<Spanish>[TAB]The word Chaikhana comes from the two words Chai- meaning tea in Chinese, and Khana- meaning house in Persian. The choixonas appeared in Central Asia because of both the hot climate, which requires one to drink a lot; and Islam, which forbids believers to drink alcoholic beverages.[PARAGRAPH:1] Green tea thus became the most popular drink in these regions, and the Choixona became a place of conversation and tea-drinking. It became the cultural centre of Uzbek mahallas. Here also encounter with foreigners occured and news from other countries could be heard. Today the choixona is the second most visited place in Central Asia, after the mosque.</Spanish>
+	</TEXT>
+</Civ4GameText>

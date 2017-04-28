@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_LEADER_ABLAY">ابلاى</string>
+  <string name="TXT_KEY_LEADER_AGAMEMNON">أجاممنون</string>
+  <string name="TXT_KEY_LEADER_ALAKSANDU">باريس</string>
+  <string name="TXT_KEY_LEADER_ARPAD">أرباد</string>
+  <string name="TXT_KEY_LEADER_AYAPEC">سيبان</string>
+  <string name="TXT_KEY_LEADER_ENRICO_DANDOLO">إنريكو Dandolo</string>
+  <string name="TXT_KEY_LEADER_GERONIMO">جيرونيمو</string>
+  <string name="TXT_KEY_LEADER_HUS">يان Hus</string>
+  <string name="TXT_KEY_LEADER_SARGON">سرجون</string>
+  <string name="TXT_KEY_LEADER_TAMERLANE">تيمورلنك</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ALBOIN_1">Cennetler sana bereket yağdırsın, [CT_NAME]! Ben [OUR_NAME], [OUR_EMPIRE] medeniyetinin bilge ve yardımsever yöneticisiyim! Bana haraç yağdırmaktan çekinme!</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_ANDREA_GRITTI_1">Seninle tanışmaktan onur duydum, [CT_NAME]. Umarım uluslarımız barış ve dostluk içerisinde yaşarlar.</string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CANUTE_1">[CT_EMPIRE] medeniyetine sıcak selamlar. Ben, [OUR_NAME], tüm dünyevi haysiyetlerin üzerinde bir barış, sağlam ve sessiz bir vicdan gözetiyorum. </string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_CHRISTIAN_IV_1">[CT_EMPIRE] medeniyetine sıcak selamlar. Ben, [OUR_NAME], tüm dünyevi haysiyetlerin üzerinde bir barış, sağlam ve sessiz bir vicdan gözetiyorum. </string>
+  <string name="AI_DIPLO_FIRST_CONTACT_LEADER_OSTENACO_1">Selamlar. Ben [OUR_NAME], [OUR_EMPIRE] imparatorluğunun şefi. İyi bir şey verdiğini almaz. Sen iyi bir şef misin, [CT_NAME]?</string>
+</resources>

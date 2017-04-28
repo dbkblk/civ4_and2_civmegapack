@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CIV_ADJECTIVE_MINOA">Minoics</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_ADJECTIVE">Xerokees</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_SHORT_DESC">Xerokees</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apatxes</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apatxes</string>
+  <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Búlgar</string>
+  <string name="TXT_KEY_CIV_HARAPPA_ADJECTIVE">Harappans</string>
+  <string name="TXT_KEY_CIV_HURRIANS_ADJECTIVE">Hurrites</string>
+  <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">Català</string>
+  <string name="TXT_KEY_CIV_MYCENAE_SHORT_DESC">Micenes</string>
+  <string name="TXT_KEY_CIV_NUBIA_ADJECTIVE">Nubis</string>
+  <string name="TXT_KEY_CIV_OLMEC_ADJECTIVE">Olmeques</string>
+  <string name="TXT_KEY_CIV_OLMEC_SHORT_DESC">Olmeques</string>
+  <string name="TXT_KEY_CIV_PARTHIA_ADJECTIVE">Parts</string>
+  <string name="TXT_KEY_CIV_PHOENICIA_ADJECTIVE">Fenicis</string>
+  <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">Polinesis</string>
+  <string name="TXT_KEY_CIV_SCYTHIA_ADJECTIVE">Escites</string>
+  <string name="TXT_KEY_CIV_TROY_SHORT_DESC">Troia</string>
+</resources>

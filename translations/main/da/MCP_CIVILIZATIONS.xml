@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="TXT_KEY_CIV_AKKADIAN_SHORT_DESC">Akkad</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_ADJECTIVE">Cherokee</string>
+  <string name="TXT_KEY_CIV_ANIYONEGA_SHORT_DESC">Cherokee</string>
+  <string name="TXT_KEY_CIV_APACHE_ADJECTIVE">Apache</string>
+  <string name="TXT_KEY_CIV_APACHE_SHORT_DESC">Apache</string>
+  <string name="TXT_KEY_CIV_BRAZIL_ADJECTIVE">Brasiliansk</string>
+  <string name="TXT_KEY_CIV_BULGARIA_ADJECTIVE">Bulgalsk</string>
+  <string name="TXT_KEY_CIV_CZECH_ADJECTIVE">Tjekkisk</string>
+  <string name="TXT_KEY_CIV_CZECH_SHORT_DESC">Tjekkisk</string>
+  <string name="TXT_KEY_CIV_DENMARK_ADJECTIVE">Dansk</string>
+  <string name="TXT_KEY_CIV_FINLAND_ADJECTIVE">Finsk</string>
+  <string name="TXT_KEY_CIV_HUNGARY_ADJECTIVE">Ungarsk</string>
+  <string name="TXT_KEY_CIV_ITALY_ADJECTIVE">Italiensk</string>
+  <string name="TXT_KEY_CIV_POLAND_ADJECTIVE">Polsk</string>
+  <string name="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">Polynesiske</string>
+  <string name="TXT_KEY_CIV_TROY_SHORT_DESC">Troy</string>
+</resources>
