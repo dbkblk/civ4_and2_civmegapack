@@ -2,16 +2,15 @@
 
 ## Instructions for players
 
-**Description** 
+**Description**
 
 The Mega Civilization Pack add more than 100 new civilizations to the game. Each civilization has at least 2 Leaders, one UU (unique unit) and one UB (unique building), which all are balanced for use with the expansion pack "A New Dawn". All these new nations will bring an incredible diversity to the game!
 
 **Installation / update instructions**
 
 - Download the latest full installer and the latest patch if available.
-- Latest full installer: [version 1.7](https://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_full_installer_2016-06_1.7.exe/download)
-- Latest patch: [version 1.7 -> 1.8.2](https://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_patch_1.7_to_1.8.2.exe/download)
-- Install using both installer and patch (if any) to the Rise of Mankind mod folder.
+- Latest full installer: [version 1.8.5](https://sourceforge.net/projects/anewdawn/files/MegaCivPack/rand_mcp_full_installer_2017-04_1.8.5.exe/download)
+- Install using the installer to the Rise of Mankind mod folder.
 - Start the launcher and click on "Community -> Modules -> Mega Civ Pack" to enable/disable the mod.
 
 **Credits**
